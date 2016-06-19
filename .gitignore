@@ -1,0 +1,7 @@
+bin/
+lib/
+include/
+rnn-tutorial-rnnlm/
+theanoRnn/
+*.pyc
+data/*.bin
