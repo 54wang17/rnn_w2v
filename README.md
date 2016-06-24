@@ -22,12 +22,22 @@ File:
     - find word embedding vector for each word in the corpus.p file, if no vector is found, randomly generated a vector for that word
     - change word embedding mapping key from word to its index in corpus.p file
     - output file: word2vec.p (this word embedding model only contains words appear in corpus.p)
-- rnn_classifier.py
-    - RNN class
+- bacis_rnn.py
+    - Basic RNN class
     - made several changes based on the RNN model in https://github.com/dennybritz/rnn-tutorial-rnnlm
-    - still under development
-    - test_rnn.py a theano function test file for debugging. 
-- other *.py files
+    
+- vanilla_rnn.py
+    - based on baisc_rnn.py and vanilla rnn model from https://github.com/gwtaylor/theano-rnn
+    - extend BasicRNN model from basic_rnn.py and make following changes
+        - change parameters update approach to momentum 
+        - add L1 and L2 regulation to cost function
+        - add bias on layer function
+- rnn_embd.py
+    - an example of training basic rnn model and save training model under ./data directory
+- model_test.py 
+    - an example of loading pretrained rnn model and test model with test data from ./data directory
+    - generate evaluation matrix for performance evaluation
+- gru_rnn.py and other *.py files
     - still under development 
 
 
