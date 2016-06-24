@@ -4,24 +4,24 @@ import random
 import cPickle
 
 
-def load_data(file_path='./data', train_file='train.txt', test_file='test.txt', label_file='train_label.txt'):
-    train = []
-    test = []
-    label = []
-    with open(os.path.join(file_path,train_file), 'rb') as f:
+def load_file(file_path, file):
+    l = []
+    with open(os.path.join(file_path, file), 'rb') as f:
         for line in f:
             text = line.strip().lower()
-            train.append(text)
-    with open(os.path.join(file_path, test_file), 'rb') as f:
-        for line in f:
-            text = line.strip().lower()
-            test.append(text)
-    with open(os.path.join(file_path, label_file), 'rb') as f:
-        for line in f:
-            text = line.strip().lower()
-            label.append(text)
+            l.append(text)
+    return l
 
-    return train, test, label
+
+def load_data(file_path='./data', train_file='train.txt', test_file='test.txt',
+              train_label='train_label.txt', test_label='test_label.txt'):
+
+    train = load_file(file_path, train_file)
+    test = load_file(file_path, test_file)
+    train_label = load_file(file_path, train_label)
+    test_label = load_file(file_path, test_label)
+
+    return train, test, train_label, test_label
 
 
 def build_vocab(corpus, min_df=10):
@@ -80,7 +80,6 @@ def get_idx_from_sent(sentence, word2index):
 
 
 def label2category(label):
-
     index2label, label2index = build_vocab(label, min_df=0)
     del label2index['<UNKNOWN>'], index2label[0]
     for index in index2label:
@@ -108,21 +107,18 @@ def create_val_test(text_index, text, label_data):
 
     return train_text_index, valid_text_index, train_text, valid_text, train_label, valid_label
 
-if __name__=="__main__":
+if __name__ == "__main__":
 
-    # """
-    train, test, label  = load_data()
+    train, test, train_label, test_label = load_data()
     index2word, word2index = build_vocab(train+test)
-    train_data = transform_data(train, word2index)
-    test_data = transform_data(test, word2index)
-    label2index = label2category(label)
-    label_data = transform_data(label, label2index)
+    label2index = label2category(train_label+test_label)
 
-    train_idx, val_idx, train_text, val_text, train_labels, val_labels = create_val_test(train_data, train, label_data)
+    train_data_idx = transform_data(train, word2index)
+    label_data_idx = transform_data(train_label, label2index)
+    train_idx, val_idx, train_text, val_text, train_labels, val_labels = create_val_test(train_data_idx, train, label_data_idx)
 
-    print 'EXAMPLE: {} \tLABEL: {}'.format(val_text[0],val_labels[0])
-
-    cPickle.dump([train_idx, val_idx, test_data, train_text, val_text, test, word2index, index2word,
-                  train_labels, val_labels], open("./data/corpus.p", "wb"))
-    # cPickle.dump([train_idx, val_idx, train_data, train_text, val_text, train, wordtoix, ixtoword, train_labels, val_labels], open("chatcorpus_end.p", "wb"))
+    test_data_idx = transform_data(test, word2index)
+    test_label_idx = transform_data(test_label, label2index)
+    cPickle.dump([train_idx, train_labels, val_idx, val_labels, test_data_idx, test_label_idx, word2index, index2word,
+                  train_text, val_text, test], open("./data/corpus.p", "wb"))
     print "Dataset created!"

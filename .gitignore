@@ -2,6 +2,8 @@ bin/
 lib/
 include/
 rnn-tutorial-rnnlm/
+rnn-tutorial-gru-lstm/
 theanoRnn/
 *.pyc
 data/*.bin
+test_files/

@@ -56,6 +56,21 @@ aI0
 aI71
 aI50
 aa(lp6
+I2
+aI55
+aI178
+aI0
+aI174
+aI24
+aI0
+aI245
+aI0
+aI0
+aI0
+aI0
+aI196
+aI50
+aa(lp7
 I0
 aI2
 aI0
@@ -81,7 +96,7 @@ aI0
 aI140
 aI5
 aI50
-aa(lp7
+aa(lp8
 I220
 aI238
 aI0
@@ -106,7 +121,7 @@ aI38
 aI112
 aI0
 aI50
-aa(lp8
+aa(lp9
 I38
 aI92
 aI122
@@ -126,7 +141,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp9
+aa(lp10
 I95
 aI43
 aI207
@@ -141,7 +156,21 @@ aI0
 aI149
 aI88
 aI50
-aa(lp10
+aa(lp11
+I195
+aI0
+aI24
+aI56
+aI66
+aI49
+aI0
+aI70
+aI173
+aI114
+aI178
+aI0
+aI50
+aa(lp12
 I0
 aI173
 aI294
@@ -149,7 +178,7 @@ aI38
 aI92
 aI0
 aI50
-aa(lp11
+aa(lp13
 I2
 aI24
 aI162
@@ -165,7 +194,34 @@ aI199
 aI213
 aI254
 aI50
-aa(lp12
+aa(lp14
+I18
+aI11
+aI111
+aI149
+aI61
+aI201
+aI38
+aI0
+aI71
+aI113
+aI0
+aI57
+aI88
+aI180
+aI181
+aI0
+aI153
+aI2
+aI24
+aI63
+aI0
+aI38
+aI0
+aI149
+aI0
+aI50
+aa(lp15
 I18
 aI148
 aI88
@@ -186,7 +242,7 @@ aI0
 aI163
 aI61
 aI50
-aa(lp13
+aa(lp16
 I294
 aI13
 aI90
@@ -205,43 +261,7 @@ aI153
 aI38
 aI46
 aI50
-aa(lp14
-I18
-aI24
-aI162
-aI227
-aI0
-aI0
-aI117
-aI0
-aI0
-aI24
-aI66
-aI0
-aI0
-aI178
-aI115
-aI0
-aI117
-aI55
-aI0
-aI24
-aI13
-aI0
-aI113
-aI59
-aI56
-aI0
-aI149
-aI279
-aI0
-aI0
-aI219
-aI2
-aI39
-aI254
-aI50
-aa(lp15
+aa(lp17
 I38
 aI2
 aI88
@@ -264,7 +284,7 @@ aI24
 aI0
 aI0
 aI50
-aa(lp16
+aa(lp18
 I219
 aI0
 aI231
@@ -307,7 +327,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp17
+aa(lp19
 I113
 aI16
 aI55
@@ -340,7 +360,7 @@ aI76
 aI91
 aI251
 aI50
-aa(lp18
+aa(lp20
 I0
 aI2
 aI24
@@ -364,7 +384,38 @@ aI75
 aI169
 aI78
 aI50
-aa(lp19
+aa(lp21
+I0
+aI0
+aI148
+aI0
+aI0
+aI150
+aI0
+aI50
+aa(lp22
+I127
+aI38
+aI34
+aI85
+aI2
+aI0
+aI0
+aI254
+aI0
+aI38
+aI0
+aI0
+aI153
+aI178
+aI13
+aI308
+aI142
+aI57
+aI113
+aI123
+aI50
+aa(lp23
 I2
 aI90
 aI266
@@ -385,7 +436,7 @@ aI104
 aI13
 aI308
 aI50
-aa(lp20
+aa(lp24
 I38
 aI78
 aI55
@@ -402,13 +453,33 @@ aI0
 aI24
 aI254
 aI50
-aa(lp21
+aa(lp25
+I2
+aI0
+aI181
+aI0
+aI57
+aI254
+aI24
+aI0
+aI24
+aI149
+aI0
+aI24
+aI299
+aI0
+aI163
+aI0
+aI57
+aI88
+aI50
+aa(lp26
 I92
 aI101
 aI231
 aI88
 aI50
-aa(lp22
+aa(lp27
 I95
 aI56
 aI0
@@ -431,7 +502,7 @@ aI81
 aI0
 aI42
 aI50
-aa(lp23
+aa(lp28
 I299
 aI157
 aI38
@@ -457,34 +528,7 @@ aI2
 aI57
 aI88
 aI50
-aa(lp24
-I130
-aI163
-aI0
-aI244
-aI24
-aI38
-aI61
-aI57
-aI253
-aI77
-aI0
-aI163
-aI0
-aI0
-aI57
-aI0
-aI70
-aI0
-aI303
-aI3
-aI279
-aI0
-aI117
-aI0
-aI0
-aI50
-aa(lp25
+aa(lp29
 I95
 aI56
 aI0
@@ -507,7 +551,7 @@ aI80
 aI218
 aI50
 aI81
-aa(lp26
+aa(lp30
 I2
 aI117
 aI254
@@ -516,7 +560,7 @@ aI0
 aI38
 aI78
 aI50
-aa(lp27
+aa(lp31
 I38
 aI61
 aI122
@@ -561,7 +605,7 @@ aI219
 aI247
 aI0
 aI50
-aa(lp28
+aa(lp32
 I2
 aI77
 aI162
@@ -589,7 +633,7 @@ aI287
 aI149
 aI61
 aI50
-aa(lp29
+aa(lp33
 I2
 aI66
 aI0
@@ -604,13 +648,13 @@ aI6
 aI148
 aI88
 aI50
-aa(lp30
+aa(lp34
 I0
 aI0
 aI135
 aI140
 aI50
-aa(lp31
+aa(lp35
 I2
 aI24
 aI268
@@ -642,20 +686,9 @@ aI164
 aI158
 aI146
 aI50
-aa(lp32
-I2
-aI135
-aI187
-aI109
-aI24
-aI0
-aI117
-aI0
-aI239
-aI50
-aa(lp33
+aa(lp36
 I50
-aa(lp34
+aa(lp37
 I2
 aI0
 aI178
@@ -688,7 +721,7 @@ aI24
 aI0
 aI0
 aI50
-aa(lp35
+aa(lp38
 I217
 aI222
 aI0
@@ -723,7 +756,7 @@ aI0
 aI149
 aI88
 aI50
-aa(lp36
+aa(lp39
 I88
 aI38
 aI0
@@ -740,44 +773,30 @@ aI163
 aI309
 aI0
 aI50
-aa(lp37
-I70
-aI88
-aI24
-aI18
+aa(lp40
+I2
+aI125
+aI46
+aI231
+aI146
+aI80
+aI77
+aI38
 aI0
-aI0
+aI92
 aI149
-aI61
-aI117
-aI178
-aI9
-aI287
-aI149
-aI61
-aI50
-aa(lp38
-I0
-aI26
-aI55
-aI2
-aI24
 aI178
 aI0
-aI205
-aI113
-aI0
-aI178
-aI0
+aI174
+aI248
+aI254
+aI83
 aI56
-aI0
-aI0
-aI0
-aI157
-aI262
-aI0
+aI31
+aI169
+aI88
 aI50
-aa(lp39
+aa(lp41
 I2
 aI0
 aI36
@@ -791,7 +810,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp40
+aa(lp42
 I18
 aI65
 aI49
@@ -824,7 +843,7 @@ aI0
 aI0
 aI80
 aI50
-aa(lp41
+aa(lp43
 I0
 aI0
 aI24
@@ -853,7 +872,41 @@ aI156
 aI178
 aI0
 aI50
-aa(lp42
+aa(lp44
+I95
+aI0
+aI112
+aI99
+aI253
+aI93
+aI0
+aI207
+aI73
+aI117
+aI56
+aI55
+aI7
+aI113
+aI18
+aI293
+aI107
+aI0
+aI143
+aI0
+aI163
+aI0
+aI181
+aI253
+aI122
+aI117
+aI93
+aI0
+aI57
+aI0
+aI208
+aI50
+aI81
+aa(lp45
 I38
 aI205
 aI24
@@ -870,35 +923,7 @@ aI38
 aI92
 aI88
 aI50
-aa(lp43
-I0
-aI0
-aI0
-aI57
-aI0
-aI0
-aI0
-aI304
-aI113
-aI0
-aI265
-aI163
-aI127
-aI0
-aI0
-aI0
-aI24
-aI117
-aI0
-aI25
-aI28
-aI0
-aI0
-aI149
-aI0
-aI0
-aI50
-aa(lp44
+aa(lp46
 I0
 aI163
 aI256
@@ -910,7 +935,7 @@ aI59
 aI0
 aI50
 aI81
-aa(lp45
+aa(lp47
 I95
 aI0
 aI253
@@ -951,7 +976,29 @@ aI0
 aI70
 aI0
 aI50
-aa(lp46
+aa(lp48
+I18
+aI84
+aI292
+aI8
+aI276
+aI0
+aI55
+aI178
+aI0
+aI70
+aI178
+aI203
+aI24
+aI0
+aI0
+aI0
+aI0
+aI156
+aI0
+aI0
+aI50
+aa(lp49
 I0
 aI150
 aI107
@@ -989,7 +1036,7 @@ aI84
 aI0
 aI0
 aI50
-aa(lp47
+aa(lp50
 I2
 aI24
 aI0
@@ -1014,7 +1061,7 @@ aI78
 aI149
 aI253
 aI50
-aa(lp48
+aa(lp51
 I57
 aI88
 aI24
@@ -1043,7 +1090,7 @@ aI38
 aI0
 aI267
 aI50
-aa(lp49
+aa(lp52
 I56
 aI65
 aI61
@@ -1053,7 +1100,7 @@ aI156
 aI149
 aI88
 aI50
-aa(lp50
+aa(lp53
 I95
 aI43
 aI0
@@ -1061,7 +1108,7 @@ aI0
 aI157
 aI0
 aI50
-aa(lp51
+aa(lp54
 I2
 aI24
 aI268
@@ -1076,7 +1123,7 @@ aI61
 aI57
 aI88
 aI50
-aa(lp52
+aa(lp55
 I2
 aI55
 aI38
@@ -1110,7 +1157,7 @@ aI0
 aI117
 aI254
 aI50
-aa(lp53
+aa(lp56
 I0
 aI207
 aI2
@@ -1143,28 +1190,7 @@ aI216
 aI117
 aI230
 aI50
-aa(lp54
-I2
-aI177
-aI163
-aI0
-aI163
-aI166
-aI181
-aI203
-aI0
-aI148
-aI38
-aI46
-aI3
-aI38
-aI164
-aI158
-aI95
-aI146
-aI50
-aI81
-aa(lp55
+aa(lp57
 I57
 aI88
 aI24
@@ -1194,7 +1220,7 @@ aI117
 aI21
 aI0
 aI50
-aa(lp56
+aa(lp58
 I38
 aI0
 aI0
@@ -1216,7 +1242,7 @@ aI163
 aI237
 aI169
 aI50
-aa(lp57
+aa(lp59
 I0
 aI0
 aI57
@@ -1237,7 +1263,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp58
+aa(lp60
 I2
 aI232
 aI0
@@ -1274,7 +1300,7 @@ aI153
 aI38
 aI0
 aI50
-aa(lp59
+aa(lp61
 I13
 aI309
 aI151
@@ -1301,36 +1327,7 @@ aI75
 aI169
 aI47
 aI50
-aa(lp60
-I35
-aI61
-aI163
-aI61
-aI260
-aI225
-aI0
-aI163
-aI215
-aI0
-aI0
-aI24
-aI273
-aI178
-aI8
-aI0
-aI0
-aI24
-aI0
-aI0
-aI24
-aI0
-aI0
-aI0
-aI117
-aI0
-aI0
-aI50
-aa(lp61
+aa(lp62
 I113
 aI84
 aI234
@@ -1355,7 +1352,7 @@ aI263
 aI247
 aI253
 aI50
-aa(lp62
+aa(lp63
 I95
 aI38
 aI0
@@ -1386,7 +1383,7 @@ aI81
 aI301
 aI42
 aI50
-aa(lp63
+aa(lp64
 I157
 aI38
 aI0
@@ -1422,7 +1419,7 @@ aI55
 aI0
 aI50
 aI81
-aa(lp64
+aa(lp65
 I38
 aI0
 aI0
@@ -1436,7 +1433,7 @@ aI24
 aI153
 aI254
 aI50
-aa(lp65
+aa(lp66
 I302
 aI148
 aI88
@@ -1467,7 +1464,7 @@ aI0
 aI149
 aI0
 aI50
-aa(lp66
+aa(lp67
 I18
 aI42
 aI56
@@ -1484,7 +1481,7 @@ aI143
 aI0
 aI0
 aI50
-aa(lp67
+aa(lp68
 I2
 aI177
 aI163
@@ -1506,7 +1503,7 @@ aI95
 aI146
 aI50
 aI81
-aa(lp68
+aa(lp69
 I2
 aI84
 aI215
@@ -1524,7 +1521,7 @@ aI0
 aI181
 aI159
 aI50
-aa(lp69
+aa(lp70
 I0
 aI55
 aI0
@@ -1538,7 +1535,7 @@ aI70
 aI176
 aI68
 aI50
-aa(lp70
+aa(lp71
 I2
 aI42
 aI113
@@ -1553,7 +1550,7 @@ aI199
 aI93
 aI208
 aI50
-aa(lp71
+aa(lp72
 I8
 aI0
 aI0
@@ -1565,10 +1562,10 @@ aI57
 aI0
 aI0
 aI50
-aa(lp72
+aa(lp73
 I13
 aI50
-aa(lp73
+aa(lp74
 I38
 aI0
 aI0
@@ -1587,7 +1584,7 @@ aI0
 aI55
 aI0
 aI50
-aa(lp74
+aa(lp75
 I0
 aI171
 aI55
@@ -1603,7 +1600,7 @@ aI0
 aI174
 aI254
 aI50
-aa(lp75
+aa(lp76
 I18
 aI177
 aI163
@@ -1616,7 +1613,7 @@ aI38
 aI158
 aI146
 aI50
-aa(lp76
+aa(lp77
 I127
 aI38
 aI34
@@ -1624,7 +1621,7 @@ aI85
 aI2
 aI0
 aI50
-aa(lp77
+aa(lp78
 I157
 aI61
 aI178
@@ -1656,7 +1653,7 @@ aI92
 aI57
 aI88
 aI50
-aa(lp78
+aa(lp79
 I2
 aI24
 aI38
@@ -1675,7 +1672,55 @@ aI163
 aI0
 aI0
 aI50
-aa(lp79
+aa(lp80
+I38
+aI0
+aI1
+aI0
+aI88
+aI0
+aI0
+aI0
+aI24
+aI0
+aI0
+aI24
+aI117
+aI0
+aI0
+aI196
+aI70
+aI2
+aI180
+aI0
+aI24
+aI0
+aI0
+aI50
+aa(lp81
+I18
+aI0
+aI163
+aI0
+aI279
+aI0
+aI0
+aI153
+aI13
+aI0
+aI57
+aI2
+aI13
+aI0
+aI76
+aI307
+aI163
+aI278
+aI0
+aI117
+aI0
+aI50
+aa(lp82
 I95
 aI2
 aI0
@@ -1708,7 +1753,7 @@ aI42
 aI57
 aI88
 aI50
-aa(lp80
+aa(lp83
 I18
 aI84
 aI0
@@ -1736,7 +1781,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp81
+aa(lp84
 I2
 aI55
 aI0
@@ -1749,50 +1794,51 @@ aI249
 aI0
 aI0
 aI50
-aa(lp82
-I2
-aI24
-aI268
-aI177
+aa(lp85
+I262
+aI261
+aI295
+aI246
+aI2
+aI72
+aI61
+aI57
+aI181
+aI75
+aI169
+aI253
+aI78
+aI165
+aI0
+aI0
+aI149
+aI168
+aI56
+aI65
+aI0
 aI163
-aI179
-aI148
-aI38
-aI46
-aI3
-aI38
-aI164
-aI158
-aI95
-aI146
-aI24
-aI81
-aI55
-aI243
-aI227
-aI182
 aI0
+aI83
+aI56
 aI0
-aI24
-aI269
-aI167
-aI225
+aI232
+aI181
 aI0
-aI35
-aI0
-aI0
-aI17
-aI194
-aI0
-aI0
-aI0
-aI38
-aI36
-aI0
-aI227
-aI88
+aI163
+aI237
+aI169
 aI50
-aa(lp83
+aa(lp86
+I130
+aI163
+aI279
+aI0
+aI0
+aI232
+aI227
+aI18
+aI50
+aa(lp87
 I38
 aI0
 aI48
@@ -1822,7 +1868,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp84
+aa(lp88
 I2
 aI117
 aI254
@@ -1845,7 +1891,7 @@ aI201
 aI38
 aI123
 aI50
-aa(lp85
+aa(lp89
 I38
 aI92
 aI96
@@ -1853,7 +1899,7 @@ aI18
 aI157
 aI61
 aI50
-aa(lp86
+aa(lp90
 I2
 aI84
 aI92
@@ -1862,7 +1908,7 @@ aI143
 aI0
 aI0
 aI50
-aa(lp87
+aa(lp91
 I2
 aI174
 aI66
@@ -1898,7 +1944,7 @@ aI271
 aI57
 aI0
 aI50
-aa(lp88
+aa(lp92
 I18
 aI66
 aI0
@@ -1916,7 +1962,7 @@ aI5
 aI185
 aI88
 aI50
-aa(lp89
+aa(lp93
 I0
 aI0
 aI0
@@ -1937,7 +1983,7 @@ aI0
 aI24
 aI2
 aI50
-aa(lp90
+aa(lp94
 I2
 aI0
 aI163
@@ -1952,9 +1998,9 @@ aI75
 aI169
 aI78
 aI50
-aa(lp91
+aa(lp95
 I50
-aa(lp92
+aa(lp96
 I0
 aI149
 aI88
@@ -1974,7 +2020,7 @@ aI149
 aI88
 aI0
 aI50
-aa(lp93
+aa(lp97
 I0
 aI0
 aI135
@@ -1991,7 +2037,7 @@ aI117
 aI0
 aI239
 aI50
-aa(lp94
+aa(lp98
 I18
 aI0
 aI178
@@ -2015,7 +2061,7 @@ aI287
 aI57
 aI88
 aI50
-aa(lp95
+aa(lp99
 I0
 aI117
 aI2
@@ -2028,10 +2074,10 @@ aI254
 aI84
 aI92
 aI50
-aa(lp96
+aa(lp100
 I2
 aI50
-aa(lp97
+aa(lp101
 I299
 aI18
 aI302
@@ -2054,7 +2100,7 @@ aI51
 aI227
 aI0
 aI50
-aa(lp98
+aa(lp102
 I178
 aI0
 aI0
@@ -2074,7 +2120,7 @@ aI279
 aI61
 aI92
 aI50
-aa(lp99
+aa(lp103
 I0
 aI24
 aI38
@@ -2087,7 +2133,7 @@ aI0
 aI178
 aI108
 aI50
-aa(lp100
+aa(lp104
 I56
 aI65
 aI61
@@ -2097,7 +2143,7 @@ aI156
 aI149
 aI88
 aI50
-aa(lp101
+aa(lp105
 I0
 aI207
 aI51
@@ -2114,14 +2160,14 @@ aI95
 aI146
 aI50
 aI81
-aa(lp102
+aa(lp106
 I113
 aI84
 aI256
 aI0
 aI0
 aI50
-aa(lp103
+aa(lp107
 I95
 aI43
 aI41
@@ -2147,70 +2193,7 @@ aI173
 aI0
 aI50
 aI81
-aa(lp104
-I0
-aI0
-aI260
-aI0
-aI153
-aI0
-aI0
-aI24
-aI240
-aI291
-aI117
-aI240
-aI0
-aI57
-aI0
-aI0
-aI156
-aI285
-aI156
-aI0
-aI0
-aI50
-aa(lp105
-I168
-aI84
-aI173
-aI24
-aI0
-aI84
-aI255
-aI32
-aI67
-aI55
-aI0
-aI0
-aI24
-aI269
-aI0
-aI0
-aI13
-aI149
-aI88
-aI84
-aI195
-aI0
-aI54
-aI259
-aI24
-aI178
-aI61
-aI78
-aI227
-aI0
-aI0
-aI84
-aI2
-aI125
-aI46
-aI231
-aI146
-aI80
-aI50
-aa(lp106
+aa(lp108
 I272
 aI48
 aI57
@@ -2220,7 +2203,7 @@ aI2
 aI117
 aI254
 aI50
-aa(lp107
+aa(lp109
 I130
 aI163
 aI262
@@ -2251,7 +2234,7 @@ aI305
 aI93
 aI280
 aI50
-aa(lp108
+aa(lp110
 I38
 aI0
 aI0
@@ -2282,7 +2265,7 @@ aI298
 aI156
 aI61
 aI50
-aa(lp109
+aa(lp111
 I2
 aI24
 aI268
@@ -2302,7 +2285,7 @@ aI5
 aI185
 aI88
 aI50
-aa(lp110
+aa(lp112
 I178
 aI0
 aI0
@@ -2327,7 +2310,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp111
+aa(lp113
 I113
 aI55
 aI294
@@ -2356,7 +2339,7 @@ aI263
 aI247
 aI253
 aI50
-aa(lp112
+aa(lp114
 I2
 aI0
 aI181
@@ -2388,7 +2371,7 @@ aI38
 aI0
 aI29
 aI50
-aa(lp113
+aa(lp115
 I0
 aI0
 aI149
@@ -2399,7 +2382,7 @@ aI163
 aI250
 aI0
 aI50
-aa(lp114
+aa(lp116
 I2
 aI0
 aI61
@@ -2408,7 +2391,7 @@ aI111
 aI248
 aI88
 aI50
-aa(lp115
+aa(lp117
 I2
 aI0
 aI0
@@ -2417,7 +2400,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp116
+aa(lp118
 I88
 aI18
 aI0
@@ -2447,7 +2430,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp117
+aa(lp119
 I56
 aI65
 aI49
@@ -2468,7 +2451,7 @@ aI298
 aI156
 aI61
 aI50
-aa(lp118
+aa(lp120
 I38
 aI0
 aI15
@@ -2482,7 +2465,7 @@ aI38
 aI169
 aI172
 aI50
-aa(lp119
+aa(lp121
 I217
 aI18
 aI42
@@ -2519,7 +2502,27 @@ aI149
 aI0
 aI0
 aI50
-aa(lp120
+aa(lp122
+I299
+aI2
+aI11
+aI113
+aI38
+aI0
+aI167
+aI0
+aI0
+aI0
+aI156
+aI18
+aI0
+aI70
+aI93
+aI208
+aI163
+aI0
+aI50
+aa(lp123
 I57
 aI88
 aI24
@@ -2537,7 +2540,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp121
+aa(lp124
 I2
 aI55
 aI137
@@ -2553,58 +2556,27 @@ aI117
 aI0
 aI27
 aI50
-aa(lp122
-I127
+aa(lp125
+I38
+aI0
+aI124
+aI0
+aI107
+aI0
+aI0
+aI129
+aI203
+aI90
+aI18
+aI177
+aI163
+aI193
+aI150
 aI38
-aI34
-aI85
-aI2
-aI0
-aI95
-aI153
-aI0
-aI183
-aI0
-aI24
-aI0
-aI0
-aI0
-aI24
-aI117
-aI38
-aI98
-aI0
-aI70
-aI0
-aI117
-aI0
-aI24
-aI0
-aI0
-aI117
-aI0
-aI207
-aI0
-aI263
-aI87
-aI148
-aI0
-aI170
-aI0
-aI24
-aI102
-aI156
-aI183
-aI24
-aI81
-aI0
-aI42
-aI57
-aI178
-aI0
-aI0
+aI122
+aI228
 aI50
-aa(lp123
+aa(lp126
 I57
 aI0
 aI24
@@ -2621,7 +2593,7 @@ aI147
 aI58
 aI0
 aI50
-aa(lp124
+aa(lp127
 I0
 aI24
 aI178
@@ -2650,7 +2622,7 @@ aI157
 aI61
 aI30
 aI50
-aa(lp125
+aa(lp128
 I56
 aI0
 aI13
@@ -2673,7 +2645,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp126
+aa(lp129
 I171
 aI6
 aI148
@@ -2696,7 +2668,7 @@ aI163
 aI13
 aI0
 aI50
-aa(lp127
+aa(lp130
 I0
 aI0
 aI24
@@ -2705,7 +2677,7 @@ aI84
 aI0
 aI0
 aI50
-aa(lp128
+aa(lp131
 I2
 aI177
 aI163
@@ -2726,7 +2698,7 @@ aI174
 aI0
 aI88
 aI50
-aa(lp129
+aa(lp132
 I178
 aI188
 aI149
@@ -2740,7 +2712,45 @@ aI0
 aI148
 aI88
 aI50
-aa(lp130
+aa(lp133
+I153
+aI13
+aI0
+aI24
+aI2
+aI167
+aI88
+aI0
+aI266
+aI163
+aI59
+aI234
+aI38
+aI0
+aI165
+aI0
+aI156
+aI178
+aI95
+aI0
+aI81
+aI0
+aI165
+aI150
+aI0
+aI70
+aI279
+aI0
+aI92
+aI24
+aI268
+aI167
+aI0
+aI181
+aI223
+aI0
+aI50
+aa(lp134
 I2
 aI66
 aI49
@@ -2765,7 +2775,7 @@ aI178
 aI0
 aI0
 aI50
-aa(lp131
+aa(lp135
 I18
 aI167
 aI0
@@ -2774,7 +2784,10 @@ aI148
 aI38
 aI46
 aI50
-aa(lp132
+aa(lp136
+I2
+aI50
+aa(lp137
 I0
 aI2
 aI6
@@ -2790,7 +2803,7 @@ aI61
 aI148
 aI88
 aI50
-aa(lp133
+aa(lp138
 I18
 aI24
 aI268
@@ -2813,7 +2826,7 @@ aI255
 aI32
 aI67
 aI50
-aa(lp134
+aa(lp139
 I38
 aI215
 aI24
@@ -2839,7 +2852,7 @@ aI227
 aI38
 aI215
 aI50
-aa(lp135
+aa(lp140
 I38
 aI0
 aI70
@@ -2882,7 +2895,7 @@ aI279
 aI0
 aI300
 aI50
-aa(lp136
+aa(lp141
 I2
 aI90
 aI207
@@ -2908,7 +2921,7 @@ aI95
 aI267
 aI50
 aI81
-aa(lp137
+aa(lp142
 I0
 aI181
 aI0
@@ -2941,17 +2954,24 @@ aI102
 aI156
 aI2
 aI50
-aa(lp138
-I18
-aI177
-aI163
-aI225
-aI131
-aI148
-aI38
-aI46
+aa(lp143
+I2
+aI0
+aI117
+aI0
+aI0
+aI70
+aI265
+aI0
+aI248
+aI249
+aI117
+aI0
+aI0
+aI0
+aI27
 aI50
-aa(lp139
+aa(lp144
 I38
 aI118
 aI0
@@ -2988,7 +3008,7 @@ aI148
 aI38
 aI46
 aI50
-aa(lp140
+aa(lp145
 I38
 aI0
 aI0
@@ -3040,7 +3060,7 @@ aI153
 aI38
 aI46
 aI50
-aa(lp141
+aa(lp146
 I0
 aI24
 aI88
@@ -3059,7 +3079,7 @@ aI13
 aI57
 aI0
 aI50
-aa(lp142
+aa(lp147
 I156
 aI149
 aI88
@@ -3075,7 +3095,7 @@ aI163
 aI61
 aI30
 aI50
-aa(lp143
+aa(lp148
 I18
 aI0
 aI0
@@ -3096,7 +3116,20 @@ aI0
 aI148
 aI26
 aI50
-aa(lp144
+aa(lp149
+I57
+aI88
+aI56
+aI0
+aI0
+aI149
+aI61
+aI148
+aI154
+aI149
+aI61
+aI50
+aa(lp150
 I57
 aI178
 aI218
@@ -3119,23 +3152,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp145
-I2
-aI84
-aI253
-aI15
-aI225
-aI131
-aI148
-aI38
-aI46
-aI3
-aI38
-aI164
-aI158
-aI146
-aI50
-aa(lp146
+aa(lp151
 I95
 aI2
 aI260
@@ -3152,7 +3169,7 @@ aI254
 aI0
 aI50
 aI81
-aa(lp147
+aa(lp152
 I38
 aI276
 aI246
@@ -3169,7 +3186,17 @@ aI61
 aI201
 aI88
 aI50
-aa(lp148
+aa(lp153
+I2
+aI0
+aI116
+aI107
+aI0
+aI70
+aI277
+aI88
+aI50
+aa(lp154
 I18
 aI232
 aI70
@@ -3201,22 +3228,31 @@ aI61
 aI224
 aI175
 aI50
-aa(lp149
-I38
-aI306
-aI0
-aI38
-aI147
-aI258
-aI0
+aa(lp155
+I18
 aI24
-aI18
-aI42
-aI57
-aI178
-aI190
+aI268
+aI55
+aI38
+aI29
+aI0
+aI174
+aI149
+aI2
+aI24
+aI282
+aI33
+aI13
+aI90
+aI214
+aI157
+aI61
+aI224
+aI175
+aI148
+aI88
 aI50
-aa(lp150
+aa(lp156
 I18
 aI302
 aI66
@@ -3225,35 +3261,7 @@ aI114
 aI13
 aI220
 aI50
-aa(lp151
-I2
-aI24
-aI268
-aI66
-aI61
-aI57
-aI160
-aI3
-aI261
-aI24
-aI42
-aI0
-aI84
-aI254
-aI24
-aI279
-aI0
-aI149
-aI2
-aI24
-aI167
-aI0
-aI38
-aI215
-aI84
-aI0
-aI50
-aa(lp152
+aa(lp157
 I18
 aI77
 aI0
@@ -3262,7 +3270,7 @@ aI2
 aI57
 aI88
 aI50
-aa(lp153
+aa(lp158
 I13
 aI309
 aI276
@@ -3288,25 +3296,53 @@ aI163
 aI237
 aI169
 aI50
-aa(lp154
+aa(lp159
 I127
 aI2
 aI239
 aI0
 aI50
-aa(lp155
-I2
-aI149
+aa(lp160
+I38
 aI0
-aI117
+aI13
 aI0
-aI254
-aI207
-aI0
+aI57
 aI38
-aI78
+aI228
+aI167
+aI0
+aI90
 aI50
-aa(lp156
+aa(lp161
+I38
+aI0
+aI0
+aI0
+aI174
+aI84
+aI253
+aI122
+aI0
+aI157
+aI173
+aI114
+aI61
+aI0
+aI181
+aI75
+aI61
+aI0
+aI122
+aI23
+aI0
+aI145
+aI61
+aI227
+aI88
+aI33
+aI50
+aa(lp162
 I2
 aI88
 aI0
@@ -3332,7 +3368,7 @@ aI227
 aI38
 aI46
 aI50
-aa(lp157
+aa(lp163
 I18
 aI84
 aI0
@@ -3356,7 +3392,7 @@ aI84
 aI0
 aI44
 aI50
-aa(lp158
+aa(lp164
 I38
 aI0
 aI215
@@ -3367,7 +3403,7 @@ aI70
 aI61
 aI30
 aI50
-aa(lp159
+aa(lp165
 I2
 aI66
 aI264
@@ -3376,7 +3412,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp160
+aa(lp166
 I88
 aI24
 aI56
@@ -3388,7 +3424,7 @@ aI29
 aI24
 aI2
 aI50
-aa(lp161
+aa(lp167
 I43
 aI167
 aI221
@@ -3412,7 +3448,7 @@ aI182
 aI149
 aI2
 aI50
-aa(lp162
+aa(lp168
 I58
 aI38
 aI0
@@ -3435,7 +3471,7 @@ aI111
 aI70
 aI88
 aI50
-aa(lp163
+aa(lp169
 I18
 aI42
 aI9
@@ -3453,7 +3489,7 @@ aI61
 aI149
 aI44
 aI50
-aa(lp164
+aa(lp170
 I38
 aI184
 aI89
@@ -3476,7 +3512,7 @@ aI57
 aI118
 aI310
 aI50
-aa(lp165
+aa(lp171
 I38
 aI0
 aI0
@@ -3502,7 +3538,7 @@ aI0
 aI239
 aI0
 aI50
-aa(lp166
+aa(lp172
 I2
 aI125
 aI46
@@ -3539,7 +3575,7 @@ aI237
 aI169
 aI88
 aI50
-aa(lp167
+aa(lp173
 I2
 aI0
 aI0
@@ -3548,7 +3584,7 @@ aI0
 aI70
 aI0
 aI50
-aa(lp168
+aa(lp174
 I217
 aI18
 aI66
@@ -3586,7 +3622,22 @@ aI117
 aI256
 aI48
 aI50
-aa(lp169
+aa(lp175
+I2
+aI55
+aI38
+aI0
+aI29
+aI57
+aI38
+aI0
+aI151
+aI271
+aI148
+aI0
+aI0
+aI50
+aa(lp176
 I178
 aI0
 aI70
@@ -3615,7 +3666,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp170
+aa(lp177
 I2
 aI66
 aI0
@@ -3639,7 +3690,7 @@ aI93
 aI208
 aI50
 aI81
-aa(lp171
+aa(lp178
 I38
 aI176
 aI140
@@ -3660,7 +3711,7 @@ aI149
 aI38
 aI0
 aI50
-aa(lp172
+aa(lp179
 I38
 aI92
 aI282
@@ -3675,7 +3726,7 @@ aI117
 aI0
 aI88
 aI50
-aa(lp173
+aa(lp180
 I18
 aI0
 aI113
@@ -3698,7 +3749,7 @@ aI38
 aI92
 aI122
 aI50
-aa(lp174
+aa(lp181
 I2
 aI55
 aI0
@@ -3731,7 +3782,25 @@ aI132
 aI117
 aI0
 aI50
-aa(lp175
+aa(lp182
+I38
+aI203
+aI253
+aI55
+aI51
+aI163
+aI0
+aI33
+aI148
+aI38
+aI46
+aI88
+aI3
+aI38
+aI158
+aI146
+aI50
+aa(lp183
 I57
 aI38
 aI110
@@ -3744,7 +3813,7 @@ aI253
 aI122
 aI0
 aI50
-aa(lp176
+aa(lp184
 I178
 aI0
 aI149
@@ -3760,7 +3829,7 @@ aI0
 aI169
 aI88
 aI50
-aa(lp177
+aa(lp185
 I2
 aI182
 aI0
@@ -3792,7 +3861,7 @@ aI139
 aI0
 aI0
 aI50
-aa(lp178
+aa(lp186
 I57
 aI0
 aI24
@@ -3815,40 +3884,7 @@ aI0
 aI0
 aI13
 aI50
-aa(lp179
-I2
-aI0
-aI38
-aI110
-aI0
-aI149
-aI38
-aI0
-aI254
-aI0
-aI91
-aI251
-aI88
-aI57
-aI0
-aI0
-aI117
-aI0
-aI0
-aI117
-aI0
-aI163
-aI0
-aI178
-aI0
-aI13
-aI0
-aI57
-aI88
-aI150
-aI88
-aI50
-aa(lp180
+aa(lp187
 I309
 aI0
 aI57
@@ -3873,7 +3909,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp181
+aa(lp188
 I0
 aI177
 aI163
@@ -3889,31 +3925,7 @@ aI95
 aI146
 aI50
 aI81
-aa(lp182
-I294
-aI178
-aI108
-aI117
-aI178
-aI0
-aI0
-aI24
-aI18
-aI0
-aI163
-aI37
-aI38
-aI0
-aI93
-aI24
-aI0
-aI153
-aI0
-aI24
-aI0
-aI42
-aI50
-aa(lp183
+aa(lp189
 I95
 aI56
 aI84
@@ -3960,38 +3972,7 @@ aI225
 aI169
 aI50
 aI81
-aa(lp184
-I2
-aI88
-aI0
-aI163
-aI0
-aI0
-aI118
-aI0
-aI0
-aI68
-aI205
-aI0
-aI70
-aI61
-aI50
-aa(lp185
-I2
-aI24
-aI254
-aI24
-aI117
-aI267
-aI0
-aI156
-aI0
-aI147
-aI70
-aI38
-aI78
-aI50
-aa(lp186
+aa(lp190
 I0
 aI163
 aI181
@@ -4011,7 +3992,7 @@ aI254
 aI117
 aI267
 aI50
-aa(lp187
+aa(lp191
 I2
 aI84
 aI69
@@ -4041,7 +4022,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp188
+aa(lp192
 I56
 aI45
 aI163
@@ -4069,7 +4050,7 @@ aI234
 aI163
 aI61
 aI50
-aa(lp189
+aa(lp193
 I88
 aI301
 aI0
@@ -4084,7 +4065,7 @@ aI2
 aI117
 aI254
 aI50
-aa(lp190
+aa(lp194
 I181
 aI283
 aI0
@@ -4101,7 +4082,7 @@ aI230
 aI117
 aI0
 aI50
-aa(lp191
+aa(lp195
 I2
 aI135
 aI187
@@ -4112,7 +4093,7 @@ aI117
 aI0
 aI239
 aI50
-aa(lp192
+aa(lp196
 I38
 aI253
 aI167
@@ -4125,7 +4106,7 @@ aI149
 aI239
 aI88
 aI50
-aa(lp193
+aa(lp197
 I2
 aI24
 aI0
@@ -4142,7 +4123,7 @@ aI149
 aI38
 aI78
 aI50
-aa(lp194
+aa(lp198
 I182
 aI0
 aI0
@@ -4168,7 +4149,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp195
+aa(lp199
 I56
 aI77
 aI13
@@ -4186,7 +4167,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp196
+aa(lp200
 I38
 aI280
 aI149
@@ -4204,7 +4185,17 @@ aI61
 aI178
 aI175
 aI50
-aa(lp197
+aa(lp201
+I2
+aI117
+aI254
+aI207
+aI0
+aI156
+aI292
+aI147
+aI50
+aa(lp202
 I38
 aI29
 aI0
@@ -4225,7 +4216,7 @@ aI57
 aI0
 aI0
 aI50
-aa(lp198
+aa(lp203
 I0
 aI24
 aI2
@@ -4241,7 +4232,7 @@ aI1
 aI281
 aI0
 aI50
-aa(lp199
+aa(lp204
 I57
 aI178
 aI124
@@ -4285,30 +4276,7 @@ aI155
 aI62
 aI0
 aI50
-aa(lp200
-I2
-aI42
-aI88
-aI56
-aI72
-aI61
-aI57
-aI279
-aI75
-aI169
-aI78
-aI149
-aI178
-aI8
-aI0
-aI215
-aI24
-aI254
-aI0
-aI0
-aI267
-aI50
-aa(lp201
+aa(lp205
 I2
 aI261
 aI295
@@ -4328,7 +4296,7 @@ aI148
 aI38
 aI267
 aI50
-aa(lp202
+aa(lp206
 I182
 aI0
 aI171
@@ -4373,7 +4341,64 @@ aI0
 aI92
 aI122
 aI50
-aa(lp203
+aa(lp207
+I18
+aI24
+aI268
+aI55
+aI178
+aI0
+aI0
+aI0
+aI149
+aI0
+aI2
+aI125
+aI46
+aI231
+aI146
+aI80
+aI24
+aI167
+aI79
+aI13
+aI203
+aI0
+aI0
+aI1
+aI281
+aI0
+aI24
+aI268
+aI207
+aI51
+aI163
+aI225
+aI214
+aI128
+aI61
+aI117
+aI61
+aI50
+aa(lp208
+I2
+aI0
+aI57
+aI88
+aI156
+aI178
+aI174
+aI163
+aI141
+aI0
+aI0
+aI70
+aI0
+aI117
+aI0
+aI0
+aI50
+aa(lp209
 I2
 aI11
 aI9
@@ -4390,12 +4415,12 @@ aI248
 aI61
 aI88
 aI50
-aa(lp204
+aa(lp210
 I55
 aI2
 aI0
 aI0
-aa(lp205
+aa(lp211
 I0
 aI2
 aI24
@@ -4423,7 +4448,7 @@ aI181
 aI203
 aI253
 aI50
-aa(lp206
+aa(lp212
 I2
 aI66
 aI13
@@ -4447,7 +4472,7 @@ aI0
 aI149
 aI132
 aI50
-aa(lp207
+aa(lp213
 I18
 aI66
 aI72
@@ -4496,7 +4521,7 @@ aI57
 aI138
 aI50
 aI81
-aa(lp208
+aa(lp214
 I95
 aI0
 aI309
@@ -4528,43 +4553,7 @@ aI38
 aI92
 aI93
 aI50
-aa(lp209
-I2
-aI84
-aI300
-aI0
-aI55
-aI0
-aI38
-aI0
-aI185
-aI88
-aI24
-aI254
-aI0
-aI24
-aI299
-aI56
-aI55
-aI305
-aI38
-aI0
-aI149
-aI0
-aI84
-aI267
-aI157
-aI13
-aI308
-aI117
-aI0
-aI213
-aI216
-aI157
-aI13
-aI308
-aI50
-aa(lp210
+aa(lp215
 I2
 aI55
 aI191
@@ -4588,22 +4577,7 @@ aI252
 aI156
 aI61
 aI50
-aa(lp211
-I156
-aI149
-aI88
-aI24
-aI2
-aI0
-aI13
-aI0
-aI0
-aI117
-aI13
-aI0
-aI0
-aI50
-aa(lp212
+aa(lp216
 I2
 aI42
 aI57
@@ -4628,7 +4602,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp213
+aa(lp217
 I2
 aI0
 aI254
@@ -4650,7 +4624,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp214
+aa(lp218
 I0
 aI10
 aI0
@@ -4670,7 +4644,7 @@ aI0
 aI163
 aI13
 aI50
-aa(lp215
+aa(lp219
 I200
 aI0
 aI115
@@ -4694,7 +4668,48 @@ aI88
 aI156
 aI254
 aI50
-aa(lp216
+aa(lp220
+I56
+aI15
+aI225
+aI0
+aI156
+aI279
+aI0
+aI253
+aI191
+aI13
+aI90
+aI157
+aI61
+aI30
+aI148
+aI38
+aI0
+aI50
+aa(lp221
+I2
+aI90
+aI116
+aI303
+aI0
+aI148
+aI38
+aI46
+aI0
+aI0
+aI93
+aI148
+aI88
+aI3
+aI38
+aI164
+aI158
+aI95
+aI146
+aI50
+aI81
+aa(lp222
 I0
 aI135
 aI0
@@ -4702,7 +4717,7 @@ aI218
 aI117
 aI0
 aI50
-aa(lp217
+aa(lp223
 I0
 aI0
 aI135
@@ -4718,7 +4733,23 @@ aI0
 aI117
 aI0
 aI50
-aa(lp218
+aa(lp224
+I56
+aI84
+aI302
+aI0
+aI163
+aI206
+aI178
+aI39
+aI174
+aI113
+aI97
+aI0
+aI0
+aI0
+aI50
+aa(lp225
 I2
 aI88
 aI66
@@ -4732,7 +4763,7 @@ aI239
 aI156
 aI285
 aI50
-aa(lp219
+aa(lp226
 I127
 aI38
 aI34
@@ -4767,7 +4798,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp220
+aa(lp227
 I0
 aI217
 aI0
@@ -4796,7 +4827,7 @@ aI181
 aI88
 aI0
 aI50
-aa(lp221
+aa(lp228
 I301
 aI0
 aI24
@@ -4845,7 +4876,21 @@ aI117
 aI187
 aI0
 aI50
-aa(lp222
+aa(lp229
+I18
+aI0
+aI178
+aI0
+aI149
+aI13
+aI0
+aI0
+aI0
+aI13
+aI0
+aI0
+aI50
+aa(lp230
 I70
 aI88
 aI24
@@ -4857,33 +4902,7 @@ aI61
 aI57
 aI111
 aI50
-aa(lp223
-I2
-aI57
-aI0
-aI177
-aI163
-aI193
-aI173
-aI114
-aI13
-aI90
-aI117
-aI122
-aI26
-aI128
-aI61
-aI163
-aI61
-aI30
-aI201
-aI181
-aI0
-aI75
-aI169
-aI78
-aI50
-aa(lp224
+aa(lp231
 I2
 aI0
 aI38
@@ -4910,7 +4929,7 @@ aI84
 aI0
 aI88
 aI50
-aa(lp225
+aa(lp232
 I2
 aI24
 aI178
@@ -4944,7 +4963,7 @@ aI0
 aI148
 aI0
 aI50
-aa(lp226
+aa(lp233
 I0
 aI0
 aI24
@@ -4981,7 +5000,7 @@ aI268
 aI275
 aI88
 aI50
-aa(lp227
+aa(lp234
 I0
 aI55
 aI0
@@ -5004,7 +5023,26 @@ aI0
 aI0
 aI0
 aI50
-aa(lp228
+aa(lp235
+I2
+aI66
+aI0
+aI178
+aI0
+aI149
+aI61
+aI185
+aI181
+aI0
+aI117
+aI289
+aI173
+aI114
+aI61
+aI57
+aI88
+aI50
+aa(lp236
 I57
 aI88
 aI149
@@ -5034,31 +5072,7 @@ aI149
 aI38
 aI0
 aI50
-aa(lp229
-I2
-aI24
-aI18
-aI0
-aI257
-aI149
-aI38
-aI254
-aI149
-aI0
-aI88
-aI0
-aI38
-aI110
-aI272
-aI52
-aI120
-aI174
-aI163
-aI237
-aI169
-aI88
-aI50
-aa(lp230
+aa(lp237
 I38
 aI0
 aI0
@@ -5083,7 +5097,7 @@ aI0
 aI163
 aI211
 aI50
-aa(lp231
+aa(lp238
 I57
 aI88
 aI24
@@ -5097,7 +5111,7 @@ aI254
 aI24
 aI0
 aI50
-aa(lp232
+aa(lp239
 I18
 aI24
 aI0
@@ -5113,7 +5127,7 @@ aI181
 aI253
 aI78
 aI50
-aa(lp233
+aa(lp240
 I38
 aI0
 aI24
@@ -5142,7 +5156,7 @@ aI46
 aI0
 aI88
 aI50
-aa(lp234
+aa(lp241
 I2
 aI0
 aI0
@@ -5167,7 +5181,7 @@ aI149
 aI0
 aI0
 aI50
-aa(lp235
+aa(lp242
 I0
 aI0
 aI0
@@ -5189,7 +5203,7 @@ aI0
 aI163
 aI0
 aI50
-aa(lp236
+aa(lp243
 I2
 aI0
 aI257
@@ -5197,7 +5211,7 @@ aI254
 aI57
 aI88
 aI50
-aa(lp237
+aa(lp244
 I38
 aI75
 aI122
@@ -5219,7 +5233,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp238
+aa(lp245
 I0
 aI0
 aI22
@@ -5239,7 +5253,32 @@ aI149
 aI286
 aI194
 aI50
-aa(lp239
+aa(lp246
+I95
+aI0
+aI186
+aI55
+aI178
+aI0
+aI151
+aI24
+aI81
+aI42
+aI0
+aI0
+aI24
+aI279
+aI0
+aI153
+aI2
+aI24
+aI178
+aI0
+aI213
+aI57
+aI0
+aI50
+aa(lp247
 I38
 aI0
 aI0
@@ -5270,7 +5309,7 @@ aI234
 aI163
 aI61
 aI50
-aa(lp240
+aa(lp248
 I0
 aI24
 aI0
@@ -5302,7 +5341,7 @@ aI149
 aI13
 aI90
 aI50
-aa(lp241
+aa(lp249
 I0
 aI2
 aI88
@@ -5325,7 +5364,7 @@ aI0
 aI0
 aI160
 aI50
-aa(lp242
+aa(lp250
 I2
 aI24
 aI23
@@ -5353,7 +5392,7 @@ aI88
 aI149
 aI61
 aI50
-aa(lp243
+aa(lp251
 I18
 aI24
 aI268
@@ -5393,7 +5432,7 @@ aI149
 aI38
 aI174
 aI50
-aa(lp244
+aa(lp252
 I2
 aI0
 aI260
@@ -5403,7 +5442,7 @@ aI0
 aI70
 aI277
 aI50
-aa(lp245
+aa(lp253
 I2
 aI0
 aI0
@@ -5413,7 +5452,7 @@ aI169
 aI57
 aI88
 aI50
-aa(lp246
+aa(lp254
 I18
 aI125
 aI46
@@ -5452,37 +5491,7 @@ aI13
 aI163
 aI13
 aI50
-aa(lp247
-I0
-aI42
-aI301
-aI177
-aI163
-aI221
-aI163
-aI0
-aI2
-aI84
-aI0
-aI24
-aI0
-aI0
-aI38
-aI0
-aI24
-aI301
-aI0
-aI24
-aI95
-aI77
-aI139
-aI0
-aI81
-aI70
-aI279
-aI92
-aI50
-aa(lp248
+aa(lp255
 I152
 aI207
 aI139
@@ -5494,7 +5503,28 @@ aI178
 aI8
 aI0
 aI50
-aa(lp249
+aa(lp256
+I95
+aI28
+aI266
+aI44
+aI24
+aI117
+aI56
+aI84
+aI57
+aI263
+aI0
+aI163
+aI0
+aI113
+aI44
+aI24
+aI81
+aI0
+aI42
+aI50
+aa(lp257
 I0
 aI2
 aI125
@@ -5513,9 +5543,9 @@ aI157
 aI61
 aI30
 aI50
-aa(lp250
+aa(lp258
 I50
-aa(lp251
+aa(lp259
 I2
 aI42
 aI57
@@ -5533,7 +5563,23 @@ aI154
 aI149
 aI61
 aI50
-aa(lp252
+aa(lp260
+I2
+aI0
+aI61
+aI57
+aI0
+aI0
+aI154
+aI70
+aI38
+aI0
+aI71
+aI0
+aI148
+aI88
+aI50
+aa(lp261
 I38
 aI79
 aI0
@@ -5557,7 +5603,7 @@ aI38
 aI297
 aI90
 aI50
-aa(lp253
+aa(lp262
 I2
 aI149
 aI0
@@ -5605,7 +5651,7 @@ aI0
 aI38
 aI0
 aI50
-aa(lp254
+aa(lp263
 I0
 aI150
 aI107
@@ -5632,7 +5678,7 @@ aI163
 aI225
 aI0
 aI50
-aa(lp255
+aa(lp264
 I113
 aI253
 aI167
@@ -5650,7 +5696,7 @@ aI189
 aI70
 aI88
 aI50
-aa(lp256
+aa(lp265
 I2
 aI117
 aI254
@@ -5658,7 +5704,7 @@ aI0
 aI156
 aI0
 aI50
-aa(lp257
+aa(lp266
 I18
 aI24
 aI268
@@ -5698,31 +5744,26 @@ aI61
 aI163
 aI61
 aI50
-aa(lp258
-I250
-aI55
-aI178
+aa(lp267
+I56
 aI0
-aI113
-aI55
+aI13
 aI0
-aI291
-aI231
+aI0
+aI0
 aI57
-aI88
-aI111
-aI77
-aI61
-aI117
-aI57
-aI88
-aI24
 aI38
-aI14
-aI77
-aI61
+aI0
+aI151
+aI117
+aI13
+aI0
+aI0
+aI57
+aI0
+aI0
 aI50
-aa(lp259
+aa(lp268
 I2
 aI77
 aI162
@@ -5748,7 +5789,27 @@ aI0
 aI98
 aI213
 aI50
-aa(lp260
+aa(lp269
+I2
+aI24
+aI268
+aI0
+aI0
+aI0
+aI245
+aI24
+aI0
+aI173
+aI0
+aI88
+aI294
+aI181
+aI0
+aI75
+aI169
+aI78
+aI50
+aa(lp270
 I222
 aI149
 aI136
@@ -5781,7 +5842,7 @@ aI81
 aI301
 aI42
 aI50
-aa(lp261
+aa(lp271
 I2
 aI125
 aI88
@@ -5823,7 +5884,7 @@ aI70
 aI0
 aI27
 aI50
-aa(lp262
+aa(lp272
 I88
 aI157
 aI0
@@ -5846,16 +5907,7 @@ aI81
 aI2
 aI42
 aI50
-aa(lp263
-I0
-aI0
-aI97
-aI225
-aI0
-aI157
-aI0
-aI50
-aa(lp264
+aa(lp273
 I178
 aI0
 aI17
@@ -5902,7 +5954,7 @@ aI61
 aI178
 aI175
 aI50
-aa(lp265
+aa(lp274
 I18
 aI0
 aI178
@@ -5916,7 +5968,7 @@ aI61
 aI57
 aI88
 aI50
-aa(lp266
+aa(lp275
 I2
 aI24
 aI149
@@ -5936,58 +5988,7 @@ aI153
 aI88
 aI88
 aI50
-aa(lp267
-I0
-aI0
-aI24
-aI269
-aI0
-aI38
-aI2
-aI205
-aI88
-aI156
-aI0
-aI149
-aI254
-aI24
-aI10
-aI267
-aI113
-aI301
-aI55
-aI0
-aI149
-aI126
-aI169
-aI217
-aI172
-aI207
-aI0
-aI299
-aI301
-aI55
-aI0
-aI70
-aI38
-aI0
-aI0
-aI50
-aa(lp268
-I127
-aI38
-aI34
-aI85
-aI2
-aI0
-aI103
-aI0
-aI38
-aI0
-aI149
-aI0
-aI0
-aa(lp269
+aa(lp276
 I48
 aI57
 aI0
@@ -6022,7 +6023,30 @@ aI0
 aI156
 aI88
 aI50
-aa(lp270
+aa(lp277
+I185
+aI25
+aI24
+aI2
+aI66
+aI173
+aI114
+aI0
+aI113
+aI0
+aI24
+aI0
+aI61
+aI57
+aI0
+aI70
+aI181
+aI0
+aI108
+aI0
+aI88
+aI50
+aa(lp278
 I18
 aI84
 aI245
@@ -6040,7 +6064,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp271
+aa(lp279
 I2
 aI0
 aI42
@@ -6068,7 +6092,7 @@ aI0
 aI36
 aI0
 aI50
-aa(lp272
+aa(lp280
 I2
 aI24
 aI268
@@ -6104,7 +6128,7 @@ aI117
 aI309
 aI176
 aI50
-aa(lp273
+aa(lp281
 I0
 aI0
 aI135
@@ -6117,7 +6141,7 @@ aI70
 aI38
 aI2
 aI50
-aa(lp274
+aa(lp282
 I18
 aI66
 aI13
@@ -6129,7 +6153,7 @@ aI2
 aI117
 aI0
 aI50
-aa(lp275
+aa(lp283
 I2
 aI24
 aI150
@@ -6150,7 +6174,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp276
+aa(lp284
 I95
 aI56
 aI0
@@ -6183,7 +6207,7 @@ aI117
 aI38
 aI0
 aI50
-aa(lp277
+aa(lp285
 I57
 aI0
 aI163
@@ -6216,14 +6240,14 @@ aI0
 aI0
 aI0
 aI50
-aa(lp278
+aa(lp286
 I50
-aa(lp279
+aa(lp287
 I0
 aI231
 aI13
 aI50
-aa(lp280
+aa(lp288
 I38
 aI0
 aI275
@@ -6251,7 +6275,7 @@ aI0
 aI84
 aI2
 aI50
-aa(lp281
+aa(lp289
 I2
 aI117
 aI154
@@ -6277,7 +6301,7 @@ aI0
 aI148
 aI88
 aI50
-aa(lp282
+aa(lp290
 I0
 aI51
 aI61
@@ -6292,7 +6316,7 @@ aI61
 aI178
 aI175
 aI50
-aa(lp283
+aa(lp291
 I156
 aI178
 aI0
@@ -6317,11 +6341,35 @@ aI0
 aI57
 aI88
 aI50
-aa(lp284
+aa(lp292
+I95
+aI28
+aI0
+aI7
+aI0
+aI56
+aI148
+aI38
+aI0
+aI70
+aI178
+aI0
+aI0
+aI117
+aI0
+aI0
+aI38
+aI92
+aI24
+aI81
+aI0
+aI42
+aI50
+aa(lp293
 I0
 aI66
 aI50
-aa(lp285
+aa(lp294
 I0
 aI304
 aI207
@@ -6340,7 +6388,26 @@ aI0
 aI0
 aI0
 aI50
-aa(lp286
+aa(lp295
+I38
+aI13
+aI5
+aI207
+aI302
+aI0
+aI156
+aI0
+aI149
+aI38
+aI147
+aI0
+aI153
+aI8
+aI0
+aI0
+aI2
+aI50
+aa(lp296
 I161
 aI149
 aI38
@@ -6350,7 +6417,7 @@ aI134
 aI227
 aI2
 aI50
-aa(lp287
+aa(lp297
 I95
 aI43
 aI0
@@ -6389,7 +6456,7 @@ aI55
 aI4
 aI50
 aI81
-aa(lp288
+aa(lp298
 I2
 aI0
 aI57
@@ -6420,30 +6487,7 @@ aI181
 aI78
 aI88
 aI50
-aa(lp289
-I43
-aI0
-aI38
-aI283
-aI100
-aI0
-aI149
-aI119
-aI0
-aI0
-aI117
-aI221
-aI163
-aI292
-aI38
-aI0
-aI57
-aI140
-aI0
-aI117
-aI0
-aI50
-aa(lp290
+aa(lp299
 I0
 aI157
 aI38
@@ -6458,7 +6502,7 @@ aI224
 aI0
 aI0
 aI50
-aa(lp291
+aa(lp300
 I95
 aI0
 aI0
@@ -6469,7 +6513,7 @@ aI157
 aI38
 aI2
 aI50
-aa(lp292
+aa(lp301
 I2
 aI42
 aI57
@@ -6498,7 +6542,7 @@ aI61
 aI88
 aI0
 aI50
-aa(lp293
+aa(lp302
 I38
 aI147
 aI266
@@ -6531,7 +6575,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp294
+aa(lp303
 I2
 aI0
 aI174
@@ -6571,7 +6615,7 @@ aI0
 aI65
 aI0
 aI50
-aa(lp295
+aa(lp304
 I2
 aI0
 aI293
@@ -6583,7 +6627,7 @@ aI57
 aI38
 aI0
 aI50
-aa(lp296
+aa(lp305
 I18
 aI45
 aI163
@@ -6591,7 +6635,7 @@ aI0
 aI13
 aI90
 aI50
-aa(lp297
+aa(lp306
 I0
 aI0
 aI55
@@ -6606,7 +6650,7 @@ aI84
 aI0
 aI0
 aI50
-aa(lp298
+aa(lp307
 I0
 aI0
 aI135
@@ -6636,7 +6680,7 @@ aI2
 aI81
 aI0
 aI50
-aa(lp299
+aa(lp308
 I2
 aI72
 aI61
@@ -6658,7 +6702,7 @@ aI169
 aI113
 aI108
 aI50
-aa(lp300
+aa(lp309
 I38
 aI52
 aI120
@@ -6678,24 +6722,7 @@ aI298
 aI156
 aI61
 aI50
-aa(lp301
-I2
-aI66
-aI72
-aI173
-aI114
-aI61
-aI57
-aI115
-aI241
-aI57
-aI181
-aI0
-aI105
-aI149
-aI0
-aI50
-aa(lp302
+aa(lp310
 I113
 aI77
 aI0
@@ -6713,7 +6740,23 @@ aI153
 aI38
 aI46
 aI50
-aa(lp303
+aa(lp311
+I157
+aI38
+aI36
+aI149
+aI181
+aI122
+aI228
+aI24
+aI18
+aI15
+aI225
+aI4
+aI294
+aI61
+aI50
+aa(lp312
 I58
 aI18
 aI0
@@ -6744,7 +6787,7 @@ aI0
 aI0
 aI86
 aI50
-aa(lp304
+aa(lp313
 I38
 aI110
 aI13
@@ -6784,7 +6827,7 @@ aI0
 aI149
 aI0
 aI50
-aa(lp305
+aa(lp314
 I2
 aI24
 aI178
@@ -6825,13 +6868,13 @@ aI153
 aI38
 aI0
 aI50
-aa(lp306
+aa(lp315
 I2
 aI50
-aa(lp307
+aa(lp316
 I2
 aI50
-aa(lp308
+aa(lp317
 I2
 aI0
 aI117
@@ -6848,63 +6891,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp309
-I95
-aI43
-aI0
-aI0
-aI294
-aI38
-aI0
-aI149
-aI0
-aI258
-aI0
-aI0
-aI0
-aI117
-aI0
-aI258
-aI38
-aI51
-aI0
-aI50
-aI81
-aa(lp310
-I70
-aI38
-aI0
-aI133
-aI113
-aI0
-aI88
-aI24
-aI2
-aI0
-aI61
-aI57
-aI0
-aI70
-aI178
-aI9
-aI287
-aI149
-aI61
-aI24
-aI13
-aI308
-aI0
-aI114
-aI181
-aI9
-aI287
-aI70
-aI38
-aI0
-aI133
-aI88
-aI50
-aa(lp311
+aa(lp318
 I0
 aI2
 aI24
@@ -6938,7 +6925,7 @@ aI181
 aI203
 aI253
 aI50
-aa(lp312
+aa(lp319
 I2
 aI24
 aI178
@@ -6970,7 +6957,7 @@ aI149
 aI203
 aI253
 aI50
-aa(lp313
+aa(lp320
 I0
 aI266
 aI163
@@ -6990,7 +6977,7 @@ aI117
 aI263
 aI0
 aI50
-aa(lp314
+aa(lp321
 I18
 aI15
 aI225
@@ -7019,7 +7006,7 @@ aI0
 aI163
 aI26
 aI50
-aa(lp315
+aa(lp322
 I127
 aI38
 aI34
@@ -7027,7 +7014,7 @@ aI85
 aI2
 aI0
 aI50
-aa(lp316
+aa(lp323
 I57
 aI88
 aI24
@@ -7057,7 +7044,7 @@ aI0
 aI81
 aI0
 aI50
-aa(lp317
+aa(lp324
 I2
 aI0
 aI0
@@ -7073,7 +7060,7 @@ aI92
 aI57
 aI88
 aI50
-aa(lp318
+aa(lp325
 I2
 aI24
 aI13
@@ -7105,53 +7092,7 @@ aI216
 aI117
 aI0
 aI50
-aa(lp319
-I2
-aI24
-aI178
-aI0
-aI174
-aI137
-aI178
-aI0
-aI113
-aI15
-aI16
-aI153
-aI136
-aI134
-aI227
-aI254
-aI125
-aI46
-aI231
-aI146
-aI80
-aI24
-aI232
-aI0
-aI88
-aI153
-aI38
-aI46
-aI0
-aI113
-aI56
-aI177
-aI163
-aI193
-aI13
-aI90
-aI149
-aI253
-aI214
-aI157
-aI61
-aI163
-aI61
-aI30
-aI50
-aa(lp320
+aa(lp326
 I0
 aI163
 aI38
@@ -7170,7 +7111,48 @@ aI0
 aI0
 aI220
 aI50
-aa(lp321
+aa(lp327
+I2
+aI24
+aI178
+aI0
+aI54
+aI113
+aI66
+aI0
+aI181
+aI253
+aI0
+aI57
+aI38
+aI0
+aI0
+aI71
+aI217
+aI195
+aI309
+aI54
+aI242
+aI0
+aI24
+aI0
+aI57
+aI148
+aI113
+aI0
+aI88
+aI153
+aI279
+aI78
+aI149
+aI13
+aI297
+aI90
+aI24
+aI233
+aI61
+aI50
+aa(lp328
 I38
 aI0
 aI0
@@ -7182,7 +7164,7 @@ aI163
 aI237
 aI169
 aI50
-aa(lp322
+aa(lp329
 I111
 aI57
 aI181
@@ -7207,7 +7189,7 @@ aI163
 aI294
 aI61
 aI50
-aa(lp323
+aa(lp330
 I162
 aI57
 aI88
@@ -7222,7 +7204,7 @@ aI199
 aI213
 aI254
 aI50
-aa(lp324
+aa(lp331
 I2
 aI0
 aI205
@@ -7258,7 +7240,7 @@ aI267
 aI65
 aI51
 aI50
-aa(lp325
+aa(lp332
 I2
 aI24
 aI162
@@ -7288,7 +7270,7 @@ aI0
 aI149
 aI132
 aI50
-aa(lp326
+aa(lp333
 I2
 aI24
 aI162
@@ -7299,7 +7281,7 @@ aI0
 aI0
 aI295
 aI50
-aa(lp327
+aa(lp334
 I2
 aI125
 aI46
@@ -7325,13 +7307,13 @@ aI0
 aI13
 aI308
 aI50
-aa(lp328
+aa(lp335
 I14
 aI280
 aI231
 aI61
 aI50
-aa(lp329
+aa(lp336
 I0
 aI2
 aI24
@@ -7356,7 +7338,7 @@ aI149
 aI13
 aI90
 aI50
-aa(lp330
+aa(lp337
 I38
 aI0
 aI24
@@ -7393,7 +7375,7 @@ aI0
 aI0
 aI53
 aI50
-aa(lp331
+aa(lp338
 I2
 aI24
 aI178
@@ -7423,7 +7405,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp332
+aa(lp339
 I0
 aI24
 aI119
@@ -7445,7 +7427,7 @@ aI0
 aI291
 aI0
 aI50
-aa(lp333
+aa(lp340
 I0
 aI0
 aI135
@@ -7456,7 +7438,7 @@ aI187
 aI109
 aI0
 aI50
-aa(lp334
+aa(lp341
 I38
 aI0
 aI15
@@ -7474,7 +7456,7 @@ aI70
 aI0
 aI0
 aI50
-aa(lp335
+aa(lp342
 I301
 aI55
 aI178
@@ -7482,7 +7464,7 @@ aI0
 aI149
 aI2
 aI50
-aa(lp336
+aa(lp343
 I56
 aI77
 aI139
@@ -7515,7 +7497,7 @@ aI0
 aI0
 aI267
 aI50
-aa(lp337
+aa(lp344
 I2
 aI84
 aI92
@@ -7539,7 +7521,7 @@ aI24
 aI254
 aI0
 aI50
-aa(lp338
+aa(lp345
 I18
 aI0
 aI163
@@ -7562,7 +7544,7 @@ aI180
 aI0
 aI88
 aI50
-aa(lp339
+aa(lp346
 I0
 aI0
 aI24
@@ -7576,7 +7558,7 @@ aI194
 aI149
 aI254
 aI50
-aa(lp340
+aa(lp347
 I38
 aI0
 aI86
@@ -7605,7 +7587,7 @@ aI0
 aI180
 aI88
 aI50
-aa(lp341
+aa(lp348
 I2
 aI66
 aI49
@@ -7622,7 +7604,7 @@ aI13
 aI0
 aI0
 aI50
-aa(lp342
+aa(lp349
 I0
 aI0
 aI2
@@ -7647,7 +7629,7 @@ aI0
 aI84
 aI0
 aI50
-aa(lp343
+aa(lp350
 I2
 aI66
 aI0
@@ -7656,7 +7638,7 @@ aI181
 aI36
 aI0
 aI50
-aa(lp344
+aa(lp351
 I0
 aI0
 aI2
@@ -7669,7 +7651,7 @@ aI148
 aI38
 aI74
 aI50
-aa(lp345
+aa(lp352
 I0
 aI84
 aI0
@@ -7701,7 +7683,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp346
+aa(lp353
 I95
 aI17
 aI0
@@ -7741,7 +7723,7 @@ aI250
 aI86
 aI50
 aI81
-aa(lp347
+aa(lp354
 I0
 aI2
 aI117
@@ -7771,18 +7753,7 @@ aI267
 aI203
 aI253
 aI50
-aa(lp348
-I2
-aI260
-aI107
-aI225
-aI0
-aI70
-aI277
-aI88
-aI88
-aI50
-aa(lp349
+aa(lp355
 I0
 aI177
 aI163
@@ -7796,7 +7767,7 @@ aI149
 aI95
 aI146
 aI50
-aa(lp350
+aa(lp356
 I9
 aI236
 aI70
@@ -7810,7 +7781,7 @@ aI248
 aI61
 aI88
 aI50
-aa(lp351
+aa(lp357
 I95
 aI83
 aI38
@@ -7837,20 +7808,10 @@ aI57
 aI279
 aI0
 aI50
-aa(lp352
-I38
-aI74
-aI77
-aI0
-aI227
-aI2
-aI117
-aI254
-aI50
-aa(lp353
+aa(lp358
 I13
 aI50
-aa(lp354
+aa(lp359
 I309
 aI0
 aI5
@@ -7874,7 +7835,7 @@ aI0
 aI213
 aI216
 aI50
-aa(lp355
+aa(lp360
 I95
 aI43
 aI15
@@ -7899,7 +7860,7 @@ aI0
 aI0
 aI50
 aI81
-aa(lp356
+aa(lp361
 I195
 aI39
 aI0
@@ -7928,7 +7889,7 @@ aI178
 aI0
 aI64
 aI50
-aa(lp357
+aa(lp362
 I2
 aI232
 aI0
@@ -7942,7 +7903,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp358
+aa(lp363
 I38
 aI0
 aI24
@@ -7971,32 +7932,28 @@ aI57
 aI13
 aI306
 aI50
-aa(lp359
-I18
-aI209
-aI13
-aI90
-aI157
-aI61
-aI224
-aI175
-aI24
+aa(lp364
+I56
+aI0
 aI178
-aI122
+aI13
+aI308
 aI0
-aI3
+aI142
+aI57
 aI38
-aI61
-aI163
-aI61
 aI0
-aI228
-aI56
-aI65
-aI45
-aI70
+aI239
+aI24
+aI0
+aI2
+aI125
+aI46
+aI231
+aI146
+aI80
 aI50
-aa(lp360
+aa(lp365
 I2
 aI177
 aI163
@@ -8012,7 +7969,7 @@ aI95
 aI146
 aI81
 aI50
-aa(lp361
+aa(lp366
 I56
 aI66
 aI82
@@ -8041,7 +7998,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp362
+aa(lp367
 I2
 aI84
 aI0
@@ -8063,7 +8020,7 @@ aI38
 aI251
 aI0
 aI50
-aa(lp363
+aa(lp368
 I2
 aI149
 aI8
@@ -8075,7 +8032,7 @@ aI254
 aI149
 aI0
 aI50
-aa(lp364
+aa(lp369
 I18
 aI0
 aI38
@@ -8087,7 +8044,7 @@ aI0
 aI93
 aI208
 aI50
-aa(lp365
+aa(lp370
 I253
 aI57
 aI2
@@ -8118,23 +8075,32 @@ aI75
 aI92
 aI0
 aI50
-aa(lp366
-I49
-aI303
-aI163
-aI166
+aa(lp371
+I95
+aI0
 aI38
-aI253
-aI148
-aI46
-aI3
+aI0
+aI66
+aI49
+aI57
 aI38
-aI158
-aI95
-aI146
-aI81
+aI0
+aI24
+aI28
+aI207
+aI107
+aI57
+aI279
+aI151
+aI57
+aI268
+aI152
+aI15
+aI225
+aI0
+aI0
 aI50
-aa(lp367
+aa(lp372
 I0
 aI0
 aI2
@@ -8155,7 +8121,7 @@ aI149
 aI0
 aI90
 aI50
-aa(lp368
+aa(lp373
 I2
 aI167
 aI0
@@ -8190,7 +8156,9 @@ aI149
 aI0
 aI0
 aI50
-aa(lp369
+aa(lp374
+I50
+aa(lp375
 I0
 aI148
 aI38
@@ -8204,7 +8172,7 @@ aI237
 aI169
 aI88
 aI50
-aa(lp370
+aa(lp376
 I57
 aI38
 aI0
@@ -8229,9 +8197,9 @@ aI0
 aI0
 aI2
 aI50
-aa(lp371
+aa(lp377
 I50
-aa(lp372
+aa(lp378
 I56
 aI131
 aI156
@@ -8251,7 +8219,42 @@ aI0
 aI148
 aI46
 aI50
-aa(lp373
+aa(lp379
+I18
+aI0
+aI152
+aI207
+aI13
+aI0
+aI57
+aI38
+aI0
+aI0
+aI0
+aI153
+aI38
+aI27
+aI56
+aI55
+aI0
+aI117
+aI113
+aI0
+aI0
+aI154
+aI149
+aI53
+aI163
+aI278
+aI0
+aI0
+aI116
+aI0
+aI61
+aI57
+aI88
+aI50
+aa(lp380
 I13
 aI149
 aI26
@@ -8286,7 +8289,7 @@ aI187
 aI117
 aI0
 aI50
-aa(lp374
+aa(lp381
 I38
 aI283
 aI77
@@ -8315,7 +8318,7 @@ aI274
 aI57
 aI88
 aI50
-aa(lp375
+aa(lp382
 I90
 aI149
 aI0
@@ -8333,33 +8336,7 @@ aI46
 aI0
 aI33
 aI50
-aa(lp376
-I173
-aI114
-aI0
-aI149
-aI38
-aI2
-aI39
-aI5
-aI113
-aI31
-aI169
-aI185
-aI88
-aI207
-aI88
-aI33
-aI305
-aI263
-aI92
-aI122
-aI24
-aI288
-aI254
-aI55
-aI50
-aa(lp377
+aa(lp383
 I95
 aI56
 aI77
@@ -8371,7 +8348,7 @@ aI0
 aI149
 aI26
 aI50
-aa(lp378
+aa(lp384
 I38
 aI78
 aI77
@@ -8386,7 +8363,7 @@ aI99
 aI39
 aI0
 aI50
-aa(lp379
+aa(lp385
 I18
 aI24
 aI3
@@ -8412,7 +8389,7 @@ aI0
 aI185
 aI88
 aI50
-aa(lp380
+aa(lp386
 I38
 aI144
 aI167
@@ -8434,7 +8411,7 @@ aI38
 aI0
 aI93
 aI50
-aa(lp381
+aa(lp387
 I0
 aI0
 aI97
@@ -8443,7 +8420,7 @@ aI0
 aI157
 aI0
 aI50
-aa(lp382
+aa(lp388
 I63
 aI0
 aI0
@@ -8466,7 +8443,7 @@ aI199
 aI93
 aI208
 aI50
-aa(lp383
+aa(lp389
 I38
 aI89
 aI77
@@ -8474,7 +8451,7 @@ aI243
 aI227
 aI2
 aI50
-aa(lp384
+aa(lp390
 I0
 aI84
 aI2
@@ -8485,7 +8462,7 @@ aI78
 aI57
 aI0
 aI50
-aa(lp385
+aa(lp391
 I181
 aI93
 aI0
@@ -8524,7 +8501,7 @@ aI61
 aI57
 aI88
 aI50
-aa(lp386
+aa(lp392
 I38
 aI0
 aI0
@@ -8553,7 +8530,7 @@ aI0
 aI70
 aI183
 aI50
-aa(lp387
+aa(lp393
 I88
 aI24
 aI2
@@ -8567,7 +8544,7 @@ aI243
 aI227
 aI254
 aI50
-aa(lp388
+aa(lp394
 I0
 aI0
 aI117
@@ -8586,7 +8563,7 @@ aI0
 aI149
 aI0
 aI50
-aa(lp389
+aa(lp395
 I156
 aI11
 aI88
@@ -8602,7 +8579,7 @@ aI156
 aI0
 aI0
 aI50
-aa(lp390
+aa(lp396
 I18
 aI0
 aI163
@@ -8619,7 +8596,7 @@ aI95
 aI146
 aI50
 aI81
-aa(lp391
+aa(lp397
 I0
 aI173
 aI231
@@ -8635,14 +8612,14 @@ aI11
 aI61
 aI300
 aI50
-aa(lp392
+aa(lp398
 I88
 aI0
 aI122
 aI231
 aI61
 aI50
-aa(lp393
+aa(lp399
 I0
 aI2
 aI0
@@ -8684,32 +8661,7 @@ aI32
 aI0
 aI199
 aI50
-aa(lp394
-I2
-aI0
-aI284
-aI248
-aI0
-aI84
-aI254
-aI125
-aI46
-aI231
-aI146
-aI80
-aI57
-aI178
-aI88
-aI92
-aI24
-aI0
-aI157
-aI294
-aI61
-aI178
-aI175
-aI50
-aa(lp395
+aa(lp400
 I18
 aI55
 aI0
@@ -8726,21 +8678,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp396
-I38
-aI0
-aI24
-aI2
-aI24
-aI0
-aI113
-aI18
-aI260
-aI0
-aI33
-aI88
-aI50
-aa(lp397
+aa(lp401
 I57
 aI88
 aI24
@@ -8768,7 +8706,7 @@ aI88
 aI291
 aI0
 aI50
-aa(lp398
+aa(lp402
 I13
 aI220
 aI207
@@ -8780,7 +8718,20 @@ aI254
 aI117
 aI267
 aI50
-aa(lp399
+aa(lp403
+I0
+aI0
+aI0
+aI85
+aI117
+aI0
+aI0
+aI157
+aI38
+aI2
+aI0
+aI50
+aa(lp404
 I0
 aI24
 aI268
@@ -8854,7 +8805,7 @@ aI149
 aI38
 aI270
 aI50
-aa(lp400
+aa(lp405
 I18
 aI0
 aI187
@@ -8892,7 +8843,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp401
+aa(lp406
 I28
 aI266
 aI178
@@ -8909,7 +8860,7 @@ aI149
 aI203
 aI253
 aI50
-aa(lp402
+aa(lp407
 I0
 aI38
 aI92
@@ -8937,7 +8888,7 @@ aI0
 aI73
 aI44
 aI50
-aa(lp403
+aa(lp408
 I17
 aI38
 aI92
@@ -8966,10 +8917,10 @@ aI308
 aI149
 aI254
 aI50
-aa(lp404
+aa(lp409
 I2
 aI50
-aa(lp405
+aa(lp410
 I194
 aI117
 aI255
@@ -9005,47 +8956,19 @@ aI178
 aI45
 aI92
 aI50
-aa(lp406
-I217
-aI38
-aI46
-aI0
-aI0
-aI55
-aI106
-aI73
-aI294
-aI13
-aI308
-aI70
+aa(lp411
+I2
+aI6
 aI88
-aI24
-aI0
-aI178
-aI0
-aI0
-aI22
-aI38
-aI0
-aI0
-aI0
-aI24
-aI38
-aI13
-aI272
-aI0
 aI113
-aI266
-aI0
-aI259
+aI181
+aI75
+aI169
+aI78
+aI282
 aI88
-aI266
-aI0
-aI0
-aI0
-aI0
 aI50
-aa(lp407
+aa(lp412
 I70
 aI88
 aI0
@@ -9068,68 +8991,14 @@ aI111
 aI149
 aI61
 aI50
-aa(lp408
-I181
-aI253
-aI125
-aI46
-aI231
-aI146
-aI80
-aI131
-aI156
-aI0
-aI156
-aI61
-aI148
-aI88
-aI0
-aI157
-aI61
-aI50
-aa(lp409
-I162
-aI57
-aI88
-aI24
-aI2
-aI0
-aI117
-aI0
-aI252
-aI0
-aI0
-aI0
-aI24
-aI0
-aI117
-aI0
-aI70
-aI0
-aI0
-aI24
-aI0
-aI117
-aI0
-aI0
-aI0
-aI38
-aI0
-aI228
-aI149
-aI0
-aI163
-aI13
-aI0
-aI50
-aa(lp410
+aa(lp413
 I46
 aI253
 aI158
 aI231
 aI146
 aI50
-aa(lp411
+aa(lp414
 I0
 aI132
 aI0
@@ -9158,7 +9027,30 @@ aI174
 aI24
 aI267
 aI50
-aa(lp412
+aa(lp415
+I83
+aI18
+aI303
+aI181
+aI0
+aI24
+aI56
+aI77
+aI78
+aI294
+aI13
+aI90
+aI70
+aI178
+aI37
+aI122
+aI149
+aI294
+aI61
+aI224
+aI175
+aI50
+aa(lp416
 I38
 aI0
 aI300
@@ -9179,7 +9071,7 @@ aI130
 aI163
 aI2
 aI50
-aa(lp413
+aa(lp417
 I217
 aI38
 aI124
@@ -9199,26 +9091,7 @@ aI2
 aI117
 aI254
 aI50
-aa(lp414
-I2
-aI117
-aI254
-aI24
-aI210
-aI149
-aI8
-aI0
-aI0
-aI24
-aI207
-aI0
-aI0
-aI0
-aI149
-aI38
-aI78
-aI50
-aa(lp415
+aa(lp418
 I38
 aI118
 aI310
@@ -9243,7 +9116,7 @@ aI61
 aI178
 aI175
 aI50
-aa(lp416
+aa(lp419
 I163
 aI0
 aI220
@@ -9272,7 +9145,7 @@ aI294
 aI8
 aI0
 aI50
-aa(lp417
+aa(lp420
 I181
 aI88
 aI170
@@ -9290,7 +9163,67 @@ aI24
 aI57
 aI0
 aI50
-aa(lp418
+aa(lp421
+I38
+aI78
+aI167
+aI211
+aI144
+aI70
+aI2
+aI227
+aI0
+aI57
+aI0
+aI48
+aI117
+aI0
+aI0
+aI38
+aI0
+aI70
+aI88
+aI0
+aI24
+aI222
+aI149
+aI38
+aI0
+aI42
+aI50
+aa(lp422
+I148
+aI88
+aI88
+aI24
+aI38
+aI0
+aI132
+aI117
+aI249
+aI270
+aI276
+aI174
+aI214
+aI38
+aI90
+aI157
+aI61
+aI30
+aI24
+aI0
+aI198
+aI114
+aI181
+aI0
+aI113
+aI0
+aI149
+aI61
+aI178
+aI175
+aI50
+aa(lp423
 I38
 aI92
 aI24
@@ -9323,7 +9256,7 @@ aI153
 aI38
 aI0
 aI50
-aa(lp419
+aa(lp424
 I0
 aI0
 aI157
@@ -9378,7 +9311,25 @@ aI0
 aI150
 aI0
 aI50
-aa(lp420
+aa(lp425
+I18
+aI302
+aI42
+aI56
+aI177
+aI163
+aI193
+aI13
+aI90
+aI117
+aI179
+aI3
+aI38
+aI164
+aI158
+aI146
+aI50
+aa(lp426
 I2
 aI117
 aI254
@@ -9392,7 +9343,7 @@ aI70
 aI38
 aI78
 aI50
-aa(lp421
+aa(lp427
 I2
 aI302
 aI232
@@ -9415,7 +9366,7 @@ aI2
 aI203
 aI253
 aI50
-aa(lp422
+aa(lp428
 I0
 aI84
 aI178
@@ -9447,7 +9398,7 @@ aI156
 aI149
 aI88
 aI50
-aa(lp423
+aa(lp429
 I56
 aI177
 aI163
@@ -9460,7 +9411,7 @@ aI38
 aI112
 aI0
 aI50
-aa(lp424
+aa(lp430
 I0
 aI2
 aI24
@@ -9487,7 +9438,7 @@ aI181
 aI203
 aI253
 aI50
-aa(lp425
+aa(lp431
 I38
 aI0
 aI122
@@ -9498,7 +9449,7 @@ aI61
 aI163
 aI61
 aI50
-aa(lp426
+aa(lp432
 I182
 aI0
 aI0
@@ -9523,7 +9474,26 @@ aI0
 aI148
 aI88
 aI50
-aa(lp427
+aa(lp433
+I152
+aI116
+aI13
+aI259
+aI117
+aI0
+aI0
+aI47
+aI24
+aI0
+aI178
+aI0
+aI0
+aI117
+aI0
+aI0
+aI50
+aI81
+aa(lp434
 I117
 aI57
 aI0
@@ -9548,13 +9518,13 @@ aI24
 aI0
 aI42
 aI50
-aa(lp428
+aa(lp435
 I0
 aI0
 aI157
 aI13
 aI50
-aa(lp429
+aa(lp436
 I0
 aI2
 aI66
@@ -9575,7 +9545,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp430
+aa(lp437
 I2
 aI0
 aI0
@@ -9594,7 +9564,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp431
+aa(lp438
 I276
 aI0
 aI2
@@ -9613,7 +9583,7 @@ aI61
 aI178
 aI175
 aI50
-aa(lp432
+aa(lp439
 I56
 aI88
 aI65
@@ -9644,7 +9614,7 @@ aI149
 aI8
 aI0
 aI50
-aa(lp433
+aa(lp440
 I18
 aI0
 aI0
@@ -9665,7 +9635,7 @@ aI0
 aI148
 aI26
 aI50
-aa(lp434
+aa(lp441
 I201
 aI38
 aI92
@@ -9696,7 +9666,23 @@ aI191
 aI13
 aI90
 aI50
-aa(lp435
+aa(lp442
+I18
+aI177
+aI163
+aI193
+aI13
+aI90
+aI149
+aI203
+aI253
+aI70
+aI61
+aI163
+aI61
+aI30
+aI50
+aa(lp443
 I0
 aI289
 aI61
@@ -9745,7 +9731,39 @@ aI0
 aI70
 aI265
 aI50
-aa(lp436
+aa(lp444
+I0
+aI2
+aI24
+aI178
+aI0
+aI0
+aI0
+aI0
+aI24
+aI6
+aI38
+aI223
+aI149
+aI279
+aI75
+aI169
+aI78
+aI149
+aI13
+aI90
+aI149
+aI203
+aI253
+aI157
+aI178
+aI122
+aI149
+aI61
+aI224
+aI175
+aI50
+aa(lp445
 I299
 aI58
 aI56
@@ -9773,7 +9791,7 @@ aI0
 aI284
 aI259
 aI50
-aa(lp437
+aa(lp446
 I178
 aI2
 aI92
@@ -9787,7 +9805,7 @@ aI279
 aI0
 aI0
 aI50
-aa(lp438
+aa(lp447
 I38
 aI0
 aI2
@@ -9821,44 +9839,7 @@ aI163
 aI0
 aI0
 aI50
-aa(lp439
-I2
-aI125
-aI46
-aI231
-aI146
-aI80
-aI24
-aI178
-aI54
-aI153
-aI62
-aI0
-aI57
-aI0
-aI299
-aI271
-aI57
-aI0
-aI24
-aI0
-aI163
-aI211
-aI61
-aI148
-aI88
-aI113
-aI254
-aI125
-aI0
-aI231
-aI146
-aI80
-aI77
-aI233
-aI61
-aI50
-aa(lp440
+aa(lp448
 I90
 aI149
 aI38
@@ -9894,13 +9875,13 @@ aI0
 aI88
 aI88
 aI50
-aa(lp441
+aa(lp449
 I0
 aI0
 aI0
 aI0
 aI50
-aa(lp442
+aa(lp450
 I2
 aI302
 aI0
@@ -9929,7 +9910,7 @@ aI181
 aI132
 aI186
 aI50
-aa(lp443
+aa(lp451
 I2
 aI0
 aI56
@@ -9959,7 +9940,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp444
+aa(lp452
 I2
 aI24
 aI149
@@ -9979,7 +9960,7 @@ aI153
 aI88
 aI88
 aI50
-aa(lp445
+aa(lp453
 I156
 aI13
 aI149
@@ -10067,7 +10048,7 @@ aI57
 aI38
 aI0
 aI50
-aa(lp446
+aa(lp454
 I0
 aI0
 aI294
@@ -10084,7 +10065,7 @@ aI145
 aI38
 aI0
 aI50
-aa(lp447
+aa(lp455
 I130
 aI163
 aI181
@@ -10105,7 +10086,7 @@ aI111
 aI70
 aI88
 aI50
-aa(lp448
+aa(lp456
 I295
 aI218
 aI0
@@ -10132,7 +10113,7 @@ aI0
 aI169
 aI88
 aI50
-aa(lp449
+aa(lp457
 I57
 aI88
 aI18
@@ -10172,7 +10153,15 @@ aI178
 aI0
 aI0
 aI50
-aa(lp450
+aa(lp458
+I2
+aI117
+aI254
+aI207
+aI38
+aI147
+aI50
+aa(lp459
 I2
 aI24
 aI178
@@ -10200,7 +10189,7 @@ aI38
 aI0
 aI88
 aI50
-aa(lp451
+aa(lp460
 I56
 aI0
 aI0
@@ -10225,7 +10214,7 @@ aI18
 aI84
 aI111
 aI50
-aa(lp452
+aa(lp461
 I38
 aI0
 aI92
@@ -10236,54 +10225,7 @@ aI61
 aI117
 aI61
 aI50
-aa(lp453
-I2
-aI24
-aI268
-aI55
-aI271
-aI57
-aI0
-aI24
-aI0
-aI24
-aI117
-aI66
-aI181
-aI112
-aI99
-aI20
-aI57
-aI0
-aI24
-aI0
-aI24
-aI66
-aI232
-aI177
-aI163
-aI237
-aI169
-aI153
-aI46
-aI50
-aa(lp454
-I38
-aI90
-aI116
-aI0
-aI148
-aI38
-aI46
-aI3
-aI38
-aI164
-aI158
-aI95
-aI146
-aI50
-aI81
-aa(lp455
+aa(lp462
 I153
 aI8
 aI0
@@ -10315,7 +10257,7 @@ aI70
 aI68
 aI0
 aI50
-aa(lp456
+aa(lp463
 I18
 aI303
 aI181
@@ -10336,29 +10278,7 @@ aI163
 aI46
 aI244
 aI50
-aa(lp457
-I194
-aI117
-aI255
-aI286
-aI0
-aI0
-aI24
-aI13
-aI24
-aI0
-aI2
-aI57
-aI88
-aI24
-aI117
-aI77
-aI0
-aI0
-aI61
-aI88
-aI50
-aa(lp458
+aa(lp464
 I299
 aI68
 aI55
@@ -10388,7 +10308,44 @@ aI0
 aI0
 aI0
 aI50
-aa(lp459
+aa(lp465
+I95
+aI152
+aI84
+aI178
+aI0
+aI149
+aI129
+aI5
+aI0
+aI113
+aI38
+aI169
+aI172
+aI207
+aI0
+aI163
+aI26
+aI24
+aI81
+aI42
+aI0
+aI0
+aI24
+aI0
+aI149
+aI38
+aI187
+aI109
+aI0
+aI0
+aI0
+aI157
+aI2
+aI57
+aI0
+aI50
+aa(lp466
 I2
 aI65
 aI45
@@ -10419,7 +10376,7 @@ aI125
 aI61
 aI80
 aI50
-aa(lp460
+aa(lp467
 I2
 aI6
 aI88
@@ -10445,7 +10402,7 @@ aI174
 aI235
 aI267
 aI50
-aa(lp461
+aa(lp468
 I90
 aI275
 aI157
@@ -10457,7 +10414,7 @@ aI33
 aI148
 aI88
 aI50
-aa(lp462
+aa(lp469
 I2
 aI24
 aI162
@@ -10468,7 +10425,20 @@ aI0
 aI13
 aI0
 aI50
-aa(lp463
+aa(lp470
+I2
+aI0
+aI260
+aI107
+aI225
+aI0
+aI0
+aI70
+aI277
+aI254
+aI42
+aI50
+aa(lp471
 I2
 aI24
 aI254
@@ -10481,7 +10451,7 @@ aI0
 aI156
 aI147
 aI50
-aa(lp464
+aa(lp472
 I38
 aI92
 aI177
@@ -10502,7 +10472,7 @@ aI247
 aI199
 aI0
 aI50
-aa(lp465
+aa(lp473
 I2
 aI117
 aI0
@@ -10512,7 +10482,7 @@ aI0
 aI156
 aI147
 aI50
-aa(lp466
+aa(lp474
 I2
 aI232
 aI70
@@ -10536,7 +10506,7 @@ aI234
 aI163
 aI61
 aI50
-aa(lp467
+aa(lp475
 I0
 aI0
 aI55
@@ -10546,12 +10516,12 @@ aI157
 aI38
 aI2
 aI50
-aa(lp468
+aa(lp476
 I174
 aI231
 aI2
 aI50
-aa(lp469
+aa(lp477
 I61
 aI0
 aI185
@@ -10561,7 +10531,7 @@ aI61
 aI57
 aI88
 aI50
-aa(lp470
+aa(lp478
 I2
 aI88
 aI0
@@ -10577,7 +10547,7 @@ aI298
 aI156
 aI61
 aI50
-aa(lp471
+aa(lp479
 I2
 aI0
 aI18
@@ -10586,7 +10556,7 @@ aI61
 aI57
 aI88
 aI50
-aa(lp472
+aa(lp480
 I2
 aI232
 aI70
@@ -10619,14 +10589,14 @@ aI298
 aI156
 aI61
 aI50
-aa(lp473
+aa(lp481
 I2
 aI77
 aI162
 aI57
 aI88
 aI50
-aa(lp474
+aa(lp482
 I56
 aI0
 aI2
@@ -10646,7 +10616,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp475
+aa(lp483
 I181
 aI88
 aI170
@@ -10664,7 +10634,133 @@ aI24
 aI57
 aI0
 aI50
-aa(lp476
+aa(lp484
+I226
+aI149
+aI306
+aI231
+aI2
+aI42
+aI56
+aI0
+aI163
+aI226
+aI38
+aI306
+aI156
+aI0
+aI231
+aI61
+aI163
+aI215
+aI0
+aI0
+aI0
+aI70
+aI0
+aI24
+aI121
+aI0
+aI70
+aI249
+aI0
+aI0
+aI0
+aI113
+aI0
+aI0
+aI202
+aI24
+aI61
+aI163
+aI215
+aI0
+aI0
+aI0
+aI70
+aI0
+aI24
+aI279
+aI0
+aI0
+aI70
+aI0
+aI24
+aI178
+aI249
+aI0
+aI0
+aI113
+aI0
+aI0
+aI0
+aI287
+aI202
+aI24
+aI61
+aI163
+aI215
+aI0
+aI0
+aI0
+aI70
+aI256
+aI0
+aI0
+aI202
+aI279
+aI0
+aI0
+aI70
+aI0
+aI0
+aI202
+aI24
+aI61
+aI163
+aI215
+aI0
+aI0
+aI0
+aI70
+aI0
+aI100
+aI0
+aI202
+aI117
+aI24
+aI38
+aI0
+aI70
+aI94
+aI241
+aI24
+aI155
+aI117
+aI0
+aI0
+aI24
+aI0
+aI186
+aI117
+aI218
+aI0
+aI117
+aI309
+aI155
+aI62
+aI0
+aI24
+aI273
+aI0
+aI0
+aI24
+aI0
+aI150
+aI121
+aI0
+aI50
+aa(lp485
 I130
 aI163
 aI178
@@ -10682,7 +10778,7 @@ aI0
 aI149
 aI2
 aI50
-aa(lp477
+aa(lp486
 I2
 aI177
 aI163
@@ -10700,7 +10796,7 @@ aI181
 aI100
 aI47
 aI50
-aa(lp478
+aa(lp487
 I38
 aI78
 aI77
@@ -10716,34 +10812,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp479
-I217
-aI38
-aI46
-aI0
-aI0
-aI55
-aI73
-aI173
-aI114
-aI13
-aI308
-aI185
-aI56
-aI0
-aI181
-aI252
-aI148
-aI88
-aI24
-aI2
-aI253
-aI66
-aI0
-aI13
-aI308
-aI50
-aa(lp480
+aa(lp488
 I2
 aI24
 aI38
@@ -10765,9 +10834,9 @@ aI169
 aI0
 aI88
 aI50
-aa(lp481
+aa(lp489
 I50
-aa(lp482
+aa(lp490
 I0
 aI24
 aI18
@@ -10790,7 +10859,7 @@ aI163
 aI178
 aI190
 aI50
-aa(lp483
+aa(lp491
 I0
 aI84
 aI2
@@ -10801,7 +10870,7 @@ aI70
 aI38
 aI0
 aI50
-aa(lp484
+aa(lp492
 I18
 aI282
 aI88
@@ -10812,7 +10881,7 @@ aI0
 aI149
 aI61
 aI50
-aa(lp485
+aa(lp493
 I2
 aI24
 aI38
@@ -10842,7 +10911,7 @@ aI0
 aI181
 aI92
 aI50
-aa(lp486
+aa(lp494
 I2
 aI42
 aI56
@@ -10868,26 +10937,7 @@ aI13
 aI35
 aI61
 aI50
-aa(lp487
-I2
-aI55
-aI94
-aI148
-aI178
-aI8
-aI0
-aI149
-aI0
-aI165
-aI235
-aI0
-aI165
-aI163
-aI278
-aI0
-aI0
-aI50
-aa(lp488
+aa(lp495
 I95
 aI88
 aI43
@@ -10909,13 +10959,7 @@ aI13
 aI0
 aI105
 aI50
-aa(lp489
-I56
-aI275
-aI157
-aI61
-aI50
-aa(lp490
+aa(lp496
 I301
 aI177
 aI163
@@ -10944,7 +10988,7 @@ aI0
 aI154
 aI0
 aI50
-aa(lp491
+aa(lp497
 I95
 aI178
 aI0
@@ -10995,7 +11039,7 @@ aI254
 aI57
 aI0
 aI50
-aa(lp492
+aa(lp498
 I102
 aI0
 aI0
@@ -11009,7 +11053,7 @@ aI57
 aI195
 aI0
 aI50
-aa(lp493
+aa(lp499
 I0
 aI242
 aI0
@@ -11021,7 +11065,7 @@ aI294
 aI0
 aI105
 aI50
-aa(lp494
+aa(lp500
 I2
 aI24
 aI268
@@ -11052,7 +11096,7 @@ aI92
 aI185
 aI88
 aI50
-aa(lp495
+aa(lp501
 I56
 aI196
 aI302
@@ -11071,7 +11115,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp496
+aa(lp502
 I18
 aI0
 aI232
@@ -11092,7 +11136,7 @@ aI46
 aI3
 aI254
 aI50
-aa(lp497
+aa(lp503
 I0
 aI42
 aI152
@@ -11106,7 +11150,7 @@ aI157
 aI38
 aI0
 aI50
-aa(lp498
+aa(lp504
 I95
 aI43
 aI41
@@ -11147,7 +11191,7 @@ aI0
 aI10
 aI2
 aI50
-aa(lp499
+aa(lp505
 I153
 aI2
 aI24
@@ -11166,7 +11210,7 @@ aI57
 aI0
 aI0
 aI50
-aa(lp500
+aa(lp506
 I309
 aI60
 aI247
@@ -11183,32 +11227,26 @@ aI2
 aI117
 aI254
 aI50
-aa(lp501
-I95
-aI38
-aI86
-aI55
-aI0
-aI163
-aI0
-aI0
+aa(lp507
+I2
+aI275
+aI181
+aI75
+aI169
+aI78
+aI88
 aI24
-aI81
-aI0
-aI0
-aI0
-aI24
-aI2
-aI84
-aI8
-aI182
-aI24
-aI57
+aI191
 aI178
-aI0
-aI0
+aI14
+aI13
+aI90
+aI157
+aI61
+aI224
+aI175
 aI50
-aa(lp502
+aa(lp508
 I181
 aI0
 aI228
@@ -11220,7 +11258,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp503
+aa(lp509
 I18
 aI134
 aI0
@@ -11248,9 +11286,37 @@ aI0
 aI0
 aI0
 aI50
-aa(lp504
+aa(lp510
 I50
-aa(lp505
+aa(lp511
+I178
+aI0
+aI137
+aI0
+aI70
+aI27
+aI113
+aI0
+aI0
+aI24
+aI117
+aI0
+aI227
+aI0
+aI115
+aI241
+aI0
+aI2
+aI24
+aI66
+aI232
+aI70
+aI279
+aI75
+aI169
+aI78
+aI50
+aa(lp512
 I113
 aI293
 aI139
@@ -11264,7 +11330,7 @@ aI248
 aI38
 aI123
 aI50
-aa(lp506
+aa(lp513
 I56
 aI55
 aI38
@@ -11299,7 +11365,7 @@ aI247
 aI184
 aI0
 aI50
-aa(lp507
+aa(lp514
 I95
 aI56
 aI84
@@ -11313,26 +11379,23 @@ aI148
 aI178
 aI0
 aI50
-aa(lp508
-I271
-aI57
-aI8
+aa(lp515
+I113
 aI0
-aI70
-aI38
-aI2
 aI24
-aI301
-aI88
-aI77
-aI178
 aI0
-aI157
-aI254
-aI117
-aI267
+aI106
+aI0
+aI24
+aI66
+aI0
+aI222
+aI0
+aI57
+aI219
+aI71
 aI50
-aa(lp509
+aa(lp516
 I2
 aI66
 aI0
@@ -11345,7 +11408,7 @@ aI13
 aI157
 aI88
 aI50
-aa(lp510
+aa(lp517
 I178
 aI0
 aI0
@@ -11364,7 +11427,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp511
+aa(lp518
 I2
 aI88
 aI0
@@ -11386,7 +11449,7 @@ aI0
 aI0
 aI160
 aI50
-aa(lp512
+aa(lp519
 I0
 aI0
 aI24
@@ -11410,7 +11473,7 @@ aI182
 aI149
 aI254
 aI50
-aa(lp513
+aa(lp520
 I222
 aI0
 aI206
@@ -11433,42 +11496,7 @@ aI153
 aI0
 aI304
 aI50
-aa(lp514
-I57
-aI178
-aI0
-aI0
-aI23
-aI38
-aI223
-aI24
-aI0
-aI213
-aI2
-aI42
-aI24
-aI95
-aI56
-aI84
-aI0
-aI163
-aI206
-aI178
-aI39
-aI174
-aI0
-aI0
-aI56
-aI84
-aI173
-aI0
-aI163
-aI0
-aI38
-aI92
-aI93
-aI50
-aa(lp515
+aa(lp521
 I38
 aI239
 aI260
@@ -11492,7 +11520,7 @@ aI38
 aI2
 aI0
 aI50
-aa(lp516
+aa(lp522
 I18
 aI302
 aI51
@@ -11513,7 +11541,7 @@ aI38
 aI92
 aI122
 aI50
-aa(lp517
+aa(lp523
 I38
 aI0
 aI0
@@ -11547,7 +11575,7 @@ aI0
 aI81
 aI80
 aI50
-aa(lp518
+aa(lp524
 I0
 aI117
 aI255
@@ -11559,7 +11587,7 @@ aI0
 aI0
 aI252
 aI50
-aa(lp519
+aa(lp525
 I18
 aI66
 aI209
@@ -11584,7 +11612,7 @@ aI268
 aI0
 aI0
 aI50
-aa(lp520
+aa(lp526
 I2
 aI24
 aI38
@@ -11613,7 +11641,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp521
+aa(lp527
 I18
 aI55
 aI51
@@ -11635,7 +11663,7 @@ aI0
 aI156
 aI88
 aI50
-aa(lp522
+aa(lp528
 I111
 aI57
 aI88
@@ -11648,7 +11676,7 @@ aI24
 aI77
 aI61
 aI50
-aa(lp523
+aa(lp529
 I178
 aI8
 aI0
@@ -11681,20 +11709,7 @@ aI16
 aI153
 aI254
 aI50
-aa(lp524
-I2
-aI31
-aI169
-aI88
-aI57
-aI178
-aI61
-aI75
-aI169
-aI253
-aI78
-aI50
-aa(lp525
+aa(lp530
 I0
 aI84
 aI2
@@ -11706,7 +11721,7 @@ aI92
 aI157
 aI88
 aI50
-aa(lp526
+aa(lp531
 I95
 aI56
 aI84
@@ -11735,7 +11750,7 @@ aI0
 aI0
 aI50
 aI81
-aa(lp527
+aa(lp532
 I38
 aI0
 aI0
@@ -11767,7 +11782,30 @@ aI276
 aI0
 aI0
 aI50
-aa(lp528
+aa(lp533
+I56
+aI42
+aI57
+aI178
+aI0
+aI124
+aI148
+aI88
+aI113
+aI56
+aI177
+aI163
+aI193
+aI13
+aI90
+aI70
+aI128
+aI61
+aI117
+aI61
+aI30
+aI50
+aa(lp534
 I0
 aI235
 aI200
@@ -11799,7 +11837,7 @@ aI248
 aI0
 aI0
 aI50
-aa(lp529
+aa(lp535
 I111
 aI57
 aI181
@@ -11825,7 +11863,7 @@ aI163
 aI294
 aI61
 aI50
-aa(lp530
+aa(lp536
 I0
 aI2
 aI24
@@ -11837,7 +11875,7 @@ aI0
 aI294
 aI13
 aI50
-aa(lp531
+aa(lp537
 I18
 aI0
 aI113
@@ -11859,7 +11897,7 @@ aI208
 aI141
 aI50
 aI81
-aa(lp532
+aa(lp538
 I0
 aI0
 aI0
@@ -11886,14 +11924,14 @@ aI31
 aI169
 aI157
 aI50
-aa(lp533
+aa(lp539
 I2
 aI55
 aI18
 aI149
 aI254
 aI50
-aa(lp534
+aa(lp540
 I13
 aI149
 aI38
@@ -11916,7 +11954,32 @@ aI24
 aI2
 aI0
 aI50
-aa(lp535
+aa(lp541
+I181
+aI13
+aI90
+aI15
+aI179
+aI148
+aI38
+aI46
+aI0
+aI156
+aI95
+aI2
+aI24
+aI81
+aI18
+aI42
+aI88
+aI57
+aI178
+aI124
+aI153
+aI38
+aI46
+aI50
+aa(lp542
 I90
 aI149
 aI2
@@ -11932,7 +11995,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp536
+aa(lp543
 I178
 aI91
 aI149
@@ -11967,7 +12030,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp537
+aa(lp544
 I56
 aI0
 aI0
@@ -11985,7 +12048,7 @@ aI148
 aI88
 aI0
 aI50
-aa(lp538
+aa(lp545
 I2
 aI0
 aI0
@@ -12033,7 +12096,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp539
+aa(lp546
 I195
 aI149
 aI113
@@ -12059,7 +12122,7 @@ aI150
 aI0
 aI0
 aI50
-aa(lp540
+aa(lp547
 I38
 aI295
 aI218
@@ -12083,7 +12146,7 @@ aI90
 aI157
 aI61
 aI50
-aa(lp541
+aa(lp548
 I153
 aI54
 aI159
@@ -12127,7 +12190,7 @@ aI178
 aI61
 aI78
 aI50
-aa(lp542
+aa(lp549
 I2
 aI66
 aI61
@@ -12158,7 +12221,7 @@ aI68
 aI205
 aI169
 aI50
-aa(lp543
+aa(lp550
 I2
 aI268
 aI55
@@ -12172,7 +12235,7 @@ aI162
 aI57
 aI88
 aI50
-aa(lp544
+aa(lp551
 I48
 aI57
 aI0
@@ -12185,7 +12248,7 @@ aI38
 aI183
 aI197
 aI50
-aa(lp545
+aa(lp552
 I0
 aI222
 aI149
@@ -12208,7 +12271,7 @@ aI153
 aI169
 aI48
 aI50
-aa(lp546
+aa(lp553
 I18
 aI302
 aI77
@@ -12227,7 +12290,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp547
+aa(lp554
 I0
 aI2
 aI55
@@ -12252,7 +12315,37 @@ aI164
 aI158
 aI146
 aI50
-aa(lp548
+aa(lp555
+I0
+aI55
+aI243
+aI227
+aI182
+aI0
+aI0
+aI24
+aI269
+aI0
+aI38
+aI88
+aI123
+aI149
+aI2
+aI117
+aI38
+aI0
+aI113
+aI15
+aI0
+aI38
+aI0
+aI0
+aI276
+aI0
+aI163
+aI254
+aI50
+aa(lp556
 I57
 aI0
 aI163
@@ -12283,7 +12376,7 @@ aI1
 aI281
 aI0
 aI50
-aa(lp549
+aa(lp557
 I2
 aI174
 aI66
@@ -12295,7 +12388,7 @@ aI235
 aI0
 aI254
 aI50
-aa(lp550
+aa(lp558
 I2
 aI0
 aI294
@@ -12309,7 +12402,7 @@ aI128
 aI210
 aI172
 aI50
-aa(lp551
+aa(lp559
 I38
 aI92
 aI0
@@ -12338,7 +12431,7 @@ aI163
 aI59
 aI0
 aI50
-aa(lp552
+aa(lp560
 I0
 aI0
 aI0
@@ -12350,7 +12443,7 @@ aI38
 aI92
 aI93
 aI50
-aa(lp553
+aa(lp561
 I38
 aI0
 aI148
@@ -12368,37 +12461,7 @@ aI254
 aI117
 aI0
 aI50
-aa(lp554
-I95
-aI248
-aI38
-aI110
-aI0
-aI113
-aI0
-aI117
-aI0
-aI162
-aI250
-aI174
-aI24
-aI43
-aI266
-aI0
-aI0
-aI0
-aI24
-aI81
-aI38
-aI0
-aI0
-aI0
-aI57
-aI178
-aI0
-aI0
-aI50
-aa(lp555
+aa(lp562
 I0
 aI0
 aI55
@@ -12409,7 +12472,7 @@ aI70
 aI38
 aI2
 aI50
-aa(lp556
+aa(lp563
 I2
 aI24
 aI178
@@ -12435,7 +12498,7 @@ aI214
 aI157
 aI61
 aI50
-aa(lp557
+aa(lp564
 I95
 aI2
 aI66
@@ -12472,7 +12535,7 @@ aI81
 aI301
 aI42
 aI50
-aa(lp558
+aa(lp565
 I18
 aI66
 aI309
@@ -12486,7 +12549,7 @@ aI117
 aI118
 aI310
 aI50
-aa(lp559
+aa(lp566
 I0
 aI258
 aI0
@@ -12502,7 +12565,7 @@ aI178
 aI0
 aI123
 aI50
-aa(lp560
+aa(lp567
 I18
 aI0
 aI181
@@ -12515,10 +12578,10 @@ aI0
 aI93
 aI208
 aI50
-aa(lp561
+aa(lp568
 I50
 aI81
-aa(lp562
+aa(lp569
 I168
 aI56
 aI293
@@ -12561,7 +12624,7 @@ aI82
 aI0
 aI0
 aI50
-aa(lp563
+aa(lp570
 I0
 aI0
 aI154
@@ -12592,7 +12655,7 @@ aI24
 aI18
 aI42
 aI50
-aa(lp564
+aa(lp571
 I0
 aI165
 aI2
@@ -12605,7 +12668,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp565
+aa(lp572
 I38
 aI190
 aI248
@@ -12660,7 +12723,7 @@ aI153
 aI0
 aI50
 aI81
-aa(lp566
+aa(lp573
 I18
 aI0
 aI56
@@ -12699,7 +12762,7 @@ aI150
 aI59
 aI0
 aI50
-aa(lp567
+aa(lp574
 I38
 aI0
 aI147
@@ -12716,7 +12779,7 @@ aI24
 aI117
 aI216
 aI50
-aa(lp568
+aa(lp575
 I222
 aI0
 aI149
@@ -12740,7 +12803,7 @@ aI149
 aI136
 aI306
 aI50
-aa(lp569
+aa(lp576
 I2
 aI24
 aI0
@@ -12777,7 +12840,7 @@ aI70
 aI38
 aI78
 aI50
-aa(lp570
+aa(lp577
 I18
 aI84
 aI203
@@ -12789,7 +12852,7 @@ aI46
 aI148
 aI88
 aI50
-aa(lp571
+aa(lp578
 I0
 aI0
 aI148
@@ -12797,9 +12860,9 @@ aI0
 aI70
 aI173
 aI50
-aa(lp572
+aa(lp579
 I50
-aa(lp573
+aa(lp580
 I18
 aI77
 aI162
@@ -12844,7 +12907,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp574
+aa(lp581
 I136
 aI238
 aI0
@@ -12855,7 +12918,7 @@ aI117
 aI0
 aI267
 aI50
-aa(lp575
+aa(lp582
 I95
 aI2
 aI77
@@ -12879,7 +12942,7 @@ aI281
 aI157
 aI254
 aI50
-aa(lp576
+aa(lp583
 I2
 aI282
 aI0
@@ -12902,7 +12965,7 @@ aI173
 aI114
 aI61
 aI50
-aa(lp577
+aa(lp584
 I2
 aI55
 aI18
@@ -12935,19 +12998,7 @@ aI3
 aI203
 aI0
 aI50
-aa(lp578
-I18
-aI232
-aI181
-aI0
-aI0
-aI153
-aI38
-aI46
-aI148
-aI88
-aI50
-aa(lp579
+aa(lp585
 I18
 aI84
 aI0
@@ -12969,7 +13020,51 @@ aI0
 aI38
 aI92
 aI50
-aa(lp580
+aa(lp586
+I58
+aI0
+aI0
+aI0
+aI163
+aI0
+aI178
+aI0
+aI24
+aI56
+aI15
+aI0
+aI157
+aI178
+aI0
+aI56
+aI66
+aI139
+aI0
+aI64
+aI50
+aa(lp587
+I38
+aI140
+aI24
+aI235
+aI0
+aI24
+aI77
+aI0
+aI227
+aI8
+aI0
+aI2
+aI24
+aI178
+aI115
+aI241
+aI0
+aI117
+aI186
+aI213
+aI50
+aa(lp588
 I56
 aI65
 aI45
@@ -13006,7 +13101,7 @@ aI38
 aI0
 aI0
 aI50
-aa(lp581
+aa(lp589
 I0
 aI84
 aI78
@@ -13037,7 +13132,7 @@ aI186
 aI213
 aI46
 aI50
-aa(lp582
+aa(lp590
 I0
 aI149
 aI88
@@ -13053,7 +13148,7 @@ aI0
 aI149
 aI88
 aI50
-aa(lp583
+aa(lp591
 I178
 aI2
 aI0
@@ -13093,7 +13188,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp584
+aa(lp592
 I95
 aI57
 aI0
@@ -13120,14 +13215,14 @@ aI81
 aI0
 aI42
 aI50
-aa(lp585
+aa(lp593
 I2
 aI0
 aI163
 aI250
 aI0
 aI50
-aa(lp586
+aa(lp594
 I152
 aI207
 aI302
@@ -13161,7 +13256,7 @@ aI111
 aI93
 aI175
 aI50
-aa(lp587
+aa(lp595
 I181
 aI88
 aI170
@@ -13179,7 +13274,7 @@ aI24
 aI57
 aI0
 aI50
-aa(lp588
+aa(lp596
 I18
 aI66
 aI0
@@ -13206,7 +13301,7 @@ aI36
 aI0
 aI16
 aI50
-aa(lp589
+aa(lp597
 I38
 aI0
 aI162
@@ -13235,7 +13330,7 @@ aI300
 aI149
 aI61
 aI50
-aa(lp590
+aa(lp598
 I88
 aI18
 aI232
@@ -13256,7 +13351,7 @@ aI38
 aI32
 aI172
 aI50
-aa(lp591
+aa(lp599
 I0
 aI5
 aI0
@@ -13283,7 +13378,7 @@ aI39
 aI0
 aI197
 aI50
-aa(lp592
+aa(lp600
 I152
 aI266
 aI49
@@ -13307,7 +13402,28 @@ aI169
 aI57
 aI88
 aI50
-aa(lp593
+aa(lp601
+I18
+aI0
+aI22
+aI13
+aI8
+aI220
+aI57
+aI88
+aI24
+aI117
+aI0
+aI178
+aI13
+aI308
+aI0
+aI0
+aI24
+aI0
+aI0
+aI50
+aa(lp602
 I38
 aI188
 aI149
@@ -13324,7 +13440,7 @@ aI15
 aI225
 aI134
 aI50
-aa(lp594
+aa(lp603
 I299
 aI153
 aI178
@@ -13340,7 +13456,7 @@ aI0
 aI55
 aI152
 aI50
-aa(lp595
+aa(lp604
 I0
 aI302
 aI177
@@ -13375,10 +13491,10 @@ aI0
 aI24
 aI0
 aI50
-aa(lp596
+aa(lp605
 I13
 aI50
-aa(lp597
+aa(lp606
 I2
 aI24
 aI279
@@ -13400,20 +13516,7 @@ aI92
 aI148
 aI88
 aI50
-aa(lp598
-I13
-aI0
-aI55
-aI113
-aI181
-aI0
-aI24
-aI0
-aI0
-aI77
-aI0
-aI50
-aa(lp599
+aa(lp607
 I0
 aI24
 aI0
@@ -13455,10 +13558,7 @@ aI78
 aI149
 aI253
 aI50
-aa(lp600
-I13
-aI50
-aa(lp601
+aa(lp608
 I184
 aI57
 aI88
@@ -13467,7 +13567,7 @@ aI38
 aI61
 aI0
 aI50
-aa(lp602
+aa(lp609
 I2
 aI84
 aI13
@@ -13494,7 +13594,7 @@ aI254
 aI57
 aI0
 aI50
-aa(lp603
+aa(lp610
 I0
 aI0
 aI24
@@ -13533,7 +13633,7 @@ aI248
 aI0
 aI0
 aI50
-aa(lp604
+aa(lp611
 I0
 aI13
 aI5
@@ -13560,7 +13660,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp605
+aa(lp612
 I178
 aI0
 aI192
@@ -13581,7 +13681,7 @@ aI178
 aI204
 aI133
 aI50
-aa(lp606
+aa(lp613
 I57
 aI244
 aI163
@@ -13602,7 +13702,7 @@ aI81
 aI149
 aI61
 aI50
-aa(lp607
+aa(lp614
 I0
 aI66
 aI64
@@ -13610,7 +13710,7 @@ aI65
 aI279
 aI92
 aI50
-aa(lp608
+aa(lp615
 I156
 aI149
 aI88
@@ -13627,7 +13727,7 @@ aI61
 aI178
 aI175
 aI50
-aa(lp609
+aa(lp616
 I0
 aI0
 aI55
@@ -13637,9 +13737,9 @@ aI57
 aI181
 aI92
 aI50
-aa(lp610
+aa(lp617
 I50
-aa(lp611
+aa(lp618
 I38
 aI92
 aI24
@@ -13670,7 +13770,7 @@ aI0
 aI149
 aI61
 aI50
-aa(lp612
+aa(lp619
 I0
 aI24
 aI0
@@ -13699,9 +13799,9 @@ aI148
 aI38
 aI46
 aI50
-aa(lp613
+aa(lp620
 I50
-aa(lp614
+aa(lp621
 I217
 aI38
 aI92
@@ -13739,7 +13839,7 @@ aI57
 aI129
 aI0
 aI50
-aa(lp615
+aa(lp622
 I95
 aI263
 aI0
@@ -13772,7 +13872,7 @@ aI81
 aI0
 aI0
 aI50
-aa(lp616
+aa(lp623
 I28
 aI0
 aI163
@@ -13786,7 +13886,7 @@ aI149
 aI95
 aI146
 aI50
-aa(lp617
+aa(lp624
 I2
 aI84
 aI186
@@ -13809,7 +13909,7 @@ aI149
 aI0
 aI304
 aI50
-aa(lp618
+aa(lp625
 I113
 aI166
 aI149
@@ -13869,50 +13969,43 @@ aI149
 aI38
 aI254
 aI50
-aa(lp619
+aa(lp626
 I0
+aI0
+aI174
 aI2
+aI72
 aI0
-aI213
+aI149
+aI38
+aI144
+aI56
+aI204
+aI257
 aI163
-aI0
-aI254
-aI253
-aI0
-aI8
+aI127
+aI83
+aI56
+aI31
+aI169
+aI88
+aI50
+aa(lp627
+I0
 aI0
 aI24
-aI56
-aI0
-aI0
-aI205
-aI70
-aI61
-aI123
+aI182
 aI149
-aI267
+aI2
+aI24
+aI42
+aI18
+aI84
 aI0
-aI178
-aI61
-aI0
-aI0
-aI149
-aI88
-aI0
-aI0
-aI216
-aI0
-aI157
-aI181
-aI0
-aI161
-aI230
-aI149
-aI88
-aI0
+aI207
 aI0
 aI50
-aa(lp620
+aa(lp628
 I0
 aI293
 aI139
@@ -13929,7 +14022,7 @@ aI70
 aI0
 aI5
 aI50
-aa(lp621
+aa(lp629
 I18
 aI66
 aI88
@@ -13939,7 +14032,7 @@ aI14
 aI149
 aI61
 aI50
-aa(lp622
+aa(lp630
 I95
 aI0
 aI97
@@ -13960,7 +14053,7 @@ aI81
 aI0
 aI42
 aI50
-aa(lp623
+aa(lp631
 I127
 aI38
 aI34
@@ -13980,7 +14073,7 @@ aI99
 aI39
 aI0
 aI50
-aa(lp624
+aa(lp632
 I38
 aI0
 aI29
@@ -14005,7 +14098,7 @@ aI10
 aI38
 aI2
 aI50
-aa(lp625
+aa(lp633
 I210
 aI245
 aI207
@@ -14013,7 +14106,7 @@ aI0
 aI57
 aI0
 aI50
-aa(lp626
+aa(lp634
 I95
 aI56
 aI293
@@ -14042,7 +14135,7 @@ aI0
 aI0
 aI80
 aI50
-aa(lp627
+aa(lp635
 I95
 aI250
 aI0
@@ -14069,7 +14162,7 @@ aI0
 aI70
 aI2
 aI50
-aa(lp628
+aa(lp636
 I57
 aI88
 aI24
@@ -14094,7 +14187,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp629
+aa(lp637
 I2
 aI194
 aI149
@@ -14108,7 +14201,7 @@ aI182
 aI149
 aI254
 aI50
-aa(lp630
+aa(lp638
 I0
 aI0
 aI163
@@ -14131,7 +14224,7 @@ aI148
 aI126
 aI169
 aI50
-aa(lp631
+aa(lp639
 I18
 aI0
 aI13
@@ -14142,7 +14235,7 @@ aI13
 aI173
 aI0
 aI50
-aa(lp632
+aa(lp640
 I152
 aI84
 aI178
@@ -14152,7 +14245,7 @@ aI291
 aI0
 aI50
 aI81
-aa(lp633
+aa(lp641
 I2
 aI0
 aI163
@@ -14167,7 +14260,7 @@ aI0
 aI149
 aI88
 aI50
-aa(lp634
+aa(lp642
 I13
 aI309
 aI0
@@ -14181,7 +14274,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp635
+aa(lp643
 I2
 aI117
 aI0
@@ -14197,7 +14290,7 @@ aI70
 aI38
 aI78
 aI50
-aa(lp636
+aa(lp644
 I56
 aI55
 aI2
@@ -14216,7 +14309,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp637
+aa(lp645
 I38
 aI0
 aI0
@@ -14239,7 +14332,7 @@ aI0
 aI156
 aI0
 aI50
-aa(lp638
+aa(lp646
 I2
 aI0
 aI181
@@ -14271,7 +14364,7 @@ aI24
 aI0
 aI0
 aI50
-aa(lp639
+aa(lp647
 I2
 aI117
 aI254
@@ -14282,7 +14375,7 @@ aI0
 aI131
 aI5
 aI50
-aa(lp640
+aa(lp648
 I38
 aI0
 aI206
@@ -14294,7 +14387,7 @@ aI28
 aI0
 aI0
 aI50
-aa(lp641
+aa(lp649
 I38
 aI79
 aI77
@@ -14333,7 +14426,7 @@ aI1
 aI281
 aI0
 aI50
-aa(lp642
+aa(lp650
 I2
 aI24
 aI268
@@ -14353,7 +14446,7 @@ aI0
 aI254
 aI286
 aI50
-aa(lp643
+aa(lp651
 I2
 aI125
 aI46
@@ -14380,7 +14473,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp644
+aa(lp652
 I2
 aI24
 aI57
@@ -14404,7 +14497,7 @@ aI178
 aI0
 aI101
 aI50
-aa(lp645
+aa(lp653
 I2
 aI55
 aI38
@@ -14433,7 +14526,7 @@ aI237
 aI169
 aI88
 aI50
-aa(lp646
+aa(lp654
 I2
 aI24
 aI178
@@ -14452,9 +14545,7 @@ aI31
 aI169
 aI88
 aI50
-aa(lp647
-I50
-aa(lp648
+aa(lp655
 I38
 aI78
 aI0
@@ -14470,7 +14561,7 @@ aI156
 aI227
 aI0
 aI50
-aa(lp649
+aa(lp656
 I185
 aI88
 aI24
@@ -14481,7 +14572,7 @@ aI287
 aI0
 aI61
 aI50
-aa(lp650
+aa(lp657
 I113
 aI0
 aI88
@@ -14495,7 +14586,7 @@ aI153
 aI0
 aI0
 aI50
-aa(lp651
+aa(lp658
 I152
 aI266
 aI49
@@ -14516,7 +14607,7 @@ aI263
 aI78
 aI122
 aI50
-aa(lp652
+aa(lp659
 I0
 aI24
 aI181
@@ -14533,7 +14624,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp653
+aa(lp660
 I2
 aI84
 aI87
@@ -14553,7 +14644,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp654
+aa(lp661
 I18
 aI55
 aI107
@@ -14561,7 +14652,7 @@ aI0
 aI24
 aI0
 aI50
-aa(lp655
+aa(lp662
 I171
 aI77
 aI0
@@ -14591,48 +14682,7 @@ aI157
 aI189
 aI88
 aI50
-aa(lp656
-I148
-aI88
-aI24
-aI18
-aI117
-aI0
-aI282
-aI0
-aI157
-aI263
-aI60
-aI2
-aI0
-aI218
-aI24
-aI268
-aI55
-aI0
-aI163
-aI0
-aI178
-aI0
-aI13
-aI0
-aI0
-aI149
-aI0
-aI13
-aI0
-aI149
-aI0
-aI0
-aI224
-aI0
-aI22
-aI38
-aI0
-aI0
-aI0
-aI50
-aa(lp657
+aa(lp663
 I2
 aI0
 aI266
@@ -14642,7 +14692,7 @@ aI163
 aI0
 aI18
 aI50
-aa(lp658
+aa(lp664
 I35
 aI19
 aI24
@@ -14665,37 +14715,7 @@ aI93
 aI57
 aI88
 aI50
-aa(lp659
-I48
-aI266
-aI0
-aI54
-aI159
-aI103
-aI0
-aI88
-aI24
-aI0
-aI38
-aI46
-aI0
-aI0
-aI73
-aI13
-aI308
-aI185
-aI88
-aI117
-aI73
-aI13
-aI308
-aI248
-aI181
-aI252
-aI0
-aI88
-aI50
-aa(lp660
+aa(lp665
 I0
 aI0
 aI55
@@ -14705,7 +14725,22 @@ aI157
 aI38
 aI2
 aI50
-aa(lp661
+aa(lp666
+I2
+aI0
+aI38
+aI0
+aI149
+aI181
+aI40
+aI92
+aI57
+aI279
+aI46
+aI124
+aI88
+aI50
+aa(lp667
 I0
 aI0
 aI135
@@ -14722,7 +14757,7 @@ aI117
 aI0
 aI239
 aI50
-aa(lp662
+aa(lp668
 I299
 aI18
 aI84
@@ -14741,7 +14776,7 @@ aI252
 aI156
 aI61
 aI50
-aa(lp663
+aa(lp669
 I0
 aI24
 aI38
@@ -14771,7 +14806,7 @@ aI153
 aI38
 aI46
 aI50
-aa(lp664
+aa(lp670
 I181
 aI62
 aI0
@@ -14797,7 +14832,7 @@ aI178
 aI0
 aI0
 aI50
-aa(lp665
+aa(lp671
 I294
 aI0
 aI149
@@ -14821,7 +14856,7 @@ aI263
 aI92
 aI122
 aI50
-aa(lp666
+aa(lp672
 I88
 aI24
 aI48
@@ -14838,49 +14873,7 @@ aI149
 aI18
 aI253
 aI50
-aa(lp667
-I2
-aI174
-aI177
-aI163
-aI166
-aI181
-aI90
-aI148
-aI38
-aI46
-aI3
-aI38
-aI158
-aI146
-aI24
-aI38
-aI0
-aI0
-aI50
-aa(lp668
-I2
-aI88
-aI66
-aI13
-aI276
-aI0
-aI57
-aI0
-aI76
-aI307
-aI156
-aI285
-aI156
-aI178
-aI0
-aI149
-aI0
-aI0
-aI0
-aI0
-aI50
-aa(lp669
+aa(lp673
 I2
 aI66
 aI232
@@ -14903,7 +14896,7 @@ aI178
 aI203
 aI253
 aI50
-aa(lp670
+aa(lp674
 I181
 aI0
 aI174
@@ -14922,7 +14915,7 @@ aI181
 aI88
 aI0
 aI50
-aa(lp671
+aa(lp675
 I38
 aI0
 aI0
@@ -14942,39 +14935,14 @@ aI13
 aI0
 aI0
 aI50
-aa(lp672
-I301
-aI302
-aI243
-aI38
-aI2
-aI157
-aI38
-aI86
-aI149
-aI181
-aI0
-aI227
-aI254
-aI50
-aa(lp673
+aa(lp676
 I0
 aI135
 aI0
 aI117
 aI0
 aI50
-aa(lp674
-I82
-aI101
-aI66
-aI49
-aI204
-aI70
-aI38
-aI78
-aI50
-aa(lp675
+aa(lp677
 I0
 aI0
 aI148
@@ -14982,7 +14950,7 @@ aI0
 aI70
 aI173
 aI50
-aa(lp676
+aa(lp678
 I38
 aI13
 aI5
@@ -15004,7 +14972,7 @@ aI24
 aI77
 aI0
 aI50
-aa(lp677
+aa(lp679
 I2
 aI125
 aI46
@@ -15027,7 +14995,7 @@ aI157
 aI61
 aI30
 aI50
-aa(lp678
+aa(lp680
 I38
 aI188
 aI149
@@ -15047,7 +15015,7 @@ aI107
 aI49
 aI0
 aI50
-aa(lp679
+aa(lp681
 I2
 aI149
 aI0
@@ -15079,7 +15047,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp680
+aa(lp682
 I88
 aI24
 aI18
@@ -15089,7 +15057,7 @@ aI0
 aI149
 aI61
 aI50
-aa(lp681
+aa(lp683
 I38
 aI0
 aI236
@@ -15106,7 +15074,7 @@ aI134
 aI185
 aI88
 aI50
-aa(lp682
+aa(lp684
 I18
 aI149
 aI2
@@ -15145,7 +15113,7 @@ aI147
 aI116
 aI0
 aI50
-aa(lp683
+aa(lp685
 I0
 aI0
 aI107
@@ -15162,7 +15130,7 @@ aI70
 aI181
 aI78
 aI50
-aa(lp684
+aa(lp686
 I156
 aI178
 aI174
@@ -15201,7 +15169,7 @@ aI0
 aI126
 aI169
 aI50
-aa(lp685
+aa(lp687
 I0
 aI57
 aI88
@@ -15233,7 +15201,7 @@ aI0
 aI181
 aI0
 aI50
-aa(lp686
+aa(lp688
 I38
 aI0
 aI0
@@ -15264,7 +15232,7 @@ aI154
 aI149
 aI61
 aI50
-aa(lp687
+aa(lp689
 I168
 aI55
 aI173
@@ -15290,7 +15258,7 @@ aI0
 aI149
 aI44
 aI50
-aa(lp688
+aa(lp690
 I2
 aI0
 aI0
@@ -15301,7 +15269,29 @@ aI24
 aI0
 aI277
 aI50
-aa(lp689
+aa(lp691
+I56
+aI302
+aI0
+aI38
+aI2
+aI24
+aI268
+aI0
+aI178
+aI0
+aI149
+aI0
+aI0
+aI0
+aI24
+aI0
+aI0
+aI117
+aI0
+aI0
+aI50
+aa(lp692
 I38
 aI0
 aI24
@@ -15327,13 +15317,13 @@ aI178
 aI0
 aI13
 aI50
-aa(lp690
+aa(lp693
 I38
 aI2
 aI0
 aI88
 aI50
-aa(lp691
+aa(lp694
 I95
 aI88
 aI56
@@ -15352,7 +15342,7 @@ aI301
 aI10
 aI2
 aI50
-aa(lp692
+aa(lp695
 I0
 aI88
 aI24
@@ -15383,7 +15373,7 @@ aI150
 aI309
 aI0
 aI50
-aa(lp693
+aa(lp696
 I127
 aI38
 aI34
@@ -15391,7 +15381,7 @@ aI85
 aI2
 aI0
 aI50
-aa(lp694
+aa(lp697
 I18
 aI302
 aI55
@@ -15418,62 +15408,14 @@ aI0
 aI132
 aI304
 aI50
-aa(lp695
-I2
-aI24
-aI178
-aI0
-aI174
-aI113
-aI0
-aI181
-aI21
-aI57
-aI0
-aI24
-aI254
-aI24
-aI88
-aI6
-aI177
-aI70
-aI279
-aI75
-aI169
-aI78
-aI227
-aI88
-aI163
-aI211
-aI61
-aI50
-aa(lp696
-I95
-aI153
-aI61
-aI57
-aI34
-aI138
-aI0
-aI24
-aI168
-aI84
-aI107
-aI163
-aI288
-aI24
-aI81
-aI0
-aI42
-aI50
-aa(lp697
+aa(lp698
 I148
 aI0
 aI24
 aI2
 aI24
 aI50
-aa(lp698
+aa(lp699
 I18
 aI66
 aI0
@@ -15499,7 +15441,7 @@ aI57
 aI38
 aI0
 aI50
-aa(lp699
+aa(lp700
 I38
 aI2
 aI0
@@ -15516,17 +15458,19 @@ aI148
 aI38
 aI46
 aI50
-aa(lp700
-I163
-aI101
-aI24
-aI0
+aa(lp701
+I2
 aI66
 aI72
-aI145
+aI104
 aI61
+aI57
+aI115
+aI184
+aI163
+aI101
 aI50
-aa(lp701
+aa(lp702
 I38
 aI0
 aI163
@@ -15554,7 +15498,7 @@ aI33
 aI145
 aI88
 aI50
-aa(lp702
+aa(lp703
 I95
 aI0
 aI0
@@ -15565,7 +15509,7 @@ aI211
 aI250
 aI144
 aI50
-aa(lp703
+aa(lp704
 I38
 aI92
 aI72
@@ -15582,7 +15526,7 @@ aI300
 aI149
 aI61
 aI50
-aa(lp704
+aa(lp705
 I2
 aI289
 aI61
@@ -15598,7 +15542,26 @@ aI163
 aI169
 aI244
 aI50
-aa(lp705
+aa(lp706
+I2
+aI66
+aI185
+aI303
+aI0
+aI38
+aI20
+aI149
+aI181
+aI69
+aI239
+aI117
+aI0
+aI0
+aI38
+aI272
+aI0
+aI50
+aa(lp707
 I2
 aI0
 aI0
@@ -15608,7 +15571,7 @@ aI84
 aI0
 aI0
 aI50
-aa(lp706
+aa(lp708
 I0
 aI163
 aI211
@@ -15635,7 +15598,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp707
+aa(lp709
 I271
 aI57
 aI0
@@ -15662,7 +15625,22 @@ aI149
 aI38
 aI0
 aI50
-aa(lp708
+aa(lp710
+I2
+aI11
+aI178
+aI9
+aI287
+aI57
+aI88
+aI149
+aI61
+aI148
+aI154
+aI149
+aI61
+aI50
+aa(lp711
 I56
 aI11
 aI178
@@ -15687,7 +15665,7 @@ aI0
 aI227
 aI61
 aI50
-aa(lp709
+aa(lp712
 I2
 aI24
 aI38
@@ -15733,7 +15711,7 @@ aI153
 aI38
 aI46
 aI50
-aa(lp710
+aa(lp713
 I95
 aI0
 aI0
@@ -15744,7 +15722,7 @@ aI157
 aI38
 aI2
 aI50
-aa(lp711
+aa(lp714
 I152
 aI116
 aI0
@@ -15770,7 +15748,7 @@ aI38
 aI183
 aI0
 aI50
-aa(lp712
+aa(lp715
 I113
 aI144
 aI77
@@ -15783,7 +15761,7 @@ aI117
 aI76
 aI218
 aI50
-aa(lp713
+aa(lp716
 I127
 aI38
 aI34
@@ -15791,7 +15769,7 @@ aI85
 aI2
 aI0
 aI50
-aa(lp714
+aa(lp717
 I309
 aI60
 aI247
@@ -15808,7 +15786,7 @@ aI2
 aI117
 aI254
 aI50
-aa(lp715
+aa(lp718
 I217
 aI38
 aI93
@@ -15838,7 +15816,7 @@ aI153
 aI8
 aI159
 aI50
-aa(lp716
+aa(lp719
 I95
 aI156
 aI250
@@ -15866,7 +15844,7 @@ aI0
 aI0
 aI50
 aI81
-aa(lp717
+aa(lp720
 I28
 aI65
 aI0
@@ -15886,7 +15864,7 @@ aI84
 aI13
 aI0
 aI50
-aa(lp718
+aa(lp721
 I2
 aI77
 aI0
@@ -15897,7 +15875,7 @@ aI86
 aI149
 aI0
 aI50
-aa(lp719
+aa(lp722
 I95
 aI113
 aI0
@@ -15917,7 +15895,29 @@ aI70
 aI2
 aI50
 aI81
-aa(lp720
+aa(lp723
+I2
+aI88
+aI0
+aI254
+aI163
+aI0
+aI24
+aI0
+aI24
+aI141
+aI117
+aI0
+aI178
+aI0
+aI228
+aI149
+aI0
+aI0
+aI0
+aI160
+aI50
+aa(lp724
 I95
 aI129
 aI0
@@ -15957,22 +15957,7 @@ aI81
 aI56
 aI0
 aI50
-aa(lp721
-I2
-aI31
-aI169
-aI88
-aI24
-aI233
-aI61
-aI180
-aI181
-aI75
-aI169
-aI253
-aI78
-aI50
-aa(lp722
+aa(lp725
 I117
 aI217
 aI279
@@ -15996,7 +15981,7 @@ aI178
 aI0
 aI50
 aI81
-aa(lp723
+aa(lp726
 I2
 aI84
 aI9
@@ -16009,7 +15994,7 @@ aI88
 aI116
 aI61
 aI50
-aa(lp724
+aa(lp727
 I38
 aI8
 aI0
@@ -16023,9 +16008,34 @@ aI70
 aI38
 aI29
 aI50
-aa(lp725
+aa(lp728
 I50
-aa(lp726
+aa(lp729
+I2
+aI0
+aI163
+aI211
+aI144
+aI57
+aI38
+aI169
+aI172
+aI0
+aI0
+aI18
+aI55
+aI0
+aI0
+aI117
+aI0
+aI138
+aI163
+aI0
+aI181
+aI0
+aI0
+aI50
+aa(lp730
 I38
 aI0
 aI0
@@ -16047,7 +16057,7 @@ aI0
 aI149
 aI0
 aI50
-aa(lp727
+aa(lp731
 I18
 aI77
 aI162
@@ -16073,7 +16083,7 @@ aI255
 aI140
 aI67
 aI50
-aa(lp728
+aa(lp732
 I0
 aI0
 aI24
@@ -16104,7 +16114,7 @@ aI148
 aI0
 aI184
 aI50
-aa(lp729
+aa(lp733
 I178
 aI2
 aI0
@@ -16122,7 +16132,7 @@ aI279
 aI92
 aI124
 aI50
-aa(lp730
+aa(lp734
 I56
 aI0
 aI107
@@ -16132,7 +16142,7 @@ aI0
 aI38
 aI0
 aI50
-aa(lp731
+aa(lp735
 I57
 aI0
 aI24
@@ -16157,7 +16167,7 @@ aI227
 aI0
 aI254
 aI50
-aa(lp732
+aa(lp736
 I56
 aI65
 aI61
@@ -16169,7 +16179,7 @@ aI148
 aI113
 aI101
 aI50
-aa(lp733
+aa(lp737
 I18
 aI84
 aI177
@@ -16185,7 +16195,7 @@ aI178
 aI0
 aI174
 aI50
-aa(lp734
+aa(lp738
 I299
 aI17
 aI279
@@ -16211,7 +16221,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp735
+aa(lp739
 I38
 aI14
 aI188
@@ -16229,7 +16239,7 @@ aI163
 aI0
 aI0
 aI50
-aa(lp736
+aa(lp740
 I103
 aI0
 aI24
@@ -16263,7 +16273,7 @@ aI0
 aI0
 aI93
 aI50
-aa(lp737
+aa(lp741
 I2
 aI110
 aI11
@@ -16275,7 +16285,7 @@ aI237
 aI169
 aI88
 aI50
-aa(lp738
+aa(lp742
 I38
 aI0
 aI24
@@ -16307,7 +16317,7 @@ aI61
 aI117
 aI61
 aI50
-aa(lp739
+aa(lp743
 I0
 aI149
 aI2
@@ -16319,7 +16329,7 @@ aI116
 aI139
 aI0
 aI50
-aa(lp740
+aa(lp744
 I90
 aI149
 aI0
@@ -16343,7 +16353,7 @@ aI149
 aI169
 aI33
 aI50
-aa(lp741
+aa(lp745
 I38
 aI52
 aI120
@@ -16381,7 +16391,7 @@ aI61
 aI163
 aI61
 aI50
-aa(lp742
+aa(lp746
 I95
 aI57
 aI0
@@ -16415,7 +16425,7 @@ aI32
 aI176
 aI174
 aI50
-aa(lp743
+aa(lp747
 I0
 aI2
 aI24
@@ -16434,7 +16444,7 @@ aI33
 aI0
 aI88
 aI50
-aa(lp744
+aa(lp748
 I2
 aI117
 aI254
@@ -16444,7 +16454,7 @@ aI78
 aI84
 aI147
 aI50
-aa(lp745
+aa(lp749
 I57
 aI88
 aI275
@@ -16476,7 +16486,7 @@ aI117
 aI0
 aI48
 aI50
-aa(lp746
+aa(lp750
 I13
 aI0
 aI13
@@ -16515,7 +16525,46 @@ aI99
 aI117
 aI0
 aI50
-aa(lp747
+aa(lp751
+I18
+aI84
+aI2
+aI0
+aI0
+aI0
+aI0
+aI117
+aI0
+aI59
+aI0
+aI0
+aI163
+aI0
+aI117
+aI0
+aI21
+aI271
+aI148
+aI0
+aI102
+aI156
+aI0
+aI0
+aI24
+aI183
+aI0
+aI24
+aI0
+aI0
+aI24
+aI0
+aI0
+aI117
+aI0
+aI0
+aI0
+aI50
+aa(lp752
 I35
 aI0
 aI0
@@ -16526,7 +16575,7 @@ aI38
 aI92
 aI0
 aI50
-aa(lp748
+aa(lp753
 I56
 aI55
 aI38
@@ -16553,7 +16602,7 @@ aI61
 aI148
 aI88
 aI50
-aa(lp749
+aa(lp754
 I224
 aI38
 aI0
@@ -16625,7 +16674,7 @@ aI0
 aI227
 aI2
 aI50
-aa(lp750
+aa(lp755
 I2
 aI117
 aI254
@@ -16646,7 +16695,7 @@ aI263
 aI78
 aI122
 aI50
-aa(lp751
+aa(lp756
 I171
 aI148
 aI88
@@ -16671,7 +16720,7 @@ aI257
 aI57
 aI88
 aI50
-aa(lp752
+aa(lp757
 I2
 aI24
 aI38
@@ -16698,7 +16747,7 @@ aI0
 aI68
 aI197
 aI50
-aa(lp753
+aa(lp758
 I156
 aI0
 aI156
@@ -16714,7 +16763,7 @@ aI70
 aI38
 aI0
 aI50
-aa(lp754
+aa(lp759
 I2
 aI24
 aI268
@@ -16755,14 +16804,14 @@ aI234
 aI163
 aI61
 aI50
-aa(lp755
+aa(lp760
 I182
 aI231
 aI0
 aI0
 aI0
 aI50
-aa(lp756
+aa(lp761
 I0
 aI24
 aI181
@@ -16792,7 +16841,7 @@ aI38
 aI197
 aI88
 aI50
-aa(lp757
+aa(lp762
 I18
 aI66
 aI107
@@ -16810,7 +16859,7 @@ aI157
 aI168
 aI122
 aI50
-aa(lp758
+aa(lp763
 I38
 aI0
 aI88
@@ -16847,7 +16896,7 @@ aI263
 aI78
 aI122
 aI50
-aa(lp759
+aa(lp764
 I299
 aI0
 aI42
@@ -16861,7 +16910,7 @@ aI114
 aI113
 aI122
 aI50
-aa(lp760
+aa(lp765
 I38
 aI0
 aI0
@@ -16880,28 +16929,7 @@ aI279
 aI0
 aI61
 aI50
-aa(lp761
-I95
-aI56
-aI260
-aI225
-aI113
-aI17
-aI233
-aI250
-aI0
-aI24
-aI2
-aI260
-aI0
-aI0
-aI229
-aI178
-aI0
-aI0
-aI50
-aI81
-aa(lp762
+aa(lp766
 I2
 aI8
 aI0
@@ -16929,7 +16957,32 @@ aI124
 aI148
 aI88
 aI50
-aa(lp763
+aa(lp767
+I0
+aI2
+aI65
+aI45
+aI163
+aI0
+aI33
+aI149
+aI181
+aI90
+aI148
+aI38
+aI46
+aI148
+aI88
+aI24
+aI153
+aI13
+aI163
+aI13
+aI134
+aI70
+aI123
+aI50
+aa(lp768
 I2
 aI135
 aI187
@@ -16940,7 +16993,7 @@ aI117
 aI0
 aI239
 aI50
-aa(lp764
+aa(lp769
 I0
 aI0
 aI0
@@ -16950,7 +17003,7 @@ aI149
 aI38
 aI0
 aI50
-aa(lp765
+aa(lp770
 I178
 aI8
 aI0
@@ -16959,7 +17012,7 @@ aI0
 aI88
 aI0
 aI50
-aa(lp766
+aa(lp771
 I2
 aI220
 aI0
@@ -16988,43 +17041,30 @@ aI0
 aI0
 aI0
 aI50
-aa(lp767
-I88
-aI24
+aa(lp772
+I95
 aI2
-aI204
-aI178
-aI122
-aI228
-aI149
-aI61
-aI163
-aI61
-aI178
-aI175
-aI24
-aI268
+aI55
 aI0
-aI77
-aI305
+aI148
+aI98
 aI38
-aI61
-aI178
-aI175
-aI113
-aI48
-aI65
+aI239
+aI117
 aI0
-aI57
-aI181
-aI195
-aI219
-aI247
+aI18
+aI163
 aI0
-aI57
-aI88
+aI38
+aI0
+aI0
+aI70
+aI256
+aI0
+aI0
+aI0
 aI50
-aa(lp768
+aa(lp773
 I38
 aI0
 aI55
@@ -17060,7 +17100,7 @@ aI308
 aI149
 aI265
 aI50
-aa(lp769
+aa(lp774
 I83
 aI38
 aI0
@@ -17085,7 +17125,7 @@ aI0
 aI156
 aI61
 aI50
-aa(lp770
+aa(lp775
 I88
 aI24
 aI2
@@ -17118,22 +17158,7 @@ aI0
 aI0
 aI105
 aI50
-aa(lp771
-I13
-aI0
-aI0
-aI0
-aI1
-aI0
-aI0
-aI117
-aI183
-aI159
-aI266
-aI161
-aI0
-aI50
-aa(lp772
+aa(lp776
 I18
 aI66
 aI178
@@ -17146,7 +17171,7 @@ aI111
 aI180
 aI88
 aI50
-aa(lp773
+aa(lp777
 I2
 aI194
 aI0
@@ -17182,7 +17207,7 @@ aI56
 aI77
 aI274
 aI50
-aa(lp774
+aa(lp778
 I18
 aI84
 aI295
@@ -17200,7 +17225,7 @@ aI76
 aI307
 aI0
 aI50
-aa(lp775
+aa(lp779
 I309
 aI220
 aI238
@@ -17208,44 +17233,7 @@ aI2
 aI24
 aI254
 aI50
-aa(lp776
-I130
-aI163
-aI38
-aI296
-aI24
-aI171
-aI0
-aI173
-aI114
-aI13
-aI308
-aI149
-aI18
-aI125
-aI150
-aI63
-aI173
-aI114
-aI13
-aI90
-aI80
-aI217
-aI0
-aI0
-aI13
-aI308
-aI149
-aI18
-aI125
-aI63
-aI173
-aI114
-aI13
-aI90
-aI80
-aI50
-aa(lp777
+aa(lp780
 I2
 aI92
 aI209
@@ -17262,7 +17250,7 @@ aI0
 aI13
 aI90
 aI50
-aa(lp778
+aa(lp781
 I2
 aI77
 aI0
@@ -17278,7 +17266,7 @@ aI181
 aI92
 aI177
 aI50
-aa(lp779
+aa(lp782
 I2
 aI232
 aI70
@@ -17301,7 +17289,7 @@ aI181
 aI45
 aI123
 aI50
-aa(lp780
+aa(lp783
 I28
 aI207
 aI2
@@ -17319,7 +17307,7 @@ aI0
 aI24
 aI0
 aI50
-aa(lp781
+aa(lp784
 I0
 aI0
 aI135
@@ -17333,7 +17321,7 @@ aI0
 aI117
 aI183
 aI50
-aa(lp782
+aa(lp785
 I2
 aI66
 aI294
@@ -17347,7 +17335,7 @@ aI16
 aI57
 aI0
 aI50
-aa(lp783
+aa(lp786
 I0
 aI0
 aI24
@@ -17373,7 +17361,7 @@ aI0
 aI57
 aI18
 aI50
-aa(lp784
+aa(lp787
 I88
 aI24
 aI118
@@ -17422,7 +17410,7 @@ aI247
 aI0
 aI93
 aI50
-aa(lp785
+aa(lp788
 I0
 aI2
 aI51
@@ -17439,7 +17427,7 @@ aI46
 aI117
 aI254
 aI50
-aa(lp786
+aa(lp789
 I2
 aI66
 aI204
@@ -17452,7 +17440,39 @@ aI75
 aI169
 aI78
 aI50
-aa(lp787
+aa(lp790
+I2
+aI72
+aI173
+aI114
+aI61
+aI248
+aI178
+aI0
+aI0
+aI0
+aI113
+aI0
+aI254
+aI125
+aI18
+aI84
+aI283
+aI0
+aI153
+aI178
+aI13
+aI308
+aI142
+aI80
+aI24
+aI267
+aI24
+aI216
+aI117
+aI230
+aI50
+aa(lp791
 I70
 aI88
 aI24
@@ -17464,7 +17484,7 @@ aI154
 aI149
 aI61
 aI50
-aa(lp788
+aa(lp792
 I2
 aI0
 aI57
@@ -17484,7 +17504,7 @@ aI0
 aI0
 aI5
 aI50
-aa(lp789
+aa(lp793
 I18
 aI65
 aI61
@@ -17503,7 +17523,7 @@ aI29
 aI0
 aI0
 aI50
-aa(lp790
+aa(lp794
 I57
 aI178
 aI88
@@ -17525,7 +17545,7 @@ aI0
 aI38
 aI78
 aI50
-aa(lp791
+aa(lp795
 I181
 aI0
 aI0
@@ -17560,7 +17580,7 @@ aI13
 aI308
 aI80
 aI50
-aa(lp792
+aa(lp796
 I2
 aI55
 aI0
@@ -17583,7 +17603,7 @@ aI117
 aI0
 aI5
 aI50
-aa(lp793
+aa(lp797
 I95
 aI0
 aI149
@@ -17607,9 +17627,9 @@ aI81
 aI0
 aI42
 aI50
-aa(lp794
+aa(lp798
 I50
-aa(lp795
+aa(lp799
 I130
 aI163
 aI18
@@ -17641,7 +17661,7 @@ aI88
 aI0
 aI0
 aI50
-aa(lp796
+aa(lp800
 I2
 aI24
 aI178
@@ -17659,7 +17679,7 @@ aI78
 aI57
 aI88
 aI50
-aa(lp797
+aa(lp801
 I129
 aI0
 aI159
@@ -17677,14 +17697,14 @@ aI2
 aI84
 aI0
 aI50
-aa(lp798
+aa(lp802
 I0
 aI0
 aI135
 aI187
 aI109
 aI50
-aa(lp799
+aa(lp803
 I0
 aI178
 aI0
@@ -17704,7 +17724,7 @@ aI149
 aI93
 aI0
 aI50
-aa(lp800
+aa(lp804
 I2
 aI24
 aI268
@@ -17737,7 +17757,7 @@ aI92
 aI185
 aI88
 aI50
-aa(lp801
+aa(lp805
 I2
 aI66
 aI42
@@ -17762,7 +17782,7 @@ aI0
 aI149
 aI61
 aI50
-aa(lp802
+aa(lp806
 I171
 aI84
 aI0
@@ -17798,7 +17818,7 @@ aI0
 aI178
 aI0
 aI50
-aa(lp803
+aa(lp807
 I18
 aI45
 aI163
@@ -17822,7 +17842,7 @@ aI61
 aI117
 aI61
 aI50
-aa(lp804
+aa(lp808
 I2
 aI24
 aI268
@@ -17856,7 +17876,7 @@ aI0
 aI227
 aI254
 aI50
-aa(lp805
+aa(lp809
 I88
 aI24
 aI217
@@ -17897,7 +17917,7 @@ aI0
 aI149
 aI0
 aI50
-aa(lp806
+aa(lp810
 I38
 aI92
 aI55
@@ -17912,7 +17932,7 @@ aI151
 aI174
 aI88
 aI50
-aa(lp807
+aa(lp811
 I250
 aI86
 aI24
@@ -17937,9 +17957,15 @@ aI61
 aI178
 aI175
 aI50
-aa(lp808
-I50
-aa(lp809
+aa(lp812
+I18
+aI0
+aI232
+aI0
+aI148
+aI88
+aI50
+aa(lp813
 I0
 aI2
 aI24
@@ -17962,7 +17988,28 @@ aI13
 aI115
 aI0
 aI50
-aa(lp810
+aa(lp814
+I56
+aI275
+aI157
+aI61
+aI24
+aI234
+aI61
+aI248
+aI181
+aI92
+aI122
+aI299
+aI73
+aI61
+aI248
+aI0
+aI56
+aI0
+aI88
+aI50
+aa(lp815
 I95
 aI217
 aI43
@@ -17997,7 +18044,7 @@ aI0
 aI0
 aI50
 aI81
-aa(lp811
+aa(lp816
 I156
 aI0
 aI149
@@ -18031,7 +18078,7 @@ aI132
 aI186
 aI239
 aI50
-aa(lp812
+aa(lp817
 I0
 aI2
 aI31
@@ -18052,7 +18099,7 @@ aI18
 aI84
 aI0
 aI50
-aa(lp813
+aa(lp818
 I0
 aI84
 aI219
@@ -18067,7 +18114,7 @@ aI148
 aI38
 aI0
 aI50
-aa(lp814
+aa(lp819
 I113
 aI247
 aI123
@@ -18088,7 +18135,7 @@ aI142
 aI57
 aI18
 aI50
-aa(lp815
+aa(lp820
 I95
 aI38
 aI0
@@ -18143,7 +18190,7 @@ aI56
 aI31
 aI169
 aI50
-aa(lp816
+aa(lp821
 I2
 aI55
 aI139
@@ -18167,7 +18214,7 @@ aI267
 aI84
 aI0
 aI50
-aa(lp817
+aa(lp822
 I2
 aI66
 aI0
@@ -18194,35 +18241,7 @@ aI13
 aI0
 aI50
 aI81
-aa(lp818
-I0
-aI55
-aI0
-aI178
-aI0
-aI108
-aI149
-aI39
-aI259
-aI148
-aI279
-aI234
-aI0
-aI24
-aI153
-aI181
-aI90
-aI0
-aI13
-aI308
-aI148
-aI181
-aI88
-aI149
-aI33
-aI88
-aI50
-aa(lp819
+aa(lp823
 I48
 aI0
 aI0
@@ -18252,7 +18271,7 @@ aI0
 aI117
 aI254
 aI50
-aa(lp820
+aa(lp824
 I290
 aI18
 aI66
@@ -18288,7 +18307,7 @@ aI14
 aI0
 aI90
 aI50
-aa(lp821
+aa(lp825
 I0
 aI0
 aI0
@@ -18306,7 +18325,7 @@ aI0
 aI248
 aI254
 aI50
-aa(lp822
+aa(lp826
 I13
 aI149
 aI181
@@ -18372,7 +18391,7 @@ aI149
 aI132
 aI304
 aI50
-aa(lp823
+aa(lp827
 I0
 aI24
 aI0
@@ -18392,30 +18411,22 @@ aI0
 aI13
 aI308
 aI50
-aa(lp824
-I149
+aa(lp828
+I299
+aI70
+aI88
+aI24
 aI38
-aI90
-aI134
-aI24
-aI13
-aI207
-aI143
-aI209
-aI227
-aI2
-aI24
-aI117
-aI13
-aI207
-aI143
-aI209
-aI227
+aI92
+aI93
+aI55
 aI0
-aI191
-aI0
+aI275
+aI70
+aI239
 aI50
-aa(lp825
+aI81
+aa(lp829
 I56
 aI72
 aI294
@@ -18427,31 +18438,7 @@ aI23
 aI126
 aI169
 aI50
-aa(lp826
-I0
-aI272
-aI0
-aI196
-aI242
-aI24
-aI2
-aI24
-aI117
-aI254
-aI24
-aI210
-aI149
-aI0
-aI24
-aI0
-aI24
-aI0
-aI266
-aI0
-aI169
-aI47
-aI50
-aa(lp827
+aa(lp830
 I57
 aI181
 aI0
@@ -18483,7 +18470,7 @@ aI0
 aI0
 aI50
 aI81
-aa(lp828
+aa(lp831
 I2
 aI0
 aI113
@@ -18516,7 +18503,7 @@ aI60
 aI0
 aI5
 aI50
-aa(lp829
+aa(lp832
 I38
 aI2
 aI88
@@ -18539,7 +18526,7 @@ aI24
 aI0
 aI0
 aI50
-aa(lp830
+aa(lp833
 I2
 aI0
 aI117
@@ -18557,7 +18544,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp831
+aa(lp834
 I38
 aI0
 aI196
@@ -18589,7 +18576,7 @@ aI140
 aI0
 aI0
 aI50
-aa(lp832
+aa(lp835
 I18
 aI303
 aI22
@@ -18605,7 +18592,7 @@ aI149
 aI170
 aI236
 aI50
-aa(lp833
+aa(lp836
 I18
 aI55
 aI0
@@ -18627,7 +18614,31 @@ aI0
 aI0
 aI0
 aI50
-aa(lp834
+aa(lp837
+I0
+aI0
+aI39
+aI242
+aI2
+aI117
+aI254
+aI260
+aI7
+aI237
+aI169
+aI57
+aI88
+aI24
+aI130
+aI163
+aI178
+aI0
+aI0
+aI88
+aI227
+aI267
+aI50
+aa(lp838
 I2
 aI66
 aI0
@@ -18644,7 +18655,7 @@ aI239
 aI157
 aI61
 aI50
-aa(lp835
+aa(lp839
 I18
 aI0
 aI257
@@ -18674,7 +18685,7 @@ aI0
 aI183
 aI0
 aI50
-aa(lp836
+aa(lp840
 I156
 aI38
 aI2
@@ -18707,7 +18718,7 @@ aI259
 aI0
 aI249
 aI50
-aa(lp837
+aa(lp841
 I18
 aI0
 aI163
@@ -18722,7 +18733,7 @@ aI155
 aI62
 aI0
 aI50
-aa(lp838
+aa(lp842
 I0
 aI55
 aI0
@@ -18747,7 +18758,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp839
+aa(lp843
 I2
 aI42
 aI38
@@ -18768,7 +18779,7 @@ aI248
 aI0
 aI0
 aI50
-aa(lp840
+aa(lp844
 I178
 aI2
 aI0
@@ -18788,7 +18799,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp841
+aa(lp845
 I2
 aI0
 aI61
@@ -18798,7 +18809,7 @@ aI156
 aI149
 aI88
 aI50
-aa(lp842
+aa(lp846
 I2
 aI0
 aI56
@@ -18821,7 +18832,7 @@ aI149
 aI203
 aI253
 aI50
-aa(lp843
+aa(lp847
 I0
 aI0
 aI55
@@ -18837,7 +18848,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp844
+aa(lp848
 I56
 aI167
 aI226
@@ -18853,7 +18864,7 @@ aI56
 aI0
 aI2
 aI50
-aa(lp845
+aa(lp849
 I106
 aI24
 aI2
@@ -18886,69 +18897,7 @@ aI17
 aI38
 aI0
 aI50
-aa(lp846
-I18
-aI0
-aI0
-aI0
-aI13
-aI0
-aI0
-aI0
-aI0
-aI231
-aI2
-aI125
-aI268
-aI66
-aI178
-aI93
-aI0
-aI149
-aI61
-aI117
-aI0
-aI178
-aI9
-aI287
-aI149
-aI61
-aI148
-aI61
-aI57
-aI111
-aI70
-aI88
-aI80
-aI117
-aI8
-aI0
-aI254
-aI24
-aI125
-aI268
-aI66
-aI178
-aI93
-aI0
-aI149
-aI61
-aI117
-aI65
-aI178
-aI9
-aI287
-aI149
-aI61
-aI148
-aI61
-aI57
-aI0
-aI70
-aI88
-aI80
-aI50
-aa(lp847
+aa(lp850
 I18
 aI0
 aI294
@@ -18960,7 +18909,7 @@ aI0
 aI0
 aI151
 aI50
-aa(lp848
+aa(lp851
 I2
 aI33
 aI0
@@ -18980,7 +18929,7 @@ aI157
 aI13
 aI0
 aI50
-aa(lp849
+aa(lp852
 I2
 aI55
 aI0
@@ -18990,7 +18939,7 @@ aI70
 aI38
 aI78
 aI50
-aa(lp850
+aa(lp853
 I2
 aI174
 aI24
@@ -19027,64 +18976,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp851
-I2
-aI302
-aI0
-aI13
-aI5
-aI57
-aI38
-aI254
-aI113
-aI266
-aI0
-aI149
-aI157
-aI189
-aI61
-aI117
-aI266
-aI38
-aI195
-aI0
-aI130
-aI163
-aI38
-aI0
-aI0
-aI50
-aa(lp852
-I18
-aI24
-aI268
-aI0
-aI13
-aI0
-aI117
-aI294
-aI13
-aI57
-aI38
-aI2
-aI24
-aI15
-aI225
-aI38
-aI0
-aI69
-aI174
-aI153
-aI0
-aI0
-aI163
-aI237
-aI169
-aI185
-aI0
-aI254
-aI50
-aa(lp853
+aa(lp854
 I130
 aI163
 aI181
@@ -19161,7 +19053,7 @@ aI155
 aI62
 aI0
 aI50
-aa(lp854
+aa(lp855
 I2
 aI11
 aI88
@@ -19174,7 +19066,7 @@ aI124
 aI153
 aI88
 aI50
-aa(lp855
+aa(lp856
 I156
 aI149
 aI88
@@ -19189,7 +19081,7 @@ aI33
 aI148
 aI46
 aI50
-aa(lp856
+aa(lp857
 I0
 aI0
 aI107
@@ -19198,7 +19090,29 @@ aI0
 aI70
 aI277
 aI50
-aa(lp857
+aa(lp858
+I57
+aI0
+aI163
+aI38
+aI13
+aI90
+aI149
+aI203
+aI253
+aI134
+aI24
+aI18
+aI66
+aI0
+aI147
+aI13
+aI297
+aI90
+aI0
+aI0
+aI50
+aa(lp859
 I57
 aI0
 aI163
@@ -19218,35 +19132,19 @@ aI117
 aI117
 aI0
 aI50
-aa(lp858
-I95
+aa(lp860
+I2
+aI148
+aI88
+aI232
+aI178
+aI296
+aI190
+aI153
 aI38
-aI0
-aI253
-aI93
-aI55
-aI0
-aI0
-aI24
-aI81
-aI42
-aI0
-aI0
-aI24
-aI178
-aI0
-aI157
 aI46
-aI24
-aI178
-aI0
-aI149
-aI0
-aI0
-aI131
-aI0
 aI50
-aa(lp859
+aa(lp861
 I57
 aI178
 aI88
@@ -19295,7 +19193,7 @@ aI55
 aI0
 aI50
 aI0
-aa(lp860
+aa(lp862
 I57
 aI0
 aI24
@@ -19319,23 +19217,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp861
-I309
-aI60
-aI48
-aI269
-aI0
-aI229
-aI18
-aI157
-aI113
-aI86
-aI238
-aI2
-aI117
-aI254
-aI50
-aa(lp862
+aa(lp863
 I156
 aI149
 aI88
@@ -19364,26 +19246,49 @@ aI190
 aI248
 aI18
 aI50
-aa(lp863
-I2
-aI149
+aa(lp864
+I301
+aI42
+aI152
+aI55
+aI121
+aI163
 aI0
-aI24
-aI254
-aI117
-aI267
-aI207
+aI0
+aI70
+aI279
+aI92
+aI50
+aa(lp865
+I0
+aI0
+aI0
+aI246
+aI2
+aI0
+aI181
 aI0
 aI156
-aI0
-aI0
-aI0
+aI178
+aI169
+aI174
+aI88
+aI24
+aI57
+aI13
 aI149
 aI38
-aI40
-aI78
+aI0
+aI0
+aI70
+aI92
+aI0
+aI24
+aI38
+aI254
+aI0
 aI50
-aa(lp864
+aa(lp866
 I2
 aI66
 aI139
@@ -19398,7 +19303,7 @@ aI0
 aI191
 aI90
 aI50
-aa(lp865
+aa(lp867
 I156
 aI178
 aI0
@@ -19420,7 +19325,7 @@ aI0
 aI163
 aI61
 aI50
-aa(lp866
+aa(lp868
 I0
 aI117
 aI0
@@ -19459,10 +19364,10 @@ aI83
 aI28
 aI0
 aI50
-aa(lp867
+aa(lp869
 I0
 aI50
-aa(lp868
+aa(lp870
 I83
 aI18
 aI303
@@ -19485,7 +19390,7 @@ aI148
 aI178
 aI0
 aI50
-aa(lp869
+aa(lp871
 I88
 aI24
 aI2
@@ -19498,13 +19403,13 @@ aI61
 aI57
 aI154
 aI50
-aa(lp870
+aa(lp872
 I0
 aI122
 aI231
 aI61
 aI50
-aa(lp871
+aa(lp873
 I2
 aI0
 aI163
@@ -19514,7 +19419,7 @@ aI38
 aI239
 aI0
 aI50
-aa(lp872
+aa(lp874
 I38
 aI188
 aI149
@@ -19555,7 +19460,7 @@ aI0
 aI163
 aI0
 aI50
-aa(lp873
+aa(lp875
 I95
 aI299
 aI0
@@ -19592,7 +19497,7 @@ aI148
 aI56
 aI23
 aI50
-aa(lp874
+aa(lp876
 I2
 aI45
 aI92
@@ -19626,7 +19531,7 @@ aI0
 aI57
 aI0
 aI50
-aa(lp875
+aa(lp877
 I2
 aI177
 aI163
@@ -19648,7 +19553,7 @@ aI88
 aI24
 aI141
 aI50
-aa(lp876
+aa(lp878
 I299
 aI157
 aI38
@@ -19682,7 +19587,7 @@ aI0
 aI76
 aI307
 aI50
-aa(lp877
+aa(lp879
 I18
 aI0
 aI14
@@ -19695,7 +19600,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp878
+aa(lp880
 I57
 aI88
 aI24
@@ -19724,7 +19629,7 @@ aI187
 aI0
 aI2
 aI50
-aa(lp879
+aa(lp881
 I2
 aI135
 aI187
@@ -19735,7 +19640,7 @@ aI117
 aI0
 aI239
 aI50
-aa(lp880
+aa(lp882
 I2
 aI88
 aI232
@@ -19752,7 +19657,7 @@ aI233
 aI294
 aI61
 aI50
-aa(lp881
+aa(lp883
 I58
 aI0
 aI0
@@ -19771,7 +19676,7 @@ aI2
 aI0
 aI42
 aI50
-aa(lp882
+aa(lp884
 I30
 aI0
 aI0
@@ -19808,7 +19713,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp883
+aa(lp885
 I18
 aI24
 aI268
@@ -19845,7 +19750,7 @@ aI38
 aI292
 aI0
 aI50
-aa(lp884
+aa(lp886
 I38
 aI2
 aI0
@@ -19859,7 +19764,32 @@ aI164
 aI158
 aI146
 aI50
-aa(lp885
+aa(lp887
+I2
+aI0
+aI0
+aI156
+aI38
+aI95
+aI0
+aI0
+aI149
+aI0
+aI0
+aI0
+aI68
+aI117
+aI0
+aI261
+aI196
+aI70
+aI62
+aI176
+aI117
+aI0
+aI50
+aI81
+aa(lp888
 I82
 aI297
 aI0
@@ -19868,7 +19798,7 @@ aI250
 aI86
 aI50
 aI81
-aa(lp886
+aa(lp889
 I18
 aI24
 aI268
@@ -19929,7 +19859,7 @@ aI13
 aI308
 aI80
 aI50
-aa(lp887
+aa(lp890
 I299
 aI0
 aI13
@@ -19947,7 +19877,7 @@ aI169
 aI185
 aI88
 aI50
-aa(lp888
+aa(lp891
 I2
 aI0
 aI13
@@ -19972,7 +19902,7 @@ aI73
 aI13
 aI308
 aI50
-aa(lp889
+aa(lp892
 I18
 aI84
 aI87
@@ -20006,7 +19936,68 @@ aI0
 aI0
 aI0
 aI50
-aa(lp890
+aa(lp893
+I95
+aI153
+aI0
+aI183
+aI0
+aI24
+aI0
+aI0
+aI0
+aI24
+aI117
+aI38
+aI98
+aI0
+aI70
+aI0
+aI117
+aI0
+aI24
+aI0
+aI0
+aI117
+aI0
+aI207
+aI0
+aI263
+aI87
+aI148
+aI0
+aI170
+aI0
+aI24
+aI102
+aI156
+aI183
+aI24
+aI81
+aI0
+aI42
+aI57
+aI178
+aI0
+aI0
+aI50
+aa(lp894
+I56
+aI302
+aI0
+aI0
+aI113
+aI0
+aI5
+aI258
+aI2
+aI0
+aI163
+aI0
+aI0
+aI0
+aI50
+aa(lp895
 I0
 aI55
 aI178
@@ -20035,7 +20026,7 @@ aI174
 aI0
 aI0
 aI50
-aa(lp891
+aa(lp896
 I2
 aI24
 aI38
@@ -20072,7 +20063,7 @@ aI156
 aI56
 aI0
 aI50
-aa(lp892
+aa(lp897
 I18
 aI177
 aI163
@@ -20085,7 +20076,7 @@ aI95
 aI146
 aI50
 aI81
-aa(lp893
+aa(lp898
 I2
 aI117
 aI254
@@ -20098,7 +20089,7 @@ aI38
 aI40
 aI78
 aI50
-aa(lp894
+aa(lp899
 I18
 aI209
 aI13
@@ -20118,7 +20109,7 @@ aI158
 aI149
 aI146
 aI50
-aa(lp895
+aa(lp900
 I95
 aI56
 aI293
@@ -20151,7 +20142,7 @@ aI81
 aI301
 aI42
 aI50
-aa(lp896
+aa(lp901
 I2
 aI0
 aI0
@@ -20164,57 +20155,7 @@ aI149
 aI38
 aI78
 aI50
-aa(lp897
-I2
-aI125
-aI46
-aI231
-aI146
-aI80
-aI55
-aI38
-aI0
-aI84
-aI283
-aI0
-aI149
-aI0
-aI165
-aI178
-aI239
-aI113
-aI84
-aI0
-aI254
-aI125
-aI46
-aI231
-aI146
-aI80
-aI117
-aI0
-aI125
-aI46
-aI231
-aI146
-aI80
-aI163
-aI0
-aI0
-aI267
-aI24
-aI125
-aI46
-aI231
-aI146
-aI80
-aI216
-aI117
-aI309
-aI0
-aI0
-aI50
-aa(lp898
+aa(lp902
 I95
 aI163
 aI41
@@ -20242,7 +20183,7 @@ aI308
 aI149
 aI113
 aI50
-aa(lp899
+aa(lp903
 I302
 aI24
 aI57
@@ -20256,9 +20197,9 @@ aI149
 aI199
 aI0
 aI50
-aa(lp900
+aa(lp904
 I50
-aa(lp901
+aa(lp905
 I0
 aI2
 aI66
@@ -20281,38 +20222,9 @@ aI163
 aI237
 aI169
 aI50
-aa(lp902
+aa(lp906
 I50
-aa(lp903
-I57
-aI46
-aI244
-aI24
-aI2
-aI42
-aI56
-aI0
-aI163
-aI226
-aI61
-aI149
-aI306
-aI248
-aI38
-aI253
-aI123
-aI163
-aI0
-aI0
-aI253
-aI0
-aI163
-aI38
-aI254
-aI57
-aI88
-aI50
-aa(lp904
+aa(lp907
 I181
 aI75
 aI100
@@ -20346,7 +20258,7 @@ aI149
 aI0
 aI0
 aI50
-aa(lp905
+aa(lp908
 I2
 aI24
 aI268
@@ -20371,7 +20283,7 @@ aI24
 aI0
 aI42
 aI50
-aa(lp906
+aa(lp909
 I57
 aI0
 aI24
@@ -20405,7 +20317,7 @@ aI153
 aI0
 aI50
 aI81
-aa(lp907
+aa(lp910
 I88
 aI24
 aI2
@@ -20441,7 +20353,7 @@ aI15
 aI0
 aI0
 aI50
-aa(lp908
+aa(lp911
 I2
 aI0
 aI231
@@ -20480,7 +20392,7 @@ aI248
 aI38
 aI267
 aI50
-aa(lp909
+aa(lp912
 I18
 aI177
 aI163
@@ -20491,7 +20403,7 @@ aI32
 aI0
 aI88
 aI50
-aa(lp910
+aa(lp913
 I95
 aI156
 aI178
@@ -20540,7 +20452,7 @@ aI38
 aI0
 aI0
 aI50
-aa(lp911
+aa(lp914
 I38
 aI0
 aI0
@@ -20578,7 +20490,7 @@ aI255
 aI170
 aI67
 aI50
-aa(lp912
+aa(lp915
 I0
 aI0
 aI0
@@ -20604,27 +20516,7 @@ aI79
 aI38
 aI169
 aI50
-aa(lp913
-I0
-aI178
-aI0
-aI149
-aI0
-aI196
-aI24
-aI2
-aI6
-aI181
-aI62
-aI0
-aI163
-aI178
-aI0
-aI174
-aI57
-aI88
-aI50
-aa(lp914
+aa(lp916
 I70
 aI0
 aI24
@@ -20639,7 +20531,7 @@ aI0
 aI55
 aI61
 aI50
-aa(lp915
+aa(lp917
 I2
 aI24
 aI38
@@ -20671,33 +20563,6 @@ aI180
 aI178
 aI169
 aI78
-aI50
-aa(lp916
-I35
-aI0
-aI55
-aI113
-aI181
-aI0
-aI0
-aI260
-aI0
-aI57
-aI0
-aI0
-aI58
-aI56
-aI0
-aI50
-aa(lp917
-I176
-aI148
-aI38
-aI92
-aI55
-aI0
-aI157
-aI0
 aI50
 aa(lp918
 I130
@@ -21005,22 +20870,6 @@ aI124
 aI42
 aI50
 aa(lp932
-I38
-aI92
-aI167
-aI225
-aI0
-aI227
-aI147
-aI2
-aI24
-aI254
-aI117
-aI0
-aI0
-aI0
-aI50
-aa(lp933
 I2
 aI66
 aI0
@@ -21051,6 +20900,39 @@ aI122
 aI163
 aI0
 aI0
+aI50
+aa(lp933
+I2
+aI24
+aI178
+aI0
+aI0
+aI24
+aI0
+aI24
+aI254
+aI213
+aI0
+aI38
+aI0
+aI187
+aI109
+aI197
+aI24
+aI55
+aI78
+aI168
+aI56
+aI0
+aI38
+aI110
+aI75
+aI169
+aI78
+aI0
+aI22
+aI38
+aI254
 aI50
 aa(lp934
 I178
@@ -21555,35 +21437,6 @@ aI0
 aI0
 aI50
 aa(lp957
-I129
-aI149
-aI38
-aI7
-aI92
-aI0
-aI70
-aI88
-aI207
-aI57
-aI38
-aI0
-aI149
-aI0
-aI24
-aI262
-aI0
-aI24
-aI68
-aI117
-aI0
-aI0
-aI24
-aI130
-aI163
-aI38
-aI0
-aI50
-aa(lp958
 I309
 aI0
 aI0
@@ -21596,7 +21449,7 @@ aI24
 aI117
 aI254
 aI50
-aa(lp959
+aa(lp958
 I18
 aI177
 aI163
@@ -21625,7 +21478,7 @@ aI155
 aI62
 aI0
 aI50
-aa(lp960
+aa(lp959
 I0
 aI24
 aI279
@@ -21644,7 +21497,81 @@ aI229
 aI250
 aI0
 aI50
+aa(lp960
+I174
+aI0
+aI42
+aI56
+aI66
+aI49
+aI0
+aI57
+aI0
+aI0
+aI0
+aI227
+aI0
+aI222
+aI149
+aI38
+aI195
+aI0
+aI17
+aI240
+aI0
+aI57
+aI38
+aI0
+aI0
+aI24
+aI0
+aI240
+aI0
+aI50
 aa(lp961
+I0
+aI171
+aI24
+aI256
+aI0
+aI24
+aI0
+aI24
+aI117
+aI255
+aI286
+aI67
+aI24
+aI302
+aI0
+aI156
+aI255
+aI286
+aI67
+aI149
+aI2
+aI50
+aa(lp962
+I2
+aI72
+aI173
+aI114
+aI61
+aI57
+aI181
+aI0
+aI0
+aI88
+aI165
+aI38
+aI110
+aI52
+aI120
+aI92
+aI57
+aI88
+aI50
+aa(lp963
 I0
 aI0
 aI117
@@ -21658,10 +21585,10 @@ aI149
 aI181
 aI90
 aI50
-aa(lp962
+aa(lp964
 I13
 aI50
-aa(lp963
+aa(lp965
 I0
 aI163
 aI38
@@ -21689,7 +21616,7 @@ aI267
 aI117
 aI216
 aI50
-aa(lp964
+aa(lp966
 I83
 aI264
 aI24
@@ -21714,7 +21641,7 @@ aI0
 aI57
 aI0
 aI50
-aa(lp965
+aa(lp967
 I152
 aI207
 aI129
@@ -21732,33 +21659,9 @@ aI178
 aI0
 aI50
 aI81
-aa(lp966
-I50
-aa(lp967
-I181
-aI90
-aI207
-aI88
-aI33
-aI63
-aI13
-aI308
-aI305
-aI0
-aI28
-aI116
-aI157
-aI38
-aI0
-aI149
-aI88
-aI17
-aI0
-aI84
-aI92
-aI88
-aI50
 aa(lp968
+I50
+aa(lp969
 I90
 aI149
 aI118
@@ -21791,7 +21694,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp969
+aa(lp970
 I38
 aI2
 aI66
@@ -21819,7 +21722,7 @@ aI56
 aI0
 aI6
 aI50
-aa(lp970
+aa(lp971
 I0
 aI42
 aI301
@@ -21856,7 +21759,7 @@ aI163
 aI0
 aI50
 aI81
-aa(lp971
+aa(lp972
 I18
 aI209
 aI13
@@ -21887,7 +21790,7 @@ aI23
 aI0
 aI0
 aI50
-aa(lp972
+aa(lp973
 I18
 aI177
 aI163
@@ -21902,7 +21805,7 @@ aI164
 aI95
 aI0
 aI81
-aa(lp973
+aa(lp974
 I2
 aI24
 aI178
@@ -21929,7 +21832,7 @@ aI234
 aI163
 aI61
 aI50
-aa(lp974
+aa(lp975
 I2
 aI88
 aI0
@@ -21958,25 +21861,6 @@ aI210
 aI149
 aI0
 aI50
-aa(lp975
-I95
-aI0
-aI24
-aI0
-aI117
-aI0
-aI42
-aI28
-aI260
-aI266
-aI72
-aI173
-aI117
-aI157
-aI178
-aI0
-aI300
-aI50
 aa(lp976
 I57
 aI88
@@ -21996,647 +21880,2105 @@ aI50
 aaa(lp977
 (lp978
 I2
-aI55
-aI178
-aI0
-aI174
-aI24
-aI0
-aI245
-aI0
-aI0
-aI0
-aI0
-aI196
-aI50
 aa(lp979
-I195
-aI0
-aI24
-aI56
-aI66
-aI49
-aI0
-aI70
-aI173
-aI114
-aI178
-aI0
-aI50
+I1
 aa(lp980
-I18
-aI11
-aI111
-aI149
-aI61
-aI201
-aI38
-aI0
-aI71
-aI113
-aI0
-aI57
-aI88
-aI180
-aI181
-aI0
-aI153
-aI2
-aI24
-aI63
-aI0
-aI38
-aI0
-aI149
-aI0
-aI50
+I1
 aa(lp981
-I0
-aI0
-aI148
-aI0
-aI0
-aI150
-aI0
-aI50
+I1
 aa(lp982
-I127
-aI38
-aI34
-aI85
-aI2
-aI0
-aI0
-aI254
-aI0
-aI38
-aI0
-aI0
-aI153
-aI178
-aI13
-aI308
-aI142
-aI57
-aI113
-aI123
-aI50
+I2
 aa(lp983
-I2
-aI0
-aI181
-aI0
-aI57
-aI254
-aI24
-aI0
-aI24
-aI149
-aI0
-aI24
-aI299
-aI0
-aI163
-aI0
-aI57
-aI88
-aI50
+I1
 aa(lp984
-I2
-aI125
-aI46
-aI231
-aI146
-aI80
-aI77
-aI38
-aI0
-aI92
-aI149
-aI178
-aI0
-aI174
-aI248
-aI254
-aI83
-aI56
-aI31
-aI169
-aI88
-aI50
+I3
 aa(lp985
-I95
-aI0
-aI112
-aI99
-aI253
-aI93
-aI0
-aI207
-aI73
-aI117
-aI56
-aI55
-aI7
-aI113
-aI18
-aI293
-aI107
-aI0
-aI143
-aI0
-aI163
-aI0
-aI181
-aI253
-aI122
-aI117
-aI93
-aI0
-aI57
-aI0
-aI208
-aI50
-aI81
+I1
 aa(lp986
-I18
-aI84
-aI292
-aI8
-aI276
-aI0
-aI55
-aI178
-aI0
-aI70
-aI178
-aI203
-aI24
-aI0
-aI0
-aI0
-aI0
-aI156
-aI0
-aI0
-aI50
+I1
 aa(lp987
-I38
-aI0
-aI1
-aI0
-aI88
-aI0
-aI0
-aI0
-aI24
-aI0
-aI0
-aI24
-aI117
-aI0
-aI0
-aI196
-aI70
-aI2
-aI180
-aI0
-aI24
-aI0
-aI0
-aI50
+I1
 aa(lp988
-I18
-aI0
-aI163
-aI0
-aI279
-aI0
-aI0
-aI153
-aI13
-aI0
-aI57
-aI2
-aI13
-aI0
-aI76
-aI307
-aI163
-aI278
-aI0
-aI117
-aI0
-aI50
+I1
 aa(lp989
-I262
-aI261
-aI295
-aI246
-aI2
-aI72
-aI61
-aI57
-aI181
-aI75
-aI169
-aI253
-aI78
-aI165
-aI0
-aI0
-aI149
-aI168
-aI56
-aI65
-aI0
-aI163
-aI0
-aI83
-aI56
-aI0
-aI232
-aI181
-aI0
-aI163
-aI237
-aI169
-aI50
+I1
 aa(lp990
-I130
-aI163
-aI279
-aI0
-aI0
-aI232
-aI227
-aI18
-aI50
+I1
 aa(lp991
-I299
-aI2
-aI11
-aI113
-aI38
-aI0
-aI167
-aI0
-aI0
-aI0
-aI156
-aI18
-aI0
-aI70
-aI93
-aI208
-aI163
-aI0
-aI50
-aa(lp992
-I38
-aI0
-aI124
-aI0
-aI107
-aI0
-aI0
-aI129
-aI203
-aI90
-aI18
-aI177
-aI163
-aI193
-aI150
-aI38
-aI122
-aI228
-aI50
-aa(lp993
-I153
-aI13
-aI0
-aI24
-aI2
-aI167
-aI88
-aI0
-aI266
-aI163
-aI59
-aI234
-aI38
-aI0
-aI165
-aI0
-aI156
-aI178
-aI95
-aI0
-aI81
-aI0
-aI165
-aI150
-aI0
-aI70
-aI279
-aI0
-aI92
-aI24
-aI268
-aI167
-aI0
-aI181
-aI223
-aI0
-aI50
-aa(lp994
 I2
-aI50
+aa(lp992
+I1
+aa(lp993
+I1
+aa(lp994
+I1
 aa(lp995
 I2
+aa(lp996
+I1
+aa(lp997
+I1
+aa(lp998
+I2
+aa(lp999
+I1
+aa(lp1000
+I1
+aa(lp1001
+I3
+aa(lp1002
+I1
+aa(lp1003
+I2
+aa(lp1004
+I1
+aa(lp1005
+I1
+aa(lp1006
+I2
+aa(lp1007
+I1
+aa(lp1008
+I2
+aa(lp1009
+I1
+aa(lp1010
+I2
+aa(lp1011
+I1
+aa(lp1012
+I1
+aa(lp1013
+I1
+aa(lp1014
+I1
+aa(lp1015
+I3
+aa(lp1016
+I1
+aa(lp1017
+I1
+aa(lp1018
+I1
+aa(lp1019
+I1
+aa(lp1020
+I2
+aa(lp1021
+I1
+aa(lp1022
+I1
+aa(lp1023
+I1
+aa(lp1024
+I2
+aa(lp1025
+I2
+aa(lp1026
+I1
+aa(lp1027
+I1
+aa(lp1028
+I1
+aa(lp1029
+I1
+aa(lp1030
+I3
+aa(lp1031
+I1
+aa(lp1032
+I1
+aa(lp1033
+I2
+aa(lp1034
+I2
+aa(lp1035
+I2
+aa(lp1036
+I2
+aa(lp1037
+I1
+aa(lp1038
+I1
+aa(lp1039
+I1
+aa(lp1040
+I1
+aa(lp1041
+I3
+aa(lp1042
+I1
+aa(lp1043
+I2
+aa(lp1044
+I1
+aa(lp1045
+I1
+aa(lp1046
+I1
+aa(lp1047
+I1
+aa(lp1048
+I1
+aa(lp1049
+I1
+aa(lp1050
+I1
+aa(lp1051
+I2
+aa(lp1052
+I1
+aa(lp1053
+I2
+aa(lp1054
+I2
+aa(lp1055
+I1
+aa(lp1056
+I1
+aa(lp1057
+I1
+aa(lp1058
+I1
+aa(lp1059
+I1
+aa(lp1060
+I3
+aa(lp1061
+I1
+aa(lp1062
+I1
+aa(lp1063
+I2
+aa(lp1064
+I2
+aa(lp1065
+I2
+aa(lp1066
+I1
+aa(lp1067
+I1
+aa(lp1068
+I1
+aa(lp1069
+I2
+aa(lp1070
+I1
+aa(lp1071
+I1
+aa(lp1072
+I1
+aa(lp1073
+I1
+aa(lp1074
+I1
+aa(lp1075
+I1
+aa(lp1076
+I1
+aa(lp1077
+I2
+aa(lp1078
+I1
+aa(lp1079
+I1
+aa(lp1080
+I2
+aa(lp1081
+I1
+aa(lp1082
+I1
+aa(lp1083
+I1
+aa(lp1084
+I3
+aa(lp1085
+I2
+aa(lp1086
+I1
+aa(lp1087
+I2
+aa(lp1088
+I1
+aa(lp1089
+I2
+aa(lp1090
+I1
+aa(lp1091
+I1
+aa(lp1092
+I1
+aa(lp1093
+I1
+aa(lp1094
+I1
+aa(lp1095
+I1
+aa(lp1096
+I1
+aa(lp1097
+I1
+aa(lp1098
+I1
+aa(lp1099
+I1
+aa(lp1100
+I1
+aa(lp1101
+I2
+aa(lp1102
+I3
+aa(lp1103
+I1
+aa(lp1104
+I1
+aa(lp1105
+I1
+aa(lp1106
+I2
+aa(lp1107
+I1
+aa(lp1108
+I1
+aa(lp1109
+I2
+aa(lp1110
+I2
+aa(lp1111
+I1
+aa(lp1112
+I3
+aa(lp1113
+I1
+aa(lp1114
+I1
+aa(lp1115
+I1
+aa(lp1116
+I2
+aa(lp1117
+I1
+aa(lp1118
+I1
+aa(lp1119
+I1
+aa(lp1120
+I2
+aa(lp1121
+I1
+aa(lp1122
+I1
+aa(lp1123
+I1
+aa(lp1124
+I1
+aa(lp1125
+I2
+aa(lp1126
+I1
+aa(lp1127
+I1
+aa(lp1128
+I1
+aa(lp1129
+I2
+aa(lp1130
+I3
+aa(lp1131
+I1
+aa(lp1132
+I1
+aa(lp1133
+I2
+aa(lp1134
+I1
+aa(lp1135
+I1
+aa(lp1136
+I3
+aa(lp1137
+I1
+aa(lp1138
+I2
+aa(lp1139
+I3
+aa(lp1140
+I3
+aa(lp1141
+I1
+aa(lp1142
+I1
+aa(lp1143
+I1
+aa(lp1144
+I1
+aa(lp1145
+I1
+aa(lp1146
+I1
+aa(lp1147
+I3
+aa(lp1148
+I1
+aa(lp1149
+I1
+aa(lp1150
+I1
+aa(lp1151
+I2
+aa(lp1152
+I1
+aa(lp1153
+I2
+aa(lp1154
+I2
+aa(lp1155
+I2
+aa(lp1156
+I1
+aa(lp1157
+I2
+aa(lp1158
+I3
+aa(lp1159
+I3
+aa(lp1160
+I1
+aa(lp1161
+I1
+aa(lp1162
+I1
+aa(lp1163
+I2
+aa(lp1164
+I1
+aa(lp1165
+I1
+aa(lp1166
+I1
+aa(lp1167
+I2
+aa(lp1168
+I1
+aa(lp1169
+I1
+aa(lp1170
+I1
+aa(lp1171
+I1
+aa(lp1172
+I1
+aa(lp1173
+I1
+aa(lp1174
+I1
+aa(lp1175
+I2
+aa(lp1176
+I1
+aa(lp1177
+I1
+aa(lp1178
+I1
+aa(lp1179
+I1
+aa(lp1180
+I3
+aa(lp1181
+I2
+aa(lp1182
+I2
+aa(lp1183
+I1
+aa(lp1184
+I1
+aa(lp1185
+I1
+aa(lp1186
+I2
+aa(lp1187
+I1
+aa(lp1188
+I1
+aa(lp1189
+I1
+aa(lp1190
+I2
+aa(lp1191
+I2
+aa(lp1192
+I1
+aa(lp1193
+I1
+aa(lp1194
+I1
+aa(lp1195
+I3
+aa(lp1196
+I2
+aa(lp1197
+I1
+aa(lp1198
+I1
+aa(lp1199
+I1
+aa(lp1200
+I1
+aa(lp1201
+I1
+aa(lp1202
+I1
+aa(lp1203
+I1
+aa(lp1204
+I1
+aa(lp1205
+I1
+aa(lp1206
+I1
+aa(lp1207
+I2
+aa(lp1208
+I1
+aa(lp1209
+I1
+aa(lp1210
+I1
+aa(lp1211
+I1
+aa(lp1212
+I1
+aa(lp1213
+I1
+aa(lp1214
+I1
+aa(lp1215
+I1
+aa(lp1216
+I1
+aa(lp1217
+I1
+aa(lp1218
+I1
+aa(lp1219
+I2
+aa(lp1220
+I1
+aa(lp1221
+I1
+aa(lp1222
+I2
+aa(lp1223
+I2
+aa(lp1224
+I1
+aa(lp1225
+I1
+aa(lp1226
+I1
+aa(lp1227
+I1
+aa(lp1228
+I2
+aa(lp1229
+I2
+aa(lp1230
+I1
+aa(lp1231
+I1
+aa(lp1232
+I3
+aa(lp1233
+I1
+aa(lp1234
+I1
+aa(lp1235
+I1
+aa(lp1236
+I1
+aa(lp1237
+I1
+aa(lp1238
+I1
+aa(lp1239
+I1
+aa(lp1240
+I1
+aa(lp1241
+I3
+aa(lp1242
+I1
+aa(lp1243
+I1
+aa(lp1244
+I2
+aa(lp1245
+I1
+aa(lp1246
+I1
+aa(lp1247
+I1
+aa(lp1248
+I3
+aa(lp1249
+I1
+aa(lp1250
+I2
+aa(lp1251
+I1
+aa(lp1252
+I1
+aa(lp1253
+I1
+aa(lp1254
+I2
+aa(lp1255
+I1
+aa(lp1256
+I1
+aa(lp1257
+I1
+aa(lp1258
+I2
+aa(lp1259
+I1
+aa(lp1260
+I1
+aa(lp1261
+I1
+aa(lp1262
+I1
+aa(lp1263
+I3
+aa(lp1264
+I1
+aa(lp1265
+I1
+aa(lp1266
+I1
+aa(lp1267
+I1
+aa(lp1268
+I2
+aa(lp1269
+I1
+aa(lp1270
+I1
+aa(lp1271
+I1
+aa(lp1272
+I1
+aa(lp1273
+I2
+aa(lp1274
+I1
+aa(lp1275
+I1
+aa(lp1276
+I1
+aa(lp1277
+I2
+aa(lp1278
+I2
+aa(lp1279
+I1
+aa(lp1280
+I2
+aa(lp1281
+I1
+aa(lp1282
+I1
+aa(lp1283
+I3
+aa(lp1284
+I2
+aa(lp1285
+I2
+aa(lp1286
+I2
+aa(lp1287
+I2
+aa(lp1288
+I3
+aa(lp1289
+I1
+aa(lp1290
+I1
+aa(lp1291
+I1
+aa(lp1292
+I1
+aa(lp1293
+I2
+aa(lp1294
+I2
+aa(lp1295
+I1
+aa(lp1296
+I1
+aa(lp1297
+I1
+aa(lp1298
+I1
+aa(lp1299
+I2
+aa(lp1300
+I1
+aa(lp1301
+I1
+aa(lp1302
+I2
+aa(lp1303
+I2
+aa(lp1304
+I1
+aa(lp1305
+I1
+aa(lp1306
+I2
+aa(lp1307
+I1
+aa(lp1308
+I1
+aa(lp1309
+I1
+aa(lp1310
+I2
+aa(lp1311
+I2
+aa(lp1312
+I1
+aa(lp1313
+I2
+aa(lp1314
+I1
+aa(lp1315
+I1
+aa(lp1316
+I1
+aa(lp1317
+I1
+aa(lp1318
+I1
+aa(lp1319
+I1
+aa(lp1320
+I1
+aa(lp1321
+I1
+aa(lp1322
+I1
+aa(lp1323
+I1
+aa(lp1324
+I1
+aa(lp1325
+I1
+aa(lp1326
+I1
+aa(lp1327
+I1
+aa(lp1328
+I1
+aa(lp1329
+I2
+aa(lp1330
+I2
+aa(lp1331
+I1
+aa(lp1332
+I1
+aa(lp1333
+I1
+aa(lp1334
+I1
+aa(lp1335
+I1
+aa(lp1336
+I3
+aa(lp1337
+I2
+aa(lp1338
+I2
+aa(lp1339
+I1
+aa(lp1340
+I2
+aa(lp1341
+I1
+aa(lp1342
+I1
+aa(lp1343
+I1
+aa(lp1344
+I1
+aa(lp1345
+I3
+aa(lp1346
+I1
+aa(lp1347
+I1
+aa(lp1348
+I1
+aa(lp1349
+I1
+aa(lp1350
+I1
+aa(lp1351
+I1
+aa(lp1352
+I1
+aa(lp1353
+I3
+aa(lp1354
+I1
+aa(lp1355
+I1
+aa(lp1356
+I1
+aa(lp1357
+I3
+aa(lp1358
+I1
+aa(lp1359
+I1
+aa(lp1360
+I1
+aa(lp1361
+I1
+aa(lp1362
+I1
+aa(lp1363
+I2
+aa(lp1364
+I1
+aa(lp1365
+I1
+aa(lp1366
+I1
+aa(lp1367
+I1
+aa(lp1368
+I1
+aa(lp1369
+I1
+aa(lp1370
+I1
+aa(lp1371
+I2
+aa(lp1372
+I1
+aa(lp1373
+I3
+aa(lp1374
+I1
+aa(lp1375
+I1
+aa(lp1376
+I3
+aa(lp1377
+I1
+aa(lp1378
+I1
+aa(lp1379
+I3
+aa(lp1380
+I1
+aa(lp1381
+I2
+aa(lp1382
+I2
+aa(lp1383
+I1
+aa(lp1384
+I1
+aa(lp1385
+I1
+aa(lp1386
+I3
+aa(lp1387
+I1
+aa(lp1388
+I2
+aa(lp1389
+I1
+aa(lp1390
+I2
+aa(lp1391
+I1
+aa(lp1392
+I1
+aa(lp1393
+I3
+aa(lp1394
+I1
+aa(lp1395
+I1
+aa(lp1396
+I1
+aa(lp1397
+I2
+aa(lp1398
+I2
+aa(lp1399
+I1
+aa(lp1400
+I2
+aa(lp1401
+I1
+aa(lp1402
+I2
+aa(lp1403
+I1
+aa(lp1404
+I1
+aa(lp1405
+I2
+aa(lp1406
+I1
+aa(lp1407
+I1
+aa(lp1408
+I1
+aa(lp1409
+I1
+aa(lp1410
+I1
+aa(lp1411
+I3
+aa(lp1412
+I1
+aa(lp1413
+I2
+aa(lp1414
+I1
+aa(lp1415
+I1
+aa(lp1416
+I3
+aa(lp1417
+I2
+aa(lp1418
+I1
+aa(lp1419
+I2
+aa(lp1420
+I1
+aa(lp1421
+I2
+aa(lp1422
+I3
+aa(lp1423
+I1
+aa(lp1424
+I1
+aa(lp1425
+I1
+aa(lp1426
+I1
+aa(lp1427
+I2
+aa(lp1428
+I2
+aa(lp1429
+I1
+aa(lp1430
+I1
+aa(lp1431
+I2
+aa(lp1432
+I1
+aa(lp1433
+I1
+aa(lp1434
+I2
+aa(lp1435
+I1
+aa(lp1436
+I2
+aa(lp1437
+I1
+aa(lp1438
+I1
+aa(lp1439
+I1
+aa(lp1440
+I1
+aa(lp1441
+I2
+aa(lp1442
+I3
+aa(lp1443
+I3
+aa(lp1444
+I1
+aa(lp1445
+I1
+aa(lp1446
+I1
+aa(lp1447
+I3
+aa(lp1448
+I1
+aa(lp1449
+I2
+aa(lp1450
+I1
+aa(lp1451
+I1
+aa(lp1452
+I1
+aa(lp1453
+I1
+aa(lp1454
+I1
+aa(lp1455
+I2
+aa(lp1456
+I1
+aa(lp1457
+I1
+aa(lp1458
+I1
+aa(lp1459
+I1
+aa(lp1460
+I1
+aa(lp1461
+I1
+aa(lp1462
+I1
+aa(lp1463
+I1
+aa(lp1464
+I1
+aa(lp1465
+I2
+aa(lp1466
+I1
+aa(lp1467
+I3
+aa(lp1468
+I2
+aa(lp1469
+I2
+aa(lp1470
+I1
+aa(lp1471
+I1
+aa(lp1472
+I1
+aa(lp1473
+I1
+aa(lp1474
+I1
+aa(lp1475
+I2
+aa(lp1476
+I1
+aa(lp1477
+I2
+aa(lp1478
+I1
+aa(lp1479
+I1
+aa(lp1480
+I1
+aa(lp1481
+I1
+aa(lp1482
+I3
+aa(lp1483
+I2
+aa(lp1484
+I1
+aa(lp1485
+I1
+aa(lp1486
+I2
+aa(lp1487
+I1
+aa(lp1488
+I2
+aa(lp1489
+I1
+aa(lp1490
+I1
+aa(lp1491
+I1
+aa(lp1492
+I1
+aa(lp1493
+I1
+aa(lp1494
+I1
+aa(lp1495
+I1
+aa(lp1496
+I1
+aa(lp1497
+I2
+aa(lp1498
+I1
+aa(lp1499
+I1
+aa(lp1500
+I1
+aa(lp1501
+I2
+aa(lp1502
+I2
+aa(lp1503
+I1
+aa(lp1504
+I1
+aa(lp1505
+I2
+aa(lp1506
+I1
+aa(lp1507
+I1
+aa(lp1508
+I2
+aa(lp1509
+I1
+aa(lp1510
+I1
+aa(lp1511
+I1
+aa(lp1512
+I1
+aa(lp1513
+I3
+aa(lp1514
+I1
+aa(lp1515
+I2
+aa(lp1516
+I2
+aa(lp1517
+I2
+aa(lp1518
+I1
+aa(lp1519
+I1
+aa(lp1520
+I1
+aa(lp1521
+I1
+aa(lp1522
+I2
+aa(lp1523
+I1
+aa(lp1524
+I1
+aa(lp1525
+I1
+aa(lp1526
+I1
+aa(lp1527
+I1
+aa(lp1528
+I1
+aa(lp1529
+I1
+aa(lp1530
+I1
+aa(lp1531
+I1
+aa(lp1532
+I1
+aa(lp1533
+I1
+aa(lp1534
+I2
+aa(lp1535
+I1
+aa(lp1536
+I1
+aa(lp1537
+I1
+aa(lp1538
+I2
+aa(lp1539
+I2
+aa(lp1540
+I1
+aa(lp1541
+I1
+aa(lp1542
+I2
+aa(lp1543
+I1
+aa(lp1544
+I1
+aa(lp1545
+I1
+aa(lp1546
+I2
+aa(lp1547
+I1
+aa(lp1548
+I2
+aa(lp1549
+I1
+aa(lp1550
+I1
+aa(lp1551
+I1
+aa(lp1552
+I3
+aa(lp1553
+I1
+aa(lp1554
+I1
+aa(lp1555
+I1
+aa(lp1556
+I1
+aa(lp1557
+I1
+aa(lp1558
+I1
+aa(lp1559
+I1
+aa(lp1560
+I2
+aa(lp1561
+I1
+aa(lp1562
+I1
+aa(lp1563
+I1
+aa(lp1564
+I3
+aa(lp1565
+I1
+aa(lp1566
+I2
+aa(lp1567
+I1
+aa(lp1568
+I1
+aa(lp1569
+I1
+aa(lp1570
+I1
+aa(lp1571
+I1
+aa(lp1572
+I1
+aa(lp1573
+I1
+aa(lp1574
+I1
+aa(lp1575
+I1
+aa(lp1576
+I1
+aa(lp1577
+I1
+aa(lp1578
+I1
+aa(lp1579
+I1
+aa(lp1580
+I1
+aa(lp1581
+I1
+aa(lp1582
+I2
+aa(lp1583
+I1
+aa(lp1584
+I1
+aa(lp1585
+I1
+aa(lp1586
+I1
+aa(lp1587
+I1
+aa(lp1588
+I1
+aa(lp1589
+I1
+aa(lp1590
+I2
+aa(lp1591
+I2
+aa(lp1592
+I1
+aa(lp1593
+I2
+aa(lp1594
+I2
+aa(lp1595
+I1
+aa(lp1596
+I1
+aa(lp1597
+I1
+aa(lp1598
+I2
+aa(lp1599
+I1
+aa(lp1600
+I2
+aa(lp1601
+I3
+aa(lp1602
+I1
+aa(lp1603
+I1
+aa(lp1604
+I1
+aa(lp1605
+I1
+aa(lp1606
+I1
+aa(lp1607
+I1
+aa(lp1608
+I1
+aa(lp1609
+I1
+aa(lp1610
+I2
+aa(lp1611
+I2
+aa(lp1612
+I1
+aa(lp1613
+I1
+aa(lp1614
+I1
+aa(lp1615
+I1
+aa(lp1616
+I2
+aa(lp1617
+I1
+aa(lp1618
+I1
+aa(lp1619
+I1
+aa(lp1620
+I1
+aa(lp1621
+I1
+aa(lp1622
+I1
+aa(lp1623
+I1
+aa(lp1624
+I1
+aa(lp1625
+I1
+aa(lp1626
+I2
+aa(lp1627
+I1
+aa(lp1628
+I3
+aa(lp1629
+I3
+aa(lp1630
+I1
+aa(lp1631
+I1
+aa(lp1632
+I1
+aa(lp1633
+I1
+aa(lp1634
+I1
+aa(lp1635
+I1
+aa(lp1636
+I1
+aa(lp1637
+I1
+aa(lp1638
+I1
+aa(lp1639
+I1
+aa(lp1640
+I1
+aa(lp1641
+I2
+aa(lp1642
+I1
+aa(lp1643
+I2
+aa(lp1644
+I1
+aa(lp1645
+I1
+aa(lp1646
+I1
+aa(lp1647
+I1
+aa(lp1648
+I2
+aa(lp1649
+I1
+aa(lp1650
+I1
+aa(lp1651
+I1
+aa(lp1652
+I1
+aa(lp1653
+I1
+aa(lp1654
+I3
+aa(lp1655
+I2
+aa(lp1656
+I3
+aa(lp1657
+I1
+aa(lp1658
+I1
+aa(lp1659
+I2
+aa(lp1660
+I1
+aa(lp1661
+I1
+aa(lp1662
+I1
+aa(lp1663
+I1
+aa(lp1664
+I1
+aa(lp1665
+I1
+aa(lp1666
+I1
+aa(lp1667
+I1
+aa(lp1668
+I2
+aa(lp1669
+I1
+aa(lp1670
+I1
+aa(lp1671
+I1
+aa(lp1672
+I1
+aa(lp1673
+I1
+aa(lp1674
+I1
+aa(lp1675
+I1
+aa(lp1676
+I1
+aa(lp1677
+I1
+aa(lp1678
+I1
+aa(lp1679
+I3
+aa(lp1680
+I1
+aa(lp1681
+I1
+aa(lp1682
+I1
+aa(lp1683
+I2
+aa(lp1684
+I1
+aa(lp1685
+I1
+aa(lp1686
+I1
+aa(lp1687
+I1
+aa(lp1688
+I1
+aa(lp1689
+I1
+aa(lp1690
+I1
+aa(lp1691
+I1
+aa(lp1692
+I1
+aa(lp1693
+I1
+aa(lp1694
+I1
+aa(lp1695
+I1
+aa(lp1696
+I1
+aa(lp1697
+I1
+aa(lp1698
+I1
+aa(lp1699
+I1
+aa(lp1700
+I1
+aa(lp1701
+I3
+aa(lp1702
+I1
+aa(lp1703
+I1
+aa(lp1704
+I1
+aa(lp1705
+I1
+aa(lp1706
+I1
+aa(lp1707
+I1
+aa(lp1708
+I2
+aa(lp1709
+I1
+aa(lp1710
+I1
+aa(lp1711
+I1
+aa(lp1712
+I1
+aa(lp1713
+I2
+aa(lp1714
+I1
+aa(lp1715
+I1
+aa(lp1716
+I2
+aa(lp1717
+I2
+aa(lp1718
+I1
+aa(lp1719
+I3
+aa(lp1720
+I2
+aa(lp1721
+I2
+aa(lp1722
+I2
+aa(lp1723
+I1
+aa(lp1724
+I1
+aa(lp1725
+I1
+aa(lp1726
+I1
+aa(lp1727
+I2
+aa(lp1728
+I1
+aa(lp1729
+I2
+aa(lp1730
+I3
+aa(lp1731
+I1
+aa(lp1732
+I1
+aa(lp1733
+I1
+aa(lp1734
+I2
+aa(lp1735
+I1
+aa(lp1736
+I1
+aa(lp1737
+I1
+aa(lp1738
+I1
+aa(lp1739
+I1
+aa(lp1740
+I2
+aa(lp1741
+I2
+aa(lp1742
+I2
+aa(lp1743
+I1
+aa(lp1744
+I1
+aa(lp1745
+I1
+aa(lp1746
+I1
+aa(lp1747
+I1
+aa(lp1748
+I1
+aa(lp1749
+I2
+aa(lp1750
+I1
+aa(lp1751
+I1
+aa(lp1752
+I1
+aa(lp1753
+I1
+aa(lp1754
+I1
+aa(lp1755
+I3
+aa(lp1756
+I1
+aa(lp1757
+I2
+aa(lp1758
+I1
+aa(lp1759
+I1
+aa(lp1760
+I1
+aa(lp1761
+I1
+aa(lp1762
+I2
+aa(lp1763
+I2
+aa(lp1764
+I2
+aa(lp1765
+I1
+aa(lp1766
+I1
+aa(lp1767
+I1
+aa(lp1768
+I1
+aa(lp1769
+I1
+aa(lp1770
+I1
+aa(lp1771
+I1
+aa(lp1772
+I1
+aa(lp1773
+I1
+aa(lp1774
+I1
+aa(lp1775
+I3
+aa(lp1776
+I1
+aa(lp1777
+I1
+aa(lp1778
+I2
+aa(lp1779
+I2
+aa(lp1780
+I1
+aa(lp1781
+I1
+aa(lp1782
+I2
+aa(lp1783
+I1
+aa(lp1784
+I2
+aa(lp1785
+I1
+aa(lp1786
+I2
+aa(lp1787
+I1
+aa(lp1788
+I1
+aa(lp1789
+I3
+aa(lp1790
+I1
+aa(lp1791
+I1
+aa(lp1792
+I1
+aa(lp1793
+I1
+aa(lp1794
+I1
+aa(lp1795
+I3
+aa(lp1796
+I2
+aa(lp1797
+I2
+aa(lp1798
+I1
+aa(lp1799
+I1
+aa(lp1800
+I1
+aa(lp1801
+I1
+aa(lp1802
+I3
+aa(lp1803
+I1
+aa(lp1804
+I1
+aa(lp1805
+I1
+aa(lp1806
+I1
+aa(lp1807
+I1
+aa(lp1808
+I1
+aa(lp1809
+I1
+aa(lp1810
+I1
+aa(lp1811
+I1
+aa(lp1812
+I1
+aa(lp1813
+I2
+aa(lp1814
+I1
+aa(lp1815
+I1
+aa(lp1816
+I1
+aa(lp1817
+I1
+aa(lp1818
+I2
+aa(lp1819
+I1
+aa(lp1820
+I1
+aa(lp1821
+I2
+aa(lp1822
+I1
+aa(lp1823
+I1
+aa(lp1824
+I1
+aa(lp1825
+I1
+aa(lp1826
+I2
+aa(lp1827
+I1
+aa(lp1828
+I1
+aa(lp1829
+I2
+aa(lp1830
+I1
+aa(lp1831
+I1
+aa(lp1832
+I1
+aa(lp1833
+I2
+aa(lp1834
+I1
+aa(lp1835
+I2
+aa(lp1836
+I1
+aa(lp1837
+I2
+aa(lp1838
+I1
+aa(lp1839
+I1
+aa(lp1840
+I3
+aa(lp1841
+I1
+aa(lp1842
+I2
+aa(lp1843
+I1
+aa(lp1844
+I1
+aa(lp1845
+I1
+aa(lp1846
+I1
+aa(lp1847
+I3
+aa(lp1848
+I1
+aa(lp1849
+I1
+aa(lp1850
+I2
+aa(lp1851
+I1
+aa(lp1852
+I1
+aa(lp1853
+I2
+aa(lp1854
+I1
+aa(lp1855
+I1
+aa(lp1856
+I1
+aa(lp1857
+I2
+aa(lp1858
+I1
+aa(lp1859
+I1
+aa(lp1860
+I2
+aa(lp1861
+I3
+aa(lp1862
+I1
+aa(lp1863
+I1
+aa(lp1864
+I2
+aa(lp1865
+I1
+aa(lp1866
+I1
+aa(lp1867
+I1
+aa(lp1868
+I1
+aa(lp1869
+I1
+aa(lp1870
+I1
+aa(lp1871
+I2
+aa(lp1872
+I2
+aa(lp1873
+I1
+aa(lp1874
+I3
+aa(lp1875
+I1
+aa(lp1876
+I1
+aa(lp1877
+I1
+aa(lp1878
+I1
+aa(lp1879
+I1
+aa(lp1880
+I1
+aa(lp1881
+I1
+aa(lp1882
+I1
+aa(lp1883
+I2
+aa(lp1884
+I1
+aa(lp1885
+I2
+aa(lp1886
+I1
+aa(lp1887
+I1
+aa(lp1888
+I1
+aa(lp1889
+I1
+aa(lp1890
+I1
+aa(lp1891
+I1
+aa(lp1892
+I2
+aa(lp1893
+I2
+aa(lp1894
+I1
+aa(lp1895
+I1
+aa(lp1896
+I3
+aa(lp1897
+I1
+aa(lp1898
+I1
+aa(lp1899
+I1
+aa(lp1900
+I1
+aa(lp1901
+I2
+aa(lp1902
+I1
+aa(lp1903
+I2
+aa(lp1904
+I1
+aa(lp1905
+I1
+aa(lp1906
+I1
+aa(lp1907
+I2
+aa(lp1908
+I2
+aa(lp1909
+I1
+aa(lp1910
+I2
+aa(lp1911
+I1
+aa(lp1912
+I1
+aa(lp1913
+I1
+aa(lp1914
+I1
+aa(lp1915
+I1
+aa(lp1916
+I1
+aa(lp1917
+I2
+aa(lp1918
+I1
+aa(lp1919
+I1
+aa(lp1920
+I1
+aa(lp1921
+I2
+aa(lp1922
+I1
+aa(lp1923
+I1
+aa(lp1924
+I2
+aa(lp1925
+I2
+aa(lp1926
+I2
+aa(lp1927
+I3
+aa(lp1928
+I3
+aa(lp1929
+I1
+aa(lp1930
+I1
+aa(lp1931
+I1
+aa(lp1932
+I1
+aa(lp1933
+I1
+aa(lp1934
+I1
+aa(lp1935
+I1
+aa(lp1936
+I1
+aa(lp1937
+I3
+aa(lp1938
+I1
+aa(lp1939
+I1
+aa(lp1940
+I2
+aa(lp1941
+I1
+aa(lp1942
+I1
+aa(lp1943
+I1
+aa(lp1944
+I3
+aa(lp1945
+I2
+aa(lp1946
+I1
+aa(lp1947
+I3
+aa(lp1948
+I2
+aa(lp1949
+I2
+aa(lp1950
+I1
+aa(lp1951
+I1
+aaa(lp1952
+(lp1953
+I18
+aI24
+aI162
+aI227
+aI0
 aI0
 aI117
 aI0
+aI0
+aI24
+aI66
+aI0
+aI0
+aI178
+aI115
+aI0
+aI117
+aI55
+aI0
+aI24
+aI13
+aI0
+aI113
+aI59
+aI56
+aI0
+aI149
+aI279
+aI0
+aI0
+aI219
+aI2
+aI39
+aI254
+aI50
+aa(lp1954
+I130
+aI163
+aI0
+aI244
+aI24
+aI38
+aI61
+aI57
+aI253
+aI77
+aI0
+aI163
+aI0
+aI0
+aI57
 aI0
 aI70
-aI265
 aI0
-aI248
-aI249
+aI303
+aI3
+aI279
+aI0
 aI117
 aI0
 aI0
-aI0
-aI27
 aI50
-aa(lp996
-I57
+aa(lp1955
+I2
+aI135
+aI187
+aI109
+aI24
+aI0
+aI117
+aI0
+aI239
+aI50
+aa(lp1956
+I70
 aI88
+aI24
+aI18
+aI0
+aI0
+aI149
+aI61
+aI117
+aI178
+aI9
+aI287
+aI149
+aI61
+aI50
+aa(lp1957
+I0
+aI26
+aI55
+aI2
+aI24
+aI178
+aI0
+aI205
+aI113
+aI0
+aI178
+aI0
 aI56
 aI0
 aI0
-aI149
-aI61
-aI148
-aI154
-aI149
-aI61
-aI50
-aa(lp997
-I2
 aI0
-aI116
-aI107
-aI0
-aI70
-aI277
-aI88
-aI50
-aa(lp998
-I18
-aI24
-aI268
-aI55
-aI38
-aI29
-aI0
-aI174
-aI149
-aI2
-aI24
-aI282
-aI33
-aI13
-aI90
-aI214
 aI157
-aI61
-aI224
-aI175
-aI148
-aI88
-aI50
-aa(lp999
-I38
+aI262
 aI0
-aI13
+aI50
+aa(lp1958
+I0
+aI0
 aI0
 aI57
-aI38
-aI228
-aI167
-aI0
-aI90
-aI50
-aa(lp1000
-I38
 aI0
 aI0
 aI0
-aI174
-aI84
-aI253
-aI122
-aI0
-aI157
-aI173
-aI114
-aI61
-aI0
-aI181
-aI75
-aI61
-aI0
-aI122
-aI23
-aI0
-aI145
-aI61
-aI227
-aI88
-aI33
-aI50
-aa(lp1001
-I0
-aI55
-aI98
-aI70
-aI0
+aI304
 aI113
 aI0
-aI57
-aI0
-aI0
-aI0
-aI29
-aI0
-aI0
+aI265
 aI163
-aI5
+aI127
+aI0
+aI0
+aI0
 aI24
-aI2
-aI42
-aI50
-aa(lp1002
-I2
-aI55
-aI38
-aI0
-aI29
-aI57
-aI38
-aI0
-aI151
-aI271
-aI148
-aI0
-aI0
-aI50
-aa(lp1003
-I38
-aI203
-aI253
-aI55
-aI51
-aI163
-aI0
-aI33
-aI148
-aI38
-aI46
-aI88
-aI3
-aI38
-aI158
-aI146
-aI50
-aa(lp1004
-I2
-aI84
-aI0
-aI163
-aI0
-aI0
-aI181
-aI0
-aI163
-aI237
-aI169
-aI24
-aI157
-aI189
-aI70
-aI88
-aI24
-aI0
-aI279
-aI0
-aI0
-aI71
-aI70
-aI18
-aI50
-aa(lp1005
-I2
 aI117
-aI254
-aI207
 aI0
-aI156
-aI292
-aI147
-aI50
-aa(lp1006
-I18
-aI24
-aI268
-aI55
-aI178
-aI0
+aI25
+aI28
 aI0
 aI0
 aI149
 aI0
-aI2
-aI125
-aI46
-aI231
-aI146
-aI80
-aI24
-aI167
-aI79
-aI13
+aI0
+aI50
+aa(lp1959
+I2
+aI177
+aI163
+aI0
+aI163
+aI166
+aI181
 aI203
 aI0
-aI0
-aI1
-aI281
-aI0
-aI24
-aI268
-aI207
-aI51
-aI163
-aI225
-aI214
-aI128
-aI61
-aI117
-aI61
-aI50
-aa(lp1007
-I2
-aI0
-aI57
-aI88
-aI156
-aI178
-aI174
-aI163
-aI141
-aI0
-aI0
-aI70
-aI0
-aI117
-aI0
-aI0
-aI50
-aa(lp1008
-I56
-aI15
-aI225
-aI0
-aI156
-aI279
-aI0
-aI253
-aI191
-aI13
-aI90
-aI157
-aI61
-aI30
-aI148
-aI38
-aI0
-aI50
-aa(lp1009
-I2
-aI90
-aI116
-aI303
-aI0
 aI148
 aI38
 aI46
-aI0
-aI0
-aI93
-aI148
-aI88
 aI3
 aI38
 aI164
@@ -22645,916 +23987,53 @@ aI95
 aI146
 aI50
 aI81
-aa(lp1010
-I0
-aI163
-aI256
-aI0
-aI0
-aI50
-aa(lp1011
-I56
-aI84
-aI302
-aI0
-aI163
-aI206
-aI178
-aI39
-aI174
-aI113
-aI97
-aI0
-aI0
-aI0
-aI50
-aa(lp1012
-I18
-aI0
-aI178
-aI0
-aI149
-aI13
-aI0
-aI0
-aI0
-aI13
-aI0
-aI0
-aI50
-aa(lp1013
-I2
-aI66
-aI0
-aI178
-aI0
-aI149
-aI61
-aI185
-aI181
-aI0
-aI117
-aI289
-aI173
-aI114
-aI61
-aI57
-aI88
-aI50
-aa(lp1014
-I2
-aI55
-aI178
-aI0
-aI149
-aI0
-aI117
-aI0
-aI113
-aI0
-aI0
-aI0
-aI0
-aI38
-aI0
-aI151
-aI0
-aI163
-aI0
-aI0
-aI229
-aI0
-aI196
-aI50
-aa(lp1015
-I95
-aI0
-aI186
-aI55
-aI178
-aI0
-aI151
-aI24
-aI81
-aI42
-aI0
-aI0
-aI24
-aI279
-aI0
-aI153
-aI2
-aI24
-aI178
-aI0
-aI213
-aI57
-aI0
-aI50
-aa(lp1016
-I95
-aI28
-aI266
-aI44
-aI24
-aI117
-aI56
-aI84
-aI57
-aI263
-aI0
-aI163
-aI0
-aI113
-aI44
-aI24
-aI81
-aI0
-aI42
-aI50
-aa(lp1017
-I2
-aI0
-aI61
-aI57
-aI0
-aI0
-aI154
-aI70
-aI38
-aI0
-aI71
-aI0
-aI148
-aI88
-aI50
-aa(lp1018
-I56
-aI0
-aI13
-aI0
-aI0
-aI0
-aI57
-aI38
-aI0
-aI151
-aI117
-aI13
-aI0
-aI0
-aI57
-aI0
-aI0
-aI50
-aa(lp1019
-I2
-aI24
-aI268
-aI0
-aI0
-aI0
-aI245
-aI24
-aI0
-aI173
-aI0
-aI88
-aI294
-aI181
-aI0
-aI75
-aI169
-aI78
-aI50
-aa(lp1020
-I185
-aI25
-aI24
-aI2
-aI66
-aI173
-aI114
-aI0
-aI113
-aI0
-aI24
-aI0
-aI61
-aI57
-aI0
-aI70
-aI181
-aI0
-aI108
-aI0
-aI88
-aI50
-aa(lp1021
-I299
-aI2
-aI55
-aI0
-aI113
-aI18
-aI167
-aI79
-aI13
-aI90
-aI201
-aI181
-aI78
-aI50
-aa(lp1022
-I95
-aI28
-aI0
-aI7
-aI0
-aI56
-aI148
-aI38
-aI0
-aI70
-aI178
-aI0
-aI0
-aI117
-aI0
-aI0
-aI38
-aI92
-aI24
-aI81
-aI0
-aI42
-aI50
-aa(lp1023
-I38
-aI13
-aI5
-aI207
-aI302
-aI0
-aI156
-aI0
-aI149
-aI38
-aI147
-aI0
-aI153
-aI8
-aI0
-aI0
-aI2
-aI50
-aa(lp1024
-I157
-aI38
-aI36
-aI149
-aI181
-aI122
-aI228
-aI24
-aI18
-aI15
-aI225
-aI4
-aI294
-aI61
-aI50
-aa(lp1025
-I2
-aI24
-aI178
-aI0
-aI54
-aI113
-aI66
-aI0
-aI181
-aI253
-aI0
-aI57
-aI38
-aI0
-aI0
-aI71
-aI217
-aI195
-aI309
-aI54
-aI242
-aI0
-aI24
-aI0
-aI57
-aI148
-aI113
-aI0
-aI88
-aI153
-aI279
-aI78
-aI149
-aI13
-aI297
-aI90
-aI24
-aI233
-aI61
-aI50
-aa(lp1026
-I56
-aI0
-aI178
-aI13
-aI308
-aI0
-aI142
-aI57
-aI38
-aI0
-aI239
-aI24
-aI0
-aI2
-aI125
-aI46
-aI231
-aI146
-aI80
-aI50
-aa(lp1027
-I95
-aI0
-aI38
-aI0
-aI66
-aI49
-aI57
-aI38
-aI0
-aI24
-aI28
-aI207
-aI107
-aI57
-aI279
-aI151
-aI57
-aI268
-aI152
-aI15
-aI225
-aI0
-aI0
-aI50
-aa(lp1028
-I50
-aa(lp1029
-I18
-aI0
-aI152
-aI207
-aI13
-aI0
-aI57
-aI38
-aI0
-aI0
-aI0
-aI153
-aI38
-aI27
-aI56
-aI55
-aI0
-aI117
-aI113
-aI0
-aI0
-aI154
-aI149
-aI53
-aI163
-aI278
-aI0
-aI0
-aI116
-aI0
-aI61
-aI57
-aI88
-aI50
-aa(lp1030
-I0
-aI0
-aI0
-aI85
-aI117
-aI0
-aI0
-aI157
-aI38
-aI2
-aI0
-aI50
-aa(lp1031
-I2
-aI6
-aI88
-aI113
-aI181
-aI75
-aI169
-aI78
-aI282
-aI88
-aI50
-aa(lp1032
-I83
-aI18
-aI303
-aI181
-aI0
-aI24
-aI56
-aI77
-aI78
-aI294
-aI13
-aI90
-aI70
-aI178
-aI37
-aI122
-aI149
-aI294
-aI61
-aI224
-aI175
-aI50
-aa(lp1033
-I38
-aI78
-aI167
-aI211
-aI144
-aI70
-aI2
-aI227
-aI0
-aI57
-aI0
-aI48
-aI117
-aI0
-aI0
-aI38
-aI0
-aI70
-aI88
-aI0
-aI24
-aI222
-aI149
-aI38
-aI0
-aI42
-aI50
-aa(lp1034
-I148
-aI88
-aI88
-aI24
-aI38
-aI0
-aI132
-aI117
-aI249
-aI270
-aI276
-aI174
-aI214
-aI38
-aI90
-aI157
-aI61
-aI30
-aI24
-aI0
-aI198
-aI114
-aI181
-aI0
-aI113
-aI0
-aI149
-aI61
-aI178
-aI175
-aI50
-aa(lp1035
-I18
-aI302
-aI42
-aI56
-aI177
-aI163
-aI193
-aI13
-aI90
-aI117
-aI179
-aI3
-aI38
-aI164
-aI158
-aI146
-aI50
-aa(lp1036
-I152
-aI116
-aI13
-aI259
-aI117
-aI0
-aI0
-aI47
-aI24
-aI0
-aI178
-aI0
-aI0
-aI117
-aI0
-aI0
-aI50
-aI81
-aa(lp1037
-I18
-aI177
-aI163
-aI193
-aI13
-aI90
-aI149
-aI203
-aI253
-aI70
+aa(lp1960
+I35
 aI61
 aI163
 aI61
-aI30
-aI50
-aa(lp1038
-I0
-aI2
-aI24
-aI178
-aI0
-aI0
-aI0
-aI0
-aI24
-aI6
-aI38
-aI223
-aI149
-aI279
-aI75
-aI169
-aI78
-aI149
-aI13
-aI90
-aI149
-aI203
-aI253
-aI157
-aI178
-aI122
-aI149
-aI61
-aI224
-aI175
-aI50
-aa(lp1039
-I2
-aI117
-aI254
-aI207
-aI38
-aI147
-aI50
-aa(lp1040
-I95
-aI152
-aI84
-aI178
-aI0
-aI149
-aI129
-aI5
-aI0
-aI113
-aI38
-aI169
-aI172
-aI207
-aI0
-aI163
-aI26
-aI24
-aI81
-aI42
-aI0
-aI0
-aI24
-aI0
-aI149
-aI38
-aI187
-aI109
-aI0
-aI0
-aI0
-aI157
-aI2
-aI57
-aI0
-aI50
-aa(lp1041
-I2
-aI0
 aI260
-aI107
 aI225
 aI0
-aI0
-aI70
-aI277
-aI254
-aI42
-aI50
-aa(lp1042
-I226
-aI149
-aI306
-aI231
-aI2
-aI42
-aI56
-aI0
-aI163
-aI226
-aI38
-aI306
-aI156
-aI0
-aI231
-aI61
 aI163
 aI215
 aI0
-aI0
-aI0
-aI70
-aI0
-aI24
-aI121
-aI0
-aI70
-aI249
-aI0
-aI0
-aI0
-aI113
-aI0
-aI0
-aI202
-aI24
-aI61
-aI163
-aI215
-aI0
-aI0
-aI0
-aI70
-aI0
-aI24
-aI279
-aI0
-aI0
-aI70
-aI0
-aI24
-aI178
-aI249
-aI0
-aI0
-aI113
-aI0
-aI0
-aI0
-aI287
-aI202
-aI24
-aI61
-aI163
-aI215
-aI0
-aI0
-aI0
-aI70
-aI256
-aI0
-aI0
-aI202
-aI279
-aI0
-aI0
-aI70
-aI0
-aI0
-aI202
-aI24
-aI61
-aI163
-aI215
-aI0
-aI0
-aI0
-aI70
-aI0
-aI100
-aI0
-aI202
-aI117
-aI24
-aI38
-aI0
-aI70
-aI94
-aI241
-aI24
-aI155
-aI117
-aI0
-aI0
-aI24
-aI0
-aI186
-aI117
-aI218
-aI0
-aI117
-aI309
-aI155
-aI62
 aI0
 aI24
 aI273
-aI0
-aI0
-aI24
-aI0
-aI150
-aI121
-aI0
-aI50
-aa(lp1043
-I2
-aI275
-aI181
-aI75
-aI169
-aI78
-aI88
-aI24
-aI191
 aI178
-aI14
-aI13
-aI90
-aI157
-aI61
-aI224
-aI175
-aI50
-aa(lp1044
-I178
-aI0
-aI137
-aI0
-aI70
-aI27
-aI113
+aI8
 aI0
 aI0
 aI24
+aI0
+aI0
+aI24
+aI0
+aI0
+aI0
 aI117
 aI0
-aI227
 aI0
-aI115
-aI241
-aI0
-aI2
-aI24
-aI66
-aI232
-aI70
-aI279
-aI75
-aI169
-aI78
 aI50
-aa(lp1045
-I113
-aI0
-aI24
-aI0
-aI106
-aI0
-aI24
-aI66
-aI0
-aI222
-aI0
-aI57
-aI219
-aI71
-aI50
-aa(lp1046
+aa(lp1961
 I2
 aI24
-aI254
-aI117
-aI267
-aI116
-aI204
-aI163
-aI225
-aI38
-aI0
-aI0
-aI148
-aI38
-aI74
-aI50
-aa(lp1047
-I56
-aI42
-aI57
-aI178
-aI0
-aI124
-aI148
-aI88
-aI113
-aI56
+aI268
 aI177
 aI163
-aI193
-aI13
-aI90
-aI70
-aI128
-aI61
-aI117
-aI61
-aI30
-aI50
-aa(lp1048
-I181
-aI13
-aI90
-aI15
 aI179
 aI148
 aI38
 aI46
-aI0
-aI156
+aI3
+aI38
+aI164
+aI158
 aI95
-aI2
+aI146
 aI24
 aI81
-aI18
-aI42
-aI88
-aI57
-aI178
-aI124
-aI153
-aI38
-aI46
-aI50
-aa(lp1049
-I0
 aI55
 aI243
 aI227
@@ -23563,625 +24042,94 @@ aI0
 aI0
 aI24
 aI269
+aI167
+aI225
+aI0
+aI35
+aI0
+aI0
+aI17
+aI194
+aI0
+aI0
 aI0
 aI38
-aI88
-aI123
-aI149
-aI2
-aI117
-aI38
-aI0
-aI113
-aI15
-aI0
-aI38
-aI0
-aI0
-aI276
-aI0
-aI163
-aI254
-aI50
-aa(lp1050
-I2
-aI50
-aa(lp1051
-I58
-aI0
-aI0
-aI0
-aI163
-aI0
-aI178
-aI0
-aI24
-aI56
-aI15
-aI0
-aI157
-aI178
-aI0
-aI56
-aI66
-aI139
-aI0
-aI64
-aI50
-aa(lp1052
-I38
-aI140
-aI24
-aI235
-aI0
-aI24
-aI77
+aI36
 aI0
 aI227
-aI8
-aI0
-aI2
-aI24
-aI178
-aI115
-aI241
-aI0
-aI117
-aI186
-aI213
-aI50
-aa(lp1053
-I18
-aI0
-aI22
-aI13
-aI8
-aI220
-aI57
 aI88
-aI24
-aI117
-aI0
-aI178
-aI13
-aI308
-aI0
-aI0
-aI24
-aI0
-aI0
 aI50
-aa(lp1054
+aa(lp1962
 I0
 aI0
-aI174
-aI2
-aI72
-aI0
-aI149
-aI38
-aI144
-aI56
-aI204
-aI257
-aI163
-aI127
-aI83
-aI56
-aI31
-aI169
-aI88
-aI50
-aa(lp1055
-I0
-aI0
-aI24
-aI182
-aI149
-aI2
-aI24
-aI42
-aI18
-aI84
-aI0
-aI207
-aI0
-aI50
-aa(lp1056
-I2
-aI0
-aI38
-aI0
-aI149
-aI181
-aI40
-aI92
-aI57
-aI279
-aI46
-aI124
-aI88
-aI50
-aa(lp1057
-I56
-aI302
-aI0
-aI38
-aI2
-aI24
-aI268
-aI0
-aI178
-aI0
-aI149
-aI0
-aI0
-aI0
-aI24
-aI0
-aI0
-aI117
-aI0
-aI0
-aI50
-aa(lp1058
-I2
-aI66
-aI72
-aI104
-aI61
-aI57
-aI115
-aI184
-aI163
-aI101
-aI50
-aa(lp1059
-I2
-aI66
-aI185
-aI303
-aI0
-aI38
-aI20
-aI149
-aI181
-aI69
-aI239
-aI117
-aI0
-aI0
-aI38
-aI272
-aI0
-aI50
-aa(lp1060
-I2
-aI11
-aI178
-aI9
-aI287
-aI57
-aI88
-aI149
-aI61
-aI148
-aI154
-aI149
-aI61
-aI50
-aa(lp1061
-I2
-aI162
-aI18
-aI57
-aI88
-aI163
-aI0
-aI0
-aI0
-aI50
-aa(lp1062
-I2
-aI84
-aI0
-aI0
-aI0
-aI5
-aI163
-aI0
-aI0
-aI0
-aI0
-aI24
-aI57
-aI268
-aI295
-aI0
-aI207
-aI0
-aI0
-aI83
-aI0
-aI24
-aI0
-aI114
-aI0
-aI148
-aI178
-aI0
-aI84
-aI0
-aI0
-aI50
-aa(lp1063
-I2
-aI88
-aI0
-aI254
-aI163
-aI0
-aI24
-aI0
-aI24
-aI141
-aI117
-aI0
-aI178
-aI0
-aI228
-aI149
-aI0
-aI0
-aI0
-aI160
-aI50
-aa(lp1064
-I2
-aI0
-aI163
-aI211
-aI144
-aI57
-aI38
-aI169
-aI172
-aI0
-aI0
-aI18
-aI55
-aI0
-aI0
-aI117
-aI0
-aI138
-aI163
-aI0
-aI181
-aI0
-aI0
-aI50
-aa(lp1065
-I18
-aI84
-aI2
-aI0
-aI0
-aI0
-aI0
-aI117
-aI0
-aI59
-aI0
-aI0
-aI163
-aI0
-aI117
-aI0
-aI21
-aI271
-aI148
-aI0
-aI102
-aI156
-aI0
-aI0
-aI24
-aI183
-aI0
-aI24
-aI0
-aI0
-aI24
-aI0
-aI0
-aI117
-aI0
-aI0
-aI0
-aI50
-aa(lp1066
-I0
-aI2
-aI65
-aI45
-aI163
-aI0
-aI33
-aI149
-aI181
-aI90
-aI148
-aI38
-aI46
-aI148
-aI88
-aI24
-aI153
-aI13
-aI163
-aI13
-aI134
-aI70
-aI123
-aI50
-aa(lp1067
-I95
-aI2
-aI55
-aI0
-aI148
-aI98
-aI38
-aI239
-aI117
-aI0
-aI18
-aI163
-aI0
-aI38
-aI0
-aI0
-aI70
-aI256
-aI0
-aI0
-aI0
-aI50
-aa(lp1068
-I2
-aI72
-aI173
-aI114
-aI61
-aI248
-aI178
-aI0
-aI0
-aI0
-aI113
-aI0
-aI254
-aI125
-aI18
-aI84
-aI283
-aI0
-aI153
-aI178
-aI13
-aI308
-aI142
-aI80
-aI24
-aI267
-aI24
-aI216
-aI117
-aI230
-aI50
-aa(lp1069
-I18
-aI0
-aI232
-aI0
-aI148
-aI88
-aI50
-aa(lp1070
-I56
-aI275
-aI157
-aI61
-aI24
-aI234
-aI61
-aI248
-aI181
-aI92
-aI122
-aI299
-aI73
-aI61
-aI248
-aI0
-aI56
-aI0
-aI88
-aI50
-aa(lp1071
-I299
-aI70
-aI88
-aI24
-aI38
-aI92
-aI93
-aI55
-aI0
-aI275
-aI70
-aI239
-aI50
-aI81
-aa(lp1072
-I2
-aI174
-aI0
-aI232
-aI181
-aI177
-aI163
-aI237
-aI0
-aI153
-aI88
-aI88
-aI24
-aI0
-aI0
-aI149
-aI38
-aI88
-aI268
-aI0
-aI5
-aI163
-aI237
-aI169
-aI153
-aI0
-aI0
-aI244
-aI0
-aI50
-aa(lp1073
-I0
-aI0
-aI39
-aI242
-aI2
-aI117
-aI254
 aI260
-aI7
-aI237
-aI169
-aI57
-aI88
-aI24
-aI130
-aI163
-aI178
 aI0
-aI0
-aI88
-aI227
-aI267
-aI50
-aa(lp1074
-I57
-aI0
-aI163
-aI38
-aI13
-aI90
-aI149
-aI203
-aI253
-aI134
-aI24
-aI18
-aI66
-aI0
-aI147
-aI13
-aI297
-aI90
-aI0
-aI0
-aI50
-aa(lp1075
-I2
-aI148
-aI88
-aI232
-aI178
-aI296
-aI190
 aI153
-aI38
-aI46
+aI0
+aI0
+aI24
+aI240
+aI291
+aI117
+aI240
+aI0
+aI57
+aI0
+aI0
+aI156
+aI285
+aI156
+aI0
+aI0
 aI50
-aa(lp1076
-I301
-aI42
-aI152
+aa(lp1963
+I168
+aI84
+aI173
+aI24
+aI0
+aI84
+aI255
+aI32
+aI67
 aI55
-aI121
-aI163
 aI0
 aI0
-aI70
-aI279
-aI92
+aI24
+aI269
+aI0
+aI0
+aI13
+aI149
+aI88
+aI84
+aI195
+aI0
+aI54
+aI259
+aI24
+aI178
+aI61
+aI78
+aI227
+aI0
+aI0
+aI84
+aI2
+aI125
+aI46
+aI231
+aI146
+aI80
 aI50
-aa(lp1077
-I0
-aI0
-aI0
-aI246
+aa(lp1964
+I127
+aI38
+aI34
+aI85
 aI2
 aI0
-aI181
-aI0
-aI156
-aI178
-aI169
-aI174
-aI88
-aI24
-aI57
-aI13
-aI149
-aI38
-aI0
-aI0
-aI70
-aI92
-aI0
-aI24
-aI38
-aI254
-aI0
-aI50
-aa(lp1078
-I2
-aI0
-aI0
-aI156
-aI38
 aI95
-aI0
-aI0
-aI149
-aI0
-aI0
-aI0
-aI68
-aI117
-aI0
-aI261
-aI196
-aI70
-aI62
-aI176
-aI117
-aI0
-aI50
-aI81
-aa(lp1079
-I95
 aI153
 aI0
 aI183
@@ -24225,56 +24173,2059 @@ aI178
 aI0
 aI0
 aI50
-aa(lp1080
-I56
-aI302
+aa(lp1965
+I18
+aI177
+aI163
+aI225
+aI131
+aI148
+aI38
+aI46
+aI50
+aa(lp1966
+I2
+aI84
+aI253
+aI15
+aI225
+aI131
+aI148
+aI38
+aI46
+aI3
+aI38
+aI164
+aI158
+aI146
+aI50
+aa(lp1967
+I38
+aI306
 aI0
+aI38
+aI147
+aI258
+aI0
+aI24
+aI18
+aI42
+aI57
+aI178
+aI190
+aI50
+aa(lp1968
+I2
+aI24
+aI268
+aI66
+aI61
+aI57
+aI160
+aI3
+aI261
+aI24
+aI42
+aI0
+aI84
+aI254
+aI24
+aI279
+aI0
+aI149
+aI2
+aI24
+aI167
+aI0
+aI38
+aI215
+aI84
+aI0
+aI50
+aa(lp1969
+I2
+aI149
+aI0
+aI117
+aI0
+aI254
+aI207
+aI0
+aI38
+aI78
+aI50
+aa(lp1970
+I0
+aI55
+aI98
+aI70
 aI0
 aI113
 aI0
+aI57
+aI0
+aI0
+aI0
+aI29
+aI0
+aI0
+aI163
 aI5
-aI258
+aI24
+aI2
+aI42
+aI50
+aa(lp1971
+I2
+aI0
+aI38
+aI110
+aI0
+aI149
+aI38
+aI0
+aI254
+aI0
+aI91
+aI251
+aI88
+aI57
+aI0
+aI0
+aI117
+aI0
+aI0
+aI117
+aI0
+aI163
+aI0
+aI178
+aI0
+aI13
+aI0
+aI57
+aI88
+aI150
+aI88
+aI50
+aa(lp1972
+I294
+aI178
+aI108
+aI117
+aI178
+aI0
+aI0
+aI24
+aI18
+aI0
+aI163
+aI37
+aI38
+aI0
+aI93
+aI24
+aI0
+aI153
+aI0
+aI24
+aI0
+aI42
+aI50
+aa(lp1973
+I2
+aI88
+aI0
+aI163
+aI0
+aI0
+aI118
+aI0
+aI0
+aI68
+aI205
+aI0
+aI70
+aI61
+aI50
+aa(lp1974
+I2
+aI84
+aI0
+aI163
+aI0
+aI0
+aI181
+aI0
+aI163
+aI237
+aI169
+aI24
+aI157
+aI189
+aI70
+aI88
+aI24
+aI0
+aI279
+aI0
+aI0
+aI71
+aI70
+aI18
+aI50
+aa(lp1975
+I2
+aI24
+aI254
+aI24
+aI117
+aI267
+aI0
+aI156
+aI0
+aI147
+aI70
+aI38
+aI78
+aI50
+aa(lp1976
+I2
+aI42
+aI88
+aI56
+aI72
+aI61
+aI57
+aI279
+aI75
+aI169
+aI78
+aI149
+aI178
+aI8
+aI0
+aI215
+aI24
+aI254
+aI0
+aI0
+aI267
+aI50
+aa(lp1977
+I2
+aI84
+aI300
+aI0
+aI55
+aI0
+aI38
+aI0
+aI185
+aI88
+aI24
+aI254
+aI0
+aI24
+aI299
+aI56
+aI55
+aI305
+aI38
+aI0
+aI149
+aI0
+aI84
+aI267
+aI157
+aI13
+aI308
+aI117
+aI0
+aI213
+aI216
+aI157
+aI13
+aI308
+aI50
+aa(lp1978
+I156
+aI149
+aI88
+aI24
 aI2
 aI0
+aI13
+aI0
+aI0
+aI117
+aI13
+aI0
+aI0
+aI50
+aa(lp1979
+I0
+aI163
+aI256
+aI0
+aI0
+aI50
+aa(lp1980
+I2
+aI57
+aI0
+aI177
+aI163
+aI193
+aI173
+aI114
+aI13
+aI90
+aI117
+aI122
+aI26
+aI128
+aI61
+aI163
+aI61
+aI30
+aI201
+aI181
+aI0
+aI75
+aI169
+aI78
+aI50
+aa(lp1981
+I2
+aI55
+aI178
+aI0
+aI149
+aI0
+aI117
+aI0
+aI113
+aI0
+aI0
+aI0
+aI0
+aI38
+aI0
+aI151
+aI0
+aI163
+aI0
+aI0
+aI229
+aI0
+aI196
+aI50
+aa(lp1982
+I2
+aI24
+aI18
+aI0
+aI257
+aI149
+aI38
+aI254
+aI149
+aI0
+aI88
+aI0
+aI38
+aI110
+aI272
+aI52
+aI120
+aI174
+aI163
+aI237
+aI169
+aI88
+aI50
+aa(lp1983
+I0
+aI42
+aI301
+aI177
+aI163
+aI221
+aI163
+aI0
+aI2
+aI84
+aI0
+aI24
+aI0
+aI0
+aI38
+aI0
+aI24
+aI301
+aI0
+aI24
+aI95
+aI77
+aI139
+aI0
+aI81
+aI70
+aI279
+aI92
+aI50
+aa(lp1984
+I250
+aI55
+aI178
+aI0
+aI113
+aI55
+aI0
+aI291
+aI231
+aI57
+aI88
+aI111
+aI77
+aI61
+aI117
+aI57
+aI88
+aI24
+aI38
+aI14
+aI77
+aI61
+aI50
+aa(lp1985
+I0
+aI0
+aI97
+aI225
+aI0
+aI157
+aI0
+aI50
+aa(lp1986
+I0
+aI0
+aI24
+aI269
+aI0
+aI38
+aI2
+aI205
+aI88
+aI156
+aI0
+aI149
+aI254
+aI24
+aI10
+aI267
+aI113
+aI301
+aI55
+aI0
+aI149
+aI126
+aI169
+aI217
+aI172
+aI207
+aI0
+aI299
+aI301
+aI55
+aI0
+aI70
+aI38
+aI0
+aI0
+aI50
+aa(lp1987
+I127
+aI38
+aI34
+aI85
+aI2
+aI0
+aI103
+aI0
+aI38
+aI0
+aI149
+aI0
+aI0
+aa(lp1988
+I299
+aI2
+aI55
+aI0
+aI113
+aI18
+aI167
+aI79
+aI13
+aI90
+aI201
+aI181
+aI78
+aI50
+aa(lp1989
+I43
+aI0
+aI38
+aI283
+aI100
+aI0
+aI149
+aI119
+aI0
+aI0
+aI117
+aI221
+aI163
+aI292
+aI38
+aI0
+aI57
+aI140
+aI0
+aI117
+aI0
+aI50
+aa(lp1990
+I2
+aI66
+aI72
+aI173
+aI114
+aI61
+aI57
+aI115
+aI241
+aI57
+aI181
+aI0
+aI105
+aI149
+aI0
+aI50
+aa(lp1991
+I95
+aI43
+aI0
+aI0
+aI294
+aI38
+aI0
+aI149
+aI0
+aI258
+aI0
+aI0
+aI0
+aI117
+aI0
+aI258
+aI38
+aI51
+aI0
+aI50
+aI81
+aa(lp1992
+I70
+aI38
+aI0
+aI133
+aI113
+aI0
+aI88
+aI24
+aI2
+aI0
+aI61
+aI57
+aI0
+aI70
+aI178
+aI9
+aI287
+aI149
+aI61
+aI24
+aI13
+aI308
+aI0
+aI114
+aI181
+aI9
+aI287
+aI70
+aI38
+aI0
+aI133
+aI88
+aI50
+aa(lp1993
+I2
+aI24
+aI178
+aI0
+aI174
+aI137
+aI178
+aI0
+aI113
+aI15
+aI16
+aI153
+aI136
+aI134
+aI227
+aI254
+aI125
+aI46
+aI231
+aI146
+aI80
+aI24
+aI232
+aI0
+aI88
+aI153
+aI38
+aI46
+aI0
+aI113
+aI56
+aI177
+aI163
+aI193
+aI13
+aI90
+aI149
+aI253
+aI214
+aI157
+aI61
+aI163
+aI61
+aI30
+aI50
+aa(lp1994
+I2
+aI260
+aI107
+aI225
+aI0
+aI70
+aI277
+aI88
+aI88
+aI50
+aa(lp1995
+I38
+aI74
+aI77
+aI0
+aI227
+aI2
+aI117
+aI254
+aI50
+aa(lp1996
+I18
+aI209
+aI13
+aI90
+aI157
+aI61
+aI224
+aI175
+aI24
+aI178
+aI122
+aI0
+aI3
+aI38
+aI61
+aI163
+aI61
+aI0
+aI228
+aI56
+aI65
+aI45
+aI70
+aI50
+aa(lp1997
+I49
+aI303
+aI163
+aI166
+aI38
+aI253
+aI148
+aI46
+aI3
+aI38
+aI158
+aI95
+aI146
+aI81
+aI50
+aa(lp1998
+I173
+aI114
+aI0
+aI149
+aI38
+aI2
+aI39
+aI5
+aI113
+aI31
+aI169
+aI185
+aI88
+aI207
+aI88
+aI33
+aI305
+aI263
+aI92
+aI122
+aI24
+aI288
+aI254
+aI55
+aI50
+aa(lp1999
+I2
+aI0
+aI284
+aI248
+aI0
+aI84
+aI254
+aI125
+aI46
+aI231
+aI146
+aI80
+aI57
+aI178
+aI88
+aI92
+aI24
+aI0
+aI157
+aI294
+aI61
+aI178
+aI175
+aI50
+aa(lp2000
+I38
+aI0
+aI24
+aI2
+aI24
+aI0
+aI113
+aI18
+aI260
+aI0
+aI33
+aI88
+aI50
+aa(lp2001
+I217
+aI38
+aI46
+aI0
+aI0
+aI55
+aI106
+aI73
+aI294
+aI13
+aI308
+aI70
+aI88
+aI24
+aI0
+aI178
+aI0
+aI0
+aI22
+aI38
+aI0
+aI0
+aI0
+aI24
+aI38
+aI13
+aI272
+aI0
+aI113
+aI266
+aI0
+aI259
+aI88
+aI266
+aI0
+aI0
+aI0
+aI0
+aI50
+aa(lp2002
+I181
+aI253
+aI125
+aI46
+aI231
+aI146
+aI80
+aI131
+aI156
+aI0
+aI156
+aI61
+aI148
+aI88
+aI0
+aI157
+aI61
+aI50
+aa(lp2003
+I162
+aI57
+aI88
+aI24
+aI2
+aI0
+aI117
+aI0
+aI252
+aI0
+aI0
+aI0
+aI24
+aI0
+aI117
+aI0
+aI70
+aI0
+aI0
+aI24
+aI0
+aI117
+aI0
+aI0
+aI0
+aI38
+aI0
+aI228
+aI149
+aI0
+aI163
+aI13
+aI0
+aI50
+aa(lp2004
+I2
+aI117
+aI254
+aI24
+aI210
+aI149
+aI8
+aI0
+aI0
+aI24
+aI207
+aI0
+aI0
+aI0
+aI149
+aI38
+aI78
+aI50
+aa(lp2005
+I2
+aI125
+aI46
+aI231
+aI146
+aI80
+aI24
+aI178
+aI54
+aI153
+aI62
+aI0
+aI57
+aI0
+aI299
+aI271
+aI57
+aI0
+aI24
+aI0
+aI163
+aI211
+aI61
+aI148
+aI88
+aI113
+aI254
+aI125
+aI0
+aI231
+aI146
+aI80
+aI77
+aI233
+aI61
+aI50
+aa(lp2006
+I2
+aI24
+aI268
+aI55
+aI271
+aI57
+aI0
+aI24
+aI0
+aI24
+aI117
+aI66
+aI181
+aI112
+aI99
+aI20
+aI57
+aI0
+aI24
+aI0
+aI24
+aI66
+aI232
+aI177
+aI163
+aI237
+aI169
+aI153
+aI46
+aI50
+aa(lp2007
+I38
+aI90
+aI116
+aI0
+aI148
+aI38
+aI46
+aI3
+aI38
+aI164
+aI158
+aI95
+aI146
+aI50
+aI81
+aa(lp2008
+I194
+aI117
+aI255
+aI286
+aI0
+aI0
+aI24
+aI13
+aI24
+aI0
+aI2
+aI57
+aI88
+aI24
+aI117
+aI77
+aI0
+aI0
+aI61
+aI88
+aI50
+aa(lp2009
+I217
+aI38
+aI46
+aI0
+aI0
+aI55
+aI73
+aI173
+aI114
+aI13
+aI308
+aI185
+aI56
+aI0
+aI181
+aI252
+aI148
+aI88
+aI24
+aI2
+aI253
+aI66
+aI0
+aI13
+aI308
+aI50
+aa(lp2010
+I2
+aI55
+aI94
+aI148
+aI178
+aI8
+aI0
+aI149
+aI0
+aI165
+aI235
+aI0
+aI165
+aI163
+aI278
+aI0
+aI0
+aI50
+aa(lp2011
+I56
+aI275
+aI157
+aI61
+aI50
+aa(lp2012
+I95
+aI38
+aI86
+aI55
+aI0
+aI163
+aI0
+aI0
+aI24
+aI81
+aI0
+aI0
+aI0
+aI24
+aI2
+aI84
+aI8
+aI182
+aI24
+aI57
+aI178
+aI0
+aI0
+aI50
+aa(lp2013
+I271
+aI57
+aI8
+aI0
+aI70
+aI38
+aI2
+aI24
+aI301
+aI88
+aI77
+aI178
+aI0
+aI157
+aI254
+aI117
+aI267
+aI50
+aa(lp2014
+I57
+aI178
+aI0
+aI0
+aI23
+aI38
+aI223
+aI24
+aI0
+aI213
+aI2
+aI42
+aI24
+aI95
+aI56
+aI84
+aI0
+aI163
+aI206
+aI178
+aI39
+aI174
+aI0
+aI0
+aI56
+aI84
+aI173
+aI0
+aI163
+aI0
+aI38
+aI92
+aI93
+aI50
+aa(lp2015
+I2
+aI31
+aI169
+aI88
+aI57
+aI178
+aI61
+aI75
+aI169
+aI253
+aI78
+aI50
+aa(lp2016
+I2
+aI24
+aI254
+aI117
+aI267
+aI116
+aI204
+aI163
+aI225
+aI38
+aI0
+aI0
+aI148
+aI38
+aI74
+aI50
+aa(lp2017
+I2
+aI50
+aa(lp2018
+I95
+aI248
+aI38
+aI110
+aI0
+aI113
+aI0
+aI117
+aI0
+aI162
+aI250
+aI174
+aI24
+aI43
+aI266
+aI0
+aI0
+aI0
+aI24
+aI81
+aI38
+aI0
+aI0
+aI0
+aI57
+aI178
+aI0
+aI0
+aI50
+aa(lp2019
+I18
+aI232
+aI181
+aI0
+aI0
+aI153
+aI38
+aI46
+aI148
+aI88
+aI50
+aa(lp2020
+I13
+aI0
+aI55
+aI113
+aI181
+aI0
+aI24
+aI0
+aI0
+aI77
+aI0
+aI50
+aa(lp2021
+I13
+aI50
+aa(lp2022
+I0
+aI2
+aI0
+aI213
+aI163
+aI0
+aI254
+aI253
+aI0
+aI8
+aI0
+aI24
+aI56
+aI0
+aI0
+aI205
+aI70
+aI61
+aI123
+aI149
+aI267
+aI0
+aI178
+aI61
+aI0
+aI0
+aI149
+aI88
+aI0
+aI0
+aI216
+aI0
+aI157
+aI181
+aI0
+aI161
+aI230
+aI149
+aI88
+aI0
+aI0
+aI50
+aa(lp2023
+I50
+aa(lp2024
+I148
+aI88
+aI24
+aI18
+aI117
+aI0
+aI282
+aI0
+aI157
+aI263
+aI60
+aI2
+aI0
+aI218
+aI24
+aI268
+aI55
+aI0
+aI163
+aI0
+aI178
+aI0
+aI13
+aI0
+aI0
+aI149
+aI0
+aI13
+aI0
+aI149
+aI0
+aI0
+aI224
+aI0
+aI22
+aI38
+aI0
+aI0
+aI0
+aI50
+aa(lp2025
+I48
+aI266
+aI0
+aI54
+aI159
+aI103
+aI0
+aI88
+aI24
+aI0
+aI38
+aI46
+aI0
+aI0
+aI73
+aI13
+aI308
+aI185
+aI88
+aI117
+aI73
+aI13
+aI308
+aI248
+aI181
+aI252
+aI0
+aI88
+aI50
+aa(lp2026
+I2
+aI174
+aI177
+aI163
+aI166
+aI181
+aI90
+aI148
+aI38
+aI46
+aI3
+aI38
+aI158
+aI146
+aI24
+aI38
+aI0
+aI0
+aI50
+aa(lp2027
+I2
+aI88
+aI66
+aI13
+aI276
+aI0
+aI57
+aI0
+aI76
+aI307
+aI156
+aI285
+aI156
+aI178
+aI0
+aI149
+aI0
+aI0
+aI0
+aI0
+aI50
+aa(lp2028
+I301
+aI302
+aI243
+aI38
+aI2
+aI157
+aI38
+aI86
+aI149
+aI181
+aI0
+aI227
+aI254
+aI50
+aa(lp2029
+I82
+aI101
+aI66
+aI49
+aI204
+aI70
+aI38
+aI78
+aI50
+aa(lp2030
+I2
+aI24
+aI178
+aI0
+aI174
+aI113
+aI0
+aI181
+aI21
+aI57
+aI0
+aI24
+aI254
+aI24
+aI88
+aI6
+aI177
+aI70
+aI279
+aI75
+aI169
+aI78
+aI227
+aI88
+aI163
+aI211
+aI61
+aI50
+aa(lp2031
+I95
+aI153
+aI61
+aI57
+aI34
+aI138
+aI0
+aI24
+aI168
+aI84
+aI107
+aI163
+aI288
+aI24
+aI81
+aI0
+aI42
+aI50
+aa(lp2032
+I163
+aI101
+aI24
+aI0
+aI66
+aI72
+aI145
+aI61
+aI50
+aa(lp2033
+I2
+aI162
+aI18
+aI57
+aI88
 aI163
 aI0
 aI0
 aI0
 aI50
-aa(lp1081
+aa(lp2034
 I2
+aI84
+aI0
+aI0
+aI0
+aI5
+aI163
+aI0
+aI0
+aI0
+aI0
 aI24
+aI57
+aI268
+aI295
+aI0
+aI207
+aI0
+aI0
+aI83
+aI0
+aI24
+aI0
+aI114
+aI0
+aI148
+aI178
+aI0
+aI84
+aI0
+aI0
+aI50
+aa(lp2035
+I2
+aI31
+aI169
+aI88
+aI24
+aI233
+aI61
+aI180
+aI181
+aI75
+aI169
+aI253
+aI78
+aI50
+aa(lp2036
+I95
+aI56
+aI260
+aI225
+aI113
+aI17
+aI233
+aI250
+aI0
+aI24
+aI2
+aI260
+aI0
+aI0
+aI229
 aI178
 aI0
 aI0
+aI50
+aI81
+aa(lp2037
+I88
 aI24
-aI0
+aI2
+aI204
+aI178
+aI122
+aI228
+aI149
+aI61
+aI163
+aI61
+aI178
+aI175
 aI24
-aI254
-aI213
+aI268
 aI0
+aI77
+aI305
 aI38
+aI61
+aI178
+aI175
+aI113
+aI48
+aI65
 aI0
-aI187
-aI109
-aI197
+aI57
+aI181
+aI195
+aI219
+aI247
+aI0
+aI57
+aI88
+aI50
+aa(lp2038
+I13
+aI0
+aI0
+aI0
+aI1
+aI0
+aI0
+aI117
+aI183
+aI159
+aI266
+aI161
+aI0
+aI50
+aa(lp2039
+I130
+aI163
+aI38
+aI296
 aI24
+aI171
+aI0
+aI173
+aI114
+aI13
+aI308
+aI149
+aI18
+aI125
+aI150
+aI63
+aI173
+aI114
+aI13
+aI90
+aI80
+aI217
+aI0
+aI0
+aI13
+aI308
+aI149
+aI18
+aI125
+aI63
+aI173
+aI114
+aI13
+aI90
+aI80
+aI50
+aa(lp2040
+I50
+aa(lp2041
+I0
 aI55
-aI78
-aI168
-aI56
 aI0
+aI178
+aI0
+aI108
+aI149
+aI39
+aI259
+aI148
+aI279
+aI234
+aI0
+aI24
+aI153
+aI181
+aI90
+aI0
+aI13
+aI308
+aI148
+aI181
+aI88
+aI149
+aI33
+aI88
+aI50
+aa(lp2042
+I149
 aI38
-aI110
-aI75
+aI90
+aI134
+aI24
+aI13
+aI207
+aI143
+aI209
+aI227
+aI2
+aI24
+aI117
+aI13
+aI207
+aI143
+aI209
+aI227
+aI0
+aI191
+aI0
+aI50
+aa(lp2043
+I0
+aI272
+aI0
+aI196
+aI242
+aI24
+aI2
+aI24
+aI117
+aI254
+aI24
+aI210
+aI149
+aI0
+aI24
+aI0
+aI24
+aI0
+aI266
+aI0
 aI169
-aI78
+aI47
+aI50
+aa(lp2044
+I2
+aI174
 aI0
-aI22
+aI232
+aI181
+aI177
+aI163
+aI237
+aI0
+aI153
+aI88
+aI88
+aI24
+aI0
+aI0
+aI149
 aI38
+aI88
+aI268
+aI0
+aI5
+aI163
+aI237
+aI169
+aI153
+aI0
+aI0
+aI244
+aI0
+aI50
+aa(lp2045
+I18
+aI0
+aI0
+aI0
+aI13
+aI0
+aI0
+aI0
+aI0
+aI231
+aI2
+aI125
+aI268
+aI66
+aI178
+aI93
+aI0
+aI149
+aI61
+aI117
+aI0
+aI178
+aI9
+aI287
+aI149
+aI61
+aI148
+aI61
+aI57
+aI111
+aI70
+aI88
+aI80
+aI117
+aI8
+aI0
+aI254
+aI24
+aI125
+aI268
+aI66
+aI178
+aI93
+aI0
+aI149
+aI61
+aI117
+aI65
+aI178
+aI9
+aI287
+aI149
+aI61
+aI148
+aI61
+aI57
+aI0
+aI70
+aI88
+aI80
+aI50
+aa(lp2046
+I2
+aI302
+aI0
+aI13
+aI5
+aI57
+aI38
+aI254
+aI113
+aI266
+aI0
+aI149
+aI157
+aI189
+aI61
+aI117
+aI266
+aI38
+aI195
+aI0
+aI130
+aI163
+aI38
+aI0
+aI0
+aI50
+aa(lp2047
+I18
+aI24
+aI268
+aI0
+aI13
+aI0
+aI117
+aI294
+aI13
+aI57
+aI38
+aI2
+aI24
+aI15
+aI225
+aI38
+aI0
+aI69
+aI174
+aI153
+aI0
+aI0
+aI163
+aI237
+aI169
+aI185
+aI0
 aI254
 aI50
-aa(lp1082
+aa(lp2048
+I95
+aI38
+aI0
+aI253
+aI93
+aI55
+aI0
+aI0
+aI24
+aI81
+aI42
+aI0
+aI0
+aI24
+aI178
+aI0
+aI157
+aI46
+aI24
+aI178
+aI0
+aI149
+aI0
+aI0
+aI131
+aI0
+aI50
+aa(lp2049
+I309
+aI60
+aI48
+aI269
+aI0
+aI229
+aI18
+aI157
+aI113
+aI86
+aI238
+aI2
+aI117
+aI254
+aI50
+aa(lp2050
+I2
+aI149
+aI0
+aI24
+aI254
+aI117
+aI267
+aI207
+aI0
+aI156
+aI0
+aI0
+aI0
+aI149
+aI38
+aI40
+aI78
+aI50
+aa(lp2051
+I2
+aI125
+aI46
+aI231
+aI146
+aI80
+aI55
+aI38
+aI0
+aI84
+aI283
+aI0
+aI149
+aI0
+aI165
+aI178
+aI239
+aI113
+aI84
+aI0
+aI254
+aI125
+aI46
+aI231
+aI146
+aI80
+aI117
+aI0
+aI125
+aI46
+aI231
+aI146
+aI80
+aI163
+aI0
+aI0
+aI267
+aI24
+aI125
+aI46
+aI231
+aI146
+aI80
+aI216
+aI117
+aI309
+aI0
+aI0
+aI50
+aa(lp2052
+I57
+aI46
+aI244
+aI24
+aI2
+aI42
+aI56
+aI0
+aI163
+aI226
+aI61
+aI149
+aI306
+aI248
+aI38
+aI253
+aI123
+aI163
+aI0
+aI0
+aI253
+aI0
+aI163
+aI38
+aI254
+aI57
+aI88
+aI50
+aa(lp2053
+I0
+aI178
+aI0
+aI149
+aI0
+aI196
+aI24
+aI2
+aI6
+aI181
+aI62
+aI0
+aI163
+aI178
+aI0
+aI174
+aI57
+aI88
+aI50
+aa(lp2054
+I35
+aI0
+aI55
+aI113
+aI181
+aI0
+aI0
+aI260
+aI0
+aI57
+aI0
+aI0
+aI58
+aI56
+aI0
+aI50
+aa(lp2055
+I176
+aI148
+aI38
+aI92
+aI55
+aI0
+aI157
+aI0
+aI50
+aa(lp2056
+I38
+aI92
+aI167
+aI225
+aI0
+aI227
+aI147
+aI2
+aI24
+aI254
+aI117
+aI0
+aI0
+aI0
+aI50
+aa(lp2057
 I2
 aI84
 aI0
@@ -24291,82 +26242,297 @@ aI114
 aI13
 aI0
 aI50
-aa(lp1083
-I174
+aa(lp2058
+I129
+aI149
+aI38
+aI7
+aI92
+aI0
+aI70
+aI88
+aI207
+aI57
+aI38
+aI0
+aI149
+aI0
+aI24
+aI262
+aI0
+aI24
+aI68
+aI117
+aI0
+aI0
+aI24
+aI130
+aI163
+aI38
+aI0
+aI50
+aa(lp2059
+I181
+aI90
+aI207
+aI88
+aI33
+aI63
+aI13
+aI308
+aI305
+aI0
+aI28
+aI116
+aI157
+aI38
+aI0
+aI149
+aI88
+aI17
+aI0
+aI84
+aI92
+aI88
+aI50
+aa(lp2060
+I95
+aI0
+aI24
+aI0
+aI117
 aI0
 aI42
-aI56
-aI66
-aI49
-aI0
-aI57
-aI0
-aI0
-aI0
-aI227
-aI0
-aI222
-aI149
-aI38
-aI195
-aI0
-aI17
-aI240
-aI0
-aI57
-aI38
-aI0
-aI0
-aI24
-aI0
-aI240
-aI0
-aI50
-aa(lp1084
-I0
-aI171
-aI24
-aI256
-aI0
-aI24
-aI0
-aI24
-aI117
-aI255
-aI286
-aI67
-aI24
-aI302
-aI0
-aI156
-aI255
-aI286
-aI67
-aI149
-aI2
-aI50
-aa(lp1085
-I2
+aI28
+aI260
+aI266
 aI72
 aI173
-aI114
-aI61
-aI57
-aI181
+aI117
+aI157
+aI178
 aI0
-aI0
-aI88
-aI165
-aI38
-aI110
-aI52
-aI120
-aI92
-aI57
-aI88
+aI300
 aI50
-aaa(lp1086
-(lp1087
+aaa(lp2061
+(lp2062
+I2
+aa(lp2063
+I1
+aa(lp2064
+I1
+aa(lp2065
+I1
+aa(lp2066
+I1
+aa(lp2067
+I1
+aa(lp2068
+I2
+aa(lp2069
+I1
+aa(lp2070
+I2
+aa(lp2071
+I1
+aa(lp2072
+I3
+aa(lp2073
+I1
+aa(lp2074
+I2
+aa(lp2075
+I2
+aa(lp2076
+I1
+aa(lp2077
+I1
+aa(lp2078
+I1
+aa(lp2079
+I1
+aa(lp2080
+I1
+aa(lp2081
+I1
+aa(lp2082
+I1
+aa(lp2083
+I2
+aa(lp2084
+I1
+aa(lp2085
+I3
+aa(lp2086
+I1
+aa(lp2087
+I1
+aa(lp2088
+I1
+aa(lp2089
+I2
+aa(lp2090
+I1
+aa(lp2091
+I3
+aa(lp2092
+I1
+aa(lp2093
+I1
+aa(lp2094
+I1
+aa(lp2095
+I1
+aa(lp2096
+I1
+aa(lp2097
+I2
+aa(lp2098
+I1
+aa(lp2099
+I1
+aa(lp2100
+I1
+aa(lp2101
+I1
+aa(lp2102
+I2
+aa(lp2103
+I1
+aa(lp2104
+I1
+aa(lp2105
+I3
+aa(lp2106
+I2
+aa(lp2107
+I3
+aa(lp2108
+I3
+aa(lp2109
+I2
+aa(lp2110
+I2
+aa(lp2111
+I1
+aa(lp2112
+I1
+aa(lp2113
+I1
+aa(lp2114
+I1
+aa(lp2115
+I2
+aa(lp2116
+I3
+aa(lp2117
+I1
+aa(lp2118
+I1
+aa(lp2119
+I1
+aa(lp2120
+I1
+aa(lp2121
+I1
+aa(lp2122
+I1
+aa(lp2123
+I1
+aa(lp2124
+I3
+aa(lp2125
+I1
+aa(lp2126
+I1
+aa(lp2127
+I1
+aa(lp2128
+I2
+aa(lp2129
+I1
+aa(lp2130
+I1
+aa(lp2131
+I1
+aa(lp2132
+I1
+aa(lp2133
+I1
+aa(lp2134
+I1
+aa(lp2135
+I2
+aa(lp2136
+I1
+aa(lp2137
+I1
+aa(lp2138
+I1
+aa(lp2139
+I2
+aa(lp2140
+I1
+aa(lp2141
+I1
+aa(lp2142
+I1
+aa(lp2143
+I1
+aa(lp2144
+I3
+aa(lp2145
+I1
+aa(lp2146
+I2
+aa(lp2147
+I1
+aa(lp2148
+I2
+aa(lp2149
+I1
+aa(lp2150
+I3
+aa(lp2151
+I2
+aa(lp2152
+I2
+aa(lp2153
+I2
+aa(lp2154
+I1
+aa(lp2155
+I1
+aa(lp2156
+I2
+aa(lp2157
+I1
+aa(lp2158
+I1
+aa(lp2159
+I1
+aa(lp2160
+I1
+aa(lp2161
+I2
+aa(lp2162
+I1
+aa(lp2163
+I1
+aa(lp2164
+I1
+aa(lp2165
+I1
+aa(lp2166
+I1
+aa(lp2167
+I1
+aa(lp2168
+I3
+aa(lp2169
+I1
+aaa(lp2170
+(lp2171
 I57
 aI178
 aI219
@@ -24389,7 +26555,7 @@ aI150
 aI57
 aI88
 aI50
-aa(lp1088
+aa(lp2172
 I38
 aI2
 aI66
@@ -24410,7 +26576,7 @@ aI8
 aI184
 aI88
 aI50
-aa(lp1089
+aa(lp2173
 I0
 aI171
 aI55
@@ -24426,7 +26592,7 @@ aI0
 aI174
 aI254
 aI50
-aa(lp1090
+aa(lp2174
 I0
 aI0
 aI55
@@ -24436,7 +26602,7 @@ aI157
 aI38
 aI2
 aI50
-aa(lp1091
+aa(lp2175
 I38
 aI0
 aI116
@@ -24476,7 +26642,7 @@ aI231
 aI146
 aI80
 aI50
-aa(lp1092
+aa(lp2176
 I288
 aI0
 aI2
@@ -24494,7 +26660,7 @@ aI153
 aI0
 aI270
 aI50
-aa(lp1093
+aa(lp2177
 I2
 aI66
 aI0
@@ -24510,7 +26676,7 @@ aI174
 aI0
 aI42
 aI50
-aa(lp1094
+aa(lp2178
 I56
 aI42
 aI0
@@ -24533,7 +26699,7 @@ aI0
 aI149
 aI61
 aI50
-aa(lp1095
+aa(lp2179
 I56
 aI302
 aI0
@@ -24543,7 +26709,7 @@ aI248
 aI38
 aI2
 aI50
-aa(lp1096
+aa(lp2180
 I2
 aI177
 aI163
@@ -24563,7 +26729,7 @@ aI273
 aI121
 aI0
 aI50
-aa(lp1097
+aa(lp2181
 I117
 aI157
 aI189
@@ -24584,7 +26750,7 @@ aI114
 aI57
 aI88
 aI50
-aa(lp1098
+aa(lp2182
 I250
 aI55
 aI0
@@ -24615,14 +26781,14 @@ aI222
 aI0
 aI0
 aI50
-aa(lp1099
+aa(lp2183
 I28
 aI116
 aI0
 aI178
 aI0
 aI50
-aa(lp1100
+aa(lp2184
 I95
 aI43
 aI0
@@ -24640,7 +26806,7 @@ aI81
 aI0
 aI42
 aI50
-aa(lp1101
+aa(lp2185
 I8
 aI0
 aI84
@@ -24664,7 +26830,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp1102
+aa(lp2186
 I9
 aI111
 aI24
@@ -24709,13 +26875,13 @@ aI133
 aI0
 aI88
 aI50
-aa(lp1103
+aa(lp2187
 I2
 aI0
 aI0
 aI144
 aI50
-aa(lp1104
+aa(lp2188
 I156
 aI149
 aI88
@@ -24729,7 +26895,7 @@ aI308
 aI163
 aI61
 aI50
-aa(lp1105
+aa(lp2189
 I2
 aI84
 aI14
@@ -24757,7 +26923,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp1106
+aa(lp2190
 I2
 aI76
 aI186
@@ -24766,7 +26932,7 @@ aI0
 aI0
 aI213
 aI50
-aa(lp1107
+aa(lp2191
 I181
 aI292
 aI100
@@ -24793,7 +26959,7 @@ aI0
 aI84
 aI0
 aI50
-aa(lp1108
+aa(lp2192
 I9
 aI236
 aI70
@@ -24816,7 +26982,7 @@ aI61
 aI57
 aI88
 aI50
-aa(lp1109
+aa(lp2193
 I56
 aI51
 aI163
@@ -24840,7 +27006,7 @@ aI57
 aI0
 aI44
 aI50
-aa(lp1110
+aa(lp2194
 I18
 aI24
 aI57
@@ -24881,7 +27047,7 @@ aI167
 aI225
 aI0
 aI50
-aa(lp1111
+aa(lp2195
 I56
 aI66
 aI302
@@ -24917,7 +27083,7 @@ aI130
 aI163
 aI267
 aI50
-aa(lp1112
+aa(lp2196
 I95
 aI38
 aI0
@@ -24951,7 +27117,7 @@ aI0
 aI10
 aI216
 aI50
-aa(lp1113
+aa(lp2197
 I56
 aI84
 aI61
@@ -24973,7 +27139,7 @@ aI38
 aI0
 aI93
 aI50
-aa(lp1114
+aa(lp2198
 I95
 aI0
 aI25
@@ -24995,7 +27161,7 @@ aI220
 aI0
 aI50
 aI81
-aa(lp1115
+aa(lp2199
 I113
 aI176
 aI55
@@ -25004,7 +27170,7 @@ aI57
 aI88
 aI244
 aI50
-aa(lp1116
+aa(lp2200
 I0
 aI135
 aI0
@@ -25014,7 +27180,7 @@ aI0
 aI117
 aI0
 aI50
-aa(lp1117
+aa(lp2201
 I0
 aI135
 aI38
@@ -25033,7 +27199,7 @@ aI117
 aI187
 aI109
 aI50
-aa(lp1118
+aa(lp2202
 I103
 aI0
 aI38
@@ -25041,14 +27207,14 @@ aI0
 aI149
 aI0
 aI0
-aa(lp1119
+aa(lp2203
 I148
 aI0
 aI24
 aI2
 aI24
 aI50
-aa(lp1120
+aa(lp2204
 I0
 aI0
 aI2
@@ -25065,14 +27231,14 @@ aI57
 aI113
 aI123
 aI50
-aa(lp1121
+aa(lp2205
 I13
 aI0
 aI0
 aI149
 aI218
 aI50
-aa(lp1122
+aa(lp2206
 I95
 aI38
 aI0
@@ -25110,7 +27276,7 @@ aI301
 aI10
 aI0
 aI50
-aa(lp1123
+aa(lp2207
 I0
 aI0
 aI0
@@ -25128,7 +27294,7 @@ aI0
 aI0
 aI44
 aI50
-aa(lp1124
+aa(lp2208
 I2
 aI77
 aI162
@@ -25162,7 +27328,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp1125
+aa(lp2209
 I255
 aI286
 aI0
@@ -25186,7 +27352,7 @@ aI38
 aI0
 aI0
 aI50
-aa(lp1126
+aa(lp2210
 I38
 aI0
 aI6
@@ -25199,7 +27365,7 @@ aI0
 aI279
 aI92
 aI50
-aa(lp1127
+aa(lp2211
 I181
 aI292
 aI8
@@ -25222,7 +27388,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp1128
+aa(lp2212
 I2
 aI177
 aI163
@@ -25247,7 +27413,7 @@ aI155
 aI62
 aI0
 aI50
-aa(lp1129
+aa(lp2213
 I38
 aI0
 aI147
@@ -25268,7 +27434,7 @@ aI254
 aI117
 aI267
 aI50
-aa(lp1130
+aa(lp2214
 I2
 aI135
 aI54
@@ -25276,7 +27442,7 @@ aI117
 aI0
 aI239
 aI50
-aa(lp1131
+aa(lp2215
 I18
 aI55
 aI0
@@ -25302,7 +27468,7 @@ aI148
 aI181
 aI0
 aI50
-aa(lp1132
+aa(lp2216
 I0
 aI163
 aI2
@@ -25312,7 +27478,7 @@ aI88
 aI0
 aI0
 aI50
-aa(lp1133
+aa(lp2217
 I18
 aI25
 aI0
@@ -25326,7 +27492,7 @@ aI92
 aI148
 aI88
 aI50
-aa(lp1134
+aa(lp2218
 I57
 aI14
 aI24
@@ -25337,7 +27503,7 @@ aI308
 aI149
 aI0
 aI50
-aa(lp1135
+aa(lp2219
 I0
 aI171
 aI0
@@ -25349,7 +27515,7 @@ aI163
 aI200
 aI0
 aI50
-aa(lp1136
+aa(lp2220
 I2
 aI11
 aI254
@@ -25359,7 +27525,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp1137
+aa(lp2221
 I256
 aI0
 aI0
@@ -25367,7 +27533,7 @@ aI0
 aI0
 aI81
 aI50
-aa(lp1138
+aa(lp2222
 I0
 aI88
 aI243
@@ -25385,7 +27551,7 @@ aI227
 aI0
 aI254
 aI50
-aa(lp1139
+aa(lp2223
 I0
 aI0
 aI24
@@ -25416,7 +27582,7 @@ aI148
 aI0
 aI184
 aI50
-aa(lp1140
+aa(lp2224
 I299
 aI178
 aI0
@@ -25458,7 +27624,7 @@ aI0
 aI57
 aI88
 aI50
-aa(lp1141
+aa(lp2225
 I159
 aI149
 aI0
@@ -25473,7 +27639,7 @@ aI24
 aI156
 aI285
 aI50
-aa(lp1142
+aa(lp2226
 I0
 aI0
 aI135
@@ -25484,7 +27650,7 @@ aI70
 aI38
 aI2
 aI50
-aa(lp1143
+aa(lp2227
 I2
 aI55
 aI302
@@ -25507,7 +27673,7 @@ aI181
 aI0
 aI0
 aI50
-aa(lp1144
+aa(lp2228
 I18
 aI77
 aI162
@@ -25522,7 +27688,7 @@ aI0
 aI183
 aI0
 aI50
-aa(lp1145
+aa(lp2229
 I178
 aI174
 aI190
@@ -25561,7 +27727,7 @@ aI23
 aI88
 aI50
 aI81
-aa(lp1146
+aa(lp2230
 I2
 aI55
 aI88
@@ -25578,7 +27744,7 @@ aI38
 aI0
 aI0
 aI50
-aa(lp1147
+aa(lp2231
 I38
 aI2
 aI24
@@ -25595,7 +27761,7 @@ aI0
 aI38
 aI46
 aI50
-aa(lp1148
+aa(lp2232
 I0
 aI293
 aI107
@@ -25618,7 +27784,7 @@ aI24
 aI0
 aI42
 aI50
-aa(lp1149
+aa(lp2233
 I2
 aI65
 aI61
@@ -25712,7 +27878,7 @@ aI227
 aI0
 aI0
 aI50
-aa(lp1150
+aa(lp2234
 I2
 aI65
 aI61
@@ -25736,7 +27902,7 @@ aI148
 aI0
 aI88
 aI50
-aa(lp1151
+aa(lp2235
 I0
 aI84
 aI0
@@ -25757,7 +27923,7 @@ aI149
 aI0
 aI0
 aI50
-aa(lp1152
+aa(lp2236
 I113
 aI15
 aI211
@@ -25774,7 +27940,7 @@ aI24
 aI2
 aI0
 aI50
-aa(lp1153
+aa(lp2237
 I0
 aI258
 aI0
@@ -25859,7 +28025,7 @@ aI231
 aI146
 aI80
 aI50
-aa(lp1154
+aa(lp2238
 I162
 aI57
 aI88
@@ -25873,7 +28039,7 @@ aI57
 aI115
 aI241
 aI50
-aa(lp1155
+aa(lp2239
 I0
 aI77
 aI195
@@ -25892,7 +28058,7 @@ aI231
 aI146
 aI80
 aI50
-aa(lp1156
+aa(lp2240
 I0
 aI55
 aI0
@@ -25922,7 +28088,7 @@ aI0
 aI0
 aI140
 aI50
-aa(lp1157
+aa(lp2241
 I152
 aI207
 aI129
@@ -25949,9 +28115,9 @@ aI163
 aI141
 aI50
 aI81
-aa(lp1158
+aa(lp2242
 I50
-aa(lp1159
+aa(lp2243
 I2
 aI125
 aI0
@@ -25967,7 +28133,7 @@ aI0
 aI153
 aI254
 aI50
-aa(lp1160
+aa(lp2244
 I178
 aI0
 aI196
@@ -25992,7 +28158,7 @@ aI88
 aI0
 aI88
 aI50
-aa(lp1161
+aa(lp2245
 I83
 aI28
 aI0
@@ -26016,7 +28182,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp1162
+aa(lp2246
 I0
 aI149
 aI0
@@ -26050,7 +28216,7 @@ aI163
 aI19
 aI90
 aI50
-aa(lp1163
+aa(lp2247
 I56
 aI66
 aI302
@@ -26082,7 +28248,7 @@ aI117
 aI0
 aI0
 aI50
-aa(lp1164
+aa(lp2248
 I18
 aI84
 aI295
@@ -26100,7 +28266,7 @@ aI76
 aI307
 aI0
 aI50
-aa(lp1165
+aa(lp2249
 I0
 aI148
 aI0
@@ -26129,7 +28295,7 @@ aI0
 aI248
 aI2
 aI50
-aa(lp1166
+aa(lp2250
 I2
 aI11
 aI113
@@ -26169,10 +28335,10 @@ aI57
 aI88
 aI133
 aI50
-aa(lp1167
+aa(lp2251
 I13
 aI50
-aa(lp1168
+aa(lp2252
 I57
 aI88
 aI24
@@ -26200,7 +28366,7 @@ aI22
 aI0
 aI105
 aI50
-aa(lp1169
+aa(lp2253
 I2
 aI117
 aI254
@@ -26208,7 +28374,7 @@ aI207
 aI38
 aI147
 aI50
-aa(lp1170
+aa(lp2254
 I2
 aI55
 aI302
@@ -26224,7 +28390,7 @@ aI309
 aI0
 aI208
 aI50
-aa(lp1171
+aa(lp2255
 I2
 aI209
 aI254
@@ -26235,7 +28401,7 @@ aI88
 aI70
 aI61
 aI50
-aa(lp1172
+aa(lp2256
 I2
 aI253
 aI0
@@ -26261,7 +28427,7 @@ aI0
 aI0
 aI0
 aI50
-aa(lp1173
+aa(lp2257
 I2
 aI24
 aI279
@@ -26299,7 +28465,7 @@ aI148
 aI38
 aI46
 aI50
-aa(lp1174
+aa(lp2258
 I56
 aI177
 aI163
@@ -26316,7 +28482,7 @@ aI95
 aI0
 aI50
 aI81
-aa(lp1175
+aa(lp2259
 I130
 aI163
 aI18
@@ -26341,7 +28507,7 @@ aI64
 aI49
 aI0
 aI50
-aa(lp1176
+aa(lp2260
 I2
 aI24
 aI178
@@ -26368,7 +28534,7 @@ aI75
 aI169
 aI78
 aI50
-aa(lp1177
+aa(lp2261
 I178
 aI0
 aI70
@@ -26404,7 +28570,7 @@ aI38
 aI92
 aI122
 aI50
-aa(lp1178
+aa(lp2262
 I2
 aI55
 aI0
@@ -26429,7 +28595,7 @@ aI149
 aI181
 aI228
 aI50
-aa(lp1179
+aa(lp2263
 I57
 aI0
 aI24
@@ -26461,14 +28627,14 @@ aI57
 aI38
 aI78
 aI50
-aa(lp1180
+aa(lp2264
 I38
 aI92
 aI122
 aI77
 aI61
 aI50
-aa(lp1181
+aa(lp2265
 I0
 aI117
 aI0
@@ -26494,7 +28660,7 @@ aI308
 aI149
 aI18
 aI50
-aa(lp1182
+aa(lp2266
 I2
 aI66
 aI232
@@ -26526,7 +28692,7 @@ aI0
 aI149
 aI88
 aI50
-aa(lp1183
+aa(lp2267
 I181
 aI61
 aI224
@@ -26561,7 +28727,7 @@ aI38
 aI253
 aI123
 aI50
-aa(lp1184
+aa(lp2268
 I38
 aI0
 aI0
@@ -26579,7 +28745,7 @@ aI130
 aI163
 aI2
 aI50
-aa(lp1185
+aa(lp2269
 I2
 aI0
 aI0
@@ -26590,7 +28756,7 @@ aI78
 aI148
 aI88
 aI50
-aa(lp1186
+aa(lp2270
 I2
 aI0
 aI0
@@ -26619,7 +28785,7 @@ aI211
 aI294
 aI61
 aI50
-aa(lp1187
+aa(lp2271
 I2
 aI0
 aI234
@@ -26645,7 +28811,7 @@ aI106
 aI0
 aI228
 aI50
-aa(lp1188
+aa(lp2272
 I18
 aI84
 aI90
@@ -26659,7 +28825,7 @@ aI38
 aI164
 aI0
 aI50
-aa(lp1189
+aa(lp2273
 I132
 aI276
 aI0
@@ -26694,7 +28860,7 @@ aI18
 aI42
 aI88
 aI50
-aa(lp1190
+aa(lp2274
 I36
 aI13
 aI0
@@ -26704,7 +28870,7 @@ aI84
 aI92
 aI124
 aI50
-aa(lp1191
+aa(lp2275
 I18
 aI55
 aI0
@@ -26735,7 +28901,7 @@ aI38
 aI46
 aI88
 aI50
-aa(lp1192
+aa(lp2276
 I2
 aI149
 aI0
@@ -26774,7 +28940,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp1193
+aa(lp2277
 I0
 aI24
 aI269
@@ -26827,7 +28993,7 @@ aI0
 aI181
 aI78
 aI50
-aa(lp1194
+aa(lp2278
 I2
 aI65
 aI45
@@ -26848,7 +29014,7 @@ aI93
 aI275
 aI88
 aI50
-aa(lp1195
+aa(lp2279
 I0
 aI66
 aI64
@@ -26856,13 +29022,13 @@ aI65
 aI279
 aI92
 aI50
-aa(lp1196
+aa(lp2280
 I90
 aI134
 aI231
 aI13
 aI50
-aa(lp1197
+aa(lp2281
 I38
 aI78
 aI77
@@ -26890,7 +29056,7 @@ aI153
 aI38
 aI46
 aI50
-aa(lp1198
+aa(lp2282
 I2
 aI177
 aI163
@@ -26921,7 +29087,7 @@ aI10
 aI216
 aI0
 aI50
-aa(lp1199
+aa(lp2283
 I2
 aI84
 aI90
@@ -26938,7 +29104,7 @@ aI146
 aI81
 aI88
 aI50
-aa(lp1200
+aa(lp2284
 I156
 aI149
 aI0
@@ -26951,7 +29117,7 @@ aI33
 aI157
 aI61
 aI50
-aa(lp1201
+aa(lp2285
 I38
 aI78
 aI77
@@ -26968,7 +29134,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp1202
+aa(lp2286
 I217
 aI56
 aI84
@@ -27018,7 +29184,7 @@ aI0
 aI0
 aI241
 aI50
-aa(lp1203
+aa(lp2287
 I2
 aI84
 aI90
@@ -27078,7 +29244,7 @@ aI90
 aI57
 aI18
 aI50
-aa(lp1204
+aa(lp2288
 I2
 aI0
 aI174
@@ -27110,7 +29276,7 @@ aI56
 aI0
 aI88
 aI50
-aa(lp1205
+aa(lp2289
 I117
 aI56
 aI0
@@ -27160,7 +29326,7 @@ aI0
 aI185
 aI88
 aI50
-aa(lp1206
+aa(lp2290
 I18
 aI24
 aI268
@@ -27189,7 +29355,7 @@ aI61
 aI224
 aI175
 aI50
-aa(lp1207
+aa(lp2291
 I2
 aI24
 aI38
@@ -27222,7 +29388,7 @@ aI24
 aI254
 aI11
 aI50
-aa(lp1208
+aa(lp2292
 I0
 aI181
 aI92
@@ -27254,6112 +29420,4191 @@ aI81
 aI148
 aI88
 aI50
-aaa(lp1209
-S'it {time} had targeted {number} shares for between {money} and {money} .'
-p1210
-aS'{org_1} {time} made a new hire that could hint at its plans to go public soon .'
-p1211
-aS'big {org_1} is the first of {number} major gulf of mexico projects {org_2} expects to come online over the next nine months .'
-p1212
-aS'marlborough-based {org_1} hopes to raise {money} in an initial public stock offering , breaking nearly a four-year ipo drought among boston-area digital technology companies .'
-p1213
-aS'customers include utilities , hospitals , universities , office buildings , casinos , hotels and government facilities in australia and the u. s .'
-p1214
-aS'the ipo price was well above goals atlassian increased on {time} of between {money} and {money} per share .'
-p1215
-aS'`` we are working with our underwriters with an expected close of {time} .'
-p1216
-aS'read more about the ipo here .'
-p1217
-aS'{org_1} , founded in {time} , is backed by chicago-based private equity firm {org_2} .'
-p1218
-aS'{org_d} on {time} said its adjusted earnings came in at {money} a share while revenue almost doubled to {money} .'
-p1219
-aS'about {number} shares were registered at {money} a piece , according to regulatory filings with the {stock_institution} .'
-p1220
-aS'{org_d} , founded by mike cannon-brookes and scott farquhar , has never taken a venture investment and is profitable , {number} facts that make it something of an outlier among recent {org_1} tech {org_2} .'
-p1221
-aS'the {org_1} {time} provides crude oil , natural gas , and water-related midstream services for {org_2} through long-term , fixed-fee contracts .'
-p1222
-aS"recent developments : {org_d} received an upfront payments of {money} through a partnership with {org_1} , valued at up to {money} , under which the organizations are collaborating on the development and potential sale of {org_2} 's experimental hemophilia b treatments ."
-p1223
-aS'that work is still in the preclinical stages , but calithera hopes to file a new drug application with the {org_1} near {time} that would essentially start the clinical trial process .'
-p1224
-aS'colorado-based {org_1} , the largest maker of chip-enabled credit cards in the united states , has delayed its planned initial public offering .'
-p1225
-aS'{org_1} shares have fallen {number} percent since its {time} ipo , and {org_2} stock has plunged nearly {number} percent .'
-p1226
-aS'the offering is being underwritten in the united states by {org_1} of boston , {org_2} .'
-p1227
-aS'ipo date : {time} .'
-p1228
-aS"`` it 'd be a local community bank we 'd look at as we expand our footprint , '' retzloff said ."
-p1229
-aS'but at the time of its filing in {time} , analysts suggested {org_d} could lead a potential uptick in life sciences {org_1} in {time} .'
-p1230
-aS'according to federal filings , the {money} in stock was issued to existing shareholders in exchange for consents made under an election and amendment agreement .'
-p1231
-aS"`` it may be that a majority of investors thought {org_d} was a bit early in -lrb- its -rrb- development . ''"
-p1232
-aS'{org_1} and {org_2} are leading the offering .'
-p1233
-aS"the {money} price puts {org_1} 's market capitalization at {money} , lower than the {money} {org_d} would have been valued at the high end of its {time} planned share price , and less than the {money} estimate in its most recent private fundraising ."
-p1234
-aS'{org_1} was founded in {time} and booked {money} in revenue for the {time} , when it had {money} in cash and showed a loss of {money} .'
-p1235
-aS'{org_1} has postponed its initial public offering indefinitely , {org_d} announced on {time} .'
-p1236
-aS'urvaksh karkaria covers technology .'
-p1237
-aS'{org_1} , which develops gene therapies for patients with severe genetic and orphan diseases such as spinal muscular atrophy , plans to trade on the {stock_institution} under ticker symbol {ticker} .'
-p1238
-aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
-p1239
-aS'.'
-aS'{org_1} endured a massive recall of some {number} of its taxus express2 line of stents during the {time} as well as {org_2} inspections of its galway , ireland , manufacturing facility .'
-p1240
-aS"while some observers are cautious about life sciences ipos {time} , others have said that ipo filings like {org_1} 's could represent an uptick or potential rebound through at least part of {time} ."
-p1241
-aS'{time} the chair of the {org_1} has left {org_d} to move on to other projects .'
-p1242
-aS'for {time} , {org_d} recorded revenues of {money} and a net loss of {money} .'
-p1243
-aS'among them is {org_1} , a westborough-based startup that makes a novel it appliance system aimed at data centers .'
-p1244
-aS'{org_1} lists top {number} health care technology advances to watch in {time} .'
-p1245
-aS'{org_d} had been operating out of a 3,000-square-foot space in the {org_1} building under the fictitious name balbis -lrb- the name of a shape that looks like the letter h -rrb- .'
-p1246
-aS'robert maricich , ceo of {org_1} , told the {org_2} on {time} that {org_d} allowed its ipo application to expire , which is viewed as a withdrawal .'
-p1247
-aS'the startup , {org_1} , a spinoff of {org_2} , filed for the ipo {time} .'
-p1248
-aS'beta-thalassemia major results in defective red blood cells that requires patients to get frequent blood transfusions , and even then they often die of iron overload .'
-p1249
-aS"liquidity to our investors and employees does make sense . ''"
-p1250
-aS"`` yieldco stock prices plummeted as part of a broader market sell-off due to global economic concerns , such as declining commodity prices , '' weatherley-white said in cohnreznick 's recent report on `` what 's next for yieldcos ."
-p1251
-aS"whether or not {org_1} can price within its range is a looming question , and planned ipos by {org_2} , waltham-based {org_3} , cambridge-based visterra and {org_4} will likely be affected by {org_d} 's relative success ."
-p1252
-aS'{org_1} , creator of the world-famous {org_2} sneakers , on {time} announced plans to raise {money} in an initial public offering of stock .'
-p1253
-aS'in {time} , {org_1} announced it has acquired {number} shares of common stock in {org_2} -lrb- {stock_institution} : {ticker} -rrb- from barry diller and the diller-von {org_3} .'
-p1254
-aS'it had {money} in cash as of {time} .'
-p1255
-aS"`` we 'd look at fit ."
-p1256
-aS'{org_1} , which has {number} employees , had revenue of {money} in {time} .'
-p1257
-aS'{org_1} is the fifth life sciences company either based here , or with strong ties to the region , to go public {time} joining spark therapeutics , adaptimmune , zynerba and {org_2} .'
-p1258
-aS'others are {org_1} -lrb- {number} percent -rrb- , {org_2} -lrb- {number} percent -rrb- , {org_3} -lrb- {number} percent -rrb- , partner fund management -lrb- {number} percent -rrb- , {org_4} and {org_5} .'
-p1259
-aS"{org_1} plans to apply to list its common units on the {stock_institution} under the ticker symbol `` {ticker} . ''"
-p1260
-aS'in {time} , {org_d} has increased its headcount {number} percent to {number} in {time} , and it plans to make additional hires in its accounting and operations units .'
-p1261
-aS'the move comes nearly two years after {org_d} , then under ceo arlene morris , first filed to go public .'
-p1262
-aS'endostim officials in {time} had announced plans to raise {money} by selling {money} shares in an initial public offering .'
-p1263
-aS'{org_1} filed papers for the ipo over the {time} and has been working with banks including {org_2} and {org_3} and on the potential deal , the {org_4} reported {time} , citing familiar with the matter .'
-p1264
-aS'{number} other area defense services firms have filed papers with the {stock_institution} to become publicly traded , but have not yet held initial public offerings .'
-p1265
-aS'another {money} to {money} could be used to fund infrastructure expenditures , including a new order-management system , asset-management system , assortment planning system and e-commerce platform .'
-p1266
-aS"that 's up from the {money} valuation it had in {time} when it allowed its employees to sell some of their private stock ."
-p1267
-aS"`` the surfer crowd from socal can compete with the silicon valley hoodie crowd thanks to our {number} + dedicated team members throughout the country , '' he said ."
-p1268
-aS"at the same time , we 're continuing to reinforce our internal infrastructure and strengthen our leadership team with experienced veterans so we can evaluate a public offering when the timing is right . ''"
-p1269
-aS'the sole book-running underwriter for the offering is {org_1} , with {org_2} .'
-p1270
-aS'also on {time} , tinder parent {org_1} -lrb- {stock_institution} : {ticker} -rrb- stock jumped {number} percent from its ipo price after it priced on the low end of expectations .'
-p1271
-aS'{org_d} said it generated {money} in revenue {time} and is close to being cash-flow neutral .'
-p1272
-aS"{org_1} plans to list its common stock on the {stock_institution} global select market with the ticker symbol `` {ticker} . ''"
-p1273
-aS"{org_1} 's fund will sell call options for revenue and as a hedge against its stocks ."
-p1274
-aS'georgia is ranked {number} of the top {number} states for information security .'
-p1275
-aS'{org_1} said that the postponement was a result of unfavorable equity market conditions .'
-p1276
-aS"new alliance boosts virtua 's cancer care in south jersey ."
-p1277
-aS'{number} .'
-p1278
-aS'the announcement means the stock is {time} being marketed and a prospectus on the issue is available .'
-p1279
-aS'jack dorsey is ceo of {org_1} as well as of social media company {org_2} .'
-p1280
-aS'{org_d} plans to trade on the {stock_institution} under the symbol {ticker} .'
-p1281
-aS'get the free daily {org_1} newsletter .'
-p1282
-aS'at {money} a share , the offering would raise {money} , more than the ceiling of {money} that {org_1} had forecast when it announced plans for an ipo in {time} .'
-p1283
-aS'{org_1} , the parent of {org_2} , delayed its initial public offering , according to several reports .'
-p1284
-aS"`` {org_1} might be valued higher independently than it is as part of the {org_2} enterprise , '' said gardiner garrard , a partner at atlanta 's {org_3} said in {time} ."
-p1285
-aS"{org_d} 's database contains information ranging from names , addresses and dates of birth , to {org_1} numbers , to liens , judgments and criminal records ."
-p1286
-aS'{org_1} is focused on developing new treatments for rare endocrine disorders .'
-p1287
-aS"{org_1} , which plans to trade on the {stock_institution} under the ticker symbol `` {ticker} , '' is led by ceo sam yagan , who will be assigned another leadership post after chairman gregory blatt takes the top position by {time} ."
-p1288
-aS'the institutional investors who normally participate in ipos are primarily interested in companies that can achieve profitability in less than three quarters , say investment bankers and attorneys .'
-p1289
-aS"{org_1} and {org_2} are the ipo 's lead underwriters and have been promised {number} shares to cover overallotments during the sale ."
-p1290
-aS'the ipo valued {org_d} at {money} .'
-p1291
-aS"{org_1} 's ipo is being closely watched ."
-p1292
-aS'{org_1} company has some big names behind it , including ceo paul bolno , former vice president of worldwide business development at {org_2} -lrb- {stock_institution} : {ticker} -rrb- , who was based in asia .'
-p1293
-aS'{org_d} has slightly more than {number} employees and has acquired at least {number} companies since {time} .'
-p1294
-aS'bizspace spotlight sponsor listing property spotlight : industrial building & vacant land in progressive san benito county , {org_1} .'
-p1295
-aS'{org_1} hopes to raise more than {money} in an upcoming initial public offering .'
-p1296
-aS'.'
-aS'home of {time} sponsor listing spacious and captivating home in prime pacific heightssee all homes of {time} industriestechnology .'
-p1297
-aS'brian feldt covers technology , venture capital , startups , real estate and sports business .'
-p1298
-aS"{org_d} saw a net operating loss of {money} at year 's end , up from a {money} net operating loss in {time} ."
-p1299
-aS"incorporated and {org_1} served as joint bookrunners on {org_2} 's ipo ."
-p1300
-aS'{org_1} .'
-p1301
-aS'but {org_d} also said sales in {time} will be between {money} and {money} , well below the {money} expected by analysts .'
-p1302
-aS'a south jersey medication management and distribution firm has filed plans to go public in an {money} ipo .'
-p1303
-aS'however , the bank has typically added {number} branch a year .'
-p1304
-aS'it had {money} in cash as of {time} .'
-p1305
-aS"units are expected to trade on the {stock_institution} under the ticket symbol `` {ticker} . ''"
-p1306
-aS"that 's our secret sauce ."
-p1307
-aS"`` we do n't see anything on the horizon where the ipo window is going to immediately open up and be more favorable . ''"
-p1308
-aS'blocking glutaminase could interfere with tumor metabolism , cell growth and cell survival in solid tumors as well as blood cancers .'
-p1309
-aS"what 's more , calithera 's chief financial officer is william waddill , who helped craft {number} of {time} 's most successful biotech ipos , a {money} offering by redwood city 's {org_1} -lrb- {stock_institution} : {ticker} -rrb- ."
-p1310
-aS'local investors in {org_d} include {org_1} and {org_2} .'
-p1311
-aS'according to data from ipreo and pitchbook analyzed by {org_1} , a third of u. s.-based tech companies that went public in {time} priced their shares below market value .'
-p1312
-aS'the web site reported {time} that {org_1} announced plans to offer {number} shares priced between {money} and {money} each , with a goal to raise as much as {money} .'
-p1313
-aS'{org_1} , which has slightly more than {number} employees , has acquired at least {number} companies since {time} .'
-p1314
-aS'a formerly dallas-based drug development company that focuses on gene therapy to treat rare diseases has filed for a {money} initial public offering .'
-p1315
-aS'that is about {number} percent above the {money} atlassian was valued at in {time} , when it allowed its employees to sell some of their private stock .'
-p1316
-aS'{org_1} launched its initial public offering at {time} , at between {money} to {money} a share according to a press release from {org_d} marketing the ipo for the wichita bank .'
-p1317
-aS'mark harden of the {org_1} contributed to this report .'
-p1318
-aS'{org_1} posted {money} in revenue from {time} .'
-p1319
-aS'{org_1} township threatens legal action against wawa .'
-p1320
-aS'{time} {org_d} partnered with {org_1} to treat the damaged throat of a soldier wounded in iraq at {org_2} in washington d. {org_3} using a surgical pulsed dye laser .'
-p1321
-aS'it had been expected to sell its shares for between {money} and {money} and raise as much as {money} .'
-p1322
-aS'the move would be an unusually rapid return to the public markets .'
-p1323
-aS'while {org_d} said in its statement it would continue to evaluate its ipo as market conditions develop , experts are saying it could be some time before the {org_1} gets its window of opportunity again .'
-p1324
-aS'in {time} , {org_d} hired {org_1} as chairman and chief executive , replacing founder vern brownell .'
-p1325
-aS'{org_1} is developing cellular therapies for cancer , infertility and genetic and cardiac diseases .'
-p1326
-aS"get the free daily {org_1} newsletter `` with global energy demand , rising electricity prices , and the growing requirement for efficiency and sustainability , building owners and managers are increasing their focus on controllable operating costs , such as energy , '' nark said in a press release ."
-p1327
-aS'in addition , {org_1} could sell up to {number} additional shares to underwriters if needed .'
-p1328
-aS'meanwhile , a chinese biotech called {org_1} -lrb- {stock_institution} : {ticker} -rrb- raised even more in its ipo -- {money} , pricing {number} shares at {money} each .'
-p1329
-aS'it employs {number} people in burlington ; san luis obispo , calif. ; crystal city , va. ; and hong kong .'
-p1330
-aS'dorsey announced on {time} that {org_1} would lay off {number} percent of its global workforce , or up to {number} jobs .'
-p1331
-aS"s.p. a. , {org_1} 's majority stockholder ."
-p1332
-aS'{org_1} plans to raise {money} in an initial public offering of stock , the waltham software company revealed {time} .'
-p1333
-aS'a number of analysts downgraded {org_1} stock after the earnings on {time} .'
-p1334
-aS'{org_1} has been ramping up to go public for several years {time} , and in {time} and {time} went on a buying spree .'
-p1335
-aS'{org_d} will open {time} on the {stock_institution} .'
-p1336
-aS'houston-based {org_1} announced that it completed its initial public offering for {money} on {time} .'
-p1337
-aS'{org_d} , which has raised {money} in funding , {time} recruited veteran executive tom beaudoin as its new chief financial officer .'
-p1338
-aS'the fund , {org_1} said , sells call options covering at least {number} percent of the value of the stocks held by the fund .'
-p1339
-aS'the window for issuance for all companies could be a few months , and then it will be the strongest , largest companies that will come out of it first , before a company like {org_1} will have an attractive valuation .'
-p1340
-aS"{org_1} shares are to trade on the {stock_institution} using the symbol `` {ticker} '' and on the {org_2} under the ticker `` {org_3} . ''"
-p1341
-aS'though its stents have not yet reached market , {org_d} claimed in its {stock_institution} filing that its products have proven superior in clinical trials to those of competitors such as {org_1} .'
-p1342
-aS'{org_d} plans to be traded on the {stock_institution} .'
-p1343
-aS"the san francisco-based company said that it , along with dorsey 's nonprofit {org_1} , would offer a combined {number} shares when it begins trading {time} under the symbol `` {ticker} '' on the {stock_institution} ."
-p1344
-aS'the north andover-based footwear and apparel company plans to use the net proceeds to redeem outstanding preferred stock , pay down more than {money} it owes on a credit facility , fund working capital and spend on other general corporate purposes , according to a prospectus filed with the {stock_institution} .'
-p1345
-aS'however , {time} , {org_d} announced that it would cut {number} jobs , including {number} in texas .'
-p1346
-aS'as of {time} , the shares were up about {number} percent to {money} each .'
-p1347
-aS'{org_d} helps businesses keep track of devices using their network without requiring special software to be installed on them .'
-p1348
-aS'in a development that could give local stent maker {org_1} another well-financed competitor , {org_2} filed for an initial public offering .'
-p1349
-aS"{org_1} 's stock would be traded on the {stock_institution} under the ticker symbol {ticker} ."
-p1350
-aS"`` {org_1} could be getting lost in the noise of the larger {org_2} organization . ''"
-p1351
-aS'the drug maker booked {money} in revenue and a net loss of {money} during {time} .'
-p1352
-aS'{org_d} filed for a {money} ipo on {time} , only to reduce the offering amount on {time} to {money} , with an estimated price of {money} to {money} per share .'
-p1353
-aS"the proceeds excluded the underwriters ' overallotments , {org_d} said in a statement ."
-p1354
-aS'{org_d} also has more than {number} customers .'
-p1355
-aS"{org_1} , which has {money} in assets under management , said seattle 's {org_2} , an affiliate of {org_1} , will manage the fund 's equities ."
-p1356
-aS'{org_d} was incorporated as {org_1} in {time} .'
-p1357
-aS'{number} other drug development companies with operations in the philadelphia suburbs , strongbridge biopharma and {org_1} , have also filed plans to go public .'
-p1358
-aS'get {org_1} business scoops .'
-p1359
-aS'{org_1} of milwaukee and baltimore-based {org_2} are co-managing the offering .'
-p1360
-aS"{org_1} {time} heads {org_d} , but he declined to comment for this story because of the `` quiet period '' imposed by the {stock_institution} ."
-p1361
-aS"{org_d} 's owner , private equity firm {org_1} , had planned to use ipo proceeds to reduce the grocer 's substantial debt ."
-p1362
-aS'the closed-end fund issued {number} shares for {money} each .'
-p1363
-aS'{org_1} has completed its initial public offering .'
-p1364
-aS'{time} , it bought out another houston-based bank , {org_1} .'
-p1365
-aS"we will continue discussions with investors and will provide further updates as appropriate , '' said steven montross , ceo of {org_1} ."
-p1366
-aS'if the pattern holds true {time} , then {org_d} is on course to generate more than {money} in revenue for {time} .'
-p1367
-aS'{org_d} said net proceeds from the offering will be used for payment of {money} of debt .'
-p1368
-aS'the funding round also included individual investors affiliated with the keiretsu forum , a large angel investor network in san francisco .'
-p1369
-aS'the federal government invested roughly {money} in community banks and community development loan funds through the program to provide capital for small business loans .'
-p1370
-aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- , formerly known as {org_2} , is the seventh life sciences company either based here , or with major operations in the philadelphia region , to go public {time} .'
-p1371
-aS'{org_1} provides real-time threat analytics for smartphones .'
-p1372
-aS"while {org_d} has n't shared a timeline for an ipo , hindawi told forbes : `` we 're going to do an ipo at some point because it 's fair for our employees and our investors ."
-p1373
-aS"a spokesman for {org_d} said that given {org_1} 's position in the market , {org_d} still believes {time} is the right time for the initial public offering ."
-p1374
-aS"{org_1} has withdrawn its bid to raise up to {money} in an initial public offering , blaming `` unfavorable market conditions . ''"
-p1375
-aS'the information technology contractor , which specializes in defense work , was priced at {money} out of the gate .'
-p1376
-aS'the ipo began {time} after {time} , casey said , and ends {time} .'
-p1377
-aS'{org_d} added that it expects to give underwriters a 30-day option to purchase an additional {number} shares at the ipo price .'
-p1378
-aS'{org_1} is focused on discovering , developing and commercializing small-molecule drugs to extend and enhance the lives of patients with severe medical conditions , including inflammatory disease , cancer and diabetes .'
-p1379
-aS'in the first day of trading , its stock price doubled .'
-p1380
-aS'a handful of houston mlps -- such as {org_1} -- have gone public {time} .'
-p1381
-aS"{org_1} ceo james park is sinking a lot into marketing {org_d} 's newest wearable health-trackers , including the inexpensive {org_2} smartwatch , but investors and analysts do n't appear impressed ."
-p1382
-aS'in addition , {org_d} owns , has under contract or has options to acquire {number} parcels , which support approximately {number} .'
-p1383
-aS'{org_1} started the first phase of the three-stage {org_2} human trial process {time} in solid tumors and blood cancers and hopes to begin a phase {number} study in {time} or {time} .'
-p1384
-aS'other competitors in smart energy management products include {org_1} and telesense , and a few big players such as {org_2} and johnson controls .'
-p1385
-aS"coley plans to trade on the {stock_institution} under the ticker symbol `` {ticker} . ''"
-p1386
-aS'about a year and a half ago , {org_d} decided to target the asian market , starting with china , cohen said .'
-p1387
-aS"`` it 's almost impossible to ignore daily speculation on which companies will retreat , price at range , or bite the bullet to price lower than expected because they 'll give up value for cash or simply because they want to be public . ''"
-p1388
-aS'{org_1} {time} agreed to acquire venture-backed san jose cloud security startup elastica for {money} .'
-p1389
-aS'{org_1} , {org_2} , and {org_3} acted as managing underwriters for the offering .'
-p1390
-aS'prior to its ipo , {org_d} had raised {money} from investors such as {org_1} , {org_2} and {org_3} .'
-p1391
-aS"{org_1} 's cybersecurity tools , which include real-time security and systems management , have drawn a rapidly expanding client base across a range of corporate and government entities ."
-p1392
-aS'it planned to sell the shares for {money} to {money} a share , raising at least {money} that would have valued {org_d} at up to {money} .'
-p1393
-aS'{time} he worked in sales and marketing roles at hopkinton-based {org_1} and {org_2} .'
-p1394
-aS'its largest shareholders , {org_1} , {org_2} , {org_3} , {org_4} , {org_5} and {org_6} .'
-p1395
-aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
-p1396
-aS'the stock will be marketed until the end of business {time} .'
-p1397
-aS'{org_1} , baird and j. p. morgan are acting as book-running managers of the offering .'
-p1398
-aS'ceo michael nark heads up the foster city-based startup , which was founded in {time} to provide energy management solutions for large commercial buildings .'
-p1399
-aS"it was {number} of the {org_1} 's fastest growing companies between 2003-2010 and again in {time} ."
-p1400
-aS'the value of those shares has increased {number} percent as of {time} to {money} a share .'
-p1401
-aS'the bank bolstered its presence in the kansas city area after its {time} purchase of {org_1} in overland park .'
-p1402
-aS"meanwhile , {org_1} expects to retain a majority of {org_2} 's limited partner interests ."
-p1403
-aS'in a filing with the {org_1} commission , {org_2} said it intends to use its ipo proceeds for the continued clinical development of lefamulin as a treatment for pneumonia and other potential indications , to repay debt and for general corporate purposes .'
-p1404
-aS'{org_1} said {time} it raised {money} in an initial public offering of a new closed-end fund , {org_2} vance tax-managed {org_3} .'
-p1405
-aS'{org_1} management software startup {org_2} raised {money} in its ipo on {time} and began trading on the {org_3} .'
-p1406
-aS'ceo jack dorsey , who is also the ceo of social media platform {org_1} -lrb- {stock_institution} : {ticker} -rrb- , another san francisco closely-watched tech company , is likely to face even more pressure from investors after setting such a low ipo price .'
-p1407
-aS'{org_1} reported net sales of {money} for {time} ended {time} , up from {money} {time} .'
-p1408
-aS'is {org_1} misunderstood ?'
-p1409
-aS'lexington-based {org_1} , a product-focused biopharmaceutical company , has filed a registration statement with the {stock_institution} for a proposed initial public offering of its common stock .'
-p1410
-aS"{org_1} has {number} compounds in midstage human clinical trials that would treat diseases including crohn 's disease and various forms of cancer ."
-p1411
-aS"{org_d} has raised {money} in venture funding thus far , most {time} in {time} , and hindawi wrote that the company remained cash flow-positive as of the {time} : `` {org_1} saw {number} percent growth year-over-year and ended our year debt-free , with {money} in cash . ''"
-p1412
-aS"`` unlike other ipo candidates , we 're already moving forward with our plans because of our capital reserves and the investor confidence we 've earned beyond the ipo market ."
-p1413
-aS"{org_1} 's valuation discount is among the steepest since {time} , {org_2} reports , but it is below the discounts of big-data 's {org_3} at {number} percent and storage firm {org_4} at {number} percent ."
-p1414
-aS'{org_1} is selling a third of its stake in {org_2} in an initial public offering of stock valued as high as {money} .'
-p1415
-aS'as of {time} , {org_1} operated {number} retail stores and {number} outlet stores .'
-p1416
-aS'{org_1} said in a regulatory filing in {time} that it expected the public offering price would be between {money} and {money} per share .'
-p1417
-aS'{org_1} supplies {org_2} -lrb- {stock_institution} : {ticker} -rrb- with coatings for wound dressings that fight infection using microscopic silver particles .'
-p1418
-aS'decesare told techcrunch that he plans to add {number} employees {time} , growing his total workforce to {number} .'
-p1419
-aS'his latest venture , which he co-founded with his wife , dr. orusla {org_1} , has been operating since {time} as {org_2} .'
-p1420
-aS'bill covers economic development and transportation .'
-p1421
-aS'katie arcieri covers manufacturing , transportation/logistics , aviation , textiles , tobacco and furniture .'
-p1422
-aS'{org_1} {time} has seen success in its deepwater drilling business as well .'
-p1423
-aS'get the free daily {org_1} newsletterbut security is a hot sector in the wake of a series of high-profile hacks into major companies like {org_2} and growing concerns about foreign government-sponsored cyber espionage .'
-p1424
-aS'even while switching from its initial focus on activating caspases -- enzymes that control cell death -- calithera has raised close to {money} since its {time} founding .'
-p1425
-aS'he wrote , `` while investments may be lumpy as -lrb- {org_1} -rrb- focuses on growth of the nascent market globally , we continue to believe there is a significant long-term opportunity for {org_d} to deliver health/fitness solutions to consumers as well as enterprises and health insurers .'
-p1426
-aS'for {time} , {org_1} lost {money} on {money} in revenue .'
-p1427
-aS'{org_1} in waltham plans to sell more than {number} shares and price them between {money} to {money} each during its upcoming initial public offering .'
-p1428
-aS"{org_1} bought the missouri charter of {org_2} , mo. , in {time} , which allowed it to open a branch in lee 's summit {time} ."
-p1429
-aS'{org_1} , a restaurant and concessions operator for airports , was in the process of raising cash for its initial public offering , but that process has {time} been put on pause .'
-p1430
-aS'peter feinstein , a co-founder of {org_1} in cambridge , said {org_2} had gotten so large in size and valuation that it essentially maxed out venture funding with its {money} d-round , which closed {time} .'
-p1431
-aS'calithera is planning studies in breast cancer , multiple myeloma , non-hodgkins lymphoma , acute lymphocytic leukemia and acute myeloid leukemia .'
-p1432
-aS'in {time} of that same year , it purchased the name and trademarks of {org_1} in a bankruptcy auction from {org_2} , the former owner of the trademarks .'
-p1433
-aS'{org_1} , {org_d} spun out of the {org_2} of philadelphia {time} became the first local life sciences company to go public {time} .'
-p1434
-aS"the 3\xc2\xa01/2 - year-old biopharmaceutical drug developer has n't set a specific date yet or announced how much money it wants to raise ."
-p1435
-aS'in {time} , {org_1} agreed to buy {org_d} of {org_2} , kan. .'
-p1436
-aS'{org_d} , formerly known as {org_1} , has not yet commenced its stock offering .'
-p1437
-aS'the marketing , to {number} to {number} potential shareholders and mutual funds , will set a median for the stock to premiere on the {stock_institution} exchange {time} .'
-p1438
-aS'{org_1} targets hypertrophic cardiomyopathy , or hcm , a condition that has been implicated in sudden cardiac arrest and death of young athletes .'
-p1439
-aS"i 've heard lots of reasons to go ipo , most of which do n't make any sense to me ."
-p1440
-aS'{org_1} spun out {org_2} in {time} .'
-p1441
-aS'the initial price for the {number} shares , all of which were offered by {org_d} , was {money} per share .'
-p1442
-aS'hindawi takes over from his father , david hindawi , who will assume the role of executive chairman .'
-p1443
-aS'the road show for what is likely to be the last big bay area ipo of {time} starts {time} after {org_1} updated plans {time} to raise up to {money} .'
-p1444
-aS'lexington , mass.-based {org_1} , a majority-owned subsidiary of {org_2} , also of lexington , filed a registration statement with the {stock_institution} for an initial public offering of {number} shares .'
-p1445
-aS'houston-based {org_1} {time} formed {org_2} to own , operate , develop and acquire a wide range of domestic midstream infrastructure assets .'
-p1446
-aS'{org_1} , before its ipo , reported {money} in revenue in {time} , up from {money} {time} and recorded a net loss in {time} of {money} .'
-p1447
-aS'{org_d} , which is based in the {org_1} in {org_2} and also has an office in the netherlands , is led by ceo bevil hogg and chief medical officer dr. virender sharma -- both founders of the company .'
-p1448
-aS'{org_1} officials could not be reached for comment .'
-p1449
-aS'{org_1} came close to going public in {time} .'
-p1450
-aS'{org_d} -lrb- {stock_institution} : {ticker} -rrb- priced its shares at {money} each , slightly below the range it set as of {time} of between {money} and {money} , but upped the share count from {number} to {number} .'
-p1451
-aS"hsieh said he plans to continue to build {org_1} 's franchise , even though the timing , he felt , `` was n't right '' for an ipo ."
-p1452
-aS"there are n't any specific plans for a new location ."
-p1453
-aS'cambridge-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- raised {money} {time} , selling {number} shares at {money} each .'
-p1454
-aS'.'
-aS'{org_1} said in its {stock_institution} filing that it lost {money} in {time} on sales of {money} .'
-p1455
-aS'the offer represents about a {number} percent interest in {org_d} , or a {number} percent interest if underwriters purchase the additional shares .'
-p1456
-aS'{org_1} of moorestown is led by calvin {org_2} , a serial entrepreneur who has started {number} health-care related companies during his career , including philadelphia-based {org_3} -- a medication management firm that works with about {number} hospice agencies providing care to {number} patients across the country .'
-p1457
-aS'whether or not that translates into the kind of post-ipo pop that square has seen -lrb- up about {number} percent -rrb- remains to be seen .'
-p1458
-aS'that stock will continue to trade under a separate ticker symbol , at least for {time} .'
-p1459
-aS'{org_1} and {org_2} acting as co-managers .'
-p1460
-aS'{org_d} , which runs a paid search engine backed by a database of public information on {number} individuals , is selling {number} to {number} share units for {money} each , to raise a total of {money} to {money} .'
-p1461
-aS'this is a division that is showing growth : in {time} revenue was {money} and in {time} , the total was {money} .'
-p1462
-aS'{org_1} was founded in st. louis in the delmar loop but moved to san francisco early on to properly staff the rapidly growing firm .'
-p1463
-aS"some of those new customers include `` {number} of the top {number} us banks , {number} of the {org_1} {number} , {number} of the top {number} retailers , '' he said ."
-p1464
-aS'{org_1} -lrb- {time} a division of {org_2} -rrb- is an umbilical cord stem cell banking company , and t {org_3} brought other stem cell technologies to {org_d} , which {time} is developing a number of cellular therapies for various diseases .'
-p1465
-aS"{time} at times adversely affect his ability to devote time , attention , and effort to {org_1} , '' {org_1} said ."
-p1466
-aS'mark hollmer can be reached at mhollmer@bizjournals.com .'
-p1467
-aS'a month after raising {money} through an initial public offering of stock , travel search firm {org_1} in norwalk , conn. has raised another {money} by issuing common stock to {number} of its venture capital backers at the original ipo price of {money} a share .'
-p1468
-aS'{org_d} showed a slight profit {time} , but lost {money} in {time} .'
-p1469
-aS'{org_1} , of fairfax , and {org_2} , of arlington , va. , filed papers with {time} {time} .'
-p1470
-aS'michael decesare , who joined the {org_1} startup {time} as president of {org_2} , told {org_3} that he is wary of going public while markets are volatile but he is watching for the right moment .'
-p1471
-aS'get the free daily {org_1} newsletter so why the change of heart ?'
-p1472
-aS'investors in bluebird bio are taking it as a good sign that the biotech is planning to report initial data from a recently-initiated trial in a rare blood disease as soon as {time} .'
-p1473
-aS"{org_d} 's products are used by software developers for project management , collaboration and code quality ."
-p1474
-aS"{org_1} officials said they expect the ipo will unlock more of {org_2} 's value for {org_1} shareholders and strengthen {org_2} 's ability to attract top talent ."
-p1475
-aS'{org_1} , which was acquired by {org_2} in {time} for {money} , monitors corporate networks and helps protect against online attacks from crooks looking to steal financial data , intellectual property and other information .'
-p1476
-aS'joe martin covers technology , money and law for the {org_1} .'
-p1477
-aS'{org_d} has {number} lead antibody products , {org_1} and trx4 .'
-p1478
-aS'{org_1} , or tripco , will trade starting {time} on the {stock_institution} under the ticker symbols ltrpa and ltrpb .'
-p1479
-aS"`` it takes time to get the whole process going , '' smith said , when asked what could have changed in just a week between the offering and the delay ."
-p1480
-aS"in addition to the {org_1} shoe , of which {org_d} says it has sold `` hundreds of millions '' of pairs worldwide , other brands include the jack purcell tennis shoe ."
-p1481
-aS'.'
-aS'phone : {number} .'
-p1482
-aS"the securities closed on the first day of trading at the same price , with about {number} securities changing hands , according to australia 's {org_1} ."
-p1483
-aS'{org_1} and sales manager {org_2} decided to cancel the ipo after the {org_3} dropped {number} percent since a price range was fixed on {time} .'
-p1484
-aS'analysts expected {money} in sales and an adjusted profit of {money} a share .'
-p1485
-aS'as a retailer , {org_1} generates a hefty portion of its revenue - from one-third to two-thirds of its income - in {time} .'
-p1486
-aS'application has .'
-p1487
-aS'these cells are therapeutically valuable cell populations responsible for forming all other cells and regenerating key tissues .'
-p1488
-aS'all of the shares were offered by {org_1} .'
-p1489
-aS"`` we 've got the luxury of being patient and waiting for the capital markets to get to a position where the valuation for {org_d} is more in line with what we think it is worth . ''"
-p1490
-aS'{org_1} gets in a queue of at least {number} other local biotech companies waiting to go public , the first of which is likely to hold its offering {time} .'
-p1491
-aS'we carry the largest product suite of any nonbank lender and continue to lead the charge in technology innovation and creativity .'
-p1492
-aS'rent at the @ {number} building typically runs about {money} per square foot .'
-p1493
-aS'`` cromwell schubarth is techflash editor at the {org_1} .'
-p1494
-aS'{org_1} said in its regulatory filing that it has {number} customers and reported revenue of {money} for fiscal year ending {time} , up from {money} {time} prior .'
-p1495
-aS'the underwriters have also been granted the right by {org_1} to purchase up to an additional {number} shares if they exercise their overallotment option in full in the next 30 days .'
-p1496
-aS'{org_1} payments company {org_2} , founded by st. louis natives jack dorsey and jim mckelvey , priced its shares {time} at {money} for its initial public offering , about {number} percent less than what {org_d} initially had targeted .'
-p1497
-aS'{org_1} itself does not have a product in the marketplace .'
-p1498
-aS'{org_d} planned to issue {number} shares .'
-p1499
-aS"olivia pulsinelli is the senior web editor for the {org_1} 's award-winning website ."
-p1500
-aS"monica mendoza covers banking and financial services , legal services , the economy and economic development , and sports business and contributes to the `` {org_1} '' blog ."
-p1501
-aS'{org_1} raised {money} in its ipo {time} , the fifth of {number} massachusetts-based biotech companies to go public that year .'
-p1502
-aS'the life sciences software company filed an ipo in mid-march estimated to be worth as much as {money} .'
-p1503
-aS'{org_1} has raised more than {money} in venture capital in its two years of operation .'
-p1504
-aS'that was updated to more than {money} , according to the {time} filing with the {stock_institution} .'
-p1505
-aS'if {org_d} follows through with those plans -lrb- reported by ipo market experts at {stock_institution} -rrb- it will be testing the public biotech markets in a decidedly uncertain time .'
-p1506
-aS"the first {number} initial public offerings of {time} , both involving biotech firms , were trading up significantly as of {time} , providing good news to an industry that 's seen little love on wall street of late ."
-p1507
-aS'{org_1} , a mclean , va.-based government services contractor that posted {money} in revenue in {time} , is preparing documents to register with the {stock_institution} for an initial public offering , according to a source familiar with the situation .'
-p1508
-aS'{org_1} .'
-p1509
-aS'{org_1} .'
-p1510
-aS'{org_1} makes and markets personal computers with an upgradeable microprocessor , memory and hard-drive components .'
-p1511
-aS"`` we 're excited about the possibility of making ' 15-second endpoint visibility and control ' the expected standard . ''"
-p1512
-aS'for the three-month period that ended {time} , {org_1} posted {money} in revenues for a net loss of {money} , {number} percent higher than its net loss for the same period {time} .'
-p1513
-aS'cambridge-based {org_1} , a biopharmaceutical company focused on treatments for diseases of the immune system , has filed a registration statement for the initial public offering of shares of its common stock .'
-p1514
-aS'{org_1} , a subsidiary of {org_2} of beverly , mass. , filed a registration statement with the federal {stock_institution} for an initial public offering of {number} shares of common stock .'
-p1515
-aS'you have to come to terms with seller , the type of loans they make and their culture .'
-p1516
-aS"{org_d} would be worth about {money} if it 's priced at the top of its range and underwriters bought all of the extra shares allotted to them ."
-p1517
-aS'get the free daily {org_1} newsletter .'
-p1518
-aS"in {time} , overstock.com filed suit against {org_1} in utah 's third district court in {org_2} city , accusing {org_1} of violating utah 's `` spyware '' law ."
-p1519
-aS"{org_1} apparently did n't have what it takes to sell an ipo in {time} ."
-p1520
-aS"{org_1} , {number} of dozens of cybersecurity companies in the {org_2} , will be trading under the symbol `` {ticker} '' and its underwriters include {org_3} , {org_4} and jefferies ."
-p1521
-aS'{org_1} , a cambridge company developing a pill that would work with those offered by {org_2} -lrb- {stock_institution} : {ticker} -rrb- , filed forms {time} with the {stock_institution} saying that it plans to sell {number} shares of stock priced at {money} to {money} each .'
-p1522
-aS'access to the public markets will give {org_1} the financial war-chest it needs to chase larger customers .'
-p1523
-aS'the property-casualty insurer on {time} announced plans to go public .'
-p1524
-aS'revenue in its most recent quarter was up {number} percent to {money} and net income was up about {number} percent to about {money} .'
-p1525
-aS'founded in {time} , {org_1} is backed by chicago-based private equity firm {org_2} .'
-p1526
-aS'{org_1} payment startup {org_2} has priced its ipo at {money} to {money} a share , generating a much lower valuation of {money} for the san francisco-based company than both investors or {org_3} had expected .'
-p1527
-aS"{org_1} , founded in {time} , has {number} compounds in midstage human clinical trials exploring potential treatments of everything from crohn 's disease to various kinds of cancer ."
-p1528
-aS'{org_1} , founded in {time} , develops virtualization software .'
-p1529
-aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- stock rose {number} percent in {time} , while {org_2} -lrb- {stock_institution} : {ticker} -rrb- shares climbed {number} percent .'
-p1530
-aS'total value : {money} .'
-p1531
-aS'westford-based {org_1} , a provider of voice infrastructure products for the new public network , announced the initial public offering of {number} shares .'
-p1532
-aS'the 28-year-old , 119-employee company began as a maker of handheld and walk-through explosive-detection devices , then began producing more sophisticated machines after government-funded research in {time} that was capable of also detecting illegal drugs .'
-p1533
-aS'{org_1} , a british email security company with {org_2} headquarters in watertown , is expected to debut on the {stock_institution} on {time} with a {money} initial public offering .'
-p1534
-aS'instead , any expansion plans the bank does pursue in {time} would be part of a greater houston growth strategy .'
-p1535
-aS'jason debruyn covers the biopharmaceutical and health care industries .'
-p1536
-aS'the move would mark {number} of the few new ipos in recent years for southwest ohio .'
-p1537
-aS'he is a graduate of {org_1} .'
-p1538
-aS"it was n't surprising to see {org_1} ' public debut put on hold , given the {number} percent drop {time} in shares of {org_2} after {org_d} 's three-year outlook disappointed {org_3} ."
-p1539
-aS"{org_1} 's ipo price is expected to predict how other highly valued tech companies fare in their public debut , {org_2} reports ."
-p1540
-aS'{org_d} intends to use proceeds from the offering to fund growth initiatives , including possibly retail store expansion through fiscal {time} .'
-p1541
-aS'greg maffei , ceo of {org_1} , is also chairman of {org_2} .'
-p1542
-aS'the last time {org_d} reported its financial status , it said it had {money} as of {time} , which it said was enough to last through {time} .'
-p1543
-aS'{org_1} has been around since {time} , when it was founded by {number} israeli entrepreneurs .'
-p1544
-aS"overstock accuses {org_1} of causing pop-up ads that direct customers to {org_1} ' site to appear when some users visit overstock 's website ."
-p1545
-aS'{org_1} has rapidly grown its top line .'
-p1546
-aS'j. p. {org_1} and {org_2} will also work on the deal .'
-p1547
-aS"ihealthcue.com 's intention , according to a listing on {stock_institution} , is to `` provide news and developments in the pharmaceutical and biotechnology sectors '' through subscriptions and licensing fees ."
-p1548
-aS"`` after navigating the process with {org_1} 's management team at my side , i 've come to realize there 's an equally important decision -- the {number} to not take a company public at this time . ''"
-p1549
-aS'hopkinton-based {org_1} and its {org_2} division report that {org_3} has registered with the {stock_institution} to raise up to {money} through an initial public offering of {org_3} common stock .'
-p1550
-aS'{org_1} could not be reached for comment {time} {time} .'
-p1551
-aS'atlassian plans to trade on {stock_institution} with the symbol of `` {ticker} .'
-p1552
-aS'net income for the period was {money} , up from {money} {time} .'
-p1553
-aS"`` when the financial market variables outside our control come into line , we plan to be ready , '' he said in an email ."
-p1554
-aS'the deal was aided by {org_1} and {org_2} .'
-p1555
-aS'{number} .'
-p1556
-aS'other national companies most likely to go public {org_1} francisco-based software firm {org_2} , and {org_3} , calif.-based enterprise storage firm {org_4} .'
-p1557
-aS"`` we would have to file audited quarterly results , we 'd have to continue with significant legal fees and advisory fees . ''"
-p1558
-aS"most tech unicorns , including all of the others that went public {time} except {org_1} , have shown impressive growth but had n't turned a profit yet ."
-p1559
-aS'{org_1} filed paperwork outlining its intentions for an ipo back in {time} .'
-p1560
-aS'the wellesley , mass. , company plans to register {number} common shares for the sale , positioning it to reap between {money} and {money} in {number} proceeds .'
-p1561
-aS'{org_d} sold {number} shares at {money} per share , a price slightly under the {money} to {money} per-share range it had planned for .'
-p1562
-aS"{org_1} plans to apply for a {stock_institution} listing under the symbol `` {ticker} '' ."
-p1563
-aS"it has no drugs in clinical trials yet , but is conducting preclinical trials on {number} potential drugs to treat {org_1} 's disease and duchenne muscular dystrophy ."
-p1564
-aS"{org_1} 's software-as-a-service aims to cut data management costs by up to {number} percent while also simplifying the process involved ."
-p1565
-aS'{org_1} of new york city , and {org_2} of atlanta .'
-p1566
-aS'{org_d} withdrew the offering {time} , citing unspecified market conditions .'
-p1567
-aS'stock in {org_1} and {org_2} -lrb- {stock_institution} : {ticker} -rrb- , both of which went public in the {time} , have been trending lower than their initial ipo prices .'
-p1568
-aS"been made to list the stock on {stock_institution} under the symbol `` {ticker} '' ."
-p1569
-aS'palo alto-based {org_1} is the only private investor with a reportable stake , holding {number} percent of outstanding shares .'
-p1570
-aS"{org_1} will move a majority of its operations to the @ {number} building when crews finish an {money} conversion of the facility 's open-air parking area into {number} square feet of office space ."
-p1571
-aS'depending on the markets , cohen said {org_d} may go public {time} .'
-p1572
-aS'in the last five years , {money} has been invested into {number} private cybersecurity startups , according to to new york city-based {org_1} .'
-p1573
-aS'.'
-aS'it traded as high as {money} with the symbol of {ticker} after ringing the opening bell on {stock_institution} .'
-p1574
-aS"{number} of them , waltham data management firm {org_1} , is ranked `` most likely '' to go public {time} based on an algorithm that assesses and scores private company health and momentum ."
-p1575
-aS'the largest was {org_1} , a colorado springs , colo. , systems integration and telecommunications company with annual revenue of {money} , which {org_2} acquired in {time} .'
-p1576
-aS'shares of publicly traded {org_1} fell {money} to {money} as of {time} in {stock_institution} composite trading .'
-p1577
-aS'more than half of the {org_1} tech companies that went public since {time} are {time} trading below their ipo price , like {org_2} is .'
-p1578
-aS'`` it was pencils down for a lot of them .'
-p1579
-aS'the offering was just the fifth {time} by a u. s. tech unicorn .'
-p1580
-aS'{org_d} , under the umbrella of new york city-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- , has invested {money} in {number} brands since {time} .'
-p1581
-aS'the money will help support efforts to customize its algorithm for blood biomarker testing for cancer in the chinese market .'
-p1582
-aS'mark hollmer can be reached at mhollmer@bizjournals.com .'
-p1583
-aS'just 10 days after it announced its initial public offering , {org_1} delayed its pricing , citing unfavorable equity market conditions .'
-p1584
-aS'the round was led by {org_1} .'
-p1585
-aS"toronto 's {org_1} is handling the offering in canada ."
-p1586
-aS'its market penetration included {number} countries , with international revenue representing {number} percent of total sales in fiscal {time} , in {time} it reported revenue of {money} , up from {money} {time} prior and {money} in {time} .'
-p1587
-aS'the 36-employee south san francisco company is developing a drug , called {org_1} , that is designed to inhibit glutaminase , which cancer cells eat for energy .'
-p1588
-aS'{time} , {org_1} completed a {money} round of funding led by {org_2} .'
-p1589
-aS'christy shaffer and clay thorp , both of hatteras , sit on the clearside board of directors .'
-p1590
-aS'as reported {time} , {org_1} and {org_2} are slated to act as joint bookrunners .'
-p1591
-aS"{org_d} intends to list its common stock on {stock_institution} under the symbol `` {ticker} . ''"
-p1592
-aS'read more : east bay cybersecurity firm ramps up expansion with reported {money} valuation .'
-p1593
-aS'{time} closing price : {money} .'
-p1594
-aS'related {org_1} buys san jose security startup for {money} capital buys {org_2} for {money} hires {org_4} michael fey as president home of {time} spacious and captivating home in prime pacific heightssee all homes of {time} industriestechnologybanking & financial servicestopicsprivate equity .'
-p1595
-aS"{org_1} spun off from diller 's {org_2} -lrb- {stock_institution} : {ticker} -rrb- in a {time} ipo , opening at about {money} a share ."
-p1596
-aS'{org_d} is known for its laser hair-removal technology , and its accompanying hardware delivery systems .'
-p1597
-aS'the website , {org_1} , reports that {org_d} could start trading {time} .'
-p1598
-aS"in {time} , {org_1} -lrb- {stock_institution} : {ticker} -rrb- completed a {money} initial public offering , and {time} it 's mapping out its {time} growth strategy ."
-p1599
-aS'{number} customers are managing the offering : {org_2} and {org_3} .'
-p1600
-aS"bluebird , which has been {number} of the best-performing biotech firms to go public in all of {time} , saw it 's market value cut in half over the past six months due to uncertainty among biotech investors as a whole , as well as news {time} that some of the patients treated in an early-stage trial for a rare blood disease do n't appear to be completely cured of the disease ."
-p1601
-aS'{org_d} provides health care organizations with patient-specific , data-driven technology and software products designed to improve the effectiveness of medication regimens , improve patient outcomes , reduce hospitalizations , lower health care costs and manage risk .'
-p1602
-aS'they have a 30-day option to purchase up to {number} additional shares of common stock .'
-p1603
-aS'following the ipo , {org_1} is expected to hold an equity interest in {org_2} , a subsidiary that will use the funds to pay down debt .'
-p1604
-aS'after the ipo , {org_1} , a private equity firm based in san francisco , will continue to own between {number} percent and {number} percent of {org_2} .'
-p1605
-aS'{org_1} .'
-p1606
-aS"chairman and chief executive anthony hsieh cited recent market conditions and the poor performance of other companies ' initial public offerings to explain why the mortgage lender {time} decided to cancel a planned ipo ."
-p1607
-aS'while the {stock_institution} biotechnology index is still down about {number} percent for {time} , despite a slight upturn over the last couple weeks , the {number} local biotechs that have held ipos {time} have seen very different outcomes .'
-p1608
-aS'for {time} ending {time} , {org_1} had a {money} profit , or {money} per diluted share , on revenue of {money} .'
-p1609
-aS'its stock -lrb- {stock_institution} : {ticker} -rrb- traded as low as {money} on {time} closing at {money} .'
-p1610
-aS'founded in {time} , {org_1} designs and develops high performance integrated circuits , modules and subsystems for radio frequency , microwave and millimeterwave applications covering the frequency range of dc to {number} ghz .'
-p1611
-aS'{stock_institution} stock symbol : {ticker} .'
-p1612
-aS"rockville cancer diagnostics company {org_1} {time} completed a {money} a equity funding round led by the venture capital division of china 's largest insurance company , {org_3} ."
-p1613
-aS'the discounted valuation triggers a ratchet , or protection written into a previous funding round , according to {org_1} .'
-p1614
-aS"while the filing did not name the {number} investors involved , {org_d} 's backers include {org_1} and {org_2} ."
-p1615
-aS'{org_1} and {org_2} , both of new york city , are joint book-running managers of the offering .'
-p1616
-aS'the san francisco fitness wearable company has lost more than a third of its value since going public {time} at {money} a share .'
-p1617
-aS"to retain customers , {org_d} relies heavily on the {number} weekly opt-in `` {org_1} alert '' e-mails it sends out to customers notifying them about new merchandise ."
-p1618
-aS'its {time} operating assets focus on the denver-julesburg basin , or dj basin , in colorado .'
-p1619
-aS"the ipo , which would be {number} of {time} 's largest , might still happen in {time} or {number} , the {org_1} reported , citing unnamed people familiar with the plan ."
-p1620
-aS'jim duffy at stifel cut his rating on the stock to hold from buy , writing , `` given the limited visibility to new product uptake and revenue growth , we see the heightened r&d ; spend as adding risk to the model given the potential for deleverage should revenue slow or fall .'
-p1621
-aS'{org_1} and {org_2} are serving as joint book-running managers for the offering .'
-p1622
-aS'{org_1} also filed a registration statement with {time} relating to its proposed acquisition of {org_3} for {money} of {org_1} common stock .'
-p1623
-aS"here 's a look at the latest numbers in revenue and users it reported up to {time} : {org_d} had {number} active users and {number} paid members as of {time} ."
-p1624
-aS'it plans to eventually expand in europe and the u. s .'
-p1625
-aS'framingham-based {org_1} , a provider of advanced web content management solutions , announced it has filed for an initial public offering of its common stock .'
-p1626
-aS'the estimated price per share is {money} to {money} .'
-p1627
-aS'ceo nick leschly said that {org_d} will {time} preliminary data from the french study at the {org_1} in milan , italy on {time} .'
-p1628
-aS'and in terms of an acquisition strategy -- allegiance completed {number} -- nothing is on the table at this point , retzloff said .'
-p1629
-aS'contact her at {number} .'
-p1630
-aS'boston-based {org_1} has completed its initial public offering of {number} shares of common stock priced at {money} per share .'
-p1631
-aS'{org_1} operates exclusively in the massachusetts market , offering auto insurance and policies for homeowners and businesses .'
-p1632
-aS'drug developer {org_1} has priced its proposed initial public offering at between {money} and {money} a share .'
-p1633
-aS'it {time} had sold {money} in preferred shares , with investors including affiliates of california-based {org_1} and trident capital ; and {org_2} and {org_3} , both of new york .'
-p1634
-aS'{org_d} helps businesses keep track of devices using their network without requiring special software to be installed on them .'
-p1635
-aS'during the ipo , {org_1} sold more than {number} shares of its class a common stock , with the selling stockholders named in the registration statement selling {number} shares .'
-p1636
-aS"calithera lost {money} {time} and nearly {money} through {time} , a typical picture for biotech companies that can chew through {money} over 10 years of preclinical work and clinical trials before that {org_1} administrations votes yes or no on the drug 's benefits and safety for patients ."
-p1637
-aS'but if it does , it will be closely watched as an indicator for {org_1} and the other area biotechs {time} hoping to pull off ipos .'
-p1638
-aS"a {org_1} ipo would burnish atlanta 's credentials as an infosec hub ."
-p1639
-aS'the westborough-based {org_1} , which began trading on the {stock_institution} {time} under the symbol {ticker} , is also offering the underwriters the option to buy an additional {number} shares to cover over-allotments .'
-p1640
-aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- , a biotech with corporate offices in alewife but based in singapore , managed to raise {money} on {time} that {org_2} -lrb- nasdaq : {ticker} -rrb- was raising {money} .'
-p1641
-aS'shares of the cambridge biotech shot up {number} percent to {money} as of {time} after {org_d} announced the news regarding its potential drug , called {org_1} , during its {time} financial report {time} {time} .'
-p1642
-aS'why adaptimmune chose philadelphia .'
-p1643
-aS'{org_1} also agreed to form a partnership with {org_2} to develop new drugs , helping it to expand product development in europe and build its cancer research .'
-p1644
-aS'{org_1} says it intends to use the net proceeds from the offering for working capital and general corporate purposes , including potential acquisitions and to repay outstanding indebtedness .'
-p1645
-aS'{org_1} , of fairfax , and {org_2} , of arlington , va. , filed papers with {time} {time} .'
-p1646
-aS"as {number} of several new , publicly traded gene therapy firms in the area -- including {org_1} -lrb- {stock_institution} : {ticker} -rrb- , {org_2} -lrb- {stock_institution} : {ticker} -rrb- and {org_3} therapeutics -lrb- {stock_institution} : {ticker} -rrb- , which is based near philadelphia but just opened a waltham facility -- {org_4} 's ipo {time} is an indicator of not only {time} investor attitudes toward biotech , but of the relatively new field of companies that aim to treat diseases by replacing certain genes in the body ."
-p1647
-aS'xerium employs about {number} workers at {number} manufacturing sites in {number} countries around the world .'
-p1648
-aS'according to its filings , {org_1} had a net loss of {money} on about {money} in revenue for {time} .'
-p1649
-aS'software development tool provider atlassian increased its ipo targets on {time} and is {time} planning to raise up to {money} when it goes public {time} .'
-p1650
-aS'in {time} {org_d} reported that out of the {number} people who had been in a {org_1} {number} trial long enough to generate data , {number} responded favorably to the drug , including {number} who saw a complete remission .'
-p1651
-aS"{org_1} , a technology-enabled provider of financial process automation , procurement , and asset management services , wo n't be going public in the foreseeable {time} ."
-p1652
-aS"it edged back into minnesota as its retail-store business expanded , though website and catalog sales represent {number} percent of {org_d} 's revenue ."
-p1653
-aS'the anticipated ipo price is between {money} and {money} .'
-p1654
-aS'{org_1} , which is based in dublin , ireland , and has its u. s. headquarters in trevose , pa. , has filed plans to go public with {stock_institution} .'
-p1655
-aS"the shares were listed on the {stock_institution} under the ticker symbol `` {ticker} . ''"
-p1656
-aS'with new leadership and money in the bank , {org_1} is aiming to further wrest market share from incumbents as major banks , corporations and retailers brace for security threats .'
-p1657
-aS'{org_d} made its first acquisition {time} , buying {org_1} -lrb- kan. -rrb- for {money} , according to {stock_institution} filings .'
-p1658
-aS'chairman and chief executive yuchun lee , {number} , co-founded {org_1} in {time} , and was paid approximately {money} {time} .'
-p1659
-aS'but security is a hot sector in the wake of a series of high-profile hacks into major companies like {org_1} and growing concerns about foreign government-sponsored cyber espionage .'
-p1660
-aS'{org_1} had planned to sell as much as {number} percent of {org_2} at up to {money} per share , valuing the cancer research company at {money} -lrb- {money} -rrb- .'
-p1661
-aS'{org_1} announced {time} that it had completed its spinoff of its controlling stake in newton-based {org_2} into a new publicly traded company called {org_3} .'
-p1662
-aS'shares closed at {money} at end of trading on {time} .'
-p1663
-aS'{org_1} , founded in {time} , employs {number} workers .'
-p1664
-aS'{org_1} , {org_2} and a. g. edwards are serving as underwriters .'
-p1665
-aS'the ipo plans come just six months after {org_1} raised {money} in a fourth round of private equity financing .'
-p1666
-aS'{org_1} and chardan also are listed as underwriters .'
-p1667
-aS'{org_1} filed for an initial public offering in {time} , and in {time} announced it would seek to raise up to {money} .'
-p1668
-aS'cromwell schubarth is techflash editor at the {org_1} .'
-p1669
-aS'company : {org_1} .'
-p1670
-aS'{money} funded since inception and {money} in {time} .'
-p1671
-aS'{org_1} {time} won a {money} order that could grow to as much as {money} .'
-p1672
-aS'{org_1} bought {org_d} for {money} in {time} .'
-p1673
-aS'{org_1} filed for its ipo in {time} and announced plans {time} to offer {number} shares priced between {money} and {money} each , with a goal to raise as much as {money} .'
-p1674
-aS'{org_1} was founded in {time} .'
-p1675
-aS'it purchased {org_1} and its wholly owned banking subsidiary , {org_2} , for an undisclosed amount in {time} .'
-p1676
-aS'its {time} operating assets focus on the denver-julesburg basin , or dj basin , in colorado .'
-p1677
-aS'according to a news release from the bank , regulators have approved the creation of {org_1} .'
-p1678
-aS'{org_1} plans to use the funds to expand its reach and build on its product offerings .'
-p1679
-aS'the offering was led by {org_1} , and co-managed by {org_2} and robertson stephens .'
-p1680
-aS'while the {stock_institution} biotechnology index is down more than {number} percent since it reached its high on {time} , {org_1} stock has risen {number} percent .'
-p1681
-aS'{org_1} , the {org_2} security company {org_3} acquired in {time} , is reportedly fielding pitches to go public again {time} .'
-p1682
-aS'.'
-aS"however , {org_d} elected to postpone the offering due to `` unfavorable equity market conditions , '' according to a statement ."
-p1683
-aS"boston 's {org_1} will be responsible for the options ."
-p1684
-aS'{org_d} began {time} with a market cap of {money} .'
-p1685
-aS'{org_1} , the west chester-based food manufacturer that makes more than {number} products backed by {org_2} , reportedly selected {org_3} , {org_4} and {org_5} to manage its ipo .'
-p1686
-aS'{org_1} said it has granted its underwriters the option to buy another {number} shares in {org_d} in {time} , which would {number} another {money} .'
-p1687
-aS'{org_1} is working on a new class of antibiotics -- called pleuromutilins -- to treat bacterial infections .'
-p1688
-aS'`` {time} we continue our journey as the second largest consumer nonbank lender in the country in {number} short years .'
-p1689
-aS'it closed at {money} .'
-p1690
-aS'he plans to double the r&d ; team , growing from {number} employees there , and add {number} people to tech support team and increase sales capacity .'
-p1691
-aS"`` a lot of the people that are really buying new issues are biotech specialists and they are demanding a bit more in terms of what a company has in terms of clinical data , '' said {org_1} wood , senior biotech analyst at america 's {org_2} in boston ."
-p1692
-aS'such cards protect against fraud better than magnetic-stripe cards in most transactions .'
-p1693
-aS'buyout firms usually hold onto assets for about five years .'
-p1694
-aS'{org_1} , which has contracts with the {org_2} and {org_3} , is the fifth defense services company in the greater washington area to file for an ipo since {time} .'
-p1695
-aS'it services also include bundled prescription fulfillment and adherence packaging services for patients with complex prescription needs .'
-p1696
-aS'{org_d} initially filed an {org_1} with the {stock_institution} in {time} and planned to trade on the {stock_institution} under {org_2} .'
-p1697
-aS'schwach said there are no plans for an ipo at the moment .'
-p1698
-aS"`` we do n't want to be {number} of those companies that raises at a valuation {time} that 's eye-popping on the private market and then have to go public at half the price , '' gouw told {org_1} ."
-p1699
-aS'with {org_1} , {org_2} is also developing remote-controlled vehicles to run supplies to soldiers in hostile territory .'
-p1700
-aS'other big private investors who bought into {org_d} at that time include {org_1} and {org_2} .'
-p1701
-aS"`` the time is ripe to take action , '' wrote orion hindawi , {org_1} 's new ceo , in a blog post ."
-p1702
-aS'its original range was between {money} and {money} per share .'
-p1703
-aS'{org_d} offered almost {number} securities listed at {money} each with an indicative market capitalization of approximately {money} -lrb- australian dollars -rrb- on a fully diluted basis .'
-p1704
-aS'.'
-aS"that does n't count the profits shareholders would reap from the sale ."
-p1705
-aS'it is the latest in a series of disappointing wall street debuts by companies from the region , a situation that has many postponing ipos in favor of raising large private funding rounds .'
-p1706
-aS"`` it 's hard for a company to move on a dime ."
-p1707
-aS'based in new york for the {org_1} , he {time} was a reporter at {org_2} and {org_3} .'
-p1708
-aS'{org_1} has grown to {number} employees {time} from {number} at {time} .'
-p1709
-aS'a health-related website based in keystone heights and launched in {time} is planning an initial public offering .'
-p1710
-aS'{org_1} {time} formed {org_2} to own , operate , develop and acquire a wide range of domestic midstream infrastructure assets .'
-p1711
-aS'claire tucker , for instance , is {time} president and ceo of {org_1} , while dan hogan is {time} ceo of {org_2} .'
-p1712
-aS"some observers see {org_1} as providing alternatives to bone marrow transplant , through replenishing a patient 's cells with undamaged cells ."
-p1713
-aS"in a report posted before the pricing , analytics firm {org_1} said , `` it 's refreshing to see a tech company wait until it 's more mature to access the ipo market ."
-p1714
-aS"the business could be worth as much as {money} , though the target valuation is n't yet finalized , the {org_1} noted ."
-p1715
-aS'{org_d} also expected to give underwriters a 30-day option to purchase an additional {number} shares at the ipo price .'
-p1716
-aS"the website includes articles and videos arranged around an index of topics including sexuality -lrb- `` the rainbow-kamasutra '' -rrb- and substance abuse -lrb- `` alcohal -lsb- sic -rsb- abuse '' -rrb- ."
-p1717
-aS'president and chief scientific officer : dr. katherine a. high .'
-p1718
-aS'{org_d} has sold {number} floor vacuums , which operate independent of human intervention , and {org_2} {time} released scooba , which washes floors .'
-p1719
-aS'{org_1} , the mobile payments company co-founded by {org_2} natives jack dorsey and jim mckelvey , is slated to price shares {time} for its initial public offering .'
-p1720
-aS'{org_d} is expected to be valued at as much as {money} and could list its shares as early as {time} .'
-p1721
-aS'revenue in {time} , according to {time} filing , was {money} .'
-p1722
-aS'a new contract dorsey signed {time} with {org_1} stipulates he will devote his `` full business efforts and time to {org_d} , other than with respect to your work with {org_2} .'
-p1723
-aS'{org_1} went public {time} in a {money} initial public stock offering .'
-p1724
-aS"boston 's {org_1} filed plans for an ipo at {time} ."
-p1725
-aS"`` it 's more expensive to borrow , and there 's some incentive in that regard -lsb- to go public ' to reduce their borrowing cost . ''"
-p1726
-aS"the conor stents are designed with tiny perforations that excrete time-released drugs , which {org_d} said provides for better long-term prevention of clogged arteries than competitors ' drug polymer coatings ."
-p1727
-aS"hsieh called his company a `` unicorn startup that has surpassed the {money} valuation '' and hailed it as {number} of the very few success stories not from silicon valley ."
-p1728
-aS'revenue in its most recent quarter was up {number} percent to {money} , and net income was up about {number} percent to about {money} .'
-p1729
-aS'westford-based {org_1} , founded in {time} , employs about {number} .'
-p1730
-aS"{org_d} added that it would `` continue to evaluate the timing for the proposed offering as market conditions develop . ''"
-p1731
-aS'santa clara online textbook company {org_1} , which also posted quarterly results on {time} , is nearly three-quarters below the price it went public at .'
-p1732
-aS'{org_1} is {org_d} of {org_2} .'
-p1733
-aS"{number} of the region 's largest private companies could be gearing up for an initial public offering {time} , {org_1} reports ."
-p1734
-aS'shares of {org_1} were down almost {number} percent {time} to around {money} per share .'
-p1735
-aS'a trial of up to {number} patients began {time} , and {number} in the u. s. that will involve up to {number} patients began with the infusion of the first patient in {time} .'
-p1736
-aS'it makes sense for {org_1} to hold on to {org_2} to cash in on {time} upside .'
-p1737
-aS"{org_1} spokesman cited {org_2} 's {number} percent market share in the u. s. , with more than {number} direct and indirect customers , including many of the largest north {org_3} issuers of debit and credit cards , such as {org_4} , {org_5} , {org_6} and {org_7} ."
-p1738
-aS"most of that rise has been due to good trial results from {org_d} 's potential drug to treat acute myeloid leukemia or myelodysplastic syndrome ."
-p1739
-aS'the software development tool company , which has dual headquarters in san francisco and australia , priced its ipo shares at {money} .'
-p1740
-aS'with biotech stocks at their lowest in more than a year , a 10-year-old drug maker aiming for drugs that boost the effects of {time} approved cystic fibrosis drugs is refining its plans to test the investor waters with a {money} offering .'
-p1741
-aS'{org_1} has {money} in new funding that vaults it into a {money} valuation as its ceo watches for the right time to take the enterprise device security startup public .'
-p1742
-aS'{org_1} which is headquartered in cherry hill , was founded in {time} .'
-p1743
-aS'investors in yieldcos tend to also invest in the energy sector .'
-p1744
-aS'even some of the ipos of the past two years that were wildly successful have since hit trouble with public investors .'
-p1745
-aS'{org_d} also was a {org_1} in business winner {time} and a {org_2} to work honoree in {time} .'
-p1746
-aS'boston-based {org_1} is {number} of {number} underwriters for the proposed issue , which would trade on the {stock_institution} under the ticker symbol {ticker} .'
-p1747
-aS"in addition to owning {org_1} 's general partner and all of its incentive distribution rights , {org_2} also expects to retain a majority of {org_1} 's limited partner interests ."
-p1748
-aS'{org_1} company has developed a proprietary process called selective {org_2} .'
-p1749
-aS'{org_1} owns about {number} square feet of showroom space between both markets .'
-p1750
-aS'the ipo move could be about unlocking value and giving privately held {org_1} the currency of a publicly traded stock which it can use to make acquisitions .'
-p1751
-aS'analysts appear intrigued by its re-emergence in the ipo market .'
-p1752
-aS'the others on that list are spark therapeutics , {org_1} , zynerba , {org_2} and regenxbio .'
-p1753
-aS"`` from the first day that david and i founded this company , we have shared decision-making equally , '' the younger hindawi wrote in a blog post ."
-p1754
-aS'annie gaus is the technology reporter for the {org_1} .'
-p1755
-aS'{org_1} , a wilmington chemical detector maker , announced {time} that it has registered with {time} for an initial stock offering priced at {money} .'
-p1756
-aS"`` {org_1} has many options as a successful profit-generating company , and the pursuit of an ipo was {number} option to accelerate our plans for growth that were already in progress , '' he said ."
-p1757
-aS'{org_d} has other {org_1} offices in chicago , dallas and san francisco .'
-p1758
-aS"locateplus ' underwriter , {org_1} , is conducting the offering through a prospectus sale ."
-p1759
-aS'{org_d} delayed its initial public stock offering amid volatile market conditions .'
-p1760
-aS". ''"
-p1761
-aS'what it does : {org_d} is developing one-time , life-altering , gene therapy treatments -- which involve introducing healthy genes into cells in place of missing or defective ones -- initially for patients suffering from rare diseases where no therapies exist .'
-p1762
-aS'worldwide wholesale sales of all products bearing the {org_1} name , generated by {org_d} as well as licensing partners and affiliates , reached {money} in {time} , {org_d} said .'
-p1763
-aS'lexington -- {org_1} has filed plans for an initial public offering .'
-p1764
-aS"the statement from {org_d} gave no indication what kind of data will be presented other than to say , `` we look forward to sharing these early clinical data and thank all those involved in our {org_1} clinical trials for their commitment to finding a potential new treatment for patients with beta-thalassemia . ''"
-p1765
-aS'{org_d} estimated it would net {money} from the ipo -lrb- not including any additional shares it sells to underwriters -rrb- - money the company could use to pay down debt , generate working capital or make acquisitions .'
-p1766
-aS'the managing underwriters for this offering are {org_1} , {org_2} , {org_3} , and {org_4} .'
-p1767
-aS'some holders of company stock also plan to offer shares for sale , but {org_d} would not receive any of those proceeds .'
-p1768
-aS'{org_1} , baird , j. p. morgan , {org_2} , {org_3} , {org_4} are acting as book-running managers for the offering , and {org_1} and baird are acting as structuring fee agents for the offering .'
-p1769
-aS"{org_d} 's common stock began trading on {stock_institution} on {time} ."
-p1770
-aS'follow her on twitter for more .'
-p1771
-aS'.'
-aS'{org_d} was founded in {time} by co-founders of {org_1} and {org_2} , including {org_3} co-founder steve hafner , who is ceo of {org_4} , and runs a website that aggregates other travel sites , and paul english , who is president and director .'
-p1772
-aS'those include waltham-based {org_1} + {org_2} and boston-based {org_3} .'
-p1773
-aS"`` {org_1} was probably wise in seeking a lesser amount this time , '' said michael lytton , a partner at {org_2} ."
-p1774
-aS'{org_1} began exploring an ipo in {time} that was expected to give {org_1} a stock market value of more than {money} .'
-p1775
-aS'{org_1} is {org_d} formed through a {money} deal that maricich put together in {time} to place the core showrooms of both the high point and las vegas markets under common ownership .'
-p1776
-aS'{org_d} filed its withdrawal request with the {stock_institution} on {time} .'
-p1777
-aS"{org_d} 's decision comes just a week after the master limited partnership announced that it would officially launch the ipo ."
-p1778
-aS'it had planned to use the ipo to create a diversified portfolio of projects following the ipo that were operational , under construction or in advanced development in the united kingdom and the united states .'
-p1779
-aS"atlassian 's offering brings the total for tech ipos in the country {time} to {number} , down {number} percent from {time} 's total , according to research firm {stock_institution} ."
-p1780
-aS'home of {time} sponsor listing resort living at its finestsee all homes of {time} .'
-p1781
-aS'a {org_1} spokesperson declined to comment on the matter , again citing the quiet period , though in its s-1 filing with {time} , {org_d} says it filed a response on {time} and intends to vigorously defend itself .'
-p1782
-aS"`` in order to keep the filing {time} , we would have to incur expenses that just do n't make sense , '' maricich said ."
-p1783
-aS'{org_1} contributed to this story .'
-p1784
-aS'there are also more than {number} information security companies in georgia , which generate more than {money} in annual revenue and represents about {number} percent of the worldwide security revenue market share .'
-p1785
-aS'its {time} operating assets focus on the denver-julesburg basin , or dj basin , in colorado .'
-p1786
-aS'{org_d} has dual headquarters in sydney , australia , where it was founded , and san francisco , where most of its top executives work .'
-p1787
-aS'the duo founded {org_1} together in {time} , and have since grown the emeryville-based security platform to more than {number} employees and an estimated valuation of {money} .'
-p1788
-aS'{time} {org_d} filed an ipo seeking {money} but later withdrew it due to inauspicious conditions in the financial markets .'
-p1789
-aS"georgia companies employ more than {number} network and computer systems engineers and software and it services represent {number} percent of georgia 's tech employment sector ."
-p1790
-aS'there have been {number} tech {org_2} {time} , according to {stock_institution} , less than half the {number} that went public in {time} .'
-p1791
-aS'the number of shares was also fewer than what observers had speculated would be offered .'
-p1792
-aS'but with a national investment backing , the capital for an acquisition is there .'
-p1793
-aS'coley also plans to sell another {money} in stock during a private placement with pharmaceutical giant {org_1} , which has already paid {org_d} {money} to co-develop and commercialize its lung-cancer treatment , promune .'
-p1794
-aS'{number} .'
-p1795
-aS'{org_1} , an operator of clean and renewable electric projects , withdrew its registration for a {money} ipo on {time} .'
-p1796
-aS'{number} reason is that its earlier , larger foray was withdrawn .'
-p1797
-aS"burlington , mass.-based {org_1} , which the past few years has captured the world 's fascination with its robotic vacuum cleaners reminiscent of `` the jetsons , '' {time} filed to raise {money} in an initial public offering of stock ."
-p1798
-aS'{number} .'
-p1799
-aS'funding in {time} broke the {money} barrier .'
-p1800
-aS"{org_1} 's {number} employees are split between its base in wakefield , mass. and fort saskatchewa , alberta , near parent company {org_2} in calgary ."
-p1801
-aS"joyce hersh , an attorney with the {org_1} , said that {org_d} had a good shot at a successful public launch because of its `` simple , elegant strategy '' of developing new drugs from existing compounds ."
-p1802
-aS"approximately {number} companies use {org_1} 's affinium software to manage multiple marketing channels and analyze results , including {org_2} , fedex and l. l. bean ."
-p1803
-aS'a call option gives investors the ability to buy a security at a set price over a set period .'
-p1804
-aS"in filings to {time} , executives stated that it has had a `` cumulative net loss '' of {money} ."
-p1805
-aS'neither has yet had an ipo .'
-p1806
-aS'as of {time} , its shares were down about {number} percent to {money} a share .'
-p1807
-aS'morgan lewis is representing {org_1} in its ipo .'
-p1808
-aS'.'
-aS'the ipo , called a direct public offering , calls for the sale of {number} shares of stock at a minimum price of {money} and a maximum of {money} .'
-p1809
-aS'rochester , n. h.-based {org_1} , a holding company for networking and telecommunications companies , said an initial public offering of {org_2} common stock on the {stock_institution} .'
-p1810
-aS'.'
-aS'while the ipo was being watched for signs of what may be in store for other tech companies waiting in the wings with {money} valuations , atlassian has been viewed as an outlier in many ways .'
-p1811
-aS"`` their support and trust makes me prouder than any number on a balance sheet , but it translates into a real , sustainable business as well , '' hindawi added ."
-p1812
-aS'they plan to trade on {stock_institution} with the symbol of `` {ticker} .'
-p1813
-aS"{org_1} 's research and development efforts are targeted to the production of cellular medicines that contain amplified populations of therapeutic cells ."
-p1814
-aS'that list of biopharmaceutical companies to complete ipos in {time} consists of spark therapeutics , aclaris therapeutics and zynerba , all of which have local headquarters ; adaptimmune and {org_1} , which have their u. s. headquarters here ; and regenxbio , a maryland company whose research operations are based at labs on the campus of the {org_2} .'
-p1815
-aS'related {org_1} moves firm to pre-ipoas {org_2} stock hits new low , it acquires dallas startup for {money} sale of {org_3} gets a {money} haircut home of {time} sponsor listing {org_4} living at its finestsee all {org_5} of {time} industriestechnologytopicsventure {org_6} .'
-p1816
-aS"profitability does n't have to simply be aspirational -- it 's achievable for healthy companies ."
-p1817
-aS'{org_d} has {time} raised a total of {money} .'
-p1818
-aS"`` few can deny how the choppy ipo market has impacted so many great brands , '' hsieh said ."
-p1819
-aS'get the free daily {org_1} newsletterthe offering was just the fifth {time} by a u. s. tech unicorn .'
-p1820
-aS"the houston-based bank does n't plan to expand outside the greater houston area , steve retzloff , bank chairman , told the {org_1} ."
-p1821
-aS'both products are manufactured in china .'
-p1822
-aS"`` it does n't fit into the {time} mold of a product in late stages of clinical trials -lrb- and thus is seeking a modest sum -rrb- ."
-p1823
-aS"`` this levels the playing field to allow average investors to participate in an ipo , '' said peter casey , a spokesman for {org_1} ."
-p1824
-aS'in {time} , xerium joined a flurry of companies filing income deposit security ipos involving class a common stock and senior subordinated notes .'
-p1825
-aS'{org_1} chairman of its board is greg verdine , ceo of {org_2} .'
-p1826
-aS"click here to read {org_1} 's interview with {org_2} ceo george martinez about the acquisitions and his thoughts on going public ."
-p1827
-aS'{org_d} owns {number} patents and has {number} more pending .'
-p1828
-aS"there 's a lot of growth opportunity . ''"
-p1829
-aS'{org_1} appears to be the first massachusetts life sciences ipo filling of {time} .'
-p1830
-aS'{number} other compounds are being tested to treat cancer tumors and diabetes .'
-p1831
-aS"{org_1} and sandler o'neill + partners l. p. served as co-managers for the offering ."
-p1832
-aS"it is {org_1} 's -lrb- {stock_institution} : {ticker} -rrb- fifth fund to use a covered-call writing strategy ."
-p1833
-aS'the managing underwriter of the offering will be {org_1} , acting as book-running manager , with {org_2} and lazard as co-managers .'
-p1834
-aS'{org_1} outsources its warehouse and fulfillment operations to {org_2} , a subsidiary of shipping giant {org_3} , and farms out its customer service to {org_4} of charlotte , n. c .'
-p1835
-aS'{org_1} and {org_2} are {time} separate publicly traded companies .'
-p1836
-aS'the doctors see that aggregated information when they prescribe medicine .'
-p1837
-aS"the offer was slated to represent about a {number} percent to {number} percent stake in {org_d} , with {org_1} 's partner , {org_2} -lrb- {stock_institution} : {ticker} -rrb- , retaining a majority of the limited partner interests ."
-p1838
-aS'{org_1} , which has {number} employees , is led by ceo colin broom , a former {org_2} executive .'
-p1839
-aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- plans to use the proceeds from the stock offering to advance the development of its experimental skin disorder treatments .'
-p1840
-aS'{org_1} , in its {stock_institution} filing announcing its ipo withdrawal , said it may pursue a private offering at a later date .'
-p1841
-aS'{org_1} is the sixth biopharmaceutical company based here , or with its u. s. headquarters or research operations based in the region , to go public {time} .'
-p1842
-aS'{org_1} , a maryland gene therapy company with research operations at the {org_2} , went public {time} .'
-p1843
-aS'.'
-aS'the offering includes shares to be sold by {org_1} as well as by el .'
-p1844
-aS"since {time} , coley 's cumulative loss exceeds {money} ."
-p1845
-aS'that drove {time} sales up about {number} percent compared with year-earlier figures .'
-p1846
-aS'there have been just {number} tech ipos {time} , returning an average of {number} percent above their offering price .'
-p1847
-aS'however , its umbilical cord blood stem cell storage unit {org_1} has shown steady gains .'
-p1848
-aS"{org_1} 's focus is on developing stem-cell therapies to treat diseases like cancer , genetic disorders and infertility ."
-p1849
-aS'{org_d} is not profitable , however .'
-p1850
-aS'dorsey was already being scrutinized by {org_1} after {org_2} announced {time} that it saw a {time} loss of {money} , its largest quarterly loss since at least {time} .'
-p1851
-aS'on {time} , {org_d} and others began production at their big {org_1} oil development , which is anticipated to reach a maximum {number} production rate of approximately {number} barrels of oil equivalent per day over the next few weeks .'
-p1852
-aS'{org_1} shareholders have voted unanimously to approve {org_d} .'
-p1853
-aS'another purchase , of {org_1} in spring hill , kan. , allowed {org_2} to enter the overland park market in {time} .'
-p1854
-aS'investors have punished biotech stocks so far {time} , driving the {stock_institution} biotechnology index down {number} percent since {time} and down {number} percent from its high point {time} .'
-p1855
-aS'cromwell schubarth is techflash editor at the {org_1} .'
-p1856
-aS'brian feldt covers technology , venture capital , startups , real estate and sports business .'
-p1857
-aS"but {org_d} 's {time} filing with the {stock_institution} suggests the number could be as high as {money} ."
-p1858
-aS'endostim , the {org_1} medical device maker that had planned an initial public offering , has officially canceled its ipo , according to documents filed with the {stock_institution} .'
-p1859
-aS'its corporate structure is unusual in that it has a research division that is hemorrhaging money and a subsidiary that makes a tidy profit .'
-p1860
-aS'about half of the more than {number} bay area companies that have gone public since {time} are trading below their ipo price .'
-p1861
-aS'{time} , investors and company executives recapitalized {org_d} and gained full control of {org_d} stock .'
-p1862
-aS'{org_1} company plans to list its shares on the {stock_institution} under the symbol {ticker} , the prospectus shows .'
-p1863
-aS'{org_1} {time} has {number} drug candidates in human clinical trials as well as a pipeline of internally developed discovery programs .'
-p1864
-aS'{org_1} has filed a registration statement with the {stock_institution} for a proposed initial public offering of its class a common stock .'
-p1865
-aS'its parent company , {org_1} , was the 17th-largest bank in houston based on its {time} deposits .'
-p1866
-aS'the portfolio consists of {number} office properties , {number} hotels , {number} industrial properties and {number} garage property .'
-p1867
-aS'he also led the {org_1} at the time of its acquisition by {org_2} .'
-p1868
-aS'mark covers banking and finance .'
-p1869
-aS'no date has been set for the offering .'
-p1870
-aS'follow him on twitter for more .'
-p1871
-aS'the {number} companies will {time} have to renegotiate the pact after the listing , planned for {time} , was scrapped .'
-p1872
-aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- , a cambridge gene editing firm , raised {money} , pricing shares at {money} each .'
-p1873
-aS'the number of shares to be offered and the price range for the offering have not been determined .'
-p1874
-aS'{org_1} of newly public cambridge biotechnology firm {org_2} were slightly up in the first few minutes of trading {time} after {org_d} raised {money} in a slightly downsized initial public offering .'
-p1875
-aS'{time} , {org_d} generated annual revenues of {money} .'
-p1876
-aS'the floating-rate income trust is the 18th new closed-end fund {org_1} has offered since {time} .'
-p1877
-aS"{org_d} of {org_1} offered more than {number} shares of class a common stock at a public price of {money} per share , including {number} additional shares of the company 's {org_2} a common stock underwriters were granted ."
-p1878
-aS'conor did not set a time table or a per-share price range for its offering .'
-p1879
-aS'as a company that has been aggressive in its acquistions -- and amassed debt because of it -- smith said the pause on its ipo could slow down its acquisition process , not to mention going public .'
-p1880
-aS'formed in {time} by century-old boston-based liquidator {org_1} , {org_2} buys excess inventory such as apparel , electronics and home goods and then sells them to consumers via its website .'
-p1881
-aS'the steeper discount suggests uncertainty among investors over the profitability of the payments sector and {time} of {org_1} , which for {time} , lost {money} on sales of {money} .'
-p1882
-aS'what is more , smith said {org_1} is a leverage company , and investors are wary about companies that carry that kind of debt .'
-p1883
-aS'{org_1} spokesman alan hill , however , declined comment .'
-p1884
-aS'the test , which measures a panel of tumor biomarkers , uses an algorithm that combines those biomarker values to generate a risk {number} .'
-p1885
-aS'the {org_1} launched {time} .'
-p1886
-aS"`` {time} it 's all about watching the market and timing it , '' he told {org_1} ."
-p1887
-aS"starting {time} , businesses that are n't prepared to accept {org_1} cards are responsible to pay for fraudulent charges that occur in their store , restaurant or other establishment ."
-p1888
-aS'get the free daily {org_1} newsletter .'
-p1889
-aS"{org_d} also is working in the field of cancer immunology , trying to tap the body 's immune system to attack and kill cancer cells ."
-p1890
-aS'{org_1} , a bermuda-based company that maintains its operations in washington , {org_2} , {time} announced plans for an initial public offering by {time} to raise {money} .'
-p1891
-aS"`` with {money} in free cash flow , what 's not to like , '' rogers said ."
-p1892
-aS'on board , {org_1} , .'
-p1893
-aS'{org_d} has developed a drug screening method that uses chemical genomics to rapidly determine which drug candidates bind to disease-related proteins in the body .'
-p1894
-aS'the {org_1} tax-managed {org_2} -lrb- {stock_institution} : {ticker} -rrb- started trading {time} on the {stock_institution} .'
-p1895
-aS'to date , endostim has raised around {money} .'
-p1896
-aS'the roadshow to market the stock to investors could launch as soon as {time} , they added -- meaning the stock could start trading around {time} .'
-p1897
-aS'`` i think that {org_d} will raise this money .'
-p1898
-aS'the ipo raised {money} and its offering price gave {org_d} a preliminary valuation of {money} .'
-p1899
-aS'{org_1} lost {money} in {time} on sales of {money} , according to public filings .'
-p1900
-aS"{org_1} approves south jersey firm 's e-prescription system ."
-p1901
-aS'looking to raise approximately {money} , chelmsford-based {org_1} has priced its initial public offering of {number} shares of its common stock at {money} per share .'
-p1902
-aS'based in alpharetta , georgia , {org_1} has no fewer than {number} different experimental products in its pipeline to treat various diseases of the eye .'
-p1903
-aS'it reported a net loss of {money} , or {money} a share , for the same period , missing the consensus by {money} .'
-p1904
-aS"{org_1} , the dominant landlord of both the high point market and the las vegas market , has withdrawn its request for an initial public offering due to `` unfavorable market conditions at this time , '' according to a filing with the {stock_institution} ."
-p1905
-aS'`` cromwell schubarth is techflash editor at the {org_1} .'
-p1906
-aS'there were fewer ipos in the u. s. in {time} compared to {time} , though mlps have been an exception in the energy industry .'
-p1907
-aS'that money was to be earmarked for commercialization and clinical development .'
-p1908
-aS'get the free daily {org_1} newsletter .'
-p1909
-aS'other big private investors who bought into {org_d} at that time include {org_1} and {org_2} .'
-p1910
-aS'while the market is down , smith said many investors are looking at existing stocks that can be an opportunity , and are less interested with new stocks .'
-p1911
-aS"`` as this landscape continues to advance , intelligent and dynamic platforms like ours are becoming an integral part of the facility management tool kit . ''"
-p1912
-aS"they had gained {number} percent , beating the {number} advance of the standard & poor 's {number} index ."
-p1913
-aS'{org_1} was unable to comment at time of publication .'
-p1914
-aS"`` that arrangement has proven -- and will continue -- to be an excellent {number} for {org_1} . ''"
-p1915
-aS"`` many legendary athletes have excelled in their sports wearing {org_1} footwear , including julius erving , wilt chamberlain , lou brock , jimmy connors , larry bird , chris evert and tony dorsett , '' it added ."
-p1916
-aS'{org_1} went public {time} , raising {money} through its initial public stock offering .'
-p1917
-aS"and while an ipo continues to be an option , perhaps one day in {time} , it 's not a necessity . ''"
-p1918
-aS"{org_1} 's net proceeds of its ipo on {time} were {money} ."
-p1919
-aS'the new structure brings with it some new titles for the bank .'
-p1920
-aS'.'
-aS'the antibiotics developer is based in vienna , austria , and has its u. s. headquarters in king of prussia .'
-p1921
-aS"{org_d} was founded by {org_1} researchers helen greiner , who is chairman and president , and rodney brooks , {org_2} 's chief technology officer ."
-p1922
-aS"theresia gouw , a board member whose {org_1} is a {org_2} investor , told {org_3} raising this round was n't easy because investors are pulling back on late-stage funding ."
-p1923
-aS'a {org_1} spokesperson declined to comment because of a mandated quiet period following an ipo filing .'
-p1924
-aS'it did not provide details explaining the change .'
-p1925
-aS'in addition , {org_1} has sold the {number} packbot robots , which perform battlefield reconnaissance and bomb disposal , made by ohio-based {org_2} .'
-p1926
-aS'it had {money} in cash and equivalents on that date .'
-p1927
-aS"{org_d} 's plans for an ipo preceded its {time} transition to a for-profit company ."
-p1928
-aS'but after an expected mid-march ipo launch came and went , {org_1} delayed its targeted {money} ipo , citing market conditions without further explanation .'
-p1929
-aS'the total number of shares sold included an additional {number} offered by underwriters to cover overallotments .'
-p1930
-aS'so far , no companies have gone public in {time} due to volatility and the slowing economy in china , coupled with depressed commodity prices and turmoil in the high-yield bond market .'
-p1931
-aS"{org_1} first reported {org_d} 's plan to go public {time} ."
-p1932
-aS'the quincy , mass. firm said it plans to price its shares at between {money} and {money} per share , giving {org_d} a market value of between {money} and {money} .'
-p1933
-aS"terms of {org_1} 's st. louis deal were n't disclosed ."
-p1934
-aS"shares of fairfax , va.-based {org_1} jumped {number} percent by mid-morning , to {money} , in {org_d} 's {time} of public trading ."
-p1935
-aS'the life sciences software company filed an ipo in mid-march estimated at the time to be worth as much as {money} , with estimates in {time} coming in closer to the range of {money} to {money} .'
-p1936
-aS"`` in simple terms , {org_d} is putting off its public offering due to {time} stock market conditions , '' said brian hamilton , chairman of {org_1} , a financial information company ."
-p1937
-aS'cambridge-based {org_1} , which filed an ipo in {time} , was expected to start trading publicly {time} .'
-p1938
-aS"{org_1} and {org_2} are the offering 's underwriters ."
-p1939
-aS'in {time} closed a fourth private financing round worth {money} from {org_2} , {org_3} , {org_4} and {org_5} , as well as a group of new institutional and individual investors .'
-p1940
-aS'{number} phase {number} trials of {org_1} have begun in recent months in patients with beta-thalassemia major , an inherited blood disorder that affects {number} patients in the world and about {number} in the u. s. and europe .'
-p1941
-aS'another boston-area biopharmaceutical company is in the ipo pool .'
-p1942
-aS'it is the parent of more than {number} brands including match.com , okcupid , tinder and plentyoffish , which {org_1} bought for {money} on {time} .'
-p1943
-aS'per the prospectus , {org_1} estimates that the net proceeds from their issuance and sale of {number} shares of common stock in this offering would be approximately {money} , assuming an initial public offering price of {money} per share , which is the midpoint of the price range listed on the cover page of the prospectus , and after deducting underwriting discounts and commissions and offering expenses payable by {org_1} .'
-p1944
-aS'{org_1} and {org_2} closed {time} above their ipo price , but the other {number} closed below their offering price .'
-p1945
-aS'dorsey on {time} was named full-time ceo of {org_1} , the social media platform he helped co-founded before being pushed out in {time} .'
-p1946
-aS'{org_1} , the high-growth cybersecurity firm based in emeryville , has shuffled its leadership as {org_d} prepares for long-term success in the red-hot security sector .'
-p1947
-aS'as far as an ipo , he said {org_d} is planning for the event .'
-p1948
-aS'{org_1} , which moved from dallas to chicago in {time} , did not release pricing details in the {org_2} form {org_d} filed with the {stock_institution} in regard to the ipo , but the offering is valued up to {money} .'
-p1949
-aS'ceo : jeffrey d. marrazzo .'
-p1950
-aS'nonetheless , its debut is being closely watched to see if a profitable tech company can fare better on {org_1} than the weak performance from the sector {time} .'
-p1951
-aS'{org_d} has not disclosed how many shares it plans to sell , or at what price .'
-p1952
-aS'the average {time} pop above ipo price in the sector has been nearly {number} percent , but the overall return has been just {number} percent , with most companies {time} trading below their offering price .'
-p1953
-aS'but maricich said he felt {org_d} was worth more than that price .'
-p1954
-aS'the menlo park , calif.-based firm filed with the {stock_institution} for an offering worth an estimated {money} .'
-p1955
-aS"`` it could be that after raising this amount , {org_1} could later look into a secondary placement . ''"
-p1956
-aS'{org_1} new york-based company was originally seeking to sell {number} a common shares for {money} to {money} each , according to a regulatory filing on {time} .'
-p1957
-aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
-p1958
-aS'bill wilson manages day-to-day operations of the newsroom .'
-p1959
-aS'a new contract dorsey signed {time} stipulates .'
-p1960
-aS'{org_1} customers consists of about {number} health care organizations such as long-term care providers that focus on populations with complex health care needs and extensive medication requirements .'
-p1961
-aS'{time} , {org_1} set a price range of {money} to {money} a share , which itself was below the {money} a share that investors had paid in its most recent private financing in {time} .'
-p1962
-aS'the disorder is characterized by motor neuron loss and associated muscle deterioration , resulting in mortality or the need for permanent ventilation support before the age of {number} for over {number} percent of patients .'
-p1963
-aS'when the master limited partnership first filed for the ipo in {time} , the proposed maximum aggregate offering price was listed as {money} .'
-p1964
-aS"{time} , {org_1} announced it had opened a new office in st. louis ' cortex innovation district , and would employ up to {number} employees there in the next five years ."
-p1965
-aS'{number} mlps -lsb- master limited partnerships -rsb- and energy stocks have all suffered .'
-p1966
-aS'{org_d} has a slight loss on {money} in revenue through {time} .'
-p1967
-aS"{org_1} chairman gary rogers told the {org_2} {time} that he 's `` not surprised '' to see {org_3} return to the public market , given how profitable {org_4} alone was before it was acquired ."
-p1968
-aS"{org_d} 's software helps pharmaceutical , biotechnology and medical device companies manage their clinical trials better ."
-p1969
-aS'other customers include {org_1} , {org_2} .'
-p1970
-aS'according to the registration , dorsey owns more than {number} percent of {org_d} -lrb- or just more than {number} shares -rrb- while mckelvey owns {number} percent of {org_d} -lrb- just more than {number} shares -rrb- .'
-p1971
-aS'{org_1} ipo sold {number} shares at {money} each , up from the originally-proposed {number} shares .'
-p1972
-aS'{org_1} was established as {org_d} for {org_2} in {time} to facilitate its ipo plans .'
-p1973
-aS'{org_1} filed for an intial stock sale in {time} , and in {time} notified {time} it would postpone its planned sale .'
-p1974
-aS'they are {org_1} , of arlington , va. , and {org_2} , of mclean , va. .'
-p1975
-aS'josh heck covers health care , professional services , education and energy .'
-p1976
-aS'{org_1} has about {number} employees , of whom {number} work in washington .'
-p1977
-aS"rick blatstein , {org_1} 's founder and chief executive officer , is expected to control about {number} percent of the voting interest in {org_d} ."
-p1978
-aS"{time} , san francisco-based {org_1} set the price range for its ipo at {money} to {money} a share , valuing {org_d} at up to {money} at the high end , much lower than the {money} estimate in {org_d} 's most recent valuation in the private fundraising market ."
-p1979
-aS'littleton-based {org_1} expected to commence its initial public offering {time} on the {stock_institution} and {org_2} .'
-p1980
-aS'{org_1} has set a tentative date for its initial public offering .'
-p1981
-aS'for {time} , {org_1} lost {money} on sales of {money} .'
-p1982
-aS'{org_1} launched in {time} , founded by several team members involved in joint ventures with japanese pharmaceutical companies .'
-p1983
-aS'{org_d} had {money} in cash on {time} , and in {time} received a {money} bank credit line .'
-p1984
-aS'in a {time} letter to {time} cfo peggy stohr said market conditions led to the decision to cancel the offering .'
-p1985
-aS'its biggest shareholders are {org_1} -lrb- {number} percent -rrb- , {org_2} -lrb- {stock_institution} : {ticker} -rrb- -lrb- {number} percent -rrb- and {org_3} -lrb- {stock_institution} : {ticker} -rrb- subsidiary {org_4} -lrb- {number} percent -rrb- .'
-p1986
-aS'{org_1} is comprised of a network of e-commerce businesses , including {org_2} , and stakes in other digital and media companies .'
-p1987
-aS"`` think of it in terms of a whole array of community banks with {number} central back-office bank , '' retzloff said ."
-p1988
-aS'.'
-aS"according to {org_d} 's regulatory filing , {org_1} 's net revenue has grown by about {number} percent per {time} , and production has stepped up since the {time} terrorist attacks ."
-p1989
-aS'{org_1} , a palo alto-based medical device company , raised {money} in an offering in {time} .'
-p1990
-aS"many retail stocks fell {time} as investors figured slow growth extends well beyond {org_1} 's aisles ."
-p1991
-aS'tina reed covers health care .'
-p1992
-aS'within a month of that announcement , {org_1} announced it would postpone its ipo because of market sluggishness .'
-p1993
-aS'{org_1} , which has contracts with the {org_2} and {org_3} , stands to become the fifth defense services company in the greater washington area to file for an ipo since {time} .'
-p1994
-aS"{org_1} has said it 's planning to sell {number} shares at {money} to {money} each , for a total deal size of {money} ."
-p1995
-aS"dorsey 's ability to run {number} major tech companies -- {number} on the verge of going public and the other struggling with its own issues with revenue and valuation -- has remained a concern ."
-p1996
-aS'{org_d} planned to offer {number} common units representing limited partner interests , which were expected to be priced between {money} and {money} .'
-p1997
-aS'{org_1} , which acquired it for {money} in {time} , is already talking to investment bankers about the possibility of an ipo in {time} , according to unnamed sources quoted by {org_2} .'
-p1998
-aS'{time} , while most eyes in the biotech world were on the ipo of gene therapy firm {org_1} , an early-stage drug developer called wave life sciences pulled off an even larger ipo on the other side of cambridge .'
-p1999
-aS'the ipo is the second in australia by a bay area company {time} .'
-p2000
-aS'this time , with ceo briggs morrison at the helm , {org_d} aims to price its shares between {money} and {money} a share .'
-p2001
-aS'.'
-aS'five-year-old {org_1} , which is developing new treatments by combining existing drugs , has already raised {money} in {number} venture rounds .'
-p2002
-aS"`` while we are indemnified by the online advertising company that delivered the pop-up advertising , '' {org_1} ' filing reads , `` this indemnification may be insufficient should the plaintiff prevail . ''"
-p2003
-aS'as part of the agreement , {org_1} would have invested as much as {money} in the unit of {org_2} , giving it a {number} percent stake in the german cancer research business .'
-p2004
-aS"although {org_1} went public as an opportunity to gain more capital , timing was n't on {org_d} 's side ."
-p2005
-aS"weatherley-white 's recent comments about yieldcos might shed some light on the subject ."
-p2006
-aS'that private sale is how palo alto-based {org_1} became the biggest shareholder with a {number} percent stake in {org_d} .'
-p2007
-aS"`` the fact that its valuation when it goes public is expected to be higher than its previous estimate and that it is actually profitable has given {org_1} the billing of being a sort of `` anti-square ipo , '' referring to that company 's losses and lowered valuation when it went public ."
-p2008
-aS"{org_1} is n't expected to sell any of its ownership in {org_2} in the ipo , according to the {org_3} 's sources ."
-p2009
-aS"{org_1} has sought to address that , saying in its ipo filing {time} that it was aware he faced multiple pressures on {number} fronts . ''"
-p2010
-aS'atlassian is ending a disappointing year of tech ipos on an up note , with its shares soaring {number} percent on its {time} of trading {time} .'
-p2011
-aS"investors reportedly attributed {org_1} 's discounted pricing in part to dorsey 's dual role , as well as increasing competition in the payments space from amazon and {org_2} ."
-p2012
-aS'because {org_d} has been set up with {number} classes of stock , the founders will have {number} percent of the voting rights in {org_1} despite holding just {number} percent of the total outstanding shares .'
-p2013
-aS"lee holds undergraduate and master 's degrees from the {org_1} , and an mba from {org_2} ."
-p2014
-aS"{number} of its products {time} in phase {number} trials are sta-5326 , a small-molecule oral compound that selectively inhibits il-12 , a cytokine critical to the development of certain chronic inflammatory diseases including crohn 's disease and psoriasis , and sta-4783 , {org_1} 's lead drug in a novel class of small-molecule compounds that have unique effects on the underlying biology of cancer cells ."
-p2015
-aS'meanwhile , cambridge-based {org_1} raised {money} , priced below its range , and has since fallen {number} percent .'
-p2016
-aS'of the shares offered , {number} are being sold by {org_1} , and {number} are being sold by unnamed selling stockholders .'
-p2017
-aS'it raised about {money} from private investors before going public .'
-p2018
-aS'among local defense services firms , {org_1} , and {org_2} , both of fairfax , va. , already have held public offerings .'
-p2019
-aS"in its prospectus , {org_d} said , `` we expect to continue to incur significant operating losses in {time} periods and can not predict when we will become profitable . ''"
-p2020
-aS'{org_1} believes that by scaling up to an industrial level it can quickly churn out a massive library of drug candidates , which it will then license to big pharmaceutical companies .'
-p2021
-aS'the {org_1} {time} provides crude oil , natural gas , and water-related midstream services for {org_2} through long-term , fixed-fee contracts .'
-p2022
-aS'{org_1} founder and longtime president/ceo of {org_2} and co-founder of {org_3} was serial entrepreneur cynthia fisher .'
-p2023
-aS'the defense services sector , which historically generated little excitement on wall street , has been {number} of the chief providers of initial public offerings since the technology bubble burst .'
-p2024
-aS'{org_d} made over {money} in revenue in {time} , with {money} of operating income .'
-p2025
-aS"{org_d} is pursuing the `` east-to-west strategy '' largely due to the priority each region places on early prevention strategies ."
-p2026
-aS'{org_1} has confidentially filed ipo plans that could value the atlanta-based cybersecurity business at {money} .'
-p2027
-aS'{org_d} points out that small changes in temperature and pressure can result in savings of up to {number} percent in heating , ventilation and air conditioning energy costs .'
-p2028
-aS'as the {org_1} reported {time} in its startups and vc blog , the sudden ipo rush is a big turnaround from recent months , when market volatility made ipos pretty rare .'
-p2029
-aS'{org_d} wants to use the proceeds of the ipo for general corporate purposes .'
-p2030
-aS'overstock is suing for {money} for each infraction , all revenue gained by {org_1} through such advertising , triple damages and attorneys fees .'
-p2031
-aS'{org_1} said the ipo will include at least {number} shares -- one-third from {org_1} and two-thirds from existing shareholders .'
-p2032
-aS'a {org_1} spokesperson declined to comment , citing the so-called quiet period that precedes an initial public offering .'
-p2033
-aS'{org_1} managed {money} in assets as of {time} .'
-p2034
-aS'{org_1} reports it is offering {number} shares of common stock and the selling stockholders are offering {number} shares of common stock .'
-p2035
-aS'anthony noto is a multimedia journalist focused on venture capital and silicon alley startups .'
-p2036
-aS'it will use remaining proceeds to pay off {money} in debt it owes {org_1} .'
-p2037
-aS'still , {org_1} is predicting that worldwide sales of the devices will grow in {time} and said {time} it again controls about {number} percent of the stent market after the recall .'
-p2038
-aS'{org_d} primarily competes against {number} publicly-traded online discount retailers : {org_1} -lrb- which has a market cap of {money} and posted a net loss of {money} on {money} in revenue for {time} -rrb- and new york-based {org_2} , -lrb- which has a market cap of {money} and had a net loss of {money} on {money} in revenues for {time} -rrb- .'
-p2039
-aS'{org_d} employs about {number} people in the greater washington area .'
-p2040
-aS'{org_1} trading volume -lrb- {stock_institution} : {ticker} -rrb- was heavy , reaching nearly {number} shares at {number} point .'
-p2041
-aS'{org_1} is serving as co-manager for the offering .'
-p2042
-aS'{org_1} company , which was founded in {time} , operates more than {number} food and beverage locations in {number} airports , including {org_2} in new york , newark liberty international airport and toronto-pearson international airport .'
-p2043
-aS'{org_1} also lists {number} companies in the {org_2} that have valuations of at least {money} and have the most momentum according to the mosaic algorithm .'
-p2044
-aS'{org_d} , which employs {number} globally and about {number} in the {org_1} , would be the second cybersecurity company with massachusetts connections to go public since boston-based {org_2} .'
-p2045
-aS'according to its filing with the {stock_institution} , {org_1} plans to use the proceeds from its initial public stock offering to : repay more than {money} in outstanding debt , , develop new product offerings , , enter into new market segments , , expand its sales and marketing infrastructure , and , fund acquisitions of businesses and technologies. , the remainder of the proceeds will be used for working capital and general corporate purposes .'
-p2046
-aS'{org_1} reported {time} revenue of {money} in its filing with {time} .'
-p2047
-aS'as of {time} {time} , {org_d} had yet to start trading on {stock_institution} .'
-p2048
-aS'stohr did not return requests for comment .'
-p2049
-aS'in addition to {org_1} , other investors include {org_2} , {org_3} , {org_4} , {org_5} and and {org_6} .'
-p2050
-aS"`` the overall stock market is very negative , '' said kathleen smith , a principal at {stock_institution} , a manager of ipo-focused exchange traded funds ."
-p2051
-aS'in a {time} interview , {org_1} described what {org_2} does to improve medication safety : `` {number} of things we do is provide prospective medication-risk mitigation -lsb- which determines potential health hazards that may result from the interaction of all the medications a patient is taking . -rsb-'
-p2052
-aS'in april , cambridge-based {org_1} said it would buy as many {number} shares on the condition the ipo takes place in {time} .'
-p2053
-aS'other big investors who bought into {org_d} at that time include {org_1} and {org_2} .'
-p2054
-aS'as of {time} , {org_1} had total assets of {money} , total loans of {money} and total deposits of {money} , according to a statement from {org_d} .'
-p2055
-aS'{org_1} of milwaukee , {org_2} and {org_3} are acting as joint book-running managers of the proposed offering .'
-p2056
-aS"{org_1} has n't announced the date at which it will start selling shares ."
-p2057
-aS"as a result , the size of the malvern , pa. , specialty pharmaceutical company 's ipo grew to {money} ."
-p2058
-aS"cannon-brookes and farquhar never actually raised any venture funding , growing {org_1} by word of mouth -lrb- that 's right , no direct sales force -rrb- after floating about {money} in credit card debt when they launched ."
-p2059
-aS'en .'
-p2060
-aS'when {org_d} made its announcement , with the work preceding the official announcment , the market was already on a downslide .'
-p2061
-aS'{time} , {org_1} booked {money} in profit on {money} in sales .'
-p2062
-aS'opening price : {money} .'
-p2063
-aS'{org_1} declined to elaborate on the business move .'
-p2064
-aS'the number of shares to be offered , the price per share and the timing of the offering have not been decided , according to a statement , so that proposed maximum aggregate offering price is subject to change .'
-p2065
-aS"`` but robert peck of suntrust robinson humphrey stuck to his `` buy '' rating while cutting his price target to {org_1} 's {money} ipo price from the {money} target he had on it before ."
-p2066
-aS'{org_1} planned ipo comes as u. s. businesses scramble to comply with new rules requiring that they accept so-called {org_2} -lrb- {org_3} , {org_4} , visa -rrb- chip-enabled credit cards in transactions .'
-p2067
-aS"{org_1} plans to continue evaluating the proposed offering as market conditions , which have n't been great {time} , develop ."
-p2068
-aS'but at the same time , gertler said , life sciences companies more likely to go public would have at least some compounds at midstage , or phase {number} human clinical trials .'
-p2069
-aS'{org_d} received total financing worth {money} since its launch in {time} .'
-p2070
-aS'in {time} , endostim raised {money} to help get its medical device that treats gastroesophageal reflux disease -lrb- gerd -rrb- approved by the brazilian health authority {org_1} .'
-p2071
-aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
-p2072
-aS'{org_1} {time} filed for an initial public offering with the intent of raising about {money} .'
-p2073
-aS'if acceptable bids are not received , the ipo will be canceled , a {org_1} spokesman said .'
-p2074
-aS'each unit includes {number} share of class b nonvoting common stock and a detachable three-year redeemable warrant to purchase {number} share of class a voting common stock with an exercise price of {money} per share .'
-p2075
-aS"{org_d} , which reported a {money} loss on revenue of {money} for {time} , will list its common stock on the {stock_institution} under the symbol `` {org_1} '' {org_2} will serve as the lead underwriter ."
-p2076
-aS'the {org_1} begins trading on the {stock_institution} under the ticker symbol {ticker} .'
-p2077
-aS"no additional comments at this time . ''"
-p2078
-aS"{org_d} , which would be listed on the {stock_institution} under the symbol `` {ticker} '' , is been backed by investors including {org_1} {number} -lrb- {number} perent -rrb- ; {org_2} -lrb- {number} percent -rrb- ; {org_3} -lrb- {number} percent -rrb- ; {org_4} -lrb- {number} percent -rrb- ; {org_5} -lrb- {number} percent -rrb- ; and {org_6} -lrb- {number} percent -rrb- ."
-p2079
-aS'but only {number} of the companies acquired by private equity firms have gone public since {time} .'
-p2080
-aS'{org_1} slipped {number} percent ; {org_2} was off {number} percent ; and best buy -lrb- {stock_institution} : {ticker} -rrb- was down {number} percent .'
-p2081
-aS"{org_d} 's focus is on using a virus as a delivery method for its gene therapies , and its lead drug , {org_1} , is being studied to treat childhood cerebral adrenoleukodystrophy ."
-p2082
-aS'trx4 is a humanized anti-cd3 monoclonal antibody that is in an investigator-sponsored clinical trial to treat patients with new-onset {org_1} {number} diabetes mellitus , company officials say .'
-p2083
-aS'{org_1} , the multibillion-dollar mobile payments company founded by native {org_2} and jim mckelvey , has filed to go public with an initial offering of {money} , a figure that could increase as it nears .'
-p2084
-aS"{org_d} plans to trade under the ticker symbol `` {ticker} . ''"
-p2085
-aS'{org_1} and {org_2} are joint book-running managers for the proposed offering .'
-p2086
-aS'{org_d} sold {number} shares at {money} and opened at {money} on the {stock_institution} with the symbol of {ticker} .'
-p2087
-aS"`` it does n't make any sense , with the great success we are having as a company , to go out at a real discounted valuation , '' he said ."
-p2088
-aS'{org_1} alex brown will be the lead underwriter of the offering .'
-p2089
-aS"{org_1} -lrb- {stock_institution} : {ticker} -rrb- is the nation 's largest seller of groceries -- a business that 's drawn {org_2} -lrb- {stock_institution} : {ticker} -rrb- and amazon -lrb- {stock_institution} : {ticker} -rrb- to compete against {org_3} , -lrb- {stock_institution} : {ticker} -rrb- {org_4} and other traditional grocers ."
-p2090
-aS"`` to do that in {number} geography like houston -- it 's over a {money} deposit market and we have less than {number} percent of that ."
-p2091
-aS'also , in {time} there was a high volume of equity issued .'
-p2092
-aS'.'
-aS'nashville-based {org_1} has received approval to form a holding company , an important step as the lender looks to go public .'
-p2093
-aS'.'
-aS'in {stock_institution} filings , {org_1} said it intends to use {money} of proceeds from the stock sale to redeem preferred stock issued to the {org_2} in {time} .'
-p2094
-aS'its initial product candidate is avxs-101 , which is in a phase {number} clinical trial for the treatment of spinal muscular atrophy type {number} , the leading genetic cause of infant mortality .'
-p2095
-aS'{org_1} , which is based in california , will be offering about {number} percent of its stock in the ipo , officials said .'
-p2096
-aS"in addition , our pharmacists are also monitoring prescriptions and if they question a prescription we have a secure way , sort of like instant messaging , to communicate with doctors . ''"
-p2097
-aS'{time} , {org_1} in boston was the first local life sciences company in six months to file for an initial stock offering , creating excitement at the notion that the market would potentially rebound .'
-p2098
-aS'{org_1} deals : {org_d} has acquired or exclusively in-licensed the commercial and development rights to certain clinical and preclinical programs and intellectual property from chop and the {org_2} , and in-licensed additional intellectual property from the {org_3} .'
-p2099
-aS'{org_d} plans to announce its {time} financial results {time} .'
-p2100
-aS"`` as a lifelong entrepreneur and architect of high-growth , highly valued profitable brands , i 've always considered the process of taking a company public to be {number} of the most exciting and important decisions i could make , '' hsieh wrote in the blog posting ."
-p2101
-aS"the intended principal shareholders were {number} of {org_d} 's directors and executive officers as a group , which included {org_1} , president carl weatherly-white , chief financial officer , and dana griffith , chief operating officer ."
-p2102
-aS'co-founders mike cannon-brookes and scott farquhar set a price range of between {money} and {money} on the {number} shares they will offer the public .'
-p2103
-aS'initially a provider of networking services , {org_1} announced its corporate transformation to a holding company in {time} .'
-p2104
-aS"for comparison , boston-based cybersecurity firm {org_1} 's {time} market capitalization is {money} ."
-p2105
-aS"{org_1} , the wisconsin-based apparel company that 's made a name for itself with durable workwear and cheeky advertising , plans to raise as much as {money} through a public offering ."
-p2106
-aS'another reason is that its cutting-edge science could result in riches - if it works .'
-p2107
-aS'information on the ipo is available at www.bioquestipo.com .'
-p2108
-aS'according to {stock_institution} filings , {org_1} had planned to sell {number} shares priced between {money} to {money} .'
-p2109
-aS'{org_1} {time} reached {money} in cumulative bookings and {money} worth of signed contracts extending out to {time} , he said .'
-p2110
-aS'the service revolves around drastically reducing the number of copies a company needs to make of its data , while ensuring the data is still accessible and protected .'
-p2111
-aS'{org_1} , and {org_2} , both of fairfax , va. , already have held public offerings .'
-p2112
-aS'that target is about {number} percent higher than the original number {org_d} disclosed {time} .'
-p2113
-aS'{org_1} is developing stem-cell therapies that would treat cancer , heart disease , genetic disorders , infertility and other diseases .'
-p2114
-aS'{org_1} had {time} earnings before interest , taxes , depreciation and amortization of about {money} and {time} explored a sale but held off due to market volatility .'
-p2115
-aS'.'
-aS'on {time} , just days before the scheduled ipo , the estimated price per share dropped to between {money} and {money} , for a maximum offering of {money} .'
-p2116
-aS"{org_d} 's {org_1} -lrb- {org_2} -rrb- and {org_3} -lrb- {org_4} -rrb- products are developed using gallium {org_5} -lrb- gaas -rrb- and silicon-based semiconductor processes ."
-p2117
-aS"an ipo gives {org_1} the freedom to hit the opportunities that exist for them , independently from {org_2} 's other businesses ."
-p2118
-aS'ceo jonathan cohen told me {org_d} seeks to grow its lung cancer detection test in the asian market .'
-p2119
-aS"investors in that round had expected {org_1} 's shares to price at over {money} , so {org_d} must sell several {number} additional shares to make up that gap , the news agency reports ."
-p2120
-aS'{org_d} then changed its name to {org_1} in {time} filing said .'
-p2121
-aS'the ipo will be handled by underwriters {org_1} , {org_2} and thomas weisel partners .'
-p2122
-aS'{org_1} has granted the underwriters an option , for a period of 30 days , to purchase up to {number} additional {org_2} at the public offering price to cover over-allotments .'
-p2123
-aS'a yieldco is a dividend growth-oriented public company created by a parent company that bundles renewable and/or conventional long-term contracted operating assets in order to generate predictable cash flows .'
-p2124
-aS'that has {time} been updated to more than {money} , according to a {time} filing with the {stock_institution} .'
-p2125
-aS'those plans -- which equate to {money} proceeds at the midpoint of its range -- update earlier plans filed {time} which set a maximum offering of {money} .'
-p2126
-aS'{org_1} resulted from the merger between {org_2} and t {org_3} in {time} .'
-p2127
-aS"{org_1} was valued by private investors at about {money} during its last round of financing , which guaranteed at least a {number} percent return on their investment if {org_d} 's ipo share price fell below {money} ."
-p2128
-aS"{time} 's cancellation of {org_1} 's initial public offering may jeopardize the german biotechnology company 's cooperation agreement with {org_2} partner {org_3} ."
-p2129
-aS'an adviser to jack dorsey responds .'
-p2130
-aS'pleuromutilins are semi-synthetic compounds derived from a naturally occurring antibiotic , originally identified from a fungus called pleurotus mutilis .'
-p2131
-aS'when the master limited partnership first filed for the ipo in {time} , the proposed maximum aggregate offering price was listed as {money} .'
-p2132
-aS'life sciences insiders are generally predicting at least a moderate boost in biotech/medical device related ipos in {time} .'
-p2133
-aS'{org_1} completed a {money} private placement in {time} .'
-p2134
-aS'`` it would have been a big success if it could have pulled this off , given the negative market dropoff .'
-p2135
-aS'`` due to heightened volatility in the market , cpis ipo did not price as close to the offer as originally planned on {time} .'
-p2136
-aS"there 's a lot of prep work that needs to be done . ''"
-p2137
-aS"{org_1} would also have had right of first refusal for {time} sales of {org_2} shares from {org_3} 's holdings ."
-p2138
-aS'when calithera in {time} publicly disclosed its initial public offering , it targeted {money} .'
-p2139
-aS"{org_d} shares are trading on {stock_institution} under the symbol `` {ticker} . ''"
-p2140
-aS'{org_d} planned to sell {number} shares of its common stock in the ipo .'
-p2141
-aS'after an initial stock rise , it since settled back down to {money} as of the close of markets {time} .'
-p2142
-aS'south san francisco heart drug developer {org_1} is the second bay area company {time} to price its ipo well below targets , raising {money} in an offering that priced on {time} .'
-p2143
-aS'{org_d} led by ceo greg clark has been around since the dot-com boom and was taken private by thoma bravo in a {money} deal in {time} .'
-p2144
-aS"it 's in the area of stem cells , which is very exciting , and it has some of the top scientists in the industry working on the research ."
-p2145
-aS'{org_d} points to greater speed and scale of endpoint security as its advantage over incumbent providers .'
-p2146
-aS'many of the likely ipo candidates for {time} are in the sectors of analytics , data centers , security and application integration , according to the report .'
-p2147
-aS'other investment banks on the deal include {org_1} , and {org_2} .'
-p2148
-aS'{org_d} plans to use proceeds from this offering to fund its clinical trials and further its research as well as for working capital and general corporate purposes .'
-p2149
-aS"however , an analyst tells the {org_1} that folks should n't read too much into this trend ."
-p2150
-aS'founders cannon-brookes and farquhar each hold about {number} percent of its shares .'
-p2151
-aS'{number} .'
-p2152
-aS"prior to the ipo , {org_d} 's biggest shareholder was {org_1} -lrb- {number} percent -rrb- , and was also backed by {org_2} , {org_3} and {org_4} ."
-p2153
-aS'when completed , the deal will let {org_1} add to its southeastern kansas presence and take on a loan origination office in lawrence .'
-p2154
-aS"there are many factors , more reasons to say no than yes on a transaction . ''"
-p2155
-aS'.'
-aS"its shares are {time} trading just {number} percent below where they were at the close of {time} after bluebird 's ipo {time} ."
-p2156
-aS'shares of san mateo action camera maker {org_1} -lrb- {stock_institution} : {ticker} -rrb- doubled when it went public in {time} but hit an all-time low on {time} after missing earnings projections .'
-p2157
-aS'the {org_1} has set its terms for its initial public offering , for which it intends to raise {number} times as much as it initially announced .'
-p2158
-aS"wood said he does n't see the ipo window as having closed , but said biotech specialists in the new market conditions `` are probably able to dictate what they 're willing to pay . ''"
-p2159
-aS'{org_d} sold {number} american depositary shares -lrb- {org_1} -rrb- , representing {number} of its common shares , at a public offering price of {money} per ads before underwriting discounts .'
-p2160
-aS"{org_d} plans to list on the {stock_institution} under the stock ticker `` sq. ''"
-p2161
-aS'{org_1} , a wholly owned subsidiary of {org_2} , has filed a registration statement for an initial public offering that could raise up to {money} .'
-p2162
-aS'{org_1} {time} became the third {org_2} defense services firm to hold an initial public offering since {time} , following {org_3} , and {org_4} , both of fairfax .'
-p2163
-aS'`` nonetheless , she and decesare said they could have raised more and at a higher valuation .'
-p2164
-aS'in {time} , {org_d} generated revenues of {money} and a net loss of {money} .'
-p2165
-aa(lp2166
-S'{org_1} is a fabless company , designing products using outside wafer foundry services .'
-p2167
-aS'most notably , it has been profitable for more than a decade .'
-p2168
-aS'{org_d} reported revenue of {money} during the three months that ended in {time} through its collaboration with {org_1} , just beating the consensus of analysts .'
-p2169
-aS'follow him on twitter @tribizhealth or @jasondebruyn .'
-p2170
-aS'get the free daily {org_1} newsletterpalo alto-based {org_2} became the biggest shareholder with a {number} percent stake in that sale .'
-p2171
-aS'{org_1} got its start in {org_2} , minn. , of course , but moved to wisconsin in {time} .'
-p2172
-aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- was the first-ever ipo of a portfolio company from {org_2} when it went public {time} .'
-p2173
-aS"`` major u. s. stock market indexes are down and it is likely that {org_d} does not anticipate being able to maximize its stock price and market cap in these conditions . ''"
-p2174
-aS"{org_d} 's lead new drug candidate is a therapy for a common , non-malignant skin tumor known as seborrheic keratosis ."
-p2175
-aS'the master limited partnership {time} provides crude oil , natural gas , and water-related midstream services for {org_1} through long-term , fixed-fee contracts .'
-p2176
-aS'{org_d} continues to pursue an aggressive program with {number} compounds in {org_1} {number} human clinical trials to treat inflammation and psoriasis .'
-p2177
-aS'data management software maker {org_1} raised {money} in its initial public stock offering -- roughly half of what it had hoped to generate when it initially filed its intention to go public .'
-p2178
-aS'according to an updated prospectus filed by {org_d} .'
-p2179
-aS'but {org_1} reported that the delay will extend far longer as {org_d} waits for market conditions to improve .'
-p2180
-aS'the preliminary filing did not say how many common shares {org_d} plans to sell or the price range .'
-p2181
-aS"with {number} outstanding , {org_1} will {time} either have to make up the difference -- known as a `` ratchet '' clause -- or hope for an oversubscribed ipo , which will push its pricing higher ."
-p2182
-aS'{org_1} .'
-p2183
-aS'{org_1} develops and commercializes treatments for patients suffering from rare and life-threatening neurological genetic diseases .'
-p2184
-aS'in {time} it produced earnings of {money} on sales of {money} .'
-p2185
-aS'{org_1} executives were not available for comment {time} .'
-p2186
-aS'{org_d} , which is the bank holding company of {org_1} , began trading {number} shares priced at {money} per share on {time} .'
-p2187
-aS'the highest {number} bids in the range will receive shares .'
-p2188
-aS"the cambridge stem-cell therapy company 's stock price opened at more than {money} above its initial {money} asking price before settling around {money} by {time} trading ."
-p2189
-aS'demand is growing for funds that invest in senior secured floating-rate bank loans issued to companies , {org_1} said .'
-p2190
-aS'{org_1} is the ninth-largest bank in the wichita area based on market-share percentage .'
-p2191
-aS'the common stock is expected to begin trading on the {stock_institution} {time} under the symbol {ticker} .'
-p2192
-aS"{org_1} 's decision to quietly end its bid to go public , at least for {time} , caps an eventful six months for {org_d} ."
-p2193
-aS'{org_1} and {org_2} are serving as lead underwriters .'
-p2194
-aS'{org_d} , which is a wholly owned subsidiary of houston-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- , will offer {number} common units representing limited partner interests , which are expected to be priced between {money} and {money} .'
-p2195
-aS'{org_1} launched in {time} as a company to develop diagnostic tests for cancers and biological toxins .'
-p2196
-aS'it would be classified as an over-the-counter stock selling {number} shares at {money} each on the opening .'
-p2197
-aS"{org_1} shares were made available on the {stock_institution} global select market on {time} under the ticker symbol `` {ticker} . ''"
-p2198
-aS'subscribe to our email newsletters .'
-p2199
-aS"it 's also good to see a tech company that can actually generate returns ."
-p2200
-aS'{org_d} owns a portfolio of {number} properties aggregating approximately {number} square feet .'
-p2201
-aS'{org_1} has accumulated a deficit of {money} since its inception and lost more than {money} in {time} .'
-p2202
-aS'{org_1} is a developer of routers and switches that enable service providers throughout the metropolitan area network to turn bandwidth into differentiated services .'
-p2203
-aS"`` stem-cell research is a hot area , '' said irena melnikova , an analyst with {org_1} , a consulting/analyst firm in framingham ."
-p2204
-aS"`` they have debt , and it 's in their interest to refinance that debt , '' she said ."
-p2205
-aS'{org_1} booked {money} in pro forma sales for the 12 months ending on {time} .'
-p2206
-aS'it operates {number} full-service banking locations in the houston area and {number} full-service banks in central texas .'
-p2207
-aS'{org_1} , which makes power transmission products , gave more details {time} about its upcoming initial public offering .'
-p2208
-aS'since then , {org_1} has more than quadrupled that figure , posting {money} in revenues for its fiscal year ending {time} .'
-p2209
-aS'but {org_1} is reporting that {org_d} will offer {number} shares during its offering .'
-p2210
-aS"`` they 'll likely put it on the shelf for a little bit and survive without the ipo , '' she said ."
-p2211
-aS'the {number} companies are also acting as representatives of the underwriters along with new york city-based {org_1} .'
-p2212
-aS'at the top of its price range , {org_d} would be worth about {money} .'
-p2213
-aS'{org_1} , a newly-public biotech that has seen its stock rise in the last two months while most other biotech firms fell , cashed in on that rise {time} with an offering of {number} additional shares , raising {money} .'
-p2214
-aS'it owned a {number} percent voting stake in the core business , newton-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- .'
-p2215
-aS'`` though the subject has been in the news , they are not in an area in which there would be ethics problems .'
-p2216
-aS'.'
-aS'{org_d} estimates there are {number} people in the united states diagnosed with the diseases it is targeting and that worldwide annual sales of drugs to treat these indications were approximately {money} in {time} .'
-p2217
-aS'mark reilly manages daily and weekly coverage at the {org_1} newsroom .'
-p2218
-aS'{org_1} announced {time} that its initial public offering began {time} .'
-p2219
-aS'when {org_d} made its announcement , it was offering about {number} shares for a target price of about {money} per share .'
-p2220
-aS'the offering will raise money for {org_1} by bringing in outside investors and potentially paving the way for {time} acquisitions , some of the people said .'
-p2221
-aS'on {time} {time} , the cambridge cancer and rare disease drug company priced the shares at {money} each , slightly less than its close that day of {money} a share .'
-p2222
-aS'{org_d} also said it plans to sell {number} shares and trade under the ticker symbol {ticker} .'
-p2223
-aS"there were {number} ipos and several secondary offerings , creating a huge demand and supply imbalance . ''"
-p2224
-aS'{org_d} plans to sell {number} shares of common stock for {money} to {money} each .'
-p2225
-aS'lowell-based {org_1} , a national internet service provider , announced the pricing of an initial public offering of {number} shares of common stock at a price of {money} per share .'
-p2226
-aS'{org_1} and {org_2} are the underwriters .'
-p2227
-aS"`` there 's a sense of many companies contemplating that the public markets are open to them , '' said jonathan gertler , head of the health care investment banking division at {org_1} in boston ."
-p2228
-aS'{org_1} representatives could not be immediately reached for comment {org_2} said .'
-p2229
-aS'use of proceeds : {org_1} said it intends to use the proceeds as follows : {money} to fund external research-and-development expenses for spk-rpe65 , potential treatment for rare inherited retinal dystrophies that cause blindness ; , {money} to fund external research-and-development expenses for spk-chm , an experimental treatment for choroideremia , a rare inherited disorder that causes progressive vision loss ; , {money} to fund external research-and-development expenses for our spk-fix program ; an experimental treatment for hemophilia b ; , {money} to fund external research-and-development expenses for preclinical product candidates ; and , the remainder for working capital , general and administrative expenses , internal research and development expenses and other general corporate purposes , including pre-commercial activities , in-licenses or potential acquisitions .'
-p2230
-aS'{org_1} closed its initial public offering {time} , selling a total {number} shares at {money} per share .'
-p2231
-aS'a biopharma developing treatments for diseases that cause blindness , and backed by durham venture capital group {org_1} , has filed for an initial public offering .'
-p2232
-aS'that field , though still promising , has seen some setbacks in recent months .'
-p2233
-aS'{org_1} , {org_2} and {org_3} were set to be the joint bookrunners on the deal .'
-p2234
-aS'it said in a regulatory filing on {time} that it plans to sell {number} shares for between {money} and {money} each .'
-p2235
-aS"its {number} shares would trade on the {stock_institution} exchange as `` {org_1} , '' {org_d} said {time} in a filing with the {stock_institution} ."
-p2236
-aS'calithera is led by ceo susan molineaux , who oversaw the {time} sale of {org_1} and the compound that would become the multiple myeloma drug kyprolis to {org_2} .'
-p2237
-aS'{org_1} .'
-p2238
-aS"if allegiance did decide to add a branch , it would look at a location it has n't targeted yet ."
-p2239
-aS'the technology , called mosaic , was developed by new york-based {org_1} , a venture capital database and research firm .'
-p2240
-aS'{org_d} added over {number} new customers in {time} , and boasts a {number} percent renewal rate , hindawi wrote .'
-p2241
-aS'sunnyvale-based semiconductor company {org_1} raised half of the money it set out to get when it went public {time} .'
-p2242
-aS"ash ashutosh , ceo of {org_1} , said {org_d} 's financials are strong ."
-p2243
-aS'{org_1} revised the amount of its proposed ipo in an {stock_institution} filing {time} .'
-p2244
-aS'it also owns the {org_1} , which offers a variety of educational test preparation , academic tutoring and college counseling .'
-p2245
-aS'{org_1} has raised nearly {money} in venture funding to date .'
-p2246
-aS'{org_1} has since made atlanta the headquarters of its cybersecurity business and significantly expanded the local workforce .'
-p2247
-aS'{org_1} reported a net loss in {time} of {money} on sales of {money} .'
-p2248
-aS'{org_1} founded {org_d} in {time} to consolidate community banks .'
-p2249
-aS"{org_1} 's computer blades enable companies to create utility computing systems , in which software applications are allocated only when needed , rather than riding on a computer 's hard drive ."
-p2250
-aS'{org_1} {time} formed {org_2} to own , operate , develop and acquire a wide range of domestic midstream infrastructure assets .'
-p2251
-aS'{org_1} attempt to raise money in the public markets again indicates {org_d} is persistent - and needs cash to advance its cutting-edge science .'
-p2252
-aS"{org_d} 's {org_1} platform helps building owners and managers make real-time changes to heating and cooling operations based on variables such as weather forecasts , energy prices , tenant comfort , building characteristics and demand response events ."
-p2253
-aS'irvine-based {org_1} had planned to launching trading of its shares on the {stock_institution} on {time} , with {number} to {number} offered for sale .'
-p2254
-aS'`` {org_1} is laser-focused on growing the business and scaling {org_d} to meet the explosive demand for our innovative hyperconverged solutions .'
-p2255
-aS"{org_1} raised more than {money} from a large investor syndicate that includes {org_2} -lrb- {org_d} 's largest shareholder with a {number} percent stake -rrb- , {org_3} , {org_4} and {org_5} ."
-p2256
-aS'{org_d} initially filed confidentially on {time} .'
-p2257
-aS'it closed at {money} , up {money} from its ipo price but down {money} from where it started {time} .'
-p2258
-aS"but for {time} , the ipo market is somewhat closed for business . ''"
-p2259
-aS'{org_1} company quietly filed its plans to go pubic with {time} {time} , taking advantage of the {time} which allows companies to go public with fewer regulatory filings required .'
-p2260
-aS'well-funded massachusetts tech firms {org_1} and {org_2} could likely go public in {time} , according to a report released {time} by {org_3} .'
-p2261
-aS'in addition to the {number} shares of common stock offered , {org_d} has granted underwriters {number} additional shares cover over-allotments .'
-p2262
-aS'{org_1} on {time} filed a registration statement with the {stock_institution} .'
-p2263
-aS'he said there is potential to file again for an ipo .'
-p2264
-aS'cambridge-based online game maker {org_1} makes its debut as a public company {time} , in {number} of the busiest weeks for ipo activity , the {org_2} reports .'
-p2265
-aS"{org_1} bills itself as the `` leading provider of next generation cloud security and risk management services for corporate information and email . ''"
-p2266
-aS"`` with global energy demand , rising electricity prices , and the growing requirement for efficiency and sustainability , building owners and managers are increasing their focus on controllable operating costs , such as energy , '' nark said in a press release ."
-p2267
-aS"it also offers devices that funnel companies ' {org_1} traffic to find hacking threats ."
-p2268
-aS'{org_1} , a fairfax station , va. , {org_2} firm serving the alternative health care sector , is offering what it calls the first initial public offering marketed over the {org_2} .'
-p2269
-aS"{org_1} 's platform {time} manages more than {number} square feet in more than {number} buildings ."
-p2270
-aS'company spokespersons said it has been successful in preliminary pre-clinical studies by amplifying some of the most sought after cell types in the human body , stem cell populations .'
-p2271
-aS'jack dorsey , our co-founder , president , and chief executive officer , also serves as chief executive officer of {org_1} .'
-p2272
-aS'{org_1} raised more than {money} in its public-market debut {time} -- the first life sciences ipo in {time} .'
-p2273
-aa(lp2274
-S'in a recent interview with our scott harrison , tucker said {org_1} is aiming for an ipo {time} or in {time} .'
-p2275
-aS'the {org_1} has become a cybersecurity hub , with several high-profile companies in that sector raising new funding {time} .'
-p2276
-aS'jack dorsey is ceo of {org_1} as well as of social media company {org_2} .'
-p2277
-aS'cromwell schubarth is techflash editor at the {org_1} .'
-p2278
-aS'the others were los altos-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- , mountain view-based {org_2} -lrb- {stock_institution} : {ticker} -rrb- , san francisco-based {org_3} -lrb- {stock_institution} : {ticker} -rrb- and san francisco-based square -lrb- {stock_institution} : {ticker} -rrb- .'
-p2279
-aS'like natick-based {org_1} , conor makes drug-coated coronary stents used to treat patients with heart disease .'
-p2280
-aS'{org_1} has grown blood-making stem cell populations in the laboratory , company officials said .'
-p2281
-aS'it said adjusted earnings will be between {number} and {money} a share , compared with the average analyst estimate of {money} .'
-p2282
-aS'it also inked a {money} from the {org_1} .'
-p2283
-aS'{org_1} plans to use any other proceeds from the stock sale for general purposes , including potential acquisitions .'
-p2284
-aS'and at least {number} local analyst said the news reflects higher standards for life science {org_1} than in {time} .'
-p2285
-aS'this is part of a pivot for {org_1} , which used to focus on marketing its early detection testing in the u. s. and still performs some testing here .'
-p2286
-aS'they were taking a pause .'
-p2287
-aS"`` we know it will be well into {time} we would refile , '' maricich said ."
-p2288
-aS"new england 's first scheduled ipo for {time} was marked down on {time} , delayed later in {time} and finally withdrawn completely ."
-p2289
-aS'net revenue , income from operations and net income rose to {money} , {money} and {money} , respectively , for the nine-month period ended {time} , from {money} , {money} and {money} , respectively , in the pro forma nine-month period ended {time} .'
-p2290
-aS'{org_1} itself loses money .'
-p2291
-aS'as of {time} , those shares were up {number} percent to {money} .'
-p2292
-aS"{org_1} 's total funding to date is about {money} , and investors include {org_2} , {org_3} , north bridge venture partners , andreessen horowitz and 83north ."
-p2293
-aS'{org_1} clinical research company acquires fla. firm .'
-p2294
-aS"its lead product candidate , cor-003 , is a cortisol inhibitor that is {time} in late-stage testing as a potential treatment of cushing 's syndrome ."
-p2295
-aS'net income for {org_d} was {money} for the {time} fiscal year , up from a net loss of {money} in {time} .'
-p2296
-aS'it expected to raise {money} total , some of which it had planned to use to pay off {money} in long-term debt .'
-p2297
-aS"{org_d} , in a statement , said it 's laser-focused on growing and scaling the company while continuing to strengthen the leadership team so that when it comes time to evaluate a public offering , {org_1} will be ready ."
-p2298
-aS"it has also offered to sell {org_1} {number} of those shares for a total of {money} , which would increase fairholme 's stake in {org_2} from {number} to {number} percent , according to {org_3} ."
-p2299
-aS"`` the agreement with {org_1} does primarily lapse and we 'll have to renegotiate , but we 're still in talks with {org_1} , ' '' {org_3} spokeswoman manuela schwach told {org_4} ."
-p2300
-aS"it 's {money} previous valuation came when it allowed some of its employees to sell shares on the secondary market ."
-p2301
-aS"`` until then our primary focus remains , as it always will be , on making our customers successful . ''"
-p2302
-aS'that information is expected in {time} filings .'
-p2303
-aS'jensen covers logistics , trade manufacturing and defense .'
-p2304
-aS'colleen covers the innovation economy , focusing on technology , start ups , finance and health care .'
-p2305
-aS'so why the change of heart ?'
-p2306
-aS'on board , {org_1} , .'
-p2307
-aS'palo alto-based {org_1} became the biggest shareholder with a {number} percent stake in that sale .'
-p2308
-aS'{number} square feet of development .'
-p2309
-aS"`` the challenge here in the u. s. is that payers do n't pay enough for the test to make the additional investment worth it while the far east companies do , '' he told me ."
-p2310
-aS'atlassian founders mike cannon-brookes and scott farquhar founded {org_d} partly on {money} in credit card debt .'
-p2311
-aS'{org_1} was founded in sydney , australia , and is legally headquartered in london but many of its top officers are based in san francisco , making it a true international hybrid .'
-p2312
-aS"chief executive colin angle {time} had worked at the {org_1} 's jet propulsion laboratory , where he helped design the mars rovers ."
-p2313
-aS'the organization announced in {time} its intent to file an ipo .'
-p2314
-aS'its lead new drug candidate , lefamulin , is in late stage testing as a potential treatment for community-acquired bacterial pneumonia .'
-p2315
-aS'{org_1} plans to use {money} from the ipo for new facilities , equipment , clinical trials , research , and general corporate purposes .'
-p2316
-aS'the managing underwriters of the offering are {org_1} , acting as the sole book-running manager , {org_2} and {org_3} .'
-p2317
-aS'{org_1} covers biotech and sports business .'
-p2318
-aS'{org_d} is backed by a private equity firm , {org_1} , which was likely pushing going public to get a return on its investment .'
-p2319
-aS"subscribe to {org_1} 's free {time} email newsletter ."
-p2320
-aS'{org_d} then delayed its offering and finally withdrew its ipo on {time} .'
-p2321
-aS'in total , hatteras owns {number} percent of clearside .'
-p2322
-aS'jack dorsey gives half his {org_1} equity to his foundation .'
-p2323
-aS"{org_1} reported {org_2} ' ipo intentions in {time} ."
-p2324
-aS"our exciting journey continues ... '' ."
-p2325
-aS'dutkowsky {time} led {org_1} , a software company in denver that was acquired by california-based {org_2} .'
-p2326
-aS"theresia gouw , a board member whose {org_1} is a {org_2} investor , told {org_3} raising this round was n't easy because investors are pulling back on late-stage funding ."
-p2327
-aS'but a strong debut on wall street would {time} on an up note for the tech world , which has seen a string of companies pricing below their last private valuation levels and shown generally weak post-ipo returns in {time} .'
-p2328
-aS'stocks of cyber security companies have been on a tear , as well .'
-p2329
-aS'dan norton covers technology and education for the {org_1} .'
-p2330
-aS'{org_1} is also facing additional competitive pressure , with illinois-based drug giant {org_2} {time} launching patient trials of its zomaxx stents .'
-p2331
-aS'{org_d} was founded {time} to enable the rapid adoption of renewable energy worldwide .'
-p2332
-aS"a company statement to {time} said that , `` even if we are successful in developing and gaining regulatory approval -lrb- for our lead product -rrb- , we do not expect to obtain approval before {time} . ''"
-p2333
-aS'{org_1} is {time} conducting a phase i clinical trial of {org_2} in the united kingdom .'
-p2334
-aS'the {org_1} , scooba and packbot are going to find their way onto the {stock_institution} .'
-p2335
-aS'allegiance does not have branches in sugar land , the woodlands or on the east side of houston , retzloff said .'
-p2336
-aS'{org_1} had {money} in liquidity on {time} , {org_d} said in order to grow , it will focus on product development to create new features ; become more mobile ; continue the optimization of pricing and bundle packages ; maintain portfolio growth and make operations more efficient by consolidating functions across brands. , {org_d} said its risk factors include financial risks in connection with its acquisitions , the operational challenges associated with working across international markets and the security of its confidential user information , which could be impacted by cyber attacks .'
-p2337
-aS'{org_1} had {money} in cash and cash equivalents as of {time} , which is {money} less than it had on hand {time} .'
-p2338
-aS"cushing 's syndrome is a rare , but serious , metabolic disorder caused by the overproduction of corticosteroid hormones ."
-p2339
-aS'that would raise about {money} , some {money} less than earlier expected , {org_1} reports .'
-p2340
-aS"secureworks ' former ceo mike cote is considered a trusted confidant of {org_1} founder and ceo michael del l. for {org_1} , a {org_3} spinoff would be a play on a frothy stock market and white-hot demand for cybersecurity software and services , following a spate of data breaches at fortune {number} corporations , such as {org_4} -lrb- {stock_institution} : {ticker} -rrb- , target -lrb- {stock_institution} : {ticker} -rrb- , {org_5} -lrb- {stock_institution} : {ticker} -rrb- and {org_6} -lrb- {stock_institution} : {ticker} -rrb- ."
-p2341
-aS'founded in {time} , coley has raised around {money} in venture capital .'
-p2342
-aS'beaudoin was most {time} the cfo at burlington-based voice technology company {org_1} -lrb- {stock_institution} : {ticker} -rrb- .'
-p2343
-aS'wave is focused on drugs knowns as stereopure nucleic acids , saying its approach can target genetic mutations more precisely than {time} drugs based on so-called antisense technology .'
-p2344
-aS"there are many diseases , including diabetes , stroke and als , that could be addressed by therapies that {org_1} is trying to develop . ''"
-p2345
-aS'.'
-aS'{org_1} -lrb- anti-cd4 humanized monoclonal antibody -rrb- is being developed in collaboration with {org_2} .'
-p2346
-aS'a satellite services company that carries international telephone calls , {org_1} was an intergovernmental nonprofit agency from its founding in {time} until {time} .'
-p2347
-aS'when they need to sell they likely divested their yieldco holdings first as they are more of a recent niche asset class .'
-p2348
-aS'residents of colorado , connecticut , delaware , illinois , nevada , new hampshire , new jersey , new york , rhode island , virginia and wisconsin are eligible to purchase shares .'
-p2349
-aS'it has also never used a direct sales force to sell its software , which is popular with developers who use it for project management , collaboration and code quality .'
-p2350
-aS"{org_d} 's software helps pharmaceutical , biotechnology and medical device companies manage their clinical trials better ."
-p2351
-aS"depending on promune 's ability to hit certain regulatory and sales milestones , coley also stands to receive up to {money} in additional promune payments from {org_1} ."
-p2352
-aS'{org_1} reported that investments in u. s. {org_2} security companies by private equity firms has increased more than sixfold in the past three years to {money} for {number} deals , from {money} for {number} deals in {time} period .'
-p2353
-aS'{number} .'
-p2354
-aS'in {time} , {org_1} announced it had closed an {money} venture funding round , bringing its total private financing to about {money} raised over two years .'
-p2355
-aS'{org_1} and {org_2} are the underwriters .'
-p2356
-aS'{org_1} is also applying its technology to creams for eczema and other skin conditions .'
-p2357
-aS'{org_1} sold {org_2} to {org_3} in {time} for {money} .'
-p2358
-aS'{org_1} stock dropped by nearly {number} percent on {time} after it forecast profit and revenue in its {time} will be below wall street expectations .'
-p2359
-aS'{org_1} , an arlington , va.-based defense information technology contractor , has notified the {stock_institution} that it plans to price its initial public offering at {money} to {money} a share and to trade on the {stock_institution} .'
-p2360
-aS"it plans to list on the {stock_institution} exchange under the ticker , `` sndx . ''"
-p2361
-aS'according to {org_d} , the number of shares to be offered and the price range for the offering have not yet been determined .'
-p2362
-aS'{org_1} , a mclean , va.-based government services contractor that posted {money} in revenue in {time} registered with the {stock_institution} for an initial public offering .'
-p2363
-aS'a spokeswoman for {org_d} , {org_1} , further clarified that the filing was for a concurrent private placement that allowed some of its original vc investors to buy additional shares at the ipo price .'
-p2364
-aS'{org_1} is aiming to become {org_d} in the state to go public {time} with a {money} fundraise at the midpoint of its range .'
-p2365
-aS'in addition , {org_1} has granted the underwriters a 30-day option to purchase up to an additional {number} shares if the underwriters sell more than {number} shares in the offering .'
-p2366
-aS'the ipo price was {money} .'
-p2367
-aS'hogg and texas-based {org_1} i represent the largest shareholder in endostim , according to the ipo filing , both owning {number} percent of {org_d} .'
-p2368
-aS'{org_1} has filed for an ipo worth up to {money} with the {stock_institution} , the first such filing for a new england online retailer since the dot-com crash of {time} .'
-p2369
-aS'its {money} per share price was below the {money} per share {org_1} listed as its expect range for the ipo in documents {org_d} filed with the {stock_institution} in advance of the stock sale .'
-p2370
-aS'the cambridge stem-cell therapy company plans to launch its ipo during {time} , according to {org_1} .'
-p2371
-aS'{org_1} officially launched its initial public offering on {time} .'
-p2372
-aS'{org_1} roller manufacturing company {org_2} announced {time} that it has priced its initial public offering of nearly {number} shares at {money} per share to raise about {money} .'
-p2373
-aS'{org_1} ended up pricing its ipo about {number} percent lower than the {money} at the high-end of the range , but still within range .'
-p2374
-aS"{org_d} 's shares will trade on the {stock_institution} under the ticker egen ."
-p2375
-aS'cancer drug developer {org_1} , {number} of the more promising bay area biotech companies in the ipo queue , upsized its offering target by nearly {number} percent to {money} , {org_d} said {time} .'
-p2376
-aS"top {number} takeaways from {org_1} 's ipo filing ."
-p2377
-aS'{org_d} is planning to sell {number} shares priced between {money} and {money} , which would generate up to {money} , according to a document filed with the {stock_institution} {time} .'
-p2378
-aS'{org_1} of glastonbury , conn. , a provider of software and services for financial institutions , announced the pricing of its initial public offering of {number} shares of common stock at a price of {money} per share .'
-p2379
-aS"hsieh , who founded {org_1} in {time} , said on {org_d} 's blog that poor showings by other companies , such as {org_2} -lrb- {stock_institution} : {ticker} -rrb- and {org_3} -lrb- {stock_institution} : {ticker} -rrb- , that have {time} launched ipos were factors in {org_d} 's decision to drop its offering ."
-p2380
-aS'{org_1} had planned to sell about {number} shares between {money} and {money} per share after the market closed {time} .'
-p2381
-aS'neither has yet had an ipo .'
-p2382
-aS'shares offered : {number} .'
-p2383
-aS"the offering was well below {org_d} 's initial goal of raising more than {money} through its ipo , according to documents filed {time} with the {stock_institution} ."
-p2384
-aS'{org_1} plans to ipo the {org_2} business unit and that spinoff would also include other information security businesses {org_1} has acquired over the years , sources told {org_4} earlier .'
-p2385
-aS"{org_1} 's shares are quoted on the {stock_institution} under the symbol `` {ticker} '' {time} ."
-p2386
-aS'as of mid-morning {time} , the stock was trading at {money} .'
-p2387
-aS"the offering was slightly below {org_d} 's earlier projected offering price of {money} per share ."
-p2388
-aS"while it 's no {org_1} -- the chinese online retailer that raised a record {money} in its ipo {time} -- calithera 's ipo boost is indicative of wall street 's appetite for solid life sciences offerings overseen by proven executives , as opposed to companies desperately seeking capital ."
-p2389
-aS"{org_1} 's shares have traded more or less flat since its {time} ipo at a price of {money} each , while {org_2} 's shares have more than doubled since its {time} ipo to {money} {time} as of {time} cambridge-based {org_3} was {org_4} 's biggest investor before {time} 's ipo , holding {number} percent of the shares in {org_d} ."
-p2390
-aS'{org_1} payments company {org_2} lowered its ipo target by {number} percent to {money} a share , although its stock jumped {number} percent above the ipo prices when it debuted {time} .'
-p2391
-aS'and it saw even bigger gains {time} , trading up {number} percent to {money} as of {time} together , the {number} ipos could give renewed confidence to biotech investors , who have seen the value of the biotech stocks in general {time} by about a third since {time} .'
-p2392
-aS'{org_d} , which is based in dublin and has its u. s. headquarters in trevose , pa. , sold {number} shares of stock at {money} per share .'
-p2393
-aS'{org_1} , the largest u. s. provider of tax-efficient mutual funds , said it raised {money} in the initial public offering of a new floating-rate income closed-end fund , {org_2} reported .'
-p2394
-aS"following its ipo {time} , which offered {number} shares at the higher-than-expected price of {money} a share , {org_d} began trading under the {stock_institution} ticker `` kyak '' on {time} ."
-p2395
-aa(dp2396
+aaa(lp2293
+(lp2294
+I1
+aa(lp2295
+I1
+aa(lp2296
+I1
+aa(lp2297
+I1
+aa(lp2298
+I1
+aa(lp2299
+I1
+aa(lp2300
+I1
+aa(lp2301
+I1
+aa(lp2302
+I1
+aa(lp2303
+I1
+aa(lp2304
+I1
+aa(lp2305
+I1
+aa(lp2306
+I1
+aa(lp2307
+I1
+aa(lp2308
+I1
+aa(lp2309
+I1
+aa(lp2310
+I1
+aa(lp2311
+I1
+aa(lp2312
+I1
+aa(lp2313
+I1
+aa(lp2314
+I1
+aa(lp2315
+I1
+aa(lp2316
+I1
+aa(lp2317
+I1
+aa(lp2318
+I1
+aa(lp2319
+I1
+aa(lp2320
+I1
+aa(lp2321
+I1
+aa(lp2322
+I1
+aa(lp2323
+I1
+aa(lp2324
+I1
+aa(lp2325
+I1
+aa(lp2326
+I1
+aa(lp2327
+I1
+aa(lp2328
+I1
+aa(lp2329
+I1
+aa(lp2330
+I1
+aa(lp2331
+I1
+aa(lp2332
+I1
+aa(lp2333
+I1
+aa(lp2334
+I1
+aa(lp2335
+I1
+aa(lp2336
+I1
+aa(lp2337
+I1
+aa(lp2338
+I1
+aa(lp2339
+I1
+aa(lp2340
+I1
+aa(lp2341
+I1
+aa(lp2342
+I1
+aa(lp2343
+I1
+aa(lp2344
+I1
+aa(lp2345
+I1
+aa(lp2346
+I1
+aa(lp2347
+I1
+aa(lp2348
+I1
+aa(lp2349
+I1
+aa(lp2350
+I1
+aa(lp2351
+I1
+aa(lp2352
+I1
+aa(lp2353
+I1
+aa(lp2354
+I1
+aa(lp2355
+I1
+aa(lp2356
+I1
+aa(lp2357
+I1
+aa(lp2358
+I1
+aa(lp2359
+I1
+aa(lp2360
+I1
+aa(lp2361
+I1
+aa(lp2362
+I1
+aa(lp2363
+I1
+aa(lp2364
+I1
+aa(lp2365
+I1
+aa(lp2366
+I1
+aa(lp2367
+I1
+aa(lp2368
+I1
+aa(lp2369
+I1
+aa(lp2370
+I1
+aa(lp2371
+I1
+aa(lp2372
+I1
+aa(lp2373
+I1
+aa(lp2374
+I1
+aa(lp2375
+I1
+aa(lp2376
+I1
+aa(lp2377
+I1
+aa(lp2378
+I1
+aa(lp2379
+I1
+aa(lp2380
+I2
+aa(lp2381
+I2
+aa(lp2382
+I2
+aa(lp2383
+I2
+aa(lp2384
+I2
+aa(lp2385
+I2
+aa(lp2386
+I2
+aa(lp2387
+I2
+aa(lp2388
+I2
+aa(lp2389
+I2
+aa(lp2390
+I2
+aa(lp2391
+I2
+aa(lp2392
+I2
+aa(lp2393
+I2
+aa(lp2394
+I2
+aa(lp2395
+I2
+aa(lp2396
+I2
+aa(lp2397
+I2
+aa(lp2398
+I2
+aa(lp2399
+I2
+aa(lp2400
+I2
+aa(lp2401
+I2
+aa(lp2402
+I2
+aa(lp2403
+I2
+aa(lp2404
+I2
+aa(lp2405
+I2
+aa(lp2406
+I2
+aa(lp2407
+I3
+aa(lp2408
+I3
+aa(lp2409
+I3
+aa(lp2410
+I3
+aa(lp2411
+I3
+aa(lp2412
+I3
+aa(lp2413
+I3
+aa(lp2414
+I3
+aa(lp2415
+I3
+aaa(dp2416
 S'operations'
-p2397
+p2417
 I21
 sS'limited'
-p2398
+p2418
 I1
 sS'all'
-p2399
+p2419
 I161
 sS'stake'
-p2400
+p2420
 I142
 sS'proposed'
-p2401
+p2421
 I40
 sS'less'
-p2402
+p2422
 I198
 sS'being'
-p2403
+p2423
 I143
 sS'money'
-p2404
+p2424
 I144
 sS'over'
-p2405
+p2425
 I22
 sS'both'
-p2406
+p2426
 I210
 sS'``'
-p2407
+p2427
 I95
 sS'focus'
-p2408
+p2428
 I87
 sS'years'
-p2409
+p2429
 I105
 sS'founded'
-p2410
+p2430
 I162
 sS'completed'
-p2411
+p2431
 I264
 sS'through'
-p2412
+p2432
 I180
 sS'per'
-p2413
+p2433
 I224
 sS'go'
-p2414
+p2434
 I237
 sS'firms'
-p2415
+p2435
 I242
 sS'still'
-p2416
+p2436
 I106
 sS'yet'
-p2417
+p2437
 I64
 sS'to'
-p2418
+p2438
 I163
 sS'{org_1}'
-p2419
+p2439
 I2
 sS'number'
-p2420
+p2440
 I188
 sS'just'
-p2421
+p2441
 I63
 sS'also'
-p2422
+p2442
 I302
 sS'ipos'
-p2423
+p2443
 I259
 sS'percent'
-p2424
+p2444
 I308
 sS'had'
-p2425
+p2445
 I65
 sS','
 I24
 sS'<UNKNOWN>'
-p2426
+p2446
 I0
 sS'going'
-p2427
+p2447
 I126
 sS'raising'
-p2428
+p2448
 I233
 sS'under'
-p2429
+p2449
 I3
 sS'has'
-p2430
+p2450
 I66
 sS'local'
-p2431
+p2451
 I272
 sS'worth'
-p2432
+p2452
 I4
 sS'chairman'
-p2433
+p2453
 I194
 sS'executive'
-p2434
+p2454
 I286
 sS'do'
-p2435
+p2455
 I41
 sS'them'
-p2436
+p2456
 I26
 sS'his'
-p2437
+p2457
 I200
 sS'diseases'
-p2438
+p2458
 I27
 sS'get'
-p2439
+p2459
 I127
 sS'ceo'
-p2440
+p2460
 I182
 sS'big'
-p2441
+p2461
 I60
 sS'capital'
-p2442
+p2462
 I241
 sS'period'
-p2443
+p2463
 I133
 sS'{time}'
-p2444
+p2464
 I88
 sS'nearly'
-p2445
+p2465
 I104
 sS'they'
-p2446
+p2466
 I28
 sS'not'
-p2447
+p2467
 I107
 sS'during'
-p2448
+p2468
 I201
 sS'trade'
-p2449
+p2469
 I179
 sS'ticker'
-p2450
+p2470
 I164
 sS';'
 I202
 sS'bank'
-p2451
+p2471
 I29
 sS'common'
-p2452
+p2472
 I203
 sS'down'
-p2453
+p2473
 I73
 sS'like'
-p2454
+p2474
 I288
 sS'lost'
-p2455
+p2475
 I289
 sS'--'
-p2456
+p2476
 I165
 sS'{ticker}'
-p2457
+p2477
 I146
 sS'companies'
-p2458
+p2478
 I5
 sS'disease'
-p2459
+p2479
 I270
 sS'public'
-p2460
+p2480
 I169
 sS'loss'
-p2461
+p2481
 I287
 sS'continue'
-p2462
+p2482
 I221
 sS'officer'
-p2463
+p2483
 I67
 sS'each'
-p2464
+p2484
 I30
 sS'including'
-p2465
+p2485
 I273
 sS'security'
-p2466
+p2486
 I68
 sS'round'
-p2467
+p2487
 I89
 sS'set'
-p2468
+p2488
 I204
 sS'financial'
-p2469
+p2489
 I32
 sS'could'
-p2470
+p2490
 I260
 sS'deal'
-p2471
+p2491
 I74
 sS'cybersecurity'
-p2472
+p2492
 I69
 sS'list'
-p2473
+p2493
 I166
 sS'energy'
-p2474
+p2494
 I183
 sS'began'
-p2475
+p2495
 I282
 sS'startup'
-p2476
+p2496
 I205
 sS'around'
-p2477
+p2497
 I145
 sS'up'
-p2478
+p2498
 I234
 sS'likely'
-p2479
+p2499
 I7
 sS'growth'
-p2480
+p2500
 I291
 sS'trading'
-p2481
+p2501
 I33
 sS'are'
-p2482
+p2502
 I207
 sS'year'
-p2483
+p2503
 I108
 sS'our'
-p2484
+p2504
 I256
 sS'out'
-p2485
+p2505
 I257
 sS'will'
-p2486
+p2506
 I167
 sS'what'
-p2487
+p2507
 I168
 sS'said'
-p2488
+p2508
 I42
 sS'funding'
-p2489
+p2509
 I184
 sS'business'
-p2490
+p2510
 I239
 sS'for'
-p2491
+p2511
 I70
 sS'since'
-p2492
+p2512
 I185
 sS'patients'
-p2493
+p2513
 I265
 sS'shares'
-p2494
+p2514
 I90
 sS'its'
-p2495
+p2515
 I181
 sS'cell'
-p2496
+p2516
 I240
 sS'include'
-p2497
+p2517
 I238
 sS'does'
-p2498
+p2518
 I293
 sS'health'
-p2499
+p2519
 I187
 sS'then'
-p2500
+p2520
 I25
 sS'between'
-p2501
+p2521
 I128
 sS'new'
-p2502
+p2522
 I8
 sS'net'
-p2503
+p2523
 I9
 sS'before'
-p2504
+p2524
 I23
 sS'conditions'
-p2505
+p2525
 I208
 sS'symbol'
-p2506
+p2526
 I158
 sS'announced'
-p2507
+p2527
 I6
 sS'told'
-p2508
+p2528
 I10
 sS'be'
-p2509
+p2529
 I225
 sS'we'
-p2510
+p2530
 I43
 sS'who'
-p2511
+p2531
 I269
 sS'led'
-p2512
+p2532
 I243
 sS'filings'
-p2513
+p2533
 I244
 sS'underwriters'
-p2514
+p2534
 I147
 sS'sold'
-p2515
+p2535
 I209
 sS'of'
-p2516
+p2536
 I149
 sS'free'
-p2517
+p2537
 I34
 sS'by'
-p2518
+p2538
 I227
 sS'reported'
-p2519
+p2539
 I11
 sS'management'
-p2520
+p2540
 I261
 sS'operating'
-p2521
+p2541
 I170
 sS'dorsey'
-p2522
+p2542
 I171
 sS'based'
-p2523
+p2543
 I271
 sS'debt'
-p2524
+p2544
 I44
 sS'went'
-p2525
+p2545
 I31
 sS'care'
-p2526
+p2546
 I109
 sS'on'
-p2527
+p2547
 I148
 sS'about'
-p2528
+p2548
 I294
 sS'rare'
-p2529
+p2549
 I249
 sS'working'
-p2530
+p2550
 I94
 sS'many'
-p2531
+p2551
 I129
 sS'employees'
-p2532
+p2552
 I12
 sS'months'
-p2533
+p2553
 I71
 sS'according'
-p2534
+p2554
 I130
 sS'drug'
-p2535
+p2555
 I276
 sS'trial'
-p2536
+p2556
 I91
 sS'range'
-p2537
+p2557
 I228
 sS'products'
-p2538
+p2558
 I245
 sS'planned'
-p2539
+p2559
 I45
 sS'{stock_institution}'
-p2540
+p2560
 I46
 sS'traded'
-p2541
+p2561
 I131
 sS'or'
-p2542
+p2562
 I150
 sS'first'
-p2543
+p2563
 I110
 sS'comment'
-p2544
+p2564
 I277
 sS'raised'
-p2545
+p2565
 I72
 sS'there'
-p2546
+p2566
 I152
 sS'cancer'
-p2547
+p2567
 I132
 sS'revenue'
-p2548
+p2568
 I111
 sS'into'
-p2549
+p2569
 I229
 sS'ipo'
-p2550
+p2570
 I92
 sS'private'
-p2551
+p2571
 I247
 sS'closed'
-p2552
+p2572
 I275
 sS'offerings'
-p2553
+p2573
 I47
 sS'services'
-p2554
+p2574
 I196
 sS'because'
-p2555
+p2575
 I290
 sS'least'
-p2556
+p2576
 I189
 sS'another'
-p2557
+p2577
 I35
 sS'registration'
-p2558
+p2578
 I296
 sS'{number}'
-p2559
+p2579
 I13
 sS'largest'
-p2560
+p2580
 I283
 sS'total'
-p2561
+p2581
 I14
 sS'research'
-p2562
+p2582
 I186
 sS'market'
-p2563
+p2583
 I93
 sS'use'
-p2564
+p2584
 I226
 sS'{org_5}'
-p2565
+p2585
 I230
 sS'from'
-p2566
+p2586
 I248
 sS'raise'
-p2567
+p2587
 I211
 sS'would'
-p2568
+p2588
 I15
 sS'area'
-p2569
+p2589
 I151
 sS'data'
-p2570
+p2590
 I262
 sS'top'
-p2571
+p2591
 I36
 sS'initial'
-p2572
+p2592
 I75
 sS'due'
-p2573
+p2593
 I212
 sS'been'
-p2574
+p2594
 I49
 sS'.'
 I50
 sS'their'
-p2575
+p2595
 I263
 sS'clinical'
-p2576
+p2596
 I76
 sS'treat'
-p2577
+p2597
 I278
 sS'statement'
-p2578
+p2598
 I190
 sS'expected'
-p2579
+p2599
 I51
 sS':'
 I231
 sS'was'
-p2580
+p2600
 I77
 sS'more'
-p2581
+p2601
 I173
 sS'firm'
-p2582
+p2602
 I213
 sS'life'
-p2583
+p2603
 I52
 sS'selling'
-p2584
+p2604
 I191
 sS'an'
-p2585
+p2605
 I279
 sS'option'
-p2586
+p2606
 I192
 sS'offering'
-p2587
+p2607
 I78
 sS'offer'
-p2588
+p2608
 I79
 sS'drugs'
-p2589
+p2609
 I53
 sS'some'
-p2590
+p2610
 I222
 sS'offered'
-p2591
+p2611
 I134
 sS'equity'
-p2592
+p2612
 I199
 sS'but'
-p2593
+p2613
 I299
 sS'sales'
-p2594
+p2614
 I154
 sS'fund'
-p2595
+p2615
 I215
 sS'filed'
-p2596
+p2616
 I232
 sS'-lrb-'
-p2597
+p2617
 I125
 sS'below'
-p2598
+p2618
 I305
 sS'general'
-p2599
+p2619
 I155
 sS'with'
-p2600
+p2620
 I153
 sS'than'
-p2601
+p2621
 I114
 sS'those'
-p2602
+p2622
 I136
 sS'he'
-p2603
+p2623
 I301
 sS'high'
-p2604
+p2624
 I252
 sS'valued'
-p2605
+p2625
 I96
 sS'target'
-p2606
+p2626
 I37
 sS'developing'
-p2607
+p2627
 I137
 sS'this'
-p2608
+p2628
 I250
 sS'markets'
-p2609
+p2629
 I172
 sS'cells'
-p2610
+p2630
 I304
 sS'work'
-p2611
+p2631
 I16
 sS'{org_4}'
-p2612
+p2632
 I216
 sS'cash'
-p2613
+p2633
 I138
 sS'value'
-p2614
+p2634
 I280
 sS'lead'
-p2615
+p2635
 I292
 sS"n't"
-p2616
+p2636
 I139
 sS'while'
-p2617
+p2637
 I217
 sS'customers'
-p2618
+p2638
 I220
 sS'can'
-p2619
+p2639
 I97
 sS'venture'
-p2620
+p2640
 I115
 sS'were'
-p2621
+p2641
 I116
 sS'growing'
-p2622
+p2642
 I98
 sS'other'
-p2623
+p2643
 I309
 sS'called'
-p2624
+p2644
 I235
 sS'additional'
-p2625
+p2645
 I297
 sS'pricing'
-p2626
+p2646
 I223
 sS'and'
-p2627
+p2647
 I117
 sS'biotech'
-p2628
+p2648
 I54
 sS'san'
-p2629
+p2649
 I118
 sS'investors'
-p2630
+p2650
 I48
 sS'-rrb-'
-p2631
+p2651
 I80
 sS'process'
-p2632
+p2652
 I251
 sS'is'
-p2633
+p2653
 I55
 sS'share'
-p2634
+p2654
 I175
 sS'it'
-p2635
+p2655
 I56
 sS'covers'
-p2636
+p2656
 I135
 sS'sale'
-p2637
+p2657
 I123
 sS"''"
-p2638
+p2658
 I81
 sS'as'
-p2639
+p2659
 I156
 sS'sector'
-p2640
+p2660
 I197
 sS'at'
-p2641
+p2661
 I157
 sS'have'
-p2642
+p2662
 I266
 sS'in'
-p2643
+p2663
 I57
 sS'partner'
-p2644
+p2664
 I281
 sS'made'
-p2645
+p2665
 I303
 sS'technology'
-p2646
+p2666
 I140
 sS'any'
-p2647
+p2667
 I119
 sS'if'
-p2648
+p2668
 I58
 sS'sell'
-p2649
+p2669
 I193
 sS'information'
-p2650
+p2670
 I176
 sS'develop'
-p2651
+p2671
 I141
 sS'{org_3}'
-p2652
+p2672
 I267
 sS'no'
-p2653
+p2673
 I82
 sS'trials'
-p2654
+p2674
 I307
 sS'make'
-p2655
+p2675
 I59
 sS'that'
-p2656
+p2676
 I113
 sS'when'
-p2657
+p2677
 I83
 sS'chief'
-p2658
+p2678
 I255
 sS'proceeds'
-p2659
+p2679
 I306
 sS'sciences'
-p2660
+p2680
 I120
 sS'potential'
-p2661
+p2681
 I121
 sS's.'
-p2662
+p2682
 I99
 sS'which'
-p2663
+p2683
 I268
 sS'income'
-p2664
+p2684
 I236
 sS'so'
-p2665
+p2685
 I103
 sS'company'
-p2666
+p2686
 I174
 sS'stock'
-p2667
+p2687
 I253
 sS'development'
-p2668
+p2688
 I218
 sS'product'
-p2669
+p2689
 I100
 sS'francisco'
-p2670
+p2690
 I310
 sS"'s"
-p2671
+p2691
 I84
 sS'plans'
-p2672
+p2692
 I177
 sS'see'
-p2673
+p2693
 I206
 sS'valuation'
-p2674
+p2694
 I300
 sS'{money}'
-p2675
+p2695
 I61
 sS'price'
-p2676
+p2696
 I122
 sS'after'
-p2677
+p2697
 I17
 sS'much'
-p2678
+p2698
 I298
 sS'most'
-p2679
+p2699
 I195
 sS'date'
-p2680
+p2700
 I101
 sS'such'
-p2681
+p2701
 I102
 sS'acquired'
-p2682
+p2702
 I274
 sS'stocks'
-p2683
+p2703
 I159
 sS'{org_d}'
-p2684
+p2704
 I18
 sS'recent'
-p2685
+p2705
 I219
 sS'a'
 I178
 sS'purchase'
-p2686
+p2706
 I19
 sS'u.'
-p2687
+p2707
 I112
 sS'off'
-p2688
+p2708
 I284
 sS'assets'
-p2689
+p2709
 I160
 sS'{org_2}'
-p2690
+p2710
 I254
 sS'well'
-p2691
+p2711
 I285
 sS'headquarters'
-p2692
+p2712
 I20
 sS'daily'
-p2693
+p2713
 I85
 sS'maker'
-p2694
+p2714
 I246
 sS'priced'
-p2695
+p2715
 I214
 sS"'"
 I258
 sS'tech'
-p2696
+p2716
 I39
 sS'time'
-p2697
+p2717
 I86
 sS'the'
-p2698
+p2718
 I38
 sS'software'
-p2699
+p2719
 I295
 sS'corporate'
-p2700
+p2720
 I62
 sS'filing'
-p2701
+p2721
 I124
-sa(dp2702
+sa(dp2722
 I0
-g2426
+g2446
 sI1
-g2398
+g2418
 sI2
-g2419
+g2439
 sI3
-g2429
+g2449
 sI4
-g2432
+g2452
 sI5
-g2458
+g2478
 sI6
-g2507
+g2527
 sI7
-g2479
+g2499
 sI8
-g2502
+g2522
 sI9
-g2503
+g2523
 sI10
-g2508
+g2528
 sI11
-g2519
+g2539
 sI12
-g2532
+g2552
 sI13
-g2559
+g2579
 sI14
-g2561
+g2581
 sI15
-g2568
+g2588
 sI16
-g2611
+g2631
 sI17
-g2677
+g2697
 sI18
-g2684
+g2704
 sI19
-g2686
+g2706
 sI20
-g2692
+g2712
 sI21
-g2397
+g2417
 sI22
-g2405
+g2425
 sI23
-g2504
+g2524
 sI24
 S','
 sI25
-g2500
+g2520
 sI26
-g2436
+g2456
 sI27
-g2438
+g2458
 sI28
-g2446
+g2466
 sI29
-g2451
+g2471
 sI30
-g2464
+g2484
 sI31
-g2525
+g2545
 sI32
-g2469
+g2489
 sI33
-g2481
+g2501
 sI34
-g2517
+g2537
 sI35
-g2557
+g2577
 sI36
-g2571
+g2591
 sI37
-g2606
+g2626
 sI38
-g2698
+g2718
 sI39
-g2696
+g2716
 sI40
-g2401
+g2421
 sI41
-g2435
+g2455
 sI42
-g2488
+g2508
 sI43
-g2510
+g2530
 sI44
-g2524
+g2544
 sI45
-g2539
+g2559
 sI46
-g2540
+g2560
 sI47
-g2553
+g2573
 sI48
-g2630
+g2650
 sI49
-g2574
+g2594
 sI50
 S'.'
 sI51
-g2579
-sI52
-g2583
-sI53
-g2589
-sI54
-g2628
-sI55
-g2633
-sI56
-g2635
-sI57
-g2643
-sI58
-g2648
-sI59
-g2655
-sI60
-g2441
-sI61
-g2675
-sI62
-g2700
-sI63
-g2421
-sI64
-g2417
-sI65
-g2425
-sI66
-g2430
-sI67
-g2463
-sI68
-g2466
-sI69
-g2472
-sI70
-g2491
-sI71
-g2533
-sI72
-g2545
-sI73
-g2453
-sI74
-g2471
-sI75
-g2572
-sI76
-g2576
-sI77
-g2580
-sI78
-g2587
-sI79
-g2588
-sI80
-g2631
-sI81
-g2638
-sI82
-g2653
-sI83
-g2657
-sI84
-g2671
-sI85
-g2693
-sI86
-g2697
-sI87
-g2408
-sI88
-g2444
-sI89
-g2467
-sI90
-g2494
-sI91
-g2536
-sI92
-g2550
-sI93
-g2563
-sI94
-g2530
-sI95
-g2407
-sI96
-g2605
-sI97
-g2619
-sI98
-g2622
-sI99
-g2662
-sI100
-g2669
-sI101
-g2680
-sI102
-g2681
-sI103
-g2665
-sI104
-g2445
-sI105
-g2409
-sI106
-g2416
-sI107
-g2447
-sI108
-g2483
-sI109
-g2526
-sI110
-g2543
-sI111
-g2548
-sI112
-g2687
-sI113
-g2656
-sI114
-g2601
-sI115
-g2620
-sI116
-g2621
-sI117
-g2627
-sI118
-g2629
-sI119
-g2647
-sI120
-g2660
-sI121
-g2661
-sI122
-g2676
-sI123
-g2637
-sI124
-g2701
-sI125
-g2597
-sI126
-g2427
-sI127
-g2439
-sI128
-g2501
-sI129
-g2531
-sI130
-g2534
-sI131
-g2541
-sI132
-g2547
-sI133
-g2443
-sI134
-g2591
-sI135
-g2636
-sI136
-g2602
-sI137
-g2607
-sI138
-g2613
-sI139
-g2616
-sI140
-g2646
-sI141
-g2651
-sI142
-g2400
-sI143
-g2403
-sI144
-g2404
-sI145
-g2477
-sI146
-g2457
-sI147
-g2514
-sI148
-g2527
-sI149
-g2516
-sI150
-g2542
-sI151
-g2569
-sI152
-g2546
-sI153
-g2600
-sI154
-g2594
-sI155
 g2599
-sI156
-g2639
-sI157
-g2641
-sI158
-g2506
-sI159
-g2683
-sI160
-g2689
-sI161
-g2399
-sI162
-g2410
-sI163
-g2418
-sI164
-g2450
-sI165
-g2456
-sI166
-g2473
-sI167
-g2486
-sI168
-g2487
-sI169
-g2460
-sI170
-g2521
-sI171
-g2522
-sI172
+sI52
+g2603
+sI53
 g2609
-sI173
-g2581
-sI174
+sI54
+g2648
+sI55
+g2653
+sI56
+g2655
+sI57
+g2663
+sI58
+g2668
+sI59
+g2675
+sI60
+g2461
+sI61
+g2695
+sI62
+g2720
+sI63
+g2441
+sI64
+g2437
+sI65
+g2445
+sI66
+g2450
+sI67
+g2483
+sI68
+g2486
+sI69
+g2492
+sI70
+g2511
+sI71
+g2553
+sI72
+g2565
+sI73
+g2473
+sI74
+g2491
+sI75
+g2592
+sI76
+g2596
+sI77
+g2600
+sI78
+g2607
+sI79
+g2608
+sI80
+g2651
+sI81
+g2658
+sI82
+g2673
+sI83
+g2677
+sI84
+g2691
+sI85
+g2713
+sI86
+g2717
+sI87
+g2428
+sI88
+g2464
+sI89
+g2487
+sI90
+g2514
+sI91
+g2556
+sI92
+g2570
+sI93
+g2583
+sI94
+g2550
+sI95
+g2427
+sI96
+g2625
+sI97
+g2639
+sI98
+g2642
+sI99
+g2682
+sI100
+g2689
+sI101
+g2700
+sI102
+g2701
+sI103
+g2685
+sI104
+g2465
+sI105
+g2429
+sI106
+g2436
+sI107
+g2467
+sI108
+g2503
+sI109
+g2546
+sI110
+g2563
+sI111
+g2568
+sI112
+g2707
+sI113
+g2676
+sI114
+g2621
+sI115
+g2640
+sI116
+g2641
+sI117
+g2647
+sI118
+g2649
+sI119
+g2667
+sI120
+g2680
+sI121
+g2681
+sI122
+g2696
+sI123
+g2657
+sI124
+g2721
+sI125
+g2617
+sI126
+g2447
+sI127
+g2459
+sI128
+g2521
+sI129
+g2551
+sI130
+g2554
+sI131
+g2561
+sI132
+g2567
+sI133
+g2463
+sI134
+g2611
+sI135
+g2656
+sI136
+g2622
+sI137
+g2627
+sI138
+g2633
+sI139
+g2636
+sI140
 g2666
+sI141
+g2671
+sI142
+g2420
+sI143
+g2423
+sI144
+g2424
+sI145
+g2497
+sI146
+g2477
+sI147
+g2534
+sI148
+g2547
+sI149
+g2536
+sI150
+g2562
+sI151
+g2589
+sI152
+g2566
+sI153
+g2620
+sI154
+g2614
+sI155
+g2619
+sI156
+g2659
+sI157
+g2661
+sI158
+g2526
+sI159
+g2703
+sI160
+g2709
+sI161
+g2419
+sI162
+g2430
+sI163
+g2438
+sI164
+g2470
+sI165
+g2476
+sI166
+g2493
+sI167
+g2506
+sI168
+g2507
+sI169
+g2480
+sI170
+g2541
+sI171
+g2542
+sI172
+g2629
+sI173
+g2601
+sI174
+g2686
 sI175
-g2634
+g2654
 sI176
-g2650
+g2670
 sI177
-g2672
+g2692
 sI178
 S'a'
 sI179
-g2449
+g2469
 sI180
-g2412
+g2432
 sI181
-g2495
+g2515
 sI182
-g2440
+g2460
 sI183
-g2474
+g2494
 sI184
-g2489
+g2509
 sI185
-g2492
+g2512
 sI186
-g2562
+g2582
 sI187
-g2499
+g2519
 sI188
-g2420
+g2440
 sI189
-g2556
+g2576
 sI190
-g2578
+g2598
 sI191
-g2584
+g2604
 sI192
-g2586
+g2606
 sI193
-g2649
+g2669
 sI194
-g2433
+g2453
 sI195
-g2679
+g2699
 sI196
-g2554
+g2574
 sI197
-g2640
+g2660
 sI198
-g2402
+g2422
 sI199
-g2592
+g2612
 sI200
-g2437
+g2457
 sI201
-g2448
+g2468
 sI202
 S';'
 sI203
-g2452
+g2472
 sI204
-g2468
+g2488
 sI205
-g2476
+g2496
 sI206
-g2673
+g2693
 sI207
-g2482
+g2502
 sI208
-g2505
+g2525
 sI209
-g2515
+g2535
 sI210
-g2406
+g2426
 sI211
-g2567
+g2587
 sI212
-g2573
+g2593
 sI213
-g2582
+g2602
 sI214
-g2695
+g2715
 sI215
-g2595
+g2615
 sI216
-g2612
+g2632
 sI217
-g2617
+g2637
 sI218
-g2668
+g2688
 sI219
-g2685
+g2705
 sI220
-g2618
+g2638
 sI221
-g2462
+g2482
 sI222
-g2590
+g2610
 sI223
-g2626
+g2646
 sI224
-g2413
+g2433
 sI225
-g2509
+g2529
 sI226
-g2564
+g2584
 sI227
-g2518
+g2538
 sI228
-g2537
+g2557
 sI229
-g2549
+g2569
 sI230
-g2565
+g2585
 sI231
 S':'
 sI232
-g2596
+g2616
 sI233
-g2428
+g2448
 sI234
-g2478
+g2498
 sI235
-g2624
+g2644
 sI236
-g2664
+g2684
 sI237
-g2414
+g2434
 sI238
-g2497
+g2517
 sI239
-g2490
+g2510
 sI240
-g2496
+g2516
 sI241
-g2442
+g2462
 sI242
-g2415
+g2435
 sI243
-g2512
+g2532
 sI244
-g2513
+g2533
 sI245
-g2538
+g2558
 sI246
-g2694
+g2714
 sI247
-g2551
+g2571
 sI248
-g2566
+g2586
 sI249
-g2529
+g2549
 sI250
-g2608
+g2628
 sI251
-g2632
+g2652
 sI252
-g2604
+g2624
 sI253
-g2667
+g2687
 sI254
-g2690
+g2710
 sI255
-g2658
+g2678
 sI256
-g2484
+g2504
 sI257
-g2485
+g2505
 sI258
 S"'"
 sI259
-g2423
+g2443
 sI260
-g2470
+g2490
 sI261
-g2520
+g2540
 sI262
-g2570
+g2590
 sI263
-g2575
+g2595
 sI264
-g2411
-sI265
-g2493
-sI266
-g2642
-sI267
-g2652
-sI268
-g2663
-sI269
-g2511
-sI270
-g2459
-sI271
-g2523
-sI272
 g2431
+sI265
+g2513
+sI266
+g2662
+sI267
+g2672
+sI268
+g2683
+sI269
+g2531
+sI270
+g2479
+sI271
+g2543
+sI272
+g2451
 sI273
-g2465
+g2485
 sI274
-g2682
+g2702
 sI275
-g2552
+g2572
 sI276
-g2535
-sI277
-g2544
-sI278
-g2577
-sI279
-g2585
-sI280
-g2614
-sI281
-g2644
-sI282
-g2475
-sI283
-g2560
-sI284
-g2688
-sI285
-g2691
-sI286
-g2434
-sI287
-g2461
-sI288
-g2454
-sI289
-g2455
-sI290
 g2555
+sI277
+g2564
+sI278
+g2597
+sI279
+g2605
+sI280
+g2634
+sI281
+g2664
+sI282
+g2495
+sI283
+g2580
+sI284
+g2708
+sI285
+g2711
+sI286
+g2454
+sI287
+g2481
+sI288
+g2474
+sI289
+g2475
+sI290
+g2575
 sI291
-g2480
+g2500
 sI292
-g2615
+g2635
 sI293
-g2498
+g2518
 sI294
-g2528
+g2548
 sI295
-g2699
+g2719
 sI296
-g2558
+g2578
 sI297
-g2625
-sI298
-g2678
-sI299
-g2593
-sI300
-g2674
-sI301
-g2603
-sI302
-g2422
-sI303
 g2645
-sI304
-g2610
-sI305
-g2598
-sI306
-g2659
-sI307
-g2654
-sI308
-g2424
-sI309
+sI298
+g2698
+sI299
+g2613
+sI300
+g2694
+sI301
 g2623
+sI302
+g2442
+sI303
+g2665
+sI304
+g2630
+sI305
+g2618
+sI306
+g2679
+sI307
+g2674
+sI308
+g2444
+sI309
+g2643
 sI310
-g2670
-sa(lp2703
-(lp2704
-I2
-aa(lp2705
-I1
-aa(lp2706
-I1
-aa(lp2707
-I2
-aa(lp2708
-I1
-aa(lp2709
-I3
-aa(lp2710
-I1
-aa(lp2711
-I1
-aa(lp2712
-I1
-aa(lp2713
-I1
-aa(lp2714
-I2
-aa(lp2715
-I2
-aa(lp2716
-I1
-aa(lp2717
-I1
-aa(lp2718
-I1
-aa(lp2719
-I2
-aa(lp2720
-I2
-aa(lp2721
-I1
-aa(lp2722
-I3
-aa(lp2723
-I1
-aa(lp2724
-I2
-aa(lp2725
-I1
-aa(lp2726
-I1
-aa(lp2727
-I1
-aa(lp2728
-I2
-aa(lp2729
-I1
-aa(lp2730
-I2
-aa(lp2731
-I1
-aa(lp2732
-I2
-aa(lp2733
-I1
-aa(lp2734
-I1
-aa(lp2735
-I1
-aa(lp2736
-I1
-aa(lp2737
-I1
-aa(lp2738
-I1
-aa(lp2739
-I1
-aa(lp2740
-I1
-aa(lp2741
-I1
-aa(lp2742
-I1
-aa(lp2743
-I2
-aa(lp2744
-I1
-aa(lp2745
-I1
-aa(lp2746
-I1
-aa(lp2747
-I2
-aa(lp2748
-I2
-aa(lp2749
-I1
-aa(lp2750
-I1
-aa(lp2751
-I1
-aa(lp2752
-I1
-aa(lp2753
-I3
-aa(lp2754
-I1
-aa(lp2755
-I2
-aa(lp2756
-I1
-aa(lp2757
-I2
-aa(lp2758
-I2
-aa(lp2759
-I2
-aa(lp2760
-I2
-aa(lp2761
-I1
-aa(lp2762
-I1
-aa(lp2763
-I1
-aa(lp2764
-I1
-aa(lp2765
-I1
-aa(lp2766
-I3
-aa(lp2767
-I1
-aa(lp2768
-I2
-aa(lp2769
-I1
-aa(lp2770
-I1
-aa(lp2771
-I1
-aa(lp2772
-I1
-aa(lp2773
-I1
-aa(lp2774
-I1
-aa(lp2775
-I1
-aa(lp2776
-I2
-aa(lp2777
-I1
-aa(lp2778
-I2
-aa(lp2779
-I2
-aa(lp2780
-I1
-aa(lp2781
-I1
-aa(lp2782
-I1
-aa(lp2783
-I2
-aa(lp2784
-I1
-aa(lp2785
-I2
-aa(lp2786
-I2
-aa(lp2787
-I2
-aa(lp2788
-I1
-aa(lp2789
-I1
-aa(lp2790
-I1
-aa(lp2791
-I2
-aa(lp2792
-I1
-aa(lp2793
-I1
-aa(lp2794
-I1
-aa(lp2795
-I1
-aa(lp2796
-I1
-aa(lp2797
-I1
-aa(lp2798
-I1
-aa(lp2799
-I2
-aa(lp2800
-I1
-aa(lp2801
-I1
-aa(lp2802
-I2
-aa(lp2803
-I1
-aa(lp2804
-I1
-aa(lp2805
-I1
-aa(lp2806
-I3
-aa(lp2807
-I1
-aa(lp2808
-I3
-aa(lp2809
-I2
-aa(lp2810
-I1
-aa(lp2811
-I2
-aa(lp2812
-I1
-aa(lp2813
-I2
-aa(lp2814
-I1
-aa(lp2815
-I1
-aa(lp2816
-I1
-aa(lp2817
-I1
-aa(lp2818
-I1
-aa(lp2819
-I1
-aa(lp2820
-I1
-aa(lp2821
-I1
-aa(lp2822
-I1
-aa(lp2823
-I1
-aa(lp2824
-I2
-aa(lp2825
-I3
-aa(lp2826
-I1
-aa(lp2827
-I1
-aa(lp2828
-I1
-aa(lp2829
-I2
-aa(lp2830
-I1
-aa(lp2831
-I2
-aa(lp2832
-I2
-aa(lp2833
-I3
-aa(lp2834
-I1
-aa(lp2835
-I1
-aa(lp2836
-I1
-aa(lp2837
-I2
-aa(lp2838
-I1
-aa(lp2839
-I2
-aa(lp2840
-I1
-aa(lp2841
-I2
-aa(lp2842
-I1
-aa(lp2843
-I1
-aa(lp2844
-I1
-aa(lp2845
-I2
-aa(lp2846
-I2
-aa(lp2847
-I1
-aa(lp2848
-I1
-aa(lp2849
-I2
-aa(lp2850
-I1
-aa(lp2851
-I1
-aa(lp2852
-I1
-aa(lp2853
-I1
-aa(lp2854
-I2
-aa(lp2855
-I1
-aa(lp2856
-I1
-aa(lp2857
-I1
-aa(lp2858
-I2
-aa(lp2859
-I3
-aa(lp2860
-I3
-aa(lp2861
-I1
-aa(lp2862
-I1
-aa(lp2863
-I1
-aa(lp2864
-I1
-aa(lp2865
-I1
-aa(lp2866
-I1
-aa(lp2867
-I3
-aa(lp2868
-I1
-aa(lp2869
-I1
-aa(lp2870
-I2
-aa(lp2871
-I1
-aa(lp2872
-I2
-aa(lp2873
-I2
-aa(lp2874
-I2
-aa(lp2875
-I1
-aa(lp2876
-I3
-aa(lp2877
-I3
-aa(lp2878
-I1
-aa(lp2879
-I1
-aa(lp2880
-I1
-aa(lp2881
-I1
-aa(lp2882
-I2
-aa(lp2883
-I1
-aa(lp2884
-I1
-aa(lp2885
-I1
-aa(lp2886
-I1
-aa(lp2887
-I1
-aa(lp2888
-I1
-aa(lp2889
-I2
-aa(lp2890
-I1
-aa(lp2891
-I1
-aa(lp2892
-I1
-aa(lp2893
-I1
-aa(lp2894
-I1
-aa(lp2895
-I1
-aa(lp2896
-I1
-aa(lp2897
-I2
-aa(lp2898
-I1
-aa(lp2899
-I1
-aa(lp2900
-I1
-aa(lp2901
-I3
-aa(lp2902
-I3
-aa(lp2903
-I2
-aa(lp2904
-I1
-aa(lp2905
-I1
-aa(lp2906
-I2
-aa(lp2907
-I1
-aa(lp2908
-I1
-aa(lp2909
-I1
-aa(lp2910
-I1
-aa(lp2911
-I2
-aa(lp2912
-I1
-aa(lp2913
-I2
-aa(lp2914
-I1
-aa(lp2915
-I1
-aa(lp2916
-I1
-aa(lp2917
-I1
-aa(lp2918
-I1
-aa(lp2919
-I1
-aa(lp2920
-I1
-aa(lp2921
-I1
-aa(lp2922
-I1
-aa(lp2923
-I1
-aa(lp2924
-I2
-aa(lp2925
-I1
-aa(lp2926
-I2
-aa(lp2927
-I1
-aa(lp2928
-I1
-aa(lp2929
-I1
-aa(lp2930
-I3
-aa(lp2931
-I1
-aa(lp2932
-I1
-aa(lp2933
-I1
-aa(lp2934
-I1
-aa(lp2935
-I1
-aa(lp2936
-I1
-aa(lp2937
-I1
-aa(lp2938
-I2
-aa(lp2939
-I1
-aa(lp2940
-I2
-aa(lp2941
-I2
-aa(lp2942
-I1
-aa(lp2943
-I1
-aa(lp2944
-I1
-aa(lp2945
-I1
-aa(lp2946
-I2
-aa(lp2947
-I2
-aa(lp2948
-I1
-aa(lp2949
-I1
-aa(lp2950
-I3
-aa(lp2951
-I1
-aa(lp2952
-I1
-aa(lp2953
-I1
-aa(lp2954
-I1
-aa(lp2955
-I1
-aa(lp2956
-I1
-aa(lp2957
-I1
-aa(lp2958
-I3
-aa(lp2959
-I1
-aa(lp2960
-I1
-aa(lp2961
-I1
-aa(lp2962
-I1
-aa(lp2963
-I1
-aa(lp2964
-I1
-aa(lp2965
-I3
-aa(lp2966
-I1
-aa(lp2967
-I2
-aa(lp2968
-I1
-aa(lp2969
-I1
-aa(lp2970
-I1
-aa(lp2971
-I1
-aa(lp2972
-I2
-aa(lp2973
-I1
-aa(lp2974
-I1
-aa(lp2975
-I1
-aa(lp2976
-I2
-aa(lp2977
-I1
-aa(lp2978
-I1
-aa(lp2979
-I1
-aa(lp2980
-I1
-aa(lp2981
-I3
-aa(lp2982
-I1
-aa(lp2983
-I1
-aa(lp2984
-I1
-aa(lp2985
-I2
-aa(lp2986
-I1
-aa(lp2987
-I1
-aa(lp2988
-I1
-aa(lp2989
-I2
-aa(lp2990
-I1
-aa(lp2991
-I1
-aa(lp2992
-I1
-aa(lp2993
-I1
-aa(lp2994
-I2
-aa(lp2995
-I2
-aa(lp2996
-I1
-aa(lp2997
-I2
-aa(lp2998
-I1
-aa(lp2999
-I1
-aa(lp3000
-I3
-aa(lp3001
-I2
-aa(lp3002
-I1
-aa(lp3003
-I2
-aa(lp3004
-I2
-aa(lp3005
-I3
-aa(lp3006
-I1
-aa(lp3007
-I1
-aa(lp3008
-I1
-aa(lp3009
-I1
-aa(lp3010
-I1
-aa(lp3011
-I1
-aa(lp3012
-I2
-aa(lp3013
-I2
-aa(lp3014
-I1
-aa(lp3015
-I1
-aa(lp3016
-I1
-aa(lp3017
-I1
-aa(lp3018
-I2
-aa(lp3019
-I1
-aa(lp3020
-I2
-aa(lp3021
-I1
-aa(lp3022
-I2
-aa(lp3023
-I1
-aa(lp3024
-I1
-aa(lp3025
-I2
-aa(lp3026
-I1
-aa(lp3027
-I1
-aa(lp3028
-I1
-aa(lp3029
-I2
-aa(lp3030
-I2
-aa(lp3031
-I1
-aa(lp3032
-I2
-aa(lp3033
-I1
-aa(lp3034
-I1
-aa(lp3035
-I1
-aa(lp3036
-I1
-aa(lp3037
-I1
-aa(lp3038
-I1
-aa(lp3039
-I1
-aa(lp3040
-I1
-aa(lp3041
-I1
-aa(lp3042
-I1
-aa(lp3043
-I1
-aa(lp3044
-I1
-aa(lp3045
-I1
-aa(lp3046
-I1
-aa(lp3047
-I1
-aa(lp3048
-I2
-aa(lp3049
-I1
-aa(lp3050
-I2
-aa(lp3051
-I1
-aa(lp3052
-I1
-aa(lp3053
-I1
-aa(lp3054
-I1
-aa(lp3055
-I1
-aa(lp3056
-I1
-aa(lp3057
-I3
-aa(lp3058
-I2
-aa(lp3059
-I2
-aa(lp3060
-I3
-aa(lp3061
-I2
-aa(lp3062
-I1
-aa(lp3063
-I1
-aa(lp3064
-I1
-aa(lp3065
-I1
-aa(lp3066
-I3
-aa(lp3067
-I2
-aa(lp3068
-I1
-aa(lp3069
-I1
-aa(lp3070
-I1
-aa(lp3071
-I1
-aa(lp3072
-I1
-aa(lp3073
-I3
-aa(lp3074
-I1
-aa(lp3075
-I1
-aa(lp3076
-I3
-aa(lp3077
-I3
-aa(lp3078
-I1
-aa(lp3079
-I1
-aa(lp3080
-I1
-aa(lp3081
-I1
-aa(lp3082
-I1
-aa(lp3083
-I2
-aa(lp3084
-I1
-aa(lp3085
-I1
-aa(lp3086
-I1
-aa(lp3087
-I1
-aa(lp3088
-I1
-aa(lp3089
-I1
-aa(lp3090
-I1
-aa(lp3091
-I2
-aa(lp3092
-I1
-aa(lp3093
-I3
-aa(lp3094
-I1
-aa(lp3095
-I3
-aa(lp3096
-I1
-aa(lp3097
-I2
-aa(lp3098
-I3
-aa(lp3099
-I1
-aa(lp3100
-I3
-aa(lp3101
-I1
-aa(lp3102
-I2
-aa(lp3103
-I2
-aa(lp3104
-I1
-aa(lp3105
-I1
-aa(lp3106
-I1
-aa(lp3107
-I2
-aa(lp3108
-I1
-aa(lp3109
-I1
-aa(lp3110
-I1
-aa(lp3111
-I2
-aa(lp3112
-I1
-aa(lp3113
-I1
-aa(lp3114
-I1
-aa(lp3115
-I1
-aa(lp3116
-I3
-aa(lp3117
-I1
-aa(lp3118
-I1
-aa(lp3119
-I2
-aa(lp3120
-I1
-aa(lp3121
-I1
-aa(lp3122
-I2
-aa(lp3123
-I1
-aa(lp3124
-I1
-aa(lp3125
-I2
-aa(lp3126
-I1
-aa(lp3127
-I1
-aa(lp3128
-I1
-aa(lp3129
-I1
-aa(lp3130
-I3
-aa(lp3131
-I1
-aa(lp3132
-I2
-aa(lp3133
-I1
-aa(lp3134
-I1
-aa(lp3135
-I3
-aa(lp3136
-I1
-aa(lp3137
-I1
-aa(lp3138
-I2
-aa(lp3139
-I3
-aa(lp3140
-I1
-aa(lp3141
-I1
-aa(lp3142
-I1
-aa(lp3143
-I1
-aa(lp3144
-I1
-aa(lp3145
-I2
-aa(lp3146
-I2
-aa(lp3147
-I1
-aa(lp3148
-I1
-aa(lp3149
-I2
-aa(lp3150
-I1
-aa(lp3151
-I2
-aa(lp3152
-I1
-aa(lp3153
-I2
-aa(lp3154
-I2
-aa(lp3155
-I3
-aa(lp3156
-I1
-aa(lp3157
-I1
-aa(lp3158
-I1
-aa(lp3159
-I1
-aa(lp3160
-I2
-aa(lp3161
-I3
-aa(lp3162
-I3
-aa(lp3163
-I1
-aa(lp3164
-I1
-aa(lp3165
-I3
-aa(lp3166
-I1
-aa(lp3167
-I2
-aa(lp3168
-I1
-aa(lp3169
-I1
-aa(lp3170
-I1
-aa(lp3171
-I1
-aa(lp3172
-I1
-aa(lp3173
-I2
-aa(lp3174
-I1
-aa(lp3175
-I1
-aa(lp3176
-I1
-aa(lp3177
-I1
-aa(lp3178
-I1
-aa(lp3179
-I1
-aa(lp3180
-I1
-aa(lp3181
-I1
-aa(lp3182
-I1
-aa(lp3183
-I2
-aa(lp3184
-I1
-aa(lp3185
-I3
-aa(lp3186
-I2
-aa(lp3187
-I2
-aa(lp3188
-I1
-aa(lp3189
-I1
-aa(lp3190
-I1
-aa(lp3191
-I1
-aa(lp3192
-I1
-aa(lp3193
-I1
-aa(lp3194
-I1
-aa(lp3195
-I2
-aa(lp3196
-I1
-aa(lp3197
-I2
-aa(lp3198
-I1
-aa(lp3199
-I1
-aa(lp3200
-I1
-aa(lp3201
-I1
-aa(lp3202
-I1
-aa(lp3203
-I2
-aa(lp3204
-I1
-aa(lp3205
-I1
-aa(lp3206
-I1
-aa(lp3207
-I2
-aa(lp3208
-I1
-aa(lp3209
-I1
-aa(lp3210
-I1
-aa(lp3211
-I1
-aa(lp3212
-I1
-aa(lp3213
-I1
-aa(lp3214
-I1
-aa(lp3215
-I1
-aa(lp3216
-I1
-aa(lp3217
-I2
-aa(lp3218
-I1
-aa(lp3219
-I1
-aa(lp3220
-I1
-aa(lp3221
-I2
-aa(lp3222
-I2
-aa(lp3223
-I1
-aa(lp3224
-I1
-aa(lp3225
-I3
-aa(lp3226
-I2
-aa(lp3227
-I1
-aa(lp3228
-I1
-aa(lp3229
-I1
-aa(lp3230
-I1
-aa(lp3231
-I1
-aa(lp3232
-I1
-aa(lp3233
-I3
-aa(lp3234
-I1
-aa(lp3235
-I2
-aa(lp3236
-I2
-aa(lp3237
-I1
-aa(lp3238
-I1
-aa(lp3239
-I1
-aa(lp3240
-I1
-aa(lp3241
-I2
-aa(lp3242
-I1
-aa(lp3243
-I1
-aa(lp3244
-I1
-aa(lp3245
-I1
-aa(lp3246
-I1
-aa(lp3247
-I1
-aa(lp3248
-I1
-aa(lp3249
-I1
-aa(lp3250
-I1
-aa(lp3251
-I1
-aa(lp3252
-I2
-aa(lp3253
-I1
-aa(lp3254
-I1
-aa(lp3255
-I1
-aa(lp3256
-I1
-aa(lp3257
-I2
-aa(lp3258
-I2
-aa(lp3259
-I1
-aa(lp3260
-I1
-aa(lp3261
-I2
-aa(lp3262
-I1
-aa(lp3263
-I1
-aa(lp3264
-I1
-aa(lp3265
-I2
-aa(lp3266
-I1
-aa(lp3267
-I2
-aa(lp3268
-I1
-aa(lp3269
-I1
-aa(lp3270
-I1
-aa(lp3271
-I3
-aa(lp3272
-I1
-aa(lp3273
-I1
-aa(lp3274
-I1
-aa(lp3275
-I1
-aa(lp3276
-I1
-aa(lp3277
-I1
-aa(lp3278
-I1
-aa(lp3279
-I2
-aa(lp3280
-I2
-aa(lp3281
-I1
-aa(lp3282
-I3
-aa(lp3283
-I1
-aa(lp3284
-I2
-aa(lp3285
-I1
-aa(lp3286
-I1
-aa(lp3287
-I1
-aa(lp3288
-I1
-aa(lp3289
-I1
-aa(lp3290
-I1
-aa(lp3291
-I1
-aa(lp3292
-I1
-aa(lp3293
-I1
-aa(lp3294
-I1
-aa(lp3295
-I1
-aa(lp3296
-I1
-aa(lp3297
-I1
-aa(lp3298
-I1
-aa(lp3299
-I1
-aa(lp3300
-I2
-aa(lp3301
-I1
-aa(lp3302
-I1
-aa(lp3303
-I1
-aa(lp3304
-I1
-aa(lp3305
-I1
-aa(lp3306
-I1
-aa(lp3307
-I1
-aa(lp3308
-I1
-aa(lp3309
-I2
-aa(lp3310
-I2
-aa(lp3311
-I1
-aa(lp3312
-I2
-aa(lp3313
-I2
-aa(lp3314
-I1
-aa(lp3315
-I1
-aa(lp3316
-I1
-aa(lp3317
-I2
-aa(lp3318
-I1
-aa(lp3319
-I2
-aa(lp3320
-I1
-aa(lp3321
-I1
-aa(lp3322
-I1
-aa(lp3323
-I1
-aa(lp3324
-I1
-aa(lp3325
-I1
-aa(lp3326
-I1
-aa(lp3327
-I1
-aa(lp3328
-I2
-aa(lp3329
-I2
-aa(lp3330
-I1
-aa(lp3331
-I1
-aa(lp3332
-I1
-aa(lp3333
-I1
-aa(lp3334
-I2
-aa(lp3335
-I1
-aa(lp3336
-I1
-aa(lp3337
-I1
-aa(lp3338
-I1
-aa(lp3339
-I1
-aa(lp3340
-I1
-aa(lp3341
-I1
-aa(lp3342
-I1
-aa(lp3343
-I1
-aa(lp3344
-I2
-aa(lp3345
-I1
-aa(lp3346
-I3
-aa(lp3347
-I3
-aa(lp3348
-I1
-aa(lp3349
-I1
-aa(lp3350
-I1
-aa(lp3351
-I1
-aa(lp3352
-I1
-aa(lp3353
-I1
-aa(lp3354
-I1
-aa(lp3355
-I1
-aa(lp3356
-I1
-aa(lp3357
-I1
-aa(lp3358
-I1
-aa(lp3359
-I1
-aa(lp3360
-I1
-aa(lp3361
-I1
-aa(lp3362
-I1
-aa(lp3363
-I2
-aa(lp3364
-I1
-aa(lp3365
-I1
-aa(lp3366
-I1
-aa(lp3367
-I1
-aa(lp3368
-I2
-aa(lp3369
-I1
-aa(lp3370
-I2
-aa(lp3371
-I1
-aa(lp3372
-I1
-aa(lp3373
-I1
-aa(lp3374
-I1
-aa(lp3375
-I1
-aa(lp3376
-I1
-aa(lp3377
-I1
-aa(lp3378
-I3
-aa(lp3379
-I2
-aa(lp3380
-I3
-aa(lp3381
-I1
-aa(lp3382
-I1
-aa(lp3383
-I2
-aa(lp3384
-I1
-aa(lp3385
-I1
-aa(lp3386
-I1
-aa(lp3387
-I1
-aa(lp3388
-I1
-aa(lp3389
-I1
-aa(lp3390
-I1
-aa(lp3391
-I2
-aa(lp3392
-I1
-aa(lp3393
-I1
-aa(lp3394
-I1
-aa(lp3395
-I1
-aa(lp3396
-I2
-aa(lp3397
-I1
-aa(lp3398
-I1
-aa(lp3399
-I1
-aa(lp3400
-I1
-aa(lp3401
-I1
-aa(lp3402
-I1
-aa(lp3403
-I1
-aa(lp3404
-I3
-aa(lp3405
-I1
-aa(lp3406
-I1
-aa(lp3407
-I2
-aa(lp3408
-I1
-aa(lp3409
-I1
-aa(lp3410
-I1
-aa(lp3411
-I1
-aa(lp3412
-I1
-aa(lp3413
-I1
-aa(lp3414
-I1
-aa(lp3415
-I1
-aa(lp3416
-I1
-aa(lp3417
-I1
-aa(lp3418
-I1
-aa(lp3419
-I1
-aa(lp3420
-I1
-aa(lp3421
-I1
-aa(lp3422
-I3
-aa(lp3423
-I1
-aa(lp3424
-I3
-aa(lp3425
-I1
-aa(lp3426
-I1
-aa(lp3427
-I1
-aa(lp3428
-I1
-aa(lp3429
-I1
-aa(lp3430
-I2
-aa(lp3431
-I1
-aa(lp3432
-I1
-aa(lp3433
-I1
-aa(lp3434
-I1
-aa(lp3435
-I2
-aa(lp3436
-I1
-aa(lp3437
-I1
-aa(lp3438
-I2
-aa(lp3439
-I2
-aa(lp3440
-I1
-aa(lp3441
-I3
-aa(lp3442
-I2
-aa(lp3443
-I2
-aa(lp3444
-I2
-aa(lp3445
-I1
-aa(lp3446
-I1
-aa(lp3447
-I1
-aa(lp3448
-I2
-aa(lp3449
-I1
-aa(lp3450
-I2
-aa(lp3451
-I3
-aa(lp3452
-I1
-aa(lp3453
-I1
-aa(lp3454
-I1
-aa(lp3455
-I2
-aa(lp3456
-I1
-aa(lp3457
-I1
-aa(lp3458
-I1
-aa(lp3459
-I1
-aa(lp3460
-I1
-aa(lp3461
-I2
-aa(lp3462
-I1
-aa(lp3463
-I2
-aa(lp3464
-I1
-aa(lp3465
-I1
-aa(lp3466
-I1
-aa(lp3467
-I1
-aa(lp3468
-I2
-aa(lp3469
-I1
-aa(lp3470
-I2
-aa(lp3471
-I1
-aa(lp3472
-I1
-aa(lp3473
-I1
-aa(lp3474
-I1
-aa(lp3475
-I1
-aa(lp3476
-I1
-aa(lp3477
-I2
-aa(lp3478
-I3
-aa(lp3479
-I1
-aa(lp3480
-I2
-aa(lp3481
-I1
-aa(lp3482
-I1
-aa(lp3483
-I1
-aa(lp3484
-I1
-aa(lp3485
-I2
-aa(lp3486
-I2
-aa(lp3487
-I2
-aa(lp3488
-I1
-aa(lp3489
-I1
-aa(lp3490
-I1
-aa(lp3491
-I1
-aa(lp3492
-I1
-aa(lp3493
-I1
-aa(lp3494
-I1
-aa(lp3495
-I1
-aa(lp3496
-I1
-aa(lp3497
-I3
-aa(lp3498
-I1
-aa(lp3499
-I1
-aa(lp3500
-I2
-aa(lp3501
-I2
-aa(lp3502
-I1
-aa(lp3503
-I1
-aa(lp3504
-I2
-aa(lp3505
-I1
-aa(lp3506
-I2
-aa(lp3507
-I1
-aa(lp3508
-I2
-aa(lp3509
-I1
-aa(lp3510
-I1
-aa(lp3511
-I1
-aa(lp3512
-I1
-aa(lp3513
-I1
-aa(lp3514
-I1
-aa(lp3515
-I1
-aa(lp3516
-I3
-aa(lp3517
-I2
-aa(lp3518
-I2
-aa(lp3519
-I3
-aa(lp3520
-I1
-aa(lp3521
-I1
-aa(lp3522
-I1
-aa(lp3523
-I1
-aa(lp3524
-I3
-aa(lp3525
-I2
-aa(lp3526
-I1
-aa(lp3527
-I2
-aa(lp3528
-I1
-aa(lp3529
-I1
-aa(lp3530
-I1
-aa(lp3531
-I1
-aa(lp3532
-I1
-aa(lp3533
-I1
-aa(lp3534
-I1
-aa(lp3535
-I2
-aa(lp3536
-I1
-aa(lp3537
-I1
-aa(lp3538
-I1
-aa(lp3539
-I1
-aa(lp3540
-I2
-aa(lp3541
-I1
-aa(lp3542
-I1
-aa(lp3543
-I2
-aa(lp3544
-I1
-aa(lp3545
-I1
-aa(lp3546
-I1
-aa(lp3547
-I1
-aa(lp3548
-I1
-aa(lp3549
-I2
-aa(lp3550
-I1
-aa(lp3551
-I1
-aa(lp3552
-I1
-aa(lp3553
-I2
-aa(lp3554
-I2
-aa(lp3555
-I1
-aa(lp3556
-I1
-aa(lp3557
-I1
-aa(lp3558
-I1
-aa(lp3559
-I1
-aa(lp3560
-I1
-aa(lp3561
-I2
-aa(lp3562
-I1
-aa(lp3563
-I1
-aa(lp3564
-I1
-aa(lp3565
-I1
-aa(lp3566
-I2
-aa(lp3567
-I1
-aa(lp3568
-I1
-aa(lp3569
-I1
-aa(lp3570
-I1
-aa(lp3571
-I3
-aa(lp3572
-I1
-aa(lp3573
-I1
-aa(lp3574
-I2
-aa(lp3575
-I1
-aa(lp3576
-I1
-aa(lp3577
-I2
-aa(lp3578
-I1
-aa(lp3579
-I1
-aa(lp3580
-I1
-aa(lp3581
-I2
-aa(lp3582
-I1
-aa(lp3583
-I1
-aa(lp3584
-I2
-aa(lp3585
-I3
-aa(lp3586
-I1
-aa(lp3587
-I2
-aa(lp3588
-I1
-aa(lp3589
-I1
-aa(lp3590
-I1
-aa(lp3591
-I1
-aa(lp3592
-I2
-aa(lp3593
-I2
-aa(lp3594
-I1
-aa(lp3595
-I3
-aa(lp3596
-I1
-aa(lp3597
-I1
-aa(lp3598
-I1
-aa(lp3599
-I1
-aa(lp3600
-I1
-aa(lp3601
-I1
-aa(lp3602
-I1
-aa(lp3603
-I1
-aa(lp3604
-I2
-aa(lp3605
-I1
-aa(lp3606
-I2
-aa(lp3607
-I1
-aa(lp3608
-I2
-aa(lp3609
-I1
-aa(lp3610
-I1
-aa(lp3611
-I1
-aa(lp3612
-I1
-aa(lp3613
-I1
-aa(lp3614
-I1
-aa(lp3615
-I1
-aa(lp3616
-I2
-aa(lp3617
-I1
-aa(lp3618
-I1
-aa(lp3619
-I2
-aa(lp3620
-I1
-aa(lp3621
-I1
-aa(lp3622
-I3
-aa(lp3623
-I1
-aa(lp3624
-I1
-aa(lp3625
-I1
-aa(lp3626
-I1
-aa(lp3627
-I2
-aa(lp3628
-I1
-aa(lp3629
-I2
-aa(lp3630
-I1
-aa(lp3631
-I1
-aa(lp3632
-I1
-aa(lp3633
-I1
-aa(lp3634
-I2
-aa(lp3635
-I1
-aa(lp3636
-I2
-aa(lp3637
-I1
-aa(lp3638
-I1
-aa(lp3639
-I1
-aa(lp3640
-I1
-aa(lp3641
-I1
-aa(lp3642
-I1
-aa(lp3643
-I2
-aa(lp3644
-I1
-aa(lp3645
-I1
-aa(lp3646
-I1
-aa(lp3647
-I2
-aa(lp3648
-I1
-aa(lp3649
-I1
-aa(lp3650
-I2
-aa(lp3651
-I2
-aa(lp3652
-I2
-aa(lp3653
-I3
-aa(lp3654
-I3
-aa(lp3655
-I1
-aa(lp3656
-I1
-aa(lp3657
-I1
-aa(lp3658
-I1
-aa(lp3659
-I1
-aa(lp3660
-I1
-aa(lp3661
-I1
-aa(lp3662
-I1
-aa(lp3663
-I1
-aa(lp3664
-I2
-aa(lp3665
-I1
-aa(lp3666
-I1
-aa(lp3667
-I1
-aa(lp3668
-I3
-aa(lp3669
-I3
-aa(lp3670
-I2
-aa(lp3671
-I1
-aa(lp3672
-I3
-aa(lp3673
-I2
-aa(lp3674
-I2
-aa(lp3675
-I1
-aa(lp3676
-I1
-aa(lp3677
-I1
-aaa(lp3678
-(lp3679
-I1
-aa(lp3680
-I1
+g2690
+sa(lp2723
+S'it {time} had targeted {number} shares for between {money} and {money} .'
+p2724
+aS'{org_1} {time} made a new hire that could hint at its plans to go public soon .'
+p2725
+aS'big {org_1} is the first of {number} major gulf of mexico projects {org_2} expects to come online over the next nine months .'
+p2726
+aS'{org_1} is a fabless company , designing products using outside wafer foundry services .'
+p2727
+aS'marlborough-based {org_1} hopes to raise {money} in an initial public stock offering , breaking nearly a four-year ipo drought among boston-area digital technology companies .'
+p2728
+aS'customers include utilities , hospitals , universities , office buildings , casinos , hotels and government facilities in australia and the u. s .'
+p2729
+aS'the ipo price was well above goals atlassian increased on {time} of between {money} and {money} per share .'
+p2730
+aS'`` we are working with our underwriters with an expected close of {time} .'
+p2731
+aS'most notably , it has been profitable for more than a decade .'
+p2732
+aS'read more about the ipo here .'
+p2733
+aS'{org_1} , founded in {time} , is backed by chicago-based private equity firm {org_2} .'
+p2734
+aS'{org_d} reported revenue of {money} during the three months that ended in {time} through its collaboration with {org_1} , just beating the consensus of analysts .'
+p2735
+aS'{org_d} on {time} said its adjusted earnings came in at {money} a share while revenue almost doubled to {money} .'
+p2736
+aS'about {number} shares were registered at {money} a piece , according to regulatory filings with the {stock_institution} .'
+p2737
+aS'the {org_1} {time} provides crude oil , natural gas , and water-related midstream services for {org_2} through long-term , fixed-fee contracts .'
+p2738
+aS"recent developments : {org_d} received an upfront payments of {money} through a partnership with {org_1} , valued at up to {money} , under which the organizations are collaborating on the development and potential sale of {org_2} 's experimental hemophilia b treatments ."
+p2739
+aS'that work is still in the preclinical stages , but calithera hopes to file a new drug application with the {org_1} near {time} that would essentially start the clinical trial process .'
+p2740
+aS'colorado-based {org_1} , the largest maker of chip-enabled credit cards in the united states , has delayed its planned initial public offering .'
+p2741
+aS'follow him on twitter @tribizhealth or @jasondebruyn .'
+p2742
+aS'get the free daily {org_1} newsletterpalo alto-based {org_2} became the biggest shareholder with a {number} percent stake in that sale .'
+p2743
+aS'{org_1} shares have fallen {number} percent since its {time} ipo , and {org_2} stock has plunged nearly {number} percent .'
+p2744
+aS'the offering is being underwritten in the united states by {org_1} of boston , {org_2} .'
+p2745
+aS'{org_1} got its start in {org_2} , minn. , of course , but moved to wisconsin in {time} .'
+p2746
+aS'ipo date : {time} .'
+p2747
+aS"`` it 'd be a local community bank we 'd look at as we expand our footprint , '' retzloff said ."
+p2748
+aS'but at the time of its filing in {time} , analysts suggested {org_d} could lead a potential uptick in life sciences {org_1} in {time} .'
+p2749
+aS"`` it may be that a majority of investors thought {org_d} was a bit early in -lrb- its -rrb- development . ''"
+p2750
+aS'{org_1} and {org_2} are leading the offering .'
+p2751
+aS"the {money} price puts {org_1} 's market capitalization at {money} , lower than the {money} {org_d} would have been valued at the high end of its {time} planned share price , and less than the {money} estimate in its most recent private fundraising ."
+p2752
+aS'{org_1} was founded in {time} and booked {money} in revenue for the {time} , when it had {money} in cash and showed a loss of {money} .'
+p2753
+aS'{org_1} has postponed its initial public offering indefinitely , {org_d} announced on {time} .'
+p2754
+aS'urvaksh karkaria covers technology .'
+p2755
+aS'{org_1} , which develops gene therapies for patients with severe genetic and orphan diseases such as spinal muscular atrophy , plans to trade on the {stock_institution} under ticker symbol {ticker} .'
+p2756
+aS'.'
+aS'{org_1} endured a massive recall of some {number} of its taxus express2 line of stents during the {time} as well as {org_2} inspections of its galway , ireland , manufacturing facility .'
+p2757
+aS"while some observers are cautious about life sciences ipos {time} , others have said that ipo filings like {org_1} 's could represent an uptick or potential rebound through at least part of {time} ."
+p2758
+aS'{time} the chair of the {org_1} has left {org_d} to move on to other projects .'
+p2759
+aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- was the first-ever ipo of a portfolio company from {org_2} when it went public {time} .'
+p2760
+aS'{org_1} lists top {number} health care technology advances to watch in {time} .'
+p2761
+aS'{org_d} had been operating out of a 3,000-square-foot space in the {org_1} building under the fictitious name balbis -lrb- the name of a shape that looks like the letter h -rrb- .'
+p2762
+aS'robert maricich , ceo of {org_1} , told the {org_2} on {time} that {org_d} allowed its ipo application to expire , which is viewed as a withdrawal .'
+p2763
+aS"`` major u. s. stock market indexes are down and it is likely that {org_d} does not anticipate being able to maximize its stock price and market cap in these conditions . ''"
+p2764
+aS'the startup , {org_1} , a spinoff of {org_2} , filed for the ipo {time} .'
+p2765
+aS"liquidity to our investors and employees does make sense . ''"
+p2766
+aS"`` yieldco stock prices plummeted as part of a broader market sell-off due to global economic concerns , such as declining commodity prices , '' weatherley-white said in cohnreznick 's recent report on `` what 's next for yieldcos ."
+p2767
+aS"{org_d} 's lead new drug candidate is a therapy for a common , non-malignant skin tumor known as seborrheic keratosis ."
+p2768
+aS"whether or not {org_1} can price within its range is a looming question , and planned ipos by {org_2} , waltham-based {org_3} , cambridge-based visterra and {org_4} will likely be affected by {org_d} 's relative success ."
+p2769
+aS'{org_1} , creator of the world-famous {org_2} sneakers , on {time} announced plans to raise {money} in an initial public offering of stock .'
+p2770
+aS'in {time} , {org_1} announced it has acquired {number} shares of common stock in {org_2} -lrb- {stock_institution} : {ticker} -rrb- from barry diller and the diller-von {org_3} .'
+p2771
+aS'it had {money} in cash as of {time} .'
+p2772
+aS"`` we 'd look at fit ."
+p2773
+aS'{org_1} , which has {number} employees , had revenue of {money} in {time} .'
+p2774
+aS'{org_1} is the fifth life sciences company either based here , or with strong ties to the region , to go public {time} joining spark therapeutics , adaptimmune , zynerba and {org_2} .'
+p2775
+aS'others are {org_1} -lrb- {number} percent -rrb- , {org_2} -lrb- {number} percent -rrb- , {org_3} -lrb- {number} percent -rrb- , partner fund management -lrb- {number} percent -rrb- , {org_4} and {org_5} .'
+p2776
+aS'in {time} , {org_d} has increased its headcount {number} percent to {number} in {time} , and it plans to make additional hires in its accounting and operations units .'
+p2777
+aS'the move comes nearly two years after {org_d} , then under ceo arlene morris , first filed to go public .'
+p2778
+aS'endostim officials in {time} had announced plans to raise {money} by selling {money} shares in an initial public offering .'
+p2779
+aS'{org_1} filed papers for the ipo over the {time} and has been working with banks including {org_2} and {org_3} and on the potential deal , the {org_4} reported {time} , citing familiar with the matter .'
+p2780
+aS'{number} other area defense services firms have filed papers with the {stock_institution} to become publicly traded , but have not yet held initial public offerings .'
+p2781
+aS"that 's up from the {money} valuation it had in {time} when it allowed its employees to sell some of their private stock ."
+p2782
+aS"`` the surfer crowd from socal can compete with the silicon valley hoodie crowd thanks to our {number} + dedicated team members throughout the country , '' he said ."
+p2783
+aS"at the same time , we 're continuing to reinforce our internal infrastructure and strengthen our leadership team with experienced veterans so we can evaluate a public offering when the timing is right . ''"
+p2784
+aS'the sole book-running underwriter for the offering is {org_1} , with {org_2} .'
+p2785
+aS'also on {time} , tinder parent {org_1} -lrb- {stock_institution} : {ticker} -rrb- stock jumped {number} percent from its ipo price after it priced on the low end of expectations .'
+p2786
+aS'{org_d} said it generated {money} in revenue {time} and is close to being cash-flow neutral .'
+p2787
+aS"{org_1} plans to list its common stock on the {stock_institution} global select market with the ticker symbol `` {ticker} . ''"
+p2788
+aS"{org_1} 's fund will sell call options for revenue and as a hedge against its stocks ."
+p2789
+aS'georgia is ranked {number} of the top {number} states for information security .'
+p2790
+aS'{org_1} said that the postponement was a result of unfavorable equity market conditions .'
+p2791
+aS"new alliance boosts virtua 's cancer care in south jersey ."
+p2792
+aS'{number} .'
+p2793
+aS'the announcement means the stock is {time} being marketed and a prospectus on the issue is available .'
+p2794
+aS'jack dorsey is ceo of {org_1} as well as of social media company {org_2} .'
+p2795
+aS'{org_d} plans to trade on the {stock_institution} under the symbol {ticker} .'
+p2796
+aS'get the free daily {org_1} newsletter .'
+p2797
+aS'at {money} a share , the offering would raise {money} , more than the ceiling of {money} that {org_1} had forecast when it announced plans for an ipo in {time} .'
+p2798
+aS'{org_1} , the parent of {org_2} , delayed its initial public offering , according to several reports .'
+p2799
+aS'the master limited partnership {time} provides crude oil , natural gas , and water-related midstream services for {org_1} through long-term , fixed-fee contracts .'
+p2800
+aS'{org_d} continues to pursue an aggressive program with {number} compounds in {org_1} {number} human clinical trials to treat inflammation and psoriasis .'
+p2801
+aS"`` {org_1} might be valued higher independently than it is as part of the {org_2} enterprise , '' said gardiner garrard , a partner at atlanta 's {org_3} said in {time} ."
+p2802
+aS"{org_d} 's database contains information ranging from names , addresses and dates of birth , to {org_1} numbers , to liens , judgments and criminal records ."
+p2803
+aS'{org_1} is focused on developing new treatments for rare endocrine disorders .'
+p2804
+aS'data management software maker {org_1} raised {money} in its initial public stock offering -- roughly half of what it had hoped to generate when it initially filed its intention to go public .'
+p2805
+aS'according to an updated prospectus filed by {org_d} .'
+p2806
+aS'the institutional investors who normally participate in ipos are primarily interested in companies that can achieve profitability in less than three quarters , say investment bankers and attorneys .'
+p2807
+aS"{org_1} and {org_2} are the ipo 's lead underwriters and have been promised {number} shares to cover overallotments during the sale ."
+p2808
+aS'the ipo valued {org_d} at {money} .'
+p2809
+aS"{org_1} 's ipo is being closely watched ."
+p2810
+aS'{org_1} company has some big names behind it , including ceo paul bolno , former vice president of worldwide business development at {org_2} -lrb- {stock_institution} : {ticker} -rrb- , who was based in asia .'
+p2811
+aS'{org_d} has slightly more than {number} employees and has acquired at least {number} companies since {time} .'
+p2812
+aS'bizspace spotlight sponsor listing property spotlight : industrial building & vacant land in progressive san benito county , {org_1} .'
+p2813
+aS'{org_1} hopes to raise more than {money} in an upcoming initial public offering .'
+p2814
+aS'.'
+aS'home of {time} sponsor listing spacious and captivating home in prime pacific heightssee all homes of {time} industriestechnology .'
+p2815
+aS'brian feldt covers technology , venture capital , startups , real estate and sports business .'
+p2816
+aS"{org_d} saw a net operating loss of {money} at year 's end , up from a {money} net operating loss in {time} ."
+p2817
+aS"incorporated and {org_1} served as joint bookrunners on {org_2} 's ipo ."
+p2818
+aS'{org_1} .'
+p2819
+aS'but {org_d} also said sales in {time} will be between {money} and {money} , well below the {money} expected by analysts .'
+p2820
+aS'a south jersey medication management and distribution firm has filed plans to go public in an {money} ipo .'
+p2821
+aS'however , the bank has typically added {number} branch a year .'
+p2822
+aS'it had {money} in cash as of {time} .'
+p2823
+aS"units are expected to trade on the {stock_institution} under the ticket symbol `` {ticker} . ''"
+p2824
+aS"that 's our secret sauce ."
+p2825
+aS"`` we do n't see anything on the horizon where the ipo window is going to immediately open up and be more favorable . ''"
+p2826
+aS'local investors in {org_d} include {org_1} and {org_2} .'
+p2827
+aS'according to data from ipreo and pitchbook analyzed by {org_1} , a third of u. s.-based tech companies that went public in {time} priced their shares below market value .'
+p2828
+aS'the web site reported {time} that {org_1} announced plans to offer {number} shares priced between {money} and {money} each , with a goal to raise as much as {money} .'
+p2829
+aS'{org_1} , which has slightly more than {number} employees , has acquired at least {number} companies since {time} .'
+p2830
+aS'a formerly dallas-based drug development company that focuses on gene therapy to treat rare diseases has filed for a {money} initial public offering .'
+p2831
+aS'that is about {number} percent above the {money} atlassian was valued at in {time} , when it allowed its employees to sell some of their private stock .'
+p2832
+aS'{org_1} launched its initial public offering at {time} , at between {money} to {money} a share according to a press release from {org_d} marketing the ipo for the wichita bank .'
+p2833
+aS'mark harden of the {org_1} contributed to this report .'
+p2834
+aS'{org_1} posted {money} in revenue from {time} .'
+p2835
+aS'{org_1} township threatens legal action against wawa .'
+p2836
+aS'{time} {org_d} partnered with {org_1} to treat the damaged throat of a soldier wounded in iraq at {org_2} in washington d. {org_3} using a surgical pulsed dye laser .'
+p2837
+aS'it had been expected to sell its shares for between {money} and {money} and raise as much as {money} .'
+p2838
+aS'the move would be an unusually rapid return to the public markets .'
+p2839
+aS'while {org_d} said in its statement it would continue to evaluate its ipo as market conditions develop , experts are saying it could be some time before the {org_1} gets its window of opportunity again .'
+p2840
+aS'but {org_1} reported that the delay will extend far longer as {org_d} waits for market conditions to improve .'
+p2841
+aS'in {time} , {org_d} hired {org_1} as chairman and chief executive , replacing founder vern brownell .'
+p2842
+aS'{org_1} is developing cellular therapies for cancer , infertility and genetic and cardiac diseases .'
+p2843
+aS'the preliminary filing did not say how many common shares {org_d} plans to sell or the price range .'
+p2844
+aS'in addition , {org_1} could sell up to {number} additional shares to underwriters if needed .'
+p2845
+aS'meanwhile , a chinese biotech called {org_1} -lrb- {stock_institution} : {ticker} -rrb- raised even more in its ipo -- {money} , pricing {number} shares at {money} each .'
+p2846
+aS'it employs {number} people in burlington ; san luis obispo , calif. ; crystal city , va. ; and hong kong .'
+p2847
+aS'dorsey announced on {time} that {org_1} would lay off {number} percent of its global workforce , or up to {number} jobs .'
+p2848
+aS"s.p. a. , {org_1} 's majority stockholder ."
+p2849
+aS'{org_1} plans to raise {money} in an initial public offering of stock , the waltham software company revealed {time} .'
+p2850
+aS'a number of analysts downgraded {org_1} stock after the earnings on {time} .'
+p2851
+aS"with {number} outstanding , {org_1} will {time} either have to make up the difference -- known as a `` ratchet '' clause -- or hope for an oversubscribed ipo , which will push its pricing higher ."
+p2852
+aS'{org_1} has been ramping up to go public for several years {time} , and in {time} and {time} went on a buying spree .'
+p2853
+aS'{org_d} will open {time} on the {stock_institution} .'
+p2854
+aS'{org_1} .'
+p2855
+aS'houston-based {org_1} announced that it completed its initial public offering for {money} on {time} .'
+p2856
+aS'{org_d} , which has raised {money} in funding , {time} recruited veteran executive tom beaudoin as its new chief financial officer .'
+p2857
+aS'the fund , {org_1} said , sells call options covering at least {number} percent of the value of the stocks held by the fund .'
+p2858
+aS'the window for issuance for all companies could be a few months , and then it will be the strongest , largest companies that will come out of it first , before a company like {org_1} will have an attractive valuation .'
+p2859
+aS"{org_1} shares are to trade on the {stock_institution} using the symbol `` {ticker} '' and on the {org_2} under the ticker `` {org_3} . ''"
+p2860
+aS'though its stents have not yet reached market , {org_d} claimed in its {stock_institution} filing that its products have proven superior in clinical trials to those of competitors such as {org_1} .'
+p2861
+aS'{org_1} develops and commercializes treatments for patients suffering from rare and life-threatening neurological genetic diseases .'
+p2862
+aS"the san francisco-based company said that it , along with dorsey 's nonprofit {org_1} , would offer a combined {number} shares when it begins trading {time} under the symbol `` {ticker} '' on the {stock_institution} ."
+p2863
+aS'the north andover-based footwear and apparel company plans to use the net proceeds to redeem outstanding preferred stock , pay down more than {money} it owes on a credit facility , fund working capital and spend on other general corporate purposes , according to a prospectus filed with the {stock_institution} .'
+p2864
+aS'however , {time} , {org_d} announced that it would cut {number} jobs , including {number} in texas .'
+p2865
+aS'as of {time} , the shares were up about {number} percent to {money} each .'
+p2866
+aS'{org_d} helps businesses keep track of devices using their network without requiring special software to be installed on them .'
+p2867
+aS'in {time} it produced earnings of {money} on sales of {money} .'
+p2868
+aS'in a development that could give local stent maker {org_1} another well-financed competitor , {org_2} filed for an initial public offering .'
+p2869
+aS"`` {org_1} could be getting lost in the noise of the larger {org_2} organization . ''"
+p2870
+aS'the drug maker booked {money} in revenue and a net loss of {money} during {time} .'
+p2871
+aS'{org_1} executives were not available for comment {time} .'
+p2872
+aS'{org_d} filed for a {money} ipo on {time} , only to reduce the offering amount on {time} to {money} , with an estimated price of {money} to {money} per share .'
+p2873
+aS'{org_d} , which is the bank holding company of {org_1} , began trading {number} shares priced at {money} per share on {time} .'
+p2874
+aS'{org_d} also has more than {number} customers .'
+p2875
+aS'{org_d} was incorporated as {org_1} in {time} .'
+p2876
+aS'{number} other drug development companies with operations in the philadelphia suburbs , strongbridge biopharma and {org_1} , have also filed plans to go public .'
+p2877
+aS'get {org_1} business scoops .'
+p2878
+aS'the highest {number} bids in the range will receive shares .'
+p2879
+aS"the cambridge stem-cell therapy company 's stock price opened at more than {money} above its initial {money} asking price before settling around {money} by {time} trading ."
+p2880
+aS"{org_1} {time} heads {org_d} , but he declined to comment for this story because of the `` quiet period '' imposed by the {stock_institution} ."
+p2881
+aS"{org_d} 's owner , private equity firm {org_1} , had planned to use ipo proceeds to reduce the grocer 's substantial debt ."
+p2882
+aS'the closed-end fund issued {number} shares for {money} each .'
+p2883
+aS'{org_1} has completed its initial public offering .'
+p2884
+aS'{time} , it bought out another houston-based bank , {org_1} .'
+p2885
+aS"we will continue discussions with investors and will provide further updates as appropriate , '' said steven montross , ceo of {org_1} ."
+p2886
+aS'if the pattern holds true {time} , then {org_d} is on course to generate more than {money} in revenue for {time} .'
+p2887
+aS'{org_d} said net proceeds from the offering will be used for payment of {money} of debt .'
+p2888
+aS'the funding round also included individual investors affiliated with the keiretsu forum , a large angel investor network in san francisco .'
+p2889
+aS'the federal government invested roughly {money} in community banks and community development loan funds through the program to provide capital for small business loans .'
+p2890
+aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- , formerly known as {org_2} , is the seventh life sciences company either based here , or with major operations in the philadelphia region , to go public {time} .'
+p2891
+aS'{org_1} provides real-time threat analytics for smartphones .'
+p2892
+aS"while {org_d} has n't shared a timeline for an ipo , hindawi told forbes : `` we 're going to do an ipo at some point because it 's fair for our employees and our investors ."
+p2893
+aS'{org_1} is the ninth-largest bank in the wichita area based on market-share percentage .'
+p2894
+aS"a spokesman for {org_d} said that given {org_1} 's position in the market , {org_d} still believes {time} is the right time for the initial public offering ."
+p2895
+aS"{org_1} has withdrawn its bid to raise up to {money} in an initial public offering , blaming `` unfavorable market conditions . ''"
+p2896
+aS'the information technology contractor , which specializes in defense work , was priced at {money} out of the gate .'
+p2897
+aS'the ipo began {time} after {time} , casey said , and ends {time} .'
+p2898
+aS'{org_d} added that it expects to give underwriters a 30-day option to purchase an additional {number} shares at the ipo price .'
+p2899
+aS'{org_1} is focused on discovering , developing and commercializing small-molecule drugs to extend and enhance the lives of patients with severe medical conditions , including inflammatory disease , cancer and diabetes .'
+p2900
+aS'the common stock is expected to begin trading on the {stock_institution} {time} under the symbol {ticker} .'
+p2901
+aS'in the first day of trading , its stock price doubled .'
+p2902
+aS'a handful of houston mlps -- such as {org_1} -- have gone public {time} .'
+p2903
+aS"{org_1} ceo james park is sinking a lot into marketing {org_d} 's newest wearable health-trackers , including the inexpensive {org_2} smartwatch , but investors and analysts do n't appear impressed ."
+p2904
+aS'in addition , {org_d} owns , has under contract or has options to acquire {number} parcels , which support approximately {number} .'
+p2905
+aS'other competitors in smart energy management products include {org_1} and telesense , and a few big players such as {org_2} and johnson controls .'
+p2906
+aS"coley plans to trade on the {stock_institution} under the ticker symbol `` {ticker} . ''"
+p2907
+aS"`` it 's almost impossible to ignore daily speculation on which companies will retreat , price at range , or bite the bullet to price lower than expected because they 'll give up value for cash or simply because they want to be public . ''"
+p2908
+aS'prior to its ipo , {org_d} had raised {money} from investors such as {org_1} , {org_2} and {org_3} .'
+p2909
+aS"{org_1} 's cybersecurity tools , which include real-time security and systems management , have drawn a rapidly expanding client base across a range of corporate and government entities ."
+p2910
+aS'it planned to sell the shares for {money} to {money} a share , raising at least {money} that would have valued {org_d} at up to {money} .'
+p2911
+aS'{time} he worked in sales and marketing roles at hopkinton-based {org_1} and {org_2} .'
+p2912
+aS'its largest shareholders , {org_1} , {org_2} , {org_3} , {org_4} , {org_5} and {org_6} .'
+p2913
+aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
+p2914
+aS'the stock will be marketed until the end of business {time} .'
+p2915
+aS'{org_1} , baird and j. p. morgan are acting as book-running managers of the offering .'
+p2916
+aS'ceo michael nark heads up the foster city-based startup , which was founded in {time} to provide energy management solutions for large commercial buildings .'
+p2917
+aS"it was {number} of the {org_1} 's fastest growing companies between 2003-2010 and again in {time} ."
+p2918
+aS'the value of those shares has increased {number} percent as of {time} to {money} a share .'
+p2919
+aS'{org_1} and {org_2} are serving as lead underwriters .'
+p2920
+aS'the bank bolstered its presence in the kansas city area after its {time} purchase of {org_1} in overland park .'
+p2921
+aS"meanwhile , {org_1} expects to retain a majority of {org_2} 's limited partner interests ."
+p2922
+aS'in a filing with the {org_1} commission , {org_2} said it intends to use its ipo proceeds for the continued clinical development of lefamulin as a treatment for pneumonia and other potential indications , to repay debt and for general corporate purposes .'
+p2923
+aS'{org_1} management software startup {org_2} raised {money} in its ipo on {time} and began trading on the {org_3} .'
+p2924
+aS'ceo jack dorsey , who is also the ceo of social media platform {org_1} -lrb- {stock_institution} : {ticker} -rrb- , another san francisco closely-watched tech company , is likely to face even more pressure from investors after setting such a low ipo price .'
+p2925
+aS'{org_d} , which is a wholly owned subsidiary of houston-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- , will offer {number} common units representing limited partner interests , which are expected to be priced between {money} and {money} .'
+p2926
+aS'{org_1} launched in {time} as a company to develop diagnostic tests for cancers and biological toxins .'
+p2927
+aS'{org_1} reported net sales of {money} for {time} ended {time} , up from {money} {time} .'
+p2928
+aS'is {org_1} misunderstood ?'
+p2929
+aS'lexington-based {org_1} , a product-focused biopharmaceutical company , has filed a registration statement with the {stock_institution} for a proposed initial public offering of its common stock .'
+p2930
+aS"{org_1} has {number} compounds in midstage human clinical trials that would treat diseases including crohn 's disease and various forms of cancer ."
+p2931
+aS"{org_d} has raised {money} in venture funding thus far , most {time} in {time} , and hindawi wrote that the company remained cash flow-positive as of the {time} : `` {org_1} saw {number} percent growth year-over-year and ended our year debt-free , with {money} in cash . ''"
+p2932
+aS"`` unlike other ipo candidates , we 're already moving forward with our plans because of our capital reserves and the investor confidence we 've earned beyond the ipo market ."
+p2933
+aS'{org_1} is selling a third of its stake in {org_2} in an initial public offering of stock valued as high as {money} .'
+p2934
+aS'{org_1} said in a regulatory filing in {time} that it expected the public offering price would be between {money} and {money} per share .'
+p2935
+aS'{org_1} supplies {org_2} -lrb- {stock_institution} : {ticker} -rrb- with coatings for wound dressings that fight infection using microscopic silver particles .'
+p2936
+aS'decesare told techcrunch that he plans to add {number} employees {time} , growing his total workforce to {number} .'
+p2937
+aS'his latest venture , which he co-founded with his wife , dr. orusla {org_1} , has been operating since {time} as {org_2} .'
+p2938
+aS'it would be classified as an over-the-counter stock selling {number} shares at {money} each on the opening .'
+p2939
+aS"{org_1} shares were made available on the {stock_institution} global select market on {time} under the ticker symbol `` {ticker} . ''"
+p2940
+aS'bill covers economic development and transportation .'
+p2941
+aS'katie arcieri covers manufacturing , transportation/logistics , aviation , textiles , tobacco and furniture .'
+p2942
+aS"it 's also good to see a tech company that can actually generate returns ."
+p2943
+aS'{org_1} {time} has seen success in its deepwater drilling business as well .'
+p2944
+aS'get the free daily {org_1} newsletterbut security is a hot sector in the wake of a series of high-profile hacks into major companies like {org_2} and growing concerns about foreign government-sponsored cyber espionage .'
+p2945
+aS'even while switching from its initial focus on activating caspases -- enzymes that control cell death -- calithera has raised close to {money} since its {time} founding .'
+p2946
+aS'he wrote , `` while investments may be lumpy as -lrb- {org_1} -rrb- focuses on growth of the nascent market globally , we continue to believe there is a significant long-term opportunity for {org_d} to deliver health/fitness solutions to consumers as well as enterprises and health insurers .'
+p2947
+aS'{org_d} owns a portfolio of {number} properties aggregating approximately {number} square feet .'
+p2948
+aS'for {time} , {org_1} lost {money} on {money} in revenue .'
+p2949
+aS"{org_1} bought the missouri charter of {org_2} , mo. , in {time} , which allowed it to open a branch in lee 's summit {time} ."
+p2950
+aS'{org_1} , a restaurant and concessions operator for airports , was in the process of raising cash for its initial public offering , but that process has {time} been put on pause .'
+p2951
+aS'peter feinstein , a co-founder of {org_1} in cambridge , said {org_2} had gotten so large in size and valuation that it essentially maxed out venture funding with its {money} d-round , which closed {time} .'
+p2952
+aS'calithera is planning studies in breast cancer , multiple myeloma , non-hodgkins lymphoma , acute lymphocytic leukemia and acute myeloid leukemia .'
+p2953
+aS'{org_1} has accumulated a deficit of {money} since its inception and lost more than {money} in {time} .'
+p2954
+aS'in {time} of that same year , it purchased the name and trademarks of {org_1} in a bankruptcy auction from {org_2} , the former owner of the trademarks .'
+p2955
+aS"the 3\xc2\xa01/2 - year-old biopharmaceutical drug developer has n't set a specific date yet or announced how much money it wants to raise ."
+p2956
+aS'in {time} , {org_1} agreed to buy {org_d} of {org_2} , kan. .'
+p2957
+aS'{org_d} , formerly known as {org_1} , has not yet commenced its stock offering .'
+p2958
+aS'the marketing , to {number} to {number} potential shareholders and mutual funds , will set a median for the stock to premiere on the {stock_institution} exchange {time} .'
+p2959
+aS'{org_1} targets hypertrophic cardiomyopathy , or hcm , a condition that has been implicated in sudden cardiac arrest and death of young athletes .'
+p2960
+aS"i 've heard lots of reasons to go ipo , most of which do n't make any sense to me ."
+p2961
+aS'{org_1} spun out {org_2} in {time} .'
+p2962
+aS'the initial price for the {number} shares , all of which were offered by {org_d} , was {money} per share .'
+p2963
+aS'hindawi takes over from his father , david hindawi , who will assume the role of executive chairman .'
+p2964
+aS"`` stem-cell research is a hot area , '' said irena melnikova , an analyst with {org_1} , a consulting/analyst firm in framingham ."
+p2965
+aS'the road show for what is likely to be the last big bay area ipo of {time} starts {time} after {org_1} updated plans {time} to raise up to {money} .'
+p2966
+aS'lexington , mass.-based {org_1} , a majority-owned subsidiary of {org_2} , also of lexington , filed a registration statement with the {stock_institution} for an initial public offering of {number} shares .'
+p2967
+aS'houston-based {org_1} {time} formed {org_2} to own , operate , develop and acquire a wide range of domestic midstream infrastructure assets .'
+p2968
+aS'{org_1} , before its ipo , reported {money} in revenue in {time} , up from {money} {time} and recorded a net loss in {time} of {money} .'
+p2969
+aS'{org_d} , which is based in the {org_1} in {org_2} and also has an office in the netherlands , is led by ceo bevil hogg and chief medical officer dr. virender sharma -- both founders of the company .'
+p2970
+aS'{org_1} officials could not be reached for comment .'
+p2971
+aS'{org_1} came close to going public in {time} .'
+p2972
+aS'{org_d} -lrb- {stock_institution} : {ticker} -rrb- priced its shares at {money} each , slightly below the range it set as of {time} of between {money} and {money} , but upped the share count from {number} to {number} .'
+p2973
+aS"there are n't any specific plans for a new location ."
+p2974
+aS"`` they have debt , and it 's in their interest to refinance that debt , '' she said ."
+p2975
+aS'cambridge-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- raised {money} {time} , selling {number} shares at {money} each .'
+p2976
+aS'.'
+aS'{org_1} said in its {stock_institution} filing that it lost {money} in {time} on sales of {money} .'
+p2977
+aS'{org_1} booked {money} in pro forma sales for the 12 months ending on {time} .'
+p2978
+aS'the offer represents about a {number} percent interest in {org_d} , or a {number} percent interest if underwriters purchase the additional shares .'
+p2979
+aS'{org_1} of moorestown is led by calvin {org_2} , a serial entrepreneur who has started {number} health-care related companies during his career , including philadelphia-based {org_3} -- a medication management firm that works with about {number} hospice agencies providing care to {number} patients across the country .'
+p2980
+aS'whether or not that translates into the kind of post-ipo pop that square has seen -lrb- up about {number} percent -rrb- remains to be seen .'
+p2981
+aS'that stock will continue to trade under a separate ticker symbol , at least for {time} .'
+p2982
+aS'{org_1} and {org_2} acting as co-managers .'
+p2983
+aS'{org_d} , which runs a paid search engine backed by a database of public information on {number} individuals , is selling {number} to {number} share units for {money} each , to raise a total of {money} to {money} .'
+p2984
+aS'it operates {number} full-service banking locations in the houston area and {number} full-service banks in central texas .'
+p2985
+aS'{org_1} was founded in st. louis in the delmar loop but moved to san francisco early on to properly staff the rapidly growing firm .'
+p2986
+aS'{org_1} , which makes power transmission products , gave more details {time} about its upcoming initial public offering .'
+p2987
+aS"some of those new customers include `` {number} of the top {number} us banks , {number} of the {org_1} {number} , {number} of the top {number} retailers , '' he said ."
+p2988
+aS'{org_1} -lrb- {time} a division of {org_2} -rrb- is an umbilical cord stem cell banking company , and t {org_3} brought other stem cell technologies to {org_d} , which {time} is developing a number of cellular therapies for various diseases .'
+p2989
+aS"{time} at times adversely affect his ability to devote time , attention , and effort to {org_1} , '' {org_1} said ."
+p2990
+aS'a month after raising {money} through an initial public offering of stock , travel search firm {org_1} in norwalk , conn. has raised another {money} by issuing common stock to {number} of its venture capital backers at the original ipo price of {money} a share .'
+p2991
+aS'{org_d} showed a slight profit {time} , but lost {money} in {time} .'
+p2992
+aS'{org_1} , of fairfax , and {org_2} , of arlington , va. , filed papers with {time} {time} .'
+p2993
+aS'investors in bluebird bio are taking it as a good sign that the biotech is planning to report initial data from a recently-initiated trial in a rare blood disease as soon as {time} .'
+p2994
+aS'since then , {org_1} has more than quadrupled that figure , posting {money} in revenues for its fiscal year ending {time} .'
+p2995
+aS"{org_d} 's products are used by software developers for project management , collaboration and code quality ."
+p2996
+aS"{org_1} officials said they expect the ipo will unlock more of {org_2} 's value for {org_1} shareholders and strengthen {org_2} 's ability to attract top talent ."
+p2997
+aS'{org_1} , which was acquired by {org_2} in {time} for {money} , monitors corporate networks and helps protect against online attacks from crooks looking to steal financial data , intellectual property and other information .'
+p2998
+aS'joe martin covers technology , money and law for the {org_1} .'
+p2999
+aS'{org_d} has {number} lead antibody products , {org_1} and trx4 .'
+p3000
+aS'{org_1} , or tripco , will trade starting {time} on the {stock_institution} under the ticker symbols ltrpa and ltrpb .'
+p3001
+aS"`` it takes time to get the whole process going , '' smith said , when asked what could have changed in just a week between the offering and the delay ."
+p3002
+aS"in addition to the {org_1} shoe , of which {org_d} says it has sold `` hundreds of millions '' of pairs worldwide , other brands include the jack purcell tennis shoe ."
+p3003
+aS'.'
+aS'phone : {number} .'
+p3004
+aS"the securities closed on the first day of trading at the same price , with about {number} securities changing hands , according to australia 's {org_1} ."
+p3005
+aS'{org_1} and sales manager {org_2} decided to cancel the ipo after the {org_3} dropped {number} percent since a price range was fixed on {time} .'
+p3006
+aS'analysts expected {money} in sales and an adjusted profit of {money} a share .'
+p3007
+aS'as a retailer , {org_1} generates a hefty portion of its revenue - from one-third to two-thirds of its income - in {time} .'
+p3008
+aS"`` they 'll likely put it on the shelf for a little bit and survive without the ipo , '' she said ."
+p3009
+aS'application has .'
+p3010
+aS'these cells are therapeutically valuable cell populations responsible for forming all other cells and regenerating key tissues .'
+p3011
+aS'the {number} companies are also acting as representatives of the underwriters along with new york city-based {org_1} .'
+p3012
+aS'all of the shares were offered by {org_1} .'
+p3013
+aS"`` we 've got the luxury of being patient and waiting for the capital markets to get to a position where the valuation for {org_d} is more in line with what we think it is worth . ''"
+p3014
+aS'{org_1} gets in a queue of at least {number} other local biotech companies waiting to go public , the first of which is likely to hold its offering {time} .'
+p3015
+aS'rent at the @ {number} building typically runs about {money} per square foot .'
+p3016
+aS'`` cromwell schubarth is techflash editor at the {org_1} .'
+p3017
+aS'{org_1} said in its regulatory filing that it has {number} customers and reported revenue of {money} for fiscal year ending {time} , up from {money} {time} prior .'
+p3018
+aS'the underwriters have also been granted the right by {org_1} to purchase up to an additional {number} shares if they exercise their overallotment option in full in the next 30 days .'
+p3019
+aS'{org_1} payments company {org_2} , founded by st. louis natives jack dorsey and jim mckelvey , priced its shares {time} at {money} for its initial public offering , about {number} percent less than what {org_d} initially had targeted .'
+p3020
+aS'{org_1} itself does not have a product in the marketplace .'
+p3021
+aS'{org_d} planned to issue {number} shares .'
+p3022
+aS"olivia pulsinelli is the senior web editor for the {org_1} 's award-winning website ."
+p3023
+aS"monica mendoza covers banking and financial services , legal services , the economy and economic development , and sports business and contributes to the `` {org_1} '' blog ."
+p3024
+aS'{org_1} raised {money} in its ipo {time} , the fifth of {number} massachusetts-based biotech companies to go public that year .'
+p3025
+aS'the life sciences software company filed an ipo in mid-march estimated to be worth as much as {money} .'
+p3026
+aS'that was updated to more than {money} , according to the {time} filing with the {stock_institution} .'
+p3027
+aS'at the top of its price range , {org_d} would be worth about {money} .'
+p3028
+aS'if {org_d} follows through with those plans -lrb- reported by ipo market experts at {stock_institution} -rrb- it will be testing the public biotech markets in a decidedly uncertain time .'
+p3029
+aS"the first {number} initial public offerings of {time} , both involving biotech firms , were trading up significantly as of {time} , providing good news to an industry that 's seen little love on wall street of late ."
+p3030
+aS'{org_1} , a mclean , va.-based government services contractor that posted {money} in revenue in {time} , is preparing documents to register with the {stock_institution} for an initial public offering , according to a source familiar with the situation .'
+p3031
+aS'{org_1} .'
+p3032
+aS'{org_1} .'
+p3033
+aS'{org_1} makes and markets personal computers with an upgradeable microprocessor , memory and hard-drive components .'
+p3034
+aS'cambridge-based {org_1} , a biopharmaceutical company focused on treatments for diseases of the immune system , has filed a registration statement for the initial public offering of shares of its common stock .'
+p3035
+aS'{org_1} , a subsidiary of {org_2} of beverly , mass. , filed a registration statement with the federal {stock_institution} for an initial public offering of {number} shares of common stock .'
+p3036
+aS'you have to come to terms with seller , the type of loans they make and their culture .'
+p3037
+aS"{org_d} would be worth about {money} if it 's priced at the top of its range and underwriters bought all of the extra shares allotted to them ."
+p3038
+aS'get the free daily {org_1} newsletter .'
+p3039
+aS"in {time} , overstock.com filed suit against {org_1} in utah 's third district court in {org_2} city , accusing {org_1} of violating utah 's `` spyware '' law ."
+p3040
+aS"{org_1} apparently did n't have what it takes to sell an ipo in {time} ."
+p3041
+aS"{org_1} , {number} of dozens of cybersecurity companies in the {org_2} , will be trading under the symbol `` {ticker} '' and its underwriters include {org_3} , {org_4} and jefferies ."
+p3042
+aS'access to the public markets will give {org_1} the financial war-chest it needs to chase larger customers .'
+p3043
+aS'{org_1} , a newly-public biotech that has seen its stock rise in the last two months while most other biotech firms fell , cashed in on that rise {time} with an offering of {number} additional shares , raising {money} .'
+p3044
+aS'the property-casualty insurer on {time} announced plans to go public .'
+p3045
+aS'revenue in its most recent quarter was up {number} percent to {money} and net income was up about {number} percent to about {money} .'
+p3046
+aS'founded in {time} , {org_1} is backed by chicago-based private equity firm {org_2} .'
+p3047
+aS'{org_1} payment startup {org_2} has priced its ipo at {money} to {money} a share , generating a much lower valuation of {money} for the san francisco-based company than both investors or {org_3} had expected .'
+p3048
+aS"{org_1} , founded in {time} , has {number} compounds in midstage human clinical trials exploring potential treatments of everything from crohn 's disease to various kinds of cancer ."
+p3049
+aS'{org_1} , founded in {time} , develops virtualization software .'
+p3050
+aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- stock rose {number} percent in {time} , while {org_2} -lrb- {stock_institution} : {ticker} -rrb- shares climbed {number} percent .'
+p3051
+aS'total value : {money} .'
+p3052
+aS'westford-based {org_1} , a provider of voice infrastructure products for the new public network , announced the initial public offering of {number} shares .'
+p3053
+aS'the 28-year-old , 119-employee company began as a maker of handheld and walk-through explosive-detection devices , then began producing more sophisticated machines after government-funded research in {time} that was capable of also detecting illegal drugs .'
+p3054
+aS'{org_1} , a british email security company with {org_2} headquarters in watertown , is expected to debut on the {stock_institution} on {time} with a {money} initial public offering .'
+p3055
+aS'instead , any expansion plans the bank does pursue in {time} would be part of a greater houston growth strategy .'
+p3056
+aS'jason debruyn covers the biopharmaceutical and health care industries .'
+p3057
+aS'the move would mark {number} of the few new ipos in recent years for southwest ohio .'
+p3058
+aS'he is a graduate of {org_1} .'
+p3059
+aS"it was n't surprising to see {org_1} ' public debut put on hold , given the {number} percent drop {time} in shares of {org_2} after {org_d} 's three-year outlook disappointed {org_3} ."
+p3060
+aS"{org_1} 's ipo price is expected to predict how other highly valued tech companies fare in their public debut , {org_2} reports ."
+p3061
+aS'{org_d} intends to use proceeds from the offering to fund growth initiatives , including possibly retail store expansion through fiscal {time} .'
+p3062
+aS'greg maffei , ceo of {org_1} , is also chairman of {org_2} .'
+p3063
+aS'the last time {org_d} reported its financial status , it said it had {money} as of {time} , which it said was enough to last through {time} .'
+p3064
+aS'{org_1} has been around since {time} , when it was founded by {number} israeli entrepreneurs .'
+p3065
+aS"overstock accuses {org_1} of causing pop-up ads that direct customers to {org_1} ' site to appear when some users visit overstock 's website ."
+p3066
+aS'{org_1} has rapidly grown its top line .'
+p3067
+aS'j. p. {org_1} and {org_2} will also work on the deal .'
+p3068
+aS"ihealthcue.com 's intention , according to a listing on {stock_institution} , is to `` provide news and developments in the pharmaceutical and biotechnology sectors '' through subscriptions and licensing fees ."
+p3069
+aS"`` after navigating the process with {org_1} 's management team at my side , i 've come to realize there 's an equally important decision -- the {number} to not take a company public at this time . ''"
+p3070
+aS'hopkinton-based {org_1} and its {org_2} division report that {org_3} has registered with the {stock_institution} to raise up to {money} through an initial public offering of {org_3} common stock .'
+p3071
+aS'atlassian plans to trade on {stock_institution} with the symbol of `` {ticker} .'
+p3072
+aS'net income for the period was {money} , up from {money} {time} .'
+p3073
+aS"`` when the financial market variables outside our control come into line , we plan to be ready , '' he said in an email ."
+p3074
+aS'{number} .'
+p3075
+aS'other national companies most likely to go public {org_1} francisco-based software firm {org_2} , and {org_3} , calif.-based enterprise storage firm {org_4} .'
+p3076
+aS"`` we would have to file audited quarterly results , we 'd have to continue with significant legal fees and advisory fees . ''"
+p3077
+aS"most tech unicorns , including all of the others that went public {time} except {org_1} , have shown impressive growth but had n't turned a profit yet ."
+p3078
+aS'{org_1} filed paperwork outlining its intentions for an ipo back in {time} .'
+p3079
+aS'the wellesley , mass. , company plans to register {number} common shares for the sale , positioning it to reap between {money} and {money} in {number} proceeds .'
+p3080
+aS'it owned a {number} percent voting stake in the core business , newton-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- .'
+p3081
+aS"{org_1} plans to apply for a {stock_institution} listing under the symbol `` {ticker} '' ."
+p3082
+aS"it has no drugs in clinical trials yet , but is conducting preclinical trials on {number} potential drugs to treat {org_1} 's disease and duchenne muscular dystrophy ."
+p3083
+aS"{org_1} 's software-as-a-service aims to cut data management costs by up to {number} percent while also simplifying the process involved ."
+p3084
+aS'{org_1} of new york city , and {org_2} of atlanta .'
+p3085
+aS'{org_d} withdrew the offering {time} , citing unspecified market conditions .'
+p3086
+aS'stock in {org_1} and {org_2} -lrb- {stock_institution} : {ticker} -rrb- , both of which went public in the {time} , have been trending lower than their initial ipo prices .'
+p3087
+aS'`` though the subject has been in the news , they are not in an area in which there would be ethics problems .'
+p3088
+aS'palo alto-based {org_1} is the only private investor with a reportable stake , holding {number} percent of outstanding shares .'
+p3089
+aS"{org_1} will move a majority of its operations to the @ {number} building when crews finish an {money} conversion of the facility 's open-air parking area into {number} square feet of office space ."
+p3090
+aS'.'
+aS'depending on the markets , cohen said {org_d} may go public {time} .'
+p3091
+aS'in the last five years , {money} has been invested into {number} private cybersecurity startups , according to to new york city-based {org_1} .'
+p3092
+aS'.'
+aS'it traded as high as {money} with the symbol of {ticker} after ringing the opening bell on {stock_institution} .'
+p3093
+aS'{org_d} estimates there are {number} people in the united states diagnosed with the diseases it is targeting and that worldwide annual sales of drugs to treat these indications were approximately {money} in {time} .'
+p3094
+aS"{number} of them , waltham data management firm {org_1} , is ranked `` most likely '' to go public {time} based on an algorithm that assesses and scores private company health and momentum ."
+p3095
+aS'the largest was {org_1} , a colorado springs , colo. , systems integration and telecommunications company with annual revenue of {money} , which {org_2} acquired in {time} .'
+p3096
+aS'shares of publicly traded {org_1} fell {money} to {money} as of {time} in {stock_institution} composite trading .'
+p3097
+aS'`` it was pencils down for a lot of them .'
+p3098
+aS'the offering was just the fifth {time} by a u. s. tech unicorn .'
+p3099
+aS'{org_d} , under the umbrella of new york city-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- , has invested {money} in {number} brands since {time} .'
+p3100
+aS'the money will help support efforts to customize its algorithm for blood biomarker testing for cancer in the chinese market .'
+p3101
+aS'mark hollmer can be reached at mhollmer@bizjournals.com .'
+p3102
+aS'just 10 days after it announced its initial public offering , {org_1} delayed its pricing , citing unfavorable equity market conditions .'
+p3103
+aS'the round was led by {org_1} .'
+p3104
+aS"toronto 's {org_1} is handling the offering in canada ."
+p3105
+aS'its market penetration included {number} countries , with international revenue representing {number} percent of total sales in fiscal {time} , in {time} it reported revenue of {money} , up from {money} {time} prior and {money} in {time} .'
+p3106
+aS'the 36-employee south san francisco company is developing a drug , called {org_1} , that is designed to inhibit glutaminase , which cancer cells eat for energy .'
+p3107
+aS'{time} , {org_1} completed a {money} round of funding led by {org_2} .'
+p3108
+aS'christy shaffer and clay thorp , both of hatteras , sit on the clearside board of directors .'
+p3109
+aS'as reported {time} , {org_1} and {org_2} are slated to act as joint bookrunners .'
+p3110
+aS"{org_d} intends to list its common stock on {stock_institution} under the symbol `` {ticker} . ''"
+p3111
+aS'read more : east bay cybersecurity firm ramps up expansion with reported {money} valuation .'
+p3112
+aS'{time} closing price : {money} .'
+p3113
+aS'related {org_1} buys san jose security startup for {money} capital buys {org_2} for {money} hires {org_4} michael fey as president home of {time} spacious and captivating home in prime pacific heightssee all homes of {time} industriestechnologybanking & financial servicestopicsprivate equity .'
+p3114
+aS'{org_d} is known for its laser hair-removal technology , and its accompanying hardware delivery systems .'
+p3115
+aS"in {time} , {org_1} -lrb- {stock_institution} : {ticker} -rrb- completed a {money} initial public offering , and {time} it 's mapping out its {time} growth strategy ."
+p3116
+aS'{number} customers are managing the offering : {org_2} and {org_3} .'
+p3117
+aS'mark reilly manages daily and weekly coverage at the {org_1} newsroom .'
+p3118
+aS"bluebird , which has been {number} of the best-performing biotech firms to go public in all of {time} , saw it 's market value cut in half over the past six months due to uncertainty among biotech investors as a whole , as well as news {time} that some of the patients treated in an early-stage trial for a rare blood disease do n't appear to be completely cured of the disease ."
+p3119
+aS'{org_d} provides health care organizations with patient-specific , data-driven technology and software products designed to improve the effectiveness of medication regimens , improve patient outcomes , reduce hospitalizations , lower health care costs and manage risk .'
+p3120
+aS'they have a 30-day option to purchase up to {number} additional shares of common stock .'
+p3121
+aS'following the ipo , {org_1} is expected to hold an equity interest in {org_2} , a subsidiary that will use the funds to pay down debt .'
+p3122
+aS'after the ipo , {org_1} , a private equity firm based in san francisco , will continue to own between {number} percent and {number} percent of {org_2} .'
+p3123
+aS'{org_1} .'
+p3124
+aS"chairman and chief executive anthony hsieh cited recent market conditions and the poor performance of other companies ' initial public offerings to explain why the mortgage lender {time} decided to cancel a planned ipo ."
+p3125
+aS'{org_1} announced {time} that its initial public offering began {time} .'
+p3126
+aS'for {time} ending {time} , {org_1} had a {money} profit , or {money} per diluted share , on revenue of {money} .'
+p3127
+aS'{stock_institution} stock symbol : {ticker} .'
+p3128
+aS"rockville cancer diagnostics company {org_1} {time} completed a {money} a equity funding round led by the venture capital division of china 's largest insurance company , {org_3} ."
+p3129
+aS'when {org_d} made its announcement , it was offering about {number} shares for a target price of about {money} per share .'
+p3130
+aS'the discounted valuation triggers a ratchet , or protection written into a previous funding round , according to {org_1} .'
+p3131
+aS"while the filing did not name the {number} investors involved , {org_d} 's backers include {org_1} and {org_2} ."
+p3132
+aS'the san francisco fitness wearable company has lost more than a third of its value since going public {time} at {money} a share .'
+p3133
+aS"to retain customers , {org_d} relies heavily on the {number} weekly opt-in `` {org_1} alert '' e-mails it sends out to customers notifying them about new merchandise ."
+p3134
+aS'its {time} operating assets focus on the denver-julesburg basin , or dj basin , in colorado .'
+p3135
+aS'the offering will raise money for {org_1} by bringing in outside investors and potentially paving the way for {time} acquisitions , some of the people said .'
+p3136
+aS'on {time} {time} , the cambridge cancer and rare disease drug company priced the shares at {money} each , slightly less than its close that day of {money} a share .'
+p3137
+aS"the ipo , which would be {number} of {time} 's largest , might still happen in {time} or {number} , the {org_1} reported , citing unnamed people familiar with the plan ."
+p3138
+aS'jim duffy at stifel cut his rating on the stock to hold from buy , writing , `` given the limited visibility to new product uptake and revenue growth , we see the heightened r&d ; spend as adding risk to the model given the potential for deleverage should revenue slow or fall .'
+p3139
+aS'{org_d} also said it plans to sell {number} shares and trade under the ticker symbol {ticker} .'
+p3140
+aS'{org_1} and {org_2} are serving as joint book-running managers for the offering .'
+p3141
+aS'{org_1} also filed a registration statement with {time} relating to its proposed acquisition of {org_3} for {money} of {org_1} common stock .'
+p3142
+aS"here 's a look at the latest numbers in revenue and users it reported up to {time} : {org_d} had {number} active users and {number} paid members as of {time} ."
+p3143
+aS'it plans to eventually expand in europe and the u. s .'
+p3144
+aS'framingham-based {org_1} , a provider of advanced web content management solutions , announced it has filed for an initial public offering of its common stock .'
+p3145
+aS'the estimated price per share is {money} to {money} .'
+p3146
+aS'ceo nick leschly said that {org_d} will {time} preliminary data from the french study at the {org_1} in milan , italy on {time} .'
+p3147
+aS"there were {number} ipos and several secondary offerings , creating a huge demand and supply imbalance . ''"
+p3148
+aS'and in terms of an acquisition strategy -- allegiance completed {number} -- nothing is on the table at this point , retzloff said .'
+p3149
+aS'contact her at {number} .'
+p3150
+aS'boston-based {org_1} has completed its initial public offering of {number} shares of common stock priced at {money} per share .'
+p3151
+aS'{org_1} operates exclusively in the massachusetts market , offering auto insurance and policies for homeowners and businesses .'
+p3152
+aS'drug developer {org_1} has priced its proposed initial public offering at between {money} and {money} a share .'
+p3153
+aS'it {time} had sold {money} in preferred shares , with investors including affiliates of california-based {org_1} and trident capital ; and {org_2} and {org_3} , both of new york .'
+p3154
+aS'{org_d} helps businesses keep track of devices using their network without requiring special software to be installed on them .'
+p3155
+aS'during the ipo , {org_1} sold more than {number} shares of its class a common stock , with the selling stockholders named in the registration statement selling {number} shares .'
+p3156
+aS'{org_d} plans to sell {number} shares of common stock for {money} to {money} each .'
+p3157
+aS"calithera lost {money} {time} and nearly {money} through {time} , a typical picture for biotech companies that can chew through {money} over 10 years of preclinical work and clinical trials before that {org_1} administrations votes yes or no on the drug 's benefits and safety for patients ."
+p3158
+aS'lowell-based {org_1} , a national internet service provider , announced the pricing of an initial public offering of {number} shares of common stock at a price of {money} per share .'
+p3159
+aS'but if it does , it will be closely watched as an indicator for {org_1} and the other area biotechs {time} hoping to pull off ipos .'
+p3160
+aS"a {org_1} ipo would burnish atlanta 's credentials as an infosec hub ."
+p3161
+aS'the westborough-based {org_1} , which began trading on the {stock_institution} {time} under the symbol {ticker} , is also offering the underwriters the option to buy an additional {number} shares to cover over-allotments .'
+p3162
+aS'shares of the cambridge biotech shot up {number} percent to {money} as of {time} after {org_d} announced the news regarding its potential drug , called {org_1} , during its {time} financial report {time} {time} .'
+p3163
+aS'why adaptimmune chose philadelphia .'
+p3164
+aS'{org_1} also agreed to form a partnership with {org_2} to develop new drugs , helping it to expand product development in europe and build its cancer research .'
+p3165
+aS'{org_1} says it intends to use the net proceeds from the offering for working capital and general corporate purposes , including potential acquisitions and to repay outstanding indebtedness .'
+p3166
+aS'{org_1} , of fairfax , and {org_2} , of arlington , va. , filed papers with {time} {time} .'
+p3167
+aS"as {number} of several new , publicly traded gene therapy firms in the area -- including {org_1} -lrb- {stock_institution} : {ticker} -rrb- , {org_2} -lrb- {stock_institution} : {ticker} -rrb- and {org_3} therapeutics -lrb- {stock_institution} : {ticker} -rrb- , which is based near philadelphia but just opened a waltham facility -- {org_4} 's ipo {time} is an indicator of not only {time} investor attitudes toward biotech , but of the relatively new field of companies that aim to treat diseases by replacing certain genes in the body ."
+p3168
+aS'xerium employs about {number} workers at {number} manufacturing sites in {number} countries around the world .'
+p3169
+aS'according to its filings , {org_1} had a net loss of {money} on about {money} in revenue for {time} .'
+p3170
+aS'software development tool provider atlassian increased its ipo targets on {time} and is {time} planning to raise up to {money} when it goes public {time} .'
+p3171
+aS'in {time} {org_d} reported that out of the {number} people who had been in a {org_1} {number} trial long enough to generate data , {number} responded favorably to the drug , including {number} who saw a complete remission .'
+p3172
+aS'{org_1} and {org_2} are the underwriters .'
+p3173
+aS"{org_1} , a technology-enabled provider of financial process automation , procurement , and asset management services , wo n't be going public in the foreseeable {time} ."
+p3174
+aS"it edged back into minnesota as its retail-store business expanded , though website and catalog sales represent {number} percent of {org_d} 's revenue ."
+p3175
+aS'the anticipated ipo price is between {money} and {money} .'
+p3176
+aS'with new leadership and money in the bank , {org_1} is aiming to further wrest market share from incumbents as major banks , corporations and retailers brace for security threats .'
+p3177
+aS'{org_d} made its first acquisition {time} , buying {org_1} -lrb- kan. -rrb- for {money} , according to {stock_institution} filings .'
+p3178
+aS'but security is a hot sector in the wake of a series of high-profile hacks into major companies like {org_1} and growing concerns about foreign government-sponsored cyber espionage .'
+p3179
+aS"`` there 's a sense of many companies contemplating that the public markets are open to them , '' said jonathan gertler , head of the health care investment banking division at {org_1} in boston ."
+p3180
+aS'{org_1} had planned to sell as much as {number} percent of {org_2} at up to {money} per share , valuing the cancer research company at {money} -lrb- {money} -rrb- .'
+p3181
+aS'{org_1} announced {time} that it had completed its spinoff of its controlling stake in newton-based {org_2} into a new publicly traded company called {org_3} .'
+p3182
+aS'shares closed at {money} at end of trading on {time} .'
+p3183
+aS'{org_1} , founded in {time} , employs {number} workers .'
+p3184
+aS'{org_1} representatives could not be immediately reached for comment {org_2} said .'
+p3185
+aS'{org_1} , {org_2} and a. g. edwards are serving as underwriters .'
+p3186
+aS'the ipo plans come just six months after {org_1} raised {money} in a fourth round of private equity financing .'
+p3187
+aS'{org_1} and chardan also are listed as underwriters .'
+p3188
+aS'{org_1} filed for an initial public offering in {time} , and in {time} announced it would seek to raise up to {money} .'
+p3189
+aS'cromwell schubarth is techflash editor at the {org_1} .'
+p3190
+aS'company : {org_1} .'
+p3191
+aS'{money} funded since inception and {money} in {time} .'
+p3192
+aS'{org_1} {time} won a {money} order that could grow to as much as {money} .'
+p3193
+aS'{org_1} bought {org_d} for {money} in {time} .'
+p3194
+aS'{org_1} filed for its ipo in {time} and announced plans {time} to offer {number} shares priced between {money} and {money} each , with a goal to raise as much as {money} .'
+p3195
+aS'{org_1} was founded in {time} .'
+p3196
+aS'it purchased {org_1} and its wholly owned banking subsidiary , {org_2} , for an undisclosed amount in {time} .'
+p3197
+aS'its {time} operating assets focus on the denver-julesburg basin , or dj basin , in colorado .'
+p3198
+aS'use of proceeds : {org_1} said it intends to use the proceeds as follows : {money} to fund external research-and-development expenses for spk-rpe65 , potential treatment for rare inherited retinal dystrophies that cause blindness ; , {money} to fund external research-and-development expenses for spk-chm , an experimental treatment for choroideremia , a rare inherited disorder that causes progressive vision loss ; , {money} to fund external research-and-development expenses for our spk-fix program ; an experimental treatment for hemophilia b ; , {money} to fund external research-and-development expenses for preclinical product candidates ; and , the remainder for working capital , general and administrative expenses , internal research and development expenses and other general corporate purposes , including pre-commercial activities , in-licenses or potential acquisitions .'
+p3199
+aS'according to a news release from the bank , regulators have approved the creation of {org_1} .'
+p3200
+aS'{org_1} plans to use the funds to expand its reach and build on its product offerings .'
+p3201
+aS'the offering was led by {org_1} , and co-managed by {org_2} and robertson stephens .'
+p3202
+aS'{org_1} , the {org_2} security company {org_3} acquired in {time} , is reportedly fielding pitches to go public again {time} .'
+p3203
+aS'.'
+aS"however , {org_d} elected to postpone the offering due to `` unfavorable equity market conditions , '' according to a statement ."
+p3204
+aS"boston 's {org_1} will be responsible for the options ."
+p3205
+aS'{org_d} began {time} with a market cap of {money} .'
+p3206
+aS'{org_1} , the west chester-based food manufacturer that makes more than {number} products backed by {org_2} , reportedly selected {org_3} , {org_4} and {org_5} to manage its ipo .'
+p3207
+aS'{org_1} said it has granted its underwriters the option to buy another {number} shares in {org_d} in {time} , which would {number} another {money} .'
+p3208
+aS'`` {time} we continue our journey as the second largest consumer nonbank lender in the country in {number} short years .'
+p3209
+aS'he plans to double the r&d ; team , growing from {number} employees there , and add {number} people to tech support team and increase sales capacity .'
+p3210
+aS"`` a lot of the people that are really buying new issues are biotech specialists and they are demanding a bit more in terms of what a company has in terms of clinical data , '' said {org_1} wood , senior biotech analyst at america 's {org_2} in boston ."
+p3211
+aS'such cards protect against fraud better than magnetic-stripe cards in most transactions .'
+p3212
+aS'buyout firms usually hold onto assets for about five years .'
+p3213
+aS'{org_1} , which has contracts with the {org_2} and {org_3} , is the fifth defense services company in the greater washington area to file for an ipo since {time} .'
+p3214
+aS'it services also include bundled prescription fulfillment and adherence packaging services for patients with complex prescription needs .'
+p3215
+aS'{org_d} initially filed an {org_1} with the {stock_institution} in {time} and planned to trade on the {stock_institution} under {org_2} .'
+p3216
+aS'schwach said there are no plans for an ipo at the moment .'
+p3217
+aS"`` we do n't want to be {number} of those companies that raises at a valuation {time} that 's eye-popping on the private market and then have to go public at half the price , '' gouw told {org_1} ."
+p3218
+aS'with {org_1} , {org_2} is also developing remote-controlled vehicles to run supplies to soldiers in hostile territory .'
+p3219
+aS'other big private investors who bought into {org_d} at that time include {org_1} and {org_2} .'
+p3220
+aS'{org_1} closed its initial public offering {time} , selling a total {number} shares at {money} per share .'
+p3221
+aS'its original range was between {money} and {money} per share .'
+p3222
+aS'{org_d} offered almost {number} securities listed at {money} each with an indicative market capitalization of approximately {money} -lrb- australian dollars -rrb- on a fully diluted basis .'
+p3223
+aS'.'
+aS'a biopharma developing treatments for diseases that cause blindness , and backed by durham venture capital group {org_1} , has filed for an initial public offering .'
+p3224
+aS"that does n't count the profits shareholders would reap from the sale ."
+p3225
+aS'it is the latest in a series of disappointing wall street debuts by companies from the region , a situation that has many postponing ipos in favor of raising large private funding rounds .'
+p3226
+aS"`` it 's hard for a company to move on a dime ."
+p3227
+aS'that field , though still promising , has seen some setbacks in recent months .'
+p3228
+aS'{org_1} has grown to {number} employees {time} from {number} at {time} .'
+p3229
+aS'a health-related website based in keystone heights and launched in {time} is planning an initial public offering .'
+p3230
+aS'{org_1} {time} formed {org_2} to own , operate , develop and acquire a wide range of domestic midstream infrastructure assets .'
+p3231
+aS'claire tucker , for instance , is {time} president and ceo of {org_1} , while dan hogan is {time} ceo of {org_2} .'
+p3232
+aS"some observers see {org_1} as providing alternatives to bone marrow transplant , through replenishing a patient 's cells with undamaged cells ."
+p3233
+aS"the business could be worth as much as {money} , though the target valuation is n't yet finalized , the {org_1} noted ."
+p3234
+aS'{org_d} also expected to give underwriters a 30-day option to purchase an additional {number} shares at the ipo price .'
+p3235
+aS"the website includes articles and videos arranged around an index of topics including sexuality -lrb- `` the rainbow-kamasutra '' -rrb- and substance abuse -lrb- `` alcohal -lsb- sic -rsb- abuse '' -rrb- ."
+p3236
+aS'president and chief scientific officer : dr. katherine a. high .'
+p3237
+aS'{org_d} has sold {number} floor vacuums , which operate independent of human intervention , and {org_2} {time} released scooba , which washes floors .'
+p3238
+aS'{org_1} , the mobile payments company co-founded by {org_2} natives jack dorsey and jim mckelvey , is slated to price shares {time} for its initial public offering .'
+p3239
+aS'{org_d} is expected to be valued at as much as {money} and could list its shares as early as {time} .'
+p3240
+aS'revenue in {time} , according to {time} filing , was {money} .'
+p3241
+aS'a new contract dorsey signed {time} with {org_1} stipulates he will devote his `` full business efforts and time to {org_d} , other than with respect to your work with {org_2} .'
+p3242
+aS"boston 's {org_1} filed plans for an ipo at {time} ."
+p3243
+aS"`` it 's more expensive to borrow , and there 's some incentive in that regard -lsb- to go public ' to reduce their borrowing cost . ''"
+p3244
+aS"the conor stents are designed with tiny perforations that excrete time-released drugs , which {org_d} said provides for better long-term prevention of clogged arteries than competitors ' drug polymer coatings ."
+p3245
+aS'it said in a regulatory filing on {time} that it plans to sell {number} shares for between {money} and {money} each .'
+p3246
+aS"hsieh called his company a `` unicorn startup that has surpassed the {money} valuation '' and hailed it as {number} of the very few success stories not from silicon valley ."
+p3247
+aS'revenue in its most recent quarter was up {number} percent to {money} , and net income was up about {number} percent to about {money} .'
+p3248
+aS'westford-based {org_1} , founded in {time} , employs about {number} .'
+p3249
+aS"{org_d} added that it would `` continue to evaluate the timing for the proposed offering as market conditions develop . ''"
+p3250
+aS'santa clara online textbook company {org_1} , which also posted quarterly results on {time} , is nearly three-quarters below the price it went public at .'
+p3251
+aS'{org_1} is {org_d} of {org_2} .'
+p3252
+aS"{number} of the region 's largest private companies could be gearing up for an initial public offering {time} , {org_1} reports ."
+p3253
+aS"its {number} shares would trade on the {stock_institution} exchange as `` {org_1} , '' {org_d} said {time} in a filing with the {stock_institution} ."
+p3254
+aS'shares of {org_1} were down almost {number} percent {time} to around {money} per share .'
+p3255
+aS'a trial of up to {number} patients began {time} , and {number} in the u. s. that will involve up to {number} patients began with the infusion of the first patient in {time} .'
+p3256
+aS'it makes sense for {org_1} to hold on to {org_2} to cash in on {time} upside .'
+p3257
+aS"{org_1} spokesman cited {org_2} 's {number} percent market share in the u. s. , with more than {number} direct and indirect customers , including many of the largest north {org_3} issuers of debit and credit cards , such as {org_4} , {org_5} , {org_6} and {org_7} ."
+p3258
+aS"most of that rise has been due to good trial results from {org_d} 's potential drug to treat acute myeloid leukemia or myelodysplastic syndrome ."
+p3259
+aS'the software development tool company , which has dual headquarters in san francisco and australia , priced its ipo shares at {money} .'
+p3260
+aS'with biotech stocks at their lowest in more than a year , a 10-year-old drug maker aiming for drugs that boost the effects of {time} approved cystic fibrosis drugs is refining its plans to test the investor waters with a {money} offering .'
+p3261
+aS'{org_1} has {money} in new funding that vaults it into a {money} valuation as its ceo watches for the right time to take the enterprise device security startup public .'
+p3262
+aS'{org_1} which is headquartered in cherry hill , was founded in {time} .'
+p3263
+aS'investors in yieldcos tend to also invest in the energy sector .'
+p3264
+aS'even some of the ipos of the past two years that were wildly successful have since hit trouble with public investors .'
+p3265
+aS'{org_d} also was a {org_1} in business winner {time} and a {org_2} to work honoree in {time} .'
+p3266
+aS'boston-based {org_1} is {number} of {number} underwriters for the proposed issue , which would trade on the {stock_institution} under the ticker symbol {ticker} .'
+p3267
+aS'calithera is led by ceo susan molineaux , who oversaw the {time} sale of {org_1} and the compound that would become the multiple myeloma drug kyprolis to {org_2} .'
+p3268
+aS"in addition to owning {org_1} 's general partner and all of its incentive distribution rights , {org_2} also expects to retain a majority of {org_1} 's limited partner interests ."
+p3269
+aS'{org_1} company has developed a proprietary process called selective {org_2} .'
+p3270
+aS'{org_1} owns about {number} square feet of showroom space between both markets .'
+p3271
+aS'the ipo move could be about unlocking value and giving privately held {org_1} the currency of a publicly traded stock which it can use to make acquisitions .'
+p3272
+aS'analysts appear intrigued by its re-emergence in the ipo market .'
+p3273
+aS'the others on that list are spark therapeutics , {org_1} , zynerba , {org_2} and regenxbio .'
+p3274
+aS'annie gaus is the technology reporter for the {org_1} .'
+p3275
+aS'{org_1} , a wilmington chemical detector maker , announced {time} that it has registered with {time} for an initial stock offering priced at {money} .'
+p3276
+aS"`` {org_1} has many options as a successful profit-generating company , and the pursuit of an ipo was {number} option to accelerate our plans for growth that were already in progress , '' he said ."
+p3277
+aS'{org_d} has other {org_1} offices in chicago , dallas and san francisco .'
+p3278
+aS"locateplus ' underwriter , {org_1} , is conducting the offering through a prospectus sale ."
+p3279
+aS'{org_d} delayed its initial public stock offering amid volatile market conditions .'
+p3280
+aS". ''"
+p3281
+aS'what it does : {org_d} is developing one-time , life-altering , gene therapy treatments -- which involve introducing healthy genes into cells in place of missing or defective ones -- initially for patients suffering from rare diseases where no therapies exist .'
+p3282
+aS'worldwide wholesale sales of all products bearing the {org_1} name , generated by {org_d} as well as licensing partners and affiliates , reached {money} in {time} , {org_d} said .'
+p3283
+aS'lexington -- {org_1} has filed plans for an initial public offering .'
+p3284
+aS"the statement from {org_d} gave no indication what kind of data will be presented other than to say , `` we look forward to sharing these early clinical data and thank all those involved in our {org_1} clinical trials for their commitment to finding a potential new treatment for patients with beta-thalassemia . ''"
+p3285
+aS'{org_d} estimated it would net {money} from the ipo -lrb- not including any additional shares it sells to underwriters -rrb- - money the company could use to pay down debt , generate working capital or make acquisitions .'
+p3286
+aS'the managing underwriters for this offering are {org_1} , {org_2} , {org_3} , and {org_4} .'
+p3287
+aS'some holders of company stock also plan to offer shares for sale , but {org_d} would not receive any of those proceeds .'
+p3288
+aS'{org_1} , baird , j. p. morgan , {org_2} , {org_3} , {org_4} are acting as book-running managers for the offering , and {org_1} and baird are acting as structuring fee agents for the offering .'
+p3289
+aS"{org_d} 's common stock began trading on {stock_institution} on {time} ."
+p3290
+aS'follow her on twitter for more .'
+p3291
+aS'.'
+aS'{org_d} was founded in {time} by co-founders of {org_1} and {org_2} , including {org_3} co-founder steve hafner , who is ceo of {org_4} , and runs a website that aggregates other travel sites , and paul english , who is president and director .'
+p3292
+aS'those include waltham-based {org_1} + {org_2} and boston-based {org_3} .'
+p3293
+aS"`` {org_1} was probably wise in seeking a lesser amount this time , '' said michael lytton , a partner at {org_2} ."
+p3294
+aS'{org_1} began exploring an ipo in {time} that was expected to give {org_1} a stock market value of more than {money} .'
+p3295
+aS'{org_1} is {org_d} formed through a {money} deal that maricich put together in {time} to place the core showrooms of both the high point and las vegas markets under common ownership .'
+p3296
+aS"{org_d} 's decision comes just a week after the master limited partnership announced that it would officially launch the ipo ."
+p3297
+aS"if allegiance did decide to add a branch , it would look at a location it has n't targeted yet ."
+p3298
+aS'the technology , called mosaic , was developed by new york-based {org_1} , a venture capital database and research firm .'
+p3299
+aS'it had planned to use the ipo to create a diversified portfolio of projects following the ipo that were operational , under construction or in advanced development in the united kingdom and the united states .'
+p3300
+aS"atlassian 's offering brings the total for tech ipos in the country {time} to {number} , down {number} percent from {time} 's total , according to research firm {stock_institution} ."
+p3301
+aS'home of {time} sponsor listing resort living at its finestsee all homes of {time} .'
+p3302
+aS'a {org_1} spokesperson declined to comment on the matter , again citing the quiet period , though in its s-1 filing with {time} , {org_d} says it filed a response on {time} and intends to vigorously defend itself .'
+p3303
+aS"`` in order to keep the filing {time} , we would have to incur expenses that just do n't make sense , '' maricich said ."
+p3304
+aS'{org_1} contributed to this story .'
+p3305
+aS'there are also more than {number} information security companies in georgia , which generate more than {money} in annual revenue and represents about {number} percent of the worldwide security revenue market share .'
+p3306
+aS'its {time} operating assets focus on the denver-julesburg basin , or dj basin , in colorado .'
+p3307
+aS'{org_d} has dual headquarters in sydney , australia , where it was founded , and san francisco , where most of its top executives work .'
+p3308
+aS'the duo founded {org_1} together in {time} , and have since grown the emeryville-based security platform to more than {number} employees and an estimated valuation of {money} .'
+p3309
+aS'{time} {org_d} filed an ipo seeking {money} but later withdrew it due to inauspicious conditions in the financial markets .'
+p3310
+aS"georgia companies employ more than {number} network and computer systems engineers and software and it services represent {number} percent of georgia 's tech employment sector ."
+p3311
+aS'there have been {number} tech {org_2} {time} , according to {stock_institution} , less than half the {number} that went public in {time} .'
+p3312
+aS'{org_d} added over {number} new customers in {time} , and boasts a {number} percent renewal rate , hindawi wrote .'
+p3313
+aS'the number of shares was also fewer than what observers had speculated would be offered .'
+p3314
+aS'but with a national investment backing , the capital for an acquisition is there .'
+p3315
+aS'coley also plans to sell another {money} in stock during a private placement with pharmaceutical giant {org_1} , which has already paid {org_d} {money} to co-develop and commercialize its lung-cancer treatment , promune .'
+p3316
+aS'{number} .'
+p3317
+aS'{org_1} , an operator of clean and renewable electric projects , withdrew its registration for a {money} ipo on {time} .'
+p3318
+aS"burlington , mass.-based {org_1} , which the past few years has captured the world 's fascination with its robotic vacuum cleaners reminiscent of `` the jetsons , '' {time} filed to raise {money} in an initial public offering of stock ."
+p3319
+aS'funding in {time} broke the {money} barrier .'
+p3320
+aS"{org_1} 's {number} employees are split between its base in wakefield , mass. and fort saskatchewa , alberta , near parent company {org_2} in calgary ."
+p3321
+aS"joyce hersh , an attorney with the {org_1} , said that {org_d} had a good shot at a successful public launch because of its `` simple , elegant strategy '' of developing new drugs from existing compounds ."
+p3322
+aS"approximately {number} companies use {org_1} 's affinium software to manage multiple marketing channels and analyze results , including {org_2} , fedex and l. l. bean ."
+p3323
+aS'a call option gives investors the ability to buy a security at a set price over a set period .'
+p3324
+aS"in filings to {time} , executives stated that it has had a `` cumulative net loss '' of {money} ."
+p3325
+aS'neither has yet had an ipo .'
+p3326
+aS'as of {time} , its shares were down about {number} percent to {money} a share .'
+p3327
+aS'morgan lewis is representing {org_1} in its ipo .'
+p3328
+aS'.'
+aS'the ipo , called a direct public offering , calls for the sale of {number} shares of stock at a minimum price of {money} and a maximum of {money} .'
+p3329
+aS'rochester , n. h.-based {org_1} , a holding company for networking and telecommunications companies , said an initial public offering of {org_2} common stock on the {stock_institution} .'
+p3330
+aS'.'
+aS'while the ipo was being watched for signs of what may be in store for other tech companies waiting in the wings with {money} valuations , atlassian has been viewed as an outlier in many ways .'
+p3331
+aS"`` their support and trust makes me prouder than any number on a balance sheet , but it translates into a real , sustainable business as well , '' hindawi added ."
+p3332
+aS'they plan to trade on {stock_institution} with the symbol of `` {ticker} .'
+p3333
+aS"{org_1} 's research and development efforts are targeted to the production of cellular medicines that contain amplified populations of therapeutic cells ."
+p3334
+aS'that list of biopharmaceutical companies to complete ipos in {time} consists of spark therapeutics , aclaris therapeutics and zynerba , all of which have local headquarters ; adaptimmune and {org_1} , which have their u. s. headquarters here ; and regenxbio , a maryland company whose research operations are based at labs on the campus of the {org_2} .'
+p3335
+aS'sunnyvale-based semiconductor company {org_1} raised half of the money it set out to get when it went public {time} .'
+p3336
+aS"ash ashutosh , ceo of {org_1} , said {org_d} 's financials are strong ."
+p3337
+aS"profitability does n't have to simply be aspirational -- it 's achievable for healthy companies ."
+p3338
+aS'{org_d} has {time} raised a total of {money} .'
+p3339
+aS"`` few can deny how the choppy ipo market has impacted so many great brands , '' hsieh said ."
+p3340
+aS'get the free daily {org_1} newsletterthe offering was just the fifth {time} by a u. s. tech unicorn .'
+p3341
+aS"the houston-based bank does n't plan to expand outside the greater houston area , steve retzloff , bank chairman , told the {org_1} ."
+p3342
+aS'both products are manufactured in china .'
+p3343
+aS"`` it does n't fit into the {time} mold of a product in late stages of clinical trials -lrb- and thus is seeking a modest sum -rrb- ."
+p3344
+aS"`` this levels the playing field to allow average investors to participate in an ipo , '' said peter casey , a spokesman for {org_1} ."
+p3345
+aS'in {time} , xerium joined a flurry of companies filing income deposit security ipos involving class a common stock and senior subordinated notes .'
+p3346
+aS'{org_1} chairman of its board is greg verdine , ceo of {org_2} .'
+p3347
+aS"click here to read {org_1} 's interview with {org_2} ceo george martinez about the acquisitions and his thoughts on going public ."
+p3348
+aS'{org_d} owns {number} patents and has {number} more pending .'
+p3349
+aS"there 's a lot of growth opportunity . ''"
+p3350
+aS'{org_1} appears to be the first massachusetts life sciences ipo filling of {time} .'
+p3351
+aS'{number} other compounds are being tested to treat cancer tumors and diabetes .'
+p3352
+aS"{org_1} and sandler o'neill + partners l. p. served as co-managers for the offering ."
+p3353
+aS"it is {org_1} 's -lrb- {stock_institution} : {ticker} -rrb- fifth fund to use a covered-call writing strategy ."
+p3354
+aS'the managing underwriter of the offering will be {org_1} , acting as book-running manager , with {org_2} and lazard as co-managers .'
+p3355
+aS'{org_1} outsources its warehouse and fulfillment operations to {org_2} , a subsidiary of shipping giant {org_3} , and farms out its customer service to {org_4} of charlotte , n. c .'
+p3356
+aS'{org_1} and {org_2} are {time} separate publicly traded companies .'
+p3357
+aS'the doctors see that aggregated information when they prescribe medicine .'
+p3358
+aS"the offer was slated to represent about a {number} percent to {number} percent stake in {org_d} , with {org_1} 's partner , {org_2} -lrb- {stock_institution} : {ticker} -rrb- , retaining a majority of the limited partner interests ."
+p3359
+aS'{org_1} , which has {number} employees , is led by ceo colin broom , a former {org_2} executive .'
+p3360
+aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- plans to use the proceeds from the stock offering to advance the development of its experimental skin disorder treatments .'
+p3361
+aS'{org_1} , in its {stock_institution} filing announcing its ipo withdrawal , said it may pursue a private offering at a later date .'
+p3362
+aS'{org_1} is the sixth biopharmaceutical company based here , or with its u. s. headquarters or research operations based in the region , to go public {time} .'
+p3363
+aS'{org_1} , a maryland gene therapy company with research operations at the {org_2} , went public {time} .'
+p3364
+aS'the offering includes shares to be sold by {org_1} as well as by el .'
+p3365
+aS"since {time} , coley 's cumulative loss exceeds {money} ."
+p3366
+aS'that drove {time} sales up about {number} percent compared with year-earlier figures .'
+p3367
+aS'there have been just {number} tech ipos {time} , returning an average of {number} percent above their offering price .'
+p3368
+aS'however , its umbilical cord blood stem cell storage unit {org_1} has shown steady gains .'
+p3369
+aS"{org_1} 's focus is on developing stem-cell therapies to treat diseases like cancer , genetic disorders and infertility ."
+p3370
+aS'{org_d} is not profitable , however .'
+p3371
+aS'dorsey was already being scrutinized by {org_1} after {org_2} announced {time} that it saw a {time} loss of {money} , its largest quarterly loss since at least {time} .'
+p3372
+aS'{org_1} shareholders have voted unanimously to approve {org_d} .'
+p3373
+aS'another purchase , of {org_1} in spring hill , kan. , allowed {org_2} to enter the overland park market in {time} .'
+p3374
+aS'cromwell schubarth is techflash editor at the {org_1} .'
+p3375
+aS'{org_1} revised the amount of its proposed ipo in an {stock_institution} filing {time} .'
+p3376
+aS'brian feldt covers technology , venture capital , startups , real estate and sports business .'
+p3377
+aS"but {org_d} 's {time} filing with the {stock_institution} suggests the number could be as high as {money} ."
+p3378
+aS'endostim , the {org_1} medical device maker that had planned an initial public offering , has officially canceled its ipo , according to documents filed with the {stock_institution} .'
+p3379
+aS'its corporate structure is unusual in that it has a research division that is hemorrhaging money and a subsidiary that makes a tidy profit .'
+p3380
+aS'about half of the more than {number} bay area companies that have gone public since {time} are trading below their ipo price .'
+p3381
+aS'{time} , investors and company executives recapitalized {org_d} and gained full control of {org_d} stock .'
+p3382
+aS'{org_1} has filed a registration statement with the {stock_institution} for a proposed initial public offering of its class a common stock .'
+p3383
+aS'its parent company , {org_1} , was the 17th-largest bank in houston based on its {time} deposits .'
+p3384
+aS'the portfolio consists of {number} office properties , {number} hotels , {number} industrial properties and {number} garage property .'
+p3385
+aS'mark covers banking and finance .'
+p3386
+aS'follow him on twitter for more .'
+p3387
+aS'the {number} companies will {time} have to renegotiate the pact after the listing , planned for {time} , was scrapped .'
+p3388
+aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- , a cambridge gene editing firm , raised {money} , pricing shares at {money} each .'
+p3389
+aS'the number of shares to be offered and the price range for the offering have not been determined .'
+p3390
+aS'{org_1} of newly public cambridge biotechnology firm {org_2} were slightly up in the first few minutes of trading {time} after {org_d} raised {money} in a slightly downsized initial public offering .'
+p3391
+aS'{time} , {org_d} generated annual revenues of {money} .'
+p3392
+aS'the floating-rate income trust is the 18th new closed-end fund {org_1} has offered since {time} .'
+p3393
+aS"{org_d} of {org_1} offered more than {number} shares of class a common stock at a public price of {money} per share , including {number} additional shares of the company 's {org_2} a common stock underwriters were granted ."
+p3394
+aS'conor did not set a time table or a per-share price range for its offering .'
+p3395
+aS'as a company that has been aggressive in its acquistions -- and amassed debt because of it -- smith said the pause on its ipo could slow down its acquisition process , not to mention going public .'
+p3396
+aS'formed in {time} by century-old boston-based liquidator {org_1} , {org_2} buys excess inventory such as apparel , electronics and home goods and then sells them to consumers via its website .'
+p3397
+aS'the steeper discount suggests uncertainty among investors over the profitability of the payments sector and {time} of {org_1} , which for {time} , lost {money} on sales of {money} .'
+p3398
+aS'what is more , smith said {org_1} is a leverage company , and investors are wary about companies that carry that kind of debt .'
+p3399
+aS'{org_1} spokesman alan hill , however , declined comment .'
+p3400
+aS'it also owns the {org_1} , which offers a variety of educational test preparation , academic tutoring and college counseling .'
+p3401
+aS'the test , which measures a panel of tumor biomarkers , uses an algorithm that combines those biomarker values to generate a risk {number} .'
+p3402
+aS'the {org_1} launched {time} .'
+p3403
+aS"`` {time} it 's all about watching the market and timing it , '' he told {org_1} ."
+p3404
+aS"starting {time} , businesses that are n't prepared to accept {org_1} cards are responsible to pay for fraudulent charges that occur in their store , restaurant or other establishment ."
+p3405
+aS'get the free daily {org_1} newsletter .'
+p3406
+aS"{org_d} also is working in the field of cancer immunology , trying to tap the body 's immune system to attack and kill cancer cells ."
+p3407
+aS'on board , {org_1} , .'
+p3408
+aS'{org_d} has developed a drug screening method that uses chemical genomics to rapidly determine which drug candidates bind to disease-related proteins in the body .'
+p3409
+aS'the {org_1} tax-managed {org_2} -lrb- {stock_institution} : {ticker} -rrb- started trading {time} on the {stock_institution} .'
+p3410
+aS'{org_1} has raised nearly {money} in venture funding to date .'
+p3411
+aS'the roadshow to market the stock to investors could launch as soon as {time} , they added -- meaning the stock could start trading around {time} .'
+p3412
+aS'`` i think that {org_d} will raise this money .'
+p3413
+aS'the ipo raised {money} and its offering price gave {org_d} a preliminary valuation of {money} .'
+p3414
+aS'{org_1} lost {money} in {time} on sales of {money} , according to public filings .'
+p3415
+aS'{org_1} has since made atlanta the headquarters of its cybersecurity business and significantly expanded the local workforce .'
+p3416
+aS"{org_1} approves south jersey firm 's e-prescription system ."
+p3417
+aS'looking to raise approximately {money} , chelmsford-based {org_1} has priced its initial public offering of {number} shares of its common stock at {money} per share .'
+p3418
+aS'based in alpharetta , georgia , {org_1} has no fewer than {number} different experimental products in its pipeline to treat various diseases of the eye .'
+p3419
+aS'{org_1} reported a net loss in {time} of {money} on sales of {money} .'
+p3420
+aS'it reported a net loss of {money} , or {money} a share , for the same period , missing the consensus by {money} .'
+p3421
+aS"{org_1} , the dominant landlord of both the high point market and the las vegas market , has withdrawn its request for an initial public offering due to `` unfavorable market conditions at this time , '' according to a filing with the {stock_institution} ."
+p3422
+aS'`` cromwell schubarth is techflash editor at the {org_1} .'
+p3423
+aS'there were fewer ipos in the u. s. in {time} compared to {time} , though mlps have been an exception in the energy industry .'
+p3424
+aS'that money was to be earmarked for commercialization and clinical development .'
+p3425
+aS'get the free daily {org_1} newsletter .'
+p3426
+aS'other big private investors who bought into {org_d} at that time include {org_1} and {org_2} .'
+p3427
+aS'while the market is down , smith said many investors are looking at existing stocks that can be an opportunity , and are less interested with new stocks .'
+p3428
+aS"`` as this landscape continues to advance , intelligent and dynamic platforms like ours are becoming an integral part of the facility management tool kit . ''"
+p3429
+aS"they had gained {number} percent , beating the {number} advance of the standard & poor 's {number} index ."
+p3430
+aS'{org_1} was unable to comment at time of publication .'
+p3431
+aS"`` that arrangement has proven -- and will continue -- to be an excellent {number} for {org_1} . ''"
+p3432
+aS'{org_1} {time} formed {org_2} to own , operate , develop and acquire a wide range of domestic midstream infrastructure assets .'
+p3433
+aS"`` many legendary athletes have excelled in their sports wearing {org_1} footwear , including julius erving , wilt chamberlain , lou brock , jimmy connors , larry bird , chris evert and tony dorsett , '' it added ."
+p3434
+aS"and while an ipo continues to be an option , perhaps one day in {time} , it 's not a necessity . ''"
+p3435
+aS"{org_1} 's net proceeds of its ipo on {time} were {money} ."
+p3436
+aS'the new structure brings with it some new titles for the bank .'
+p3437
+aS'.'
+aS'{org_1} attempt to raise money in the public markets again indicates {org_d} is persistent - and needs cash to advance its cutting-edge science .'
+p3438
+aS'the antibiotics developer is based in vienna , austria , and has its u. s. headquarters in king of prussia .'
+p3439
+aS"{org_d} was founded by {org_1} researchers helen greiner , who is chairman and president , and rodney brooks , {org_2} 's chief technology officer ."
+p3440
+aS"theresia gouw , a board member whose {org_1} is a {org_2} investor , told {org_3} raising this round was n't easy because investors are pulling back on late-stage funding ."
+p3441
+aS'a {org_1} spokesperson declined to comment because of a mandated quiet period following an ipo filing .'
+p3442
+aS'it did not provide details explaining the change .'
+p3443
+aS'in addition , {org_1} has sold the {number} packbot robots , which perform battlefield reconnaissance and bomb disposal , made by ohio-based {org_2} .'
+p3444
+aS'it had {money} in cash and equivalents on that date .'
+p3445
+aS"{org_d} 's plans for an ipo preceded its {time} transition to a for-profit company ."
+p3446
+aS'but after an expected mid-march ipo launch came and went , {org_1} delayed its targeted {money} ipo , citing market conditions without further explanation .'
+p3447
+aS'the total number of shares sold included an additional {number} offered by underwriters to cover overallotments .'
+p3448
+aS'so far , no companies have gone public in {time} due to volatility and the slowing economy in china , coupled with depressed commodity prices and turmoil in the high-yield bond market .'
+p3449
+aS"{org_1} first reported {org_d} 's plan to go public {time} ."
+p3450
+aS'the quincy , mass. firm said it plans to price its shares at between {money} and {money} per share , giving {org_d} a market value of between {money} and {money} .'
+p3451
+aS"terms of {org_1} 's st. louis deal were n't disclosed ."
+p3452
+aS"shares of fairfax , va.-based {org_1} jumped {number} percent by mid-morning , to {money} , in {org_d} 's {time} of public trading ."
+p3453
+aS'the life sciences software company filed an ipo in mid-march estimated at the time to be worth as much as {money} , with estimates in {time} coming in closer to the range of {money} to {money} .'
+p3454
+aS"`` in simple terms , {org_d} is putting off its public offering due to {time} stock market conditions , '' said brian hamilton , chairman of {org_1} , a financial information company ."
+p3455
+aS'cambridge-based {org_1} , which filed an ipo in {time} , was expected to start trading publicly {time} .'
+p3456
+aS"{org_1} and {org_2} are the offering 's underwriters ."
+p3457
+aS'in {time} closed a fourth private financing round worth {money} from {org_2} , {org_3} , {org_4} and {org_5} , as well as a group of new institutional and individual investors .'
+p3458
+aS'{number} phase {number} trials of {org_1} have begun in recent months in patients with beta-thalassemia major , an inherited blood disorder that affects {number} patients in the world and about {number} in the u. s. and europe .'
+p3459
+aS"{org_d} 's {org_1} platform helps building owners and managers make real-time changes to heating and cooling operations based on variables such as weather forecasts , energy prices , tenant comfort , building characteristics and demand response events ."
+p3460
+aS'another boston-area biopharmaceutical company is in the ipo pool .'
+p3461
+aS'it is the parent of more than {number} brands including match.com , okcupid , tinder and plentyoffish , which {org_1} bought for {money} on {time} .'
+p3462
+aS'per the prospectus , {org_1} estimates that the net proceeds from their issuance and sale of {number} shares of common stock in this offering would be approximately {money} , assuming an initial public offering price of {money} per share , which is the midpoint of the price range listed on the cover page of the prospectus , and after deducting underwriting discounts and commissions and offering expenses payable by {org_1} .'
+p3463
+aS'{org_1} and {org_2} closed {time} above their ipo price , but the other {number} closed below their offering price .'
+p3464
+aS'dorsey on {time} was named full-time ceo of {org_1} , the social media platform he helped co-founded before being pushed out in {time} .'
+p3465
+aS'{org_1} , the high-growth cybersecurity firm based in emeryville , has shuffled its leadership as {org_d} prepares for long-term success in the red-hot security sector .'
+p3466
+aS'as far as an ipo , he said {org_d} is planning for the event .'
+p3467
+aS'{org_1} , which moved from dallas to chicago in {time} , did not release pricing details in the {org_2} form {org_d} filed with the {stock_institution} in regard to the ipo , but the offering is valued up to {money} .'
+p3468
+aS'ceo : jeffrey d. marrazzo .'
+p3469
+aS'nonetheless , its debut is being closely watched to see if a profitable tech company can fare better on {org_1} than the weak performance from the sector {time} .'
+p3470
+aS'{org_d} has not disclosed how many shares it plans to sell , or at what price .'
+p3471
+aS'the average {time} pop above ipo price in the sector has been nearly {number} percent , but the overall return has been just {number} percent , with most companies {time} trading below their offering price .'
+p3472
+aS'but maricich said he felt {org_d} was worth more than that price .'
+p3473
+aS'the menlo park , calif.-based firm filed with the {stock_institution} for an offering worth an estimated {money} .'
+p3474
+aS'{org_1} new york-based company was originally seeking to sell {number} a common shares for {money} to {money} each , according to a regulatory filing on {time} .'
+p3475
+aS'irvine-based {org_1} had planned to launching trading of its shares on the {stock_institution} on {time} , with {number} to {number} offered for sale .'
+p3476
+aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
+p3477
+aS'bill wilson manages day-to-day operations of the newsroom .'
+p3478
+aS'a new contract dorsey signed {time} stipulates .'
+p3479
+aS'{org_1} customers consists of about {number} health care organizations such as long-term care providers that focus on populations with complex health care needs and extensive medication requirements .'
+p3480
+aS'`` {org_1} is laser-focused on growing the business and scaling {org_d} to meet the explosive demand for our innovative hyperconverged solutions .'
+p3481
+aS'the disorder is characterized by motor neuron loss and associated muscle deterioration , resulting in mortality or the need for permanent ventilation support before the age of {number} for over {number} percent of patients .'
+p3482
+aS'when the master limited partnership first filed for the ipo in {time} , the proposed maximum aggregate offering price was listed as {money} .'
+p3483
+aS"{time} , {org_1} announced it had opened a new office in st. louis ' cortex innovation district , and would employ up to {number} employees there in the next five years ."
+p3484
+aS'{org_d} has a slight loss on {money} in revenue through {time} .'
+p3485
+aS"{org_1} chairman gary rogers told the {org_2} {time} that he 's `` not surprised '' to see {org_3} return to the public market , given how profitable {org_4} alone was before it was acquired ."
+p3486
+aS"{org_d} 's software helps pharmaceutical , biotechnology and medical device companies manage their clinical trials better ."
+p3487
+aS'other customers include {org_1} , {org_2} .'
+p3488
+aS'{org_1} ipo sold {number} shares at {money} each , up from the originally-proposed {number} shares .'
+p3489
+aS'{org_1} was established as {org_d} for {org_2} in {time} to facilitate its ipo plans .'
+p3490
+aS'{org_1} filed for an intial stock sale in {time} , and in {time} notified {time} it would postpone its planned sale .'
+p3491
+aS'they are {org_1} , of arlington , va. , and {org_2} , of mclean , va. .'
+p3492
+aS'josh heck covers health care , professional services , education and energy .'
+p3493
+aS'{org_1} has about {number} employees , of whom {number} work in washington .'
+p3494
+aS"rick blatstein , {org_1} 's founder and chief executive officer , is expected to control about {number} percent of the voting interest in {org_d} ."
+p3495
+aS"{time} , san francisco-based {org_1} set the price range for its ipo at {money} to {money} a share , valuing {org_d} at up to {money} at the high end , much lower than the {money} estimate in {org_d} 's most recent valuation in the private fundraising market ."
+p3496
+aS'littleton-based {org_1} expected to commence its initial public offering {time} on the {stock_institution} and {org_2} .'
+p3497
+aS'{org_1} has set a tentative date for its initial public offering .'
+p3498
+aS"{org_1} raised more than {money} from a large investor syndicate that includes {org_2} -lrb- {org_d} 's largest shareholder with a {number} percent stake -rrb- , {org_3} , {org_4} and {org_5} ."
+p3499
+aS'for {time} , {org_1} lost {money} on sales of {money} .'
+p3500
+aS'{org_1} launched in {time} , founded by several team members involved in joint ventures with japanese pharmaceutical companies .'
+p3501
+aS'{org_d} had {money} in cash on {time} , and in {time} received a {money} bank credit line .'
+p3502
+aS'in a {time} letter to {time} cfo peggy stohr said market conditions led to the decision to cancel the offering .'
+p3503
+aS'its biggest shareholders are {org_1} -lrb- {number} percent -rrb- , {org_2} -lrb- {stock_institution} : {ticker} -rrb- -lrb- {number} percent -rrb- and {org_3} -lrb- {stock_institution} : {ticker} -rrb- subsidiary {org_4} -lrb- {number} percent -rrb- .'
+p3504
+aS'{org_1} is comprised of a network of e-commerce businesses , including {org_2} , and stakes in other digital and media companies .'
+p3505
+aS"`` think of it in terms of a whole array of community banks with {number} central back-office bank , '' retzloff said ."
+p3506
+aS'.'
+aS"according to {org_d} 's regulatory filing , {org_1} 's net revenue has grown by about {number} percent per {time} , and production has stepped up since the {time} terrorist attacks ."
+p3507
+aS'{org_1} , a palo alto-based medical device company , raised {money} in an offering in {time} .'
+p3508
+aS"many retail stocks fell {time} as investors figured slow growth extends well beyond {org_1} 's aisles ."
+p3509
+aS'tina reed covers health care .'
+p3510
+aS'within a month of that announcement , {org_1} announced it would postpone its ipo because of market sluggishness .'
+p3511
+aS'{org_1} , which has contracts with the {org_2} and {org_3} , stands to become the fifth defense services company in the greater washington area to file for an ipo since {time} .'
+p3512
+aS"{org_1} has said it 's planning to sell {number} shares at {money} to {money} each , for a total deal size of {money} ."
+p3513
+aS"dorsey 's ability to run {number} major tech companies -- {number} on the verge of going public and the other struggling with its own issues with revenue and valuation -- has remained a concern ."
+p3514
+aS'{org_d} planned to offer {number} common units representing limited partner interests , which were expected to be priced between {money} and {money} .'
+p3515
+aS'{org_1} , which acquired it for {money} in {time} , is already talking to investment bankers about the possibility of an ipo in {time} , according to unnamed sources quoted by {org_2} .'
+p3516
+aS'{time} , while most eyes in the biotech world were on the ipo of gene therapy firm {org_1} , an early-stage drug developer called wave life sciences pulled off an even larger ipo on the other side of cambridge .'
+p3517
+aS'the ipo is the second in australia by a bay area company {time} .'
+p3518
+aS'this time , with ceo briggs morrison at the helm , {org_d} aims to price its shares between {money} and {money} a share .'
+p3519
+aS'{org_d} initially filed confidentially on {time} .'
+p3520
+aS'five-year-old {org_1} , which is developing new treatments by combining existing drugs , has already raised {money} in {number} venture rounds .'
+p3521
+aS'it closed at {money} , up {money} from its ipo price but down {money} from where it started {time} .'
+p3522
+aS"`` while we are indemnified by the online advertising company that delivered the pop-up advertising , '' {org_1} ' filing reads , `` this indemnification may be insufficient should the plaintiff prevail . ''"
+p3523
+aS'as part of the agreement , {org_1} would have invested as much as {money} in the unit of {org_2} , giving it a {number} percent stake in the german cancer research business .'
+p3524
+aS"although {org_1} went public as an opportunity to gain more capital , timing was n't on {org_d} 's side ."
+p3525
+aS"weatherley-white 's recent comments about yieldcos might shed some light on the subject ."
+p3526
+aS'that private sale is how palo alto-based {org_1} became the biggest shareholder with a {number} percent stake in {org_d} .'
+p3527
+aS"`` the fact that its valuation when it goes public is expected to be higher than its previous estimate and that it is actually profitable has given {org_1} the billing of being a sort of `` anti-square ipo , '' referring to that company 's losses and lowered valuation when it went public ."
+p3528
+aS"{org_1} is n't expected to sell any of its ownership in {org_2} in the ipo , according to the {org_3} 's sources ."
+p3529
+aS"{org_1} has sought to address that , saying in its ipo filing {time} that it was aware he faced multiple pressures on {number} fronts . ''"
+p3530
+aS"investors reportedly attributed {org_1} 's discounted pricing in part to dorsey 's dual role , as well as increasing competition in the payments space from amazon and {org_2} ."
+p3531
+aS'because {org_d} has been set up with {number} classes of stock , the founders will have {number} percent of the voting rights in {org_1} despite holding just {number} percent of the total outstanding shares .'
+p3532
+aS"lee holds undergraduate and master 's degrees from the {org_1} , and an mba from {org_2} ."
+p3533
+aS"{number} of its products {time} in phase {number} trials are sta-5326 , a small-molecule oral compound that selectively inhibits il-12 , a cytokine critical to the development of certain chronic inflammatory diseases including crohn 's disease and psoriasis , and sta-4783 , {org_1} 's lead drug in a novel class of small-molecule compounds that have unique effects on the underlying biology of cancer cells ."
+p3534
+aS'meanwhile , cambridge-based {org_1} raised {money} , priced below its range , and has since fallen {number} percent .'
+p3535
+aS"but for {time} , the ipo market is somewhat closed for business . ''"
+p3536
+aS'it raised about {money} from private investors before going public .'
+p3537
+aS"in its prospectus , {org_d} said , `` we expect to continue to incur significant operating losses in {time} periods and can not predict when we will become profitable . ''"
+p3538
+aS'{org_1} believes that by scaling up to an industrial level it can quickly churn out a massive library of drug candidates , which it will then license to big pharmaceutical companies .'
+p3539
+aS'the {org_1} {time} provides crude oil , natural gas , and water-related midstream services for {org_2} through long-term , fixed-fee contracts .'
+p3540
+aS'{org_1} founder and longtime president/ceo of {org_2} and co-founder of {org_3} was serial entrepreneur cynthia fisher .'
+p3541
+aS'the defense services sector , which historically generated little excitement on wall street , has been {number} of the chief providers of initial public offerings since the technology bubble burst .'
+p3542
+aS'{org_d} made over {money} in revenue in {time} , with {money} of operating income .'
+p3543
+aS"{org_d} is pursuing the `` east-to-west strategy '' largely due to the priority each region places on early prevention strategies ."
+p3544
+aS'well-funded massachusetts tech firms {org_1} and {org_2} could likely go public in {time} , according to a report released {time} by {org_3} .'
+p3545
+aS'{org_1} has confidentially filed ipo plans that could value the atlanta-based cybersecurity business at {money} .'
+p3546
+aS'{org_d} points out that small changes in temperature and pressure can result in savings of up to {number} percent in heating , ventilation and air conditioning energy costs .'
+p3547
+aS'as the {org_1} reported {time} in its startups and vc blog , the sudden ipo rush is a big turnaround from recent months , when market volatility made ipos pretty rare .'
+p3548
+aS'{org_d} wants to use the proceeds of the ipo for general corporate purposes .'
+p3549
+aS'overstock is suing for {money} for each infraction , all revenue gained by {org_1} through such advertising , triple damages and attorneys fees .'
+p3550
+aS'{org_1} said the ipo will include at least {number} shares -- one-third from {org_1} and two-thirds from existing shareholders .'
+p3551
+aS'a {org_1} spokesperson declined to comment , citing the so-called quiet period that precedes an initial public offering .'
+p3552
+aS'{org_1} managed {money} in assets as of {time} .'
+p3553
+aS'{org_1} reports it is offering {number} shares of common stock and the selling stockholders are offering {number} shares of common stock .'
+p3554
+aS'anthony noto is a multimedia journalist focused on venture capital and silicon alley startups .'
+p3555
+aS'it will use remaining proceeds to pay off {money} in debt it owes {org_1} .'
+p3556
+aS'still , {org_1} is predicting that worldwide sales of the devices will grow in {time} and said {time} it again controls about {number} percent of the stent market after the recall .'
+p3557
+aS'{org_d} employs about {number} people in the greater washington area .'
+p3558
+aS'{org_1} trading volume -lrb- {stock_institution} : {ticker} -rrb- was heavy , reaching nearly {number} shares at {number} point .'
+p3559
+aS'{org_1} is serving as co-manager for the offering .'
+p3560
+aS'{org_1} company , which was founded in {time} , operates more than {number} food and beverage locations in {number} airports , including {org_2} in new york , newark liberty international airport and toronto-pearson international airport .'
+p3561
+aS'according to its filing with the {stock_institution} , {org_1} plans to use the proceeds from its initial public stock offering to : repay more than {money} in outstanding debt , , develop new product offerings , , enter into new market segments , , expand its sales and marketing infrastructure , and , fund acquisitions of businesses and technologies. , the remainder of the proceeds will be used for working capital and general corporate purposes .'
+p3562
+aS'{org_1} reported {time} revenue of {money} in its filing with {time} .'
+p3563
+aS'as of {time} {time} , {org_d} had yet to start trading on {stock_institution} .'
+p3564
+aS'stohr did not return requests for comment .'
+p3565
+aS'in addition to the {number} shares of common stock offered , {org_d} has granted underwriters {number} additional shares cover over-allotments .'
+p3566
+aS'in addition to {org_1} , other investors include {org_2} , {org_3} , {org_4} , {org_5} and and {org_6} .'
+p3567
+aS'{org_1} on {time} filed a registration statement with the {stock_institution} .'
+p3568
+aS'in a {time} interview , {org_1} described what {org_2} does to improve medication safety : `` {number} of things we do is provide prospective medication-risk mitigation -lsb- which determines potential health hazards that may result from the interaction of all the medications a patient is taking . -rsb-'
+p3569
+aS'in april , cambridge-based {org_1} said it would buy as many {number} shares on the condition the ipo takes place in {time} .'
+p3570
+aS'as of {time} , {org_1} had total assets of {money} , total loans of {money} and total deposits of {money} , according to a statement from {org_d} .'
+p3571
+aS'he said there is potential to file again for an ipo .'
+p3572
+aS'cambridge-based online game maker {org_1} makes its debut as a public company {time} , in {number} of the busiest weeks for ipo activity , the {org_2} reports .'
+p3573
+aS"{org_1} has n't announced the date at which it will start selling shares ."
+p3574
+aS"as a result , the size of the malvern , pa. , specialty pharmaceutical company 's ipo grew to {money} ."
+p3575
+aS"cannon-brookes and farquhar never actually raised any venture funding , growing {org_1} by word of mouth -lrb- that 's right , no direct sales force -rrb- after floating about {money} in credit card debt when they launched ."
+p3576
+aS'en .'
+p3577
+aS'when {org_d} made its announcement , with the work preceding the official announcment , the market was already on a downslide .'
+p3578
+aS'{time} , {org_1} booked {money} in profit on {money} in sales .'
+p3579
+aS'opening price : {money} .'
+p3580
+aS'{org_1} declined to elaborate on the business move .'
+p3581
+aS'the number of shares to be offered , the price per share and the timing of the offering have not been decided , according to a statement , so that proposed maximum aggregate offering price is subject to change .'
+p3582
+aS"`` but robert peck of suntrust robinson humphrey stuck to his `` buy '' rating while cutting his price target to {org_1} 's {money} ipo price from the {money} target he had on it before ."
+p3583
+aS'{org_1} planned ipo comes as u. s. businesses scramble to comply with new rules requiring that they accept so-called {org_2} -lrb- {org_3} , {org_4} , visa -rrb- chip-enabled credit cards in transactions .'
+p3584
+aS"{org_1} plans to continue evaluating the proposed offering as market conditions , which have n't been great {time} , develop ."
+p3585
+aS'but at the same time , gertler said , life sciences companies more likely to go public would have at least some compounds at midstage , or phase {number} human clinical trials .'
+p3586
+aS'{org_d} received total financing worth {money} since its launch in {time} .'
+p3587
+aS'in {time} , endostim raised {money} to help get its medical device that treats gastroesophageal reflux disease -lrb- gerd -rrb- approved by the brazilian health authority {org_1} .'
+p3588
+aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
+p3589
+aS'{org_1} {time} filed for an initial public offering with the intent of raising about {money} .'
+p3590
+aS'if acceptable bids are not received , the ipo will be canceled , a {org_1} spokesman said .'
+p3591
+aS'each unit includes {number} share of class b nonvoting common stock and a detachable three-year redeemable warrant to purchase {number} share of class a voting common stock with an exercise price of {money} per share .'
+p3592
+aS"{org_d} , which reported a {money} loss on revenue of {money} for {time} , will list its common stock on the {stock_institution} under the symbol `` {org_1} '' {org_2} will serve as the lead underwriter ."
+p3593
+aS'the {org_1} begins trading on the {stock_institution} under the ticker symbol {ticker} .'
+p3594
+aS"{org_1} bills itself as the `` leading provider of next generation cloud security and risk management services for corporate information and email . ''"
+p3595
+aS"no additional comments at this time . ''"
+p3596
+aS"{org_d} , which would be listed on the {stock_institution} under the symbol `` {ticker} '' , is been backed by investors including {org_1} {number} -lrb- {number} perent -rrb- ; {org_2} -lrb- {number} percent -rrb- ; {org_3} -lrb- {number} percent -rrb- ; {org_4} -lrb- {number} percent -rrb- ; {org_5} -lrb- {number} percent -rrb- ; and {org_6} -lrb- {number} percent -rrb- ."
+p3597
+aS'but only {number} of the companies acquired by private equity firms have gone public since {time} .'
+p3598
+aS'{org_1} slipped {number} percent ; {org_2} was off {number} percent ; and best buy -lrb- {stock_institution} : {ticker} -rrb- was down {number} percent .'
+p3599
+aS"{org_d} 's focus is on using a virus as a delivery method for its gene therapies , and its lead drug , {org_1} , is being studied to treat childhood cerebral adrenoleukodystrophy ."
+p3600
+aS"`` with global energy demand , rising electricity prices , and the growing requirement for efficiency and sustainability , building owners and managers are increasing their focus on controllable operating costs , such as energy , '' nark said in a press release ."
+p3601
+aS"it also offers devices that funnel companies ' {org_1} traffic to find hacking threats ."
+p3602
+aS'trx4 is a humanized anti-cd3 monoclonal antibody that is in an investigator-sponsored clinical trial to treat patients with new-onset {org_1} {number} diabetes mellitus , company officials say .'
+p3603
+aS'{org_1} , the multibillion-dollar mobile payments company founded by native {org_2} and jim mckelvey , has filed to go public with an initial offering of {money} , a figure that could increase as it nears .'
+p3604
+aS"{org_d} plans to trade under the ticker symbol `` {ticker} . ''"
+p3605
+aS'{org_1} and {org_2} are joint book-running managers for the proposed offering .'
+p3606
+aS'{org_d} sold {number} shares at {money} and opened at {money} on the {stock_institution} with the symbol of {ticker} .'
+p3607
+aS"`` it does n't make any sense , with the great success we are having as a company , to go out at a real discounted valuation , '' he said ."
+p3608
+aS'{org_1} alex brown will be the lead underwriter of the offering .'
+p3609
+aS"`` to do that in {number} geography like houston -- it 's over a {money} deposit market and we have less than {number} percent of that ."
+p3610
+aS'also , in {time} there was a high volume of equity issued .'
+p3611
+aS'.'
+aS'nashville-based {org_1} has received approval to form a holding company , an important step as the lender looks to go public .'
+p3612
+aS'.'
+aS'its initial product candidate is avxs-101 , which is in a phase {number} clinical trial for the treatment of spinal muscular atrophy type {number} , the leading genetic cause of infant mortality .'
+p3613
+aS'{org_1} , which is based in california , will be offering about {number} percent of its stock in the ipo , officials said .'
+p3614
+aS"in addition , our pharmacists are also monitoring prescriptions and if they question a prescription we have a secure way , sort of like instant messaging , to communicate with doctors . ''"
+p3615
+aS'{time} , {org_1} in boston was the first local life sciences company in six months to file for an initial stock offering , creating excitement at the notion that the market would potentially rebound .'
+p3616
+aS'{org_1} deals : {org_d} has acquired or exclusively in-licensed the commercial and development rights to certain clinical and preclinical programs and intellectual property from chop and the {org_2} , and in-licensed additional intellectual property from the {org_3} .'
+p3617
+aS'{org_d} plans to announce its {time} financial results {time} .'
+p3618
+aS"`` as a lifelong entrepreneur and architect of high-growth , highly valued profitable brands , i 've always considered the process of taking a company public to be {number} of the most exciting and important decisions i could make , '' hsieh wrote in the blog posting ."
+p3619
+aS"the intended principal shareholders were {number} of {org_d} 's directors and executive officers as a group , which included {org_1} , president carl weatherly-white , chief financial officer , and dana griffith , chief operating officer ."
+p3620
+aS'co-founders mike cannon-brookes and scott farquhar set a price range of between {money} and {money} on the {number} shares they will offer the public .'
+p3621
+aS"for comparison , boston-based cybersecurity firm {org_1} 's {time} market capitalization is {money} ."
+p3622
+aS"{org_1} , the wisconsin-based apparel company that 's made a name for itself with durable workwear and cheeky advertising , plans to raise as much as {money} through a public offering ."
+p3623
+aS'according to {stock_institution} filings , {org_1} had planned to sell {number} shares priced between {money} to {money} .'
+p3624
+aS'{org_1} {time} reached {money} in cumulative bookings and {money} worth of signed contracts extending out to {time} , he said .'
+p3625
+aS'the service revolves around drastically reducing the number of copies a company needs to make of its data , while ensuring the data is still accessible and protected .'
+p3626
+aS'{org_1} , and {org_2} , both of fairfax , va. , already have held public offerings .'
+p3627
+aS'that target is about {number} percent higher than the original number {org_d} disclosed {time} .'
+p3628
+aS'{org_1} is developing stem-cell therapies that would treat cancer , heart disease , genetic disorders , infertility and other diseases .'
+p3629
+aS'{org_1} had {time} earnings before interest , taxes , depreciation and amortization of about {money} and {time} explored a sale but held off due to market volatility .'
+p3630
+aS'.'
+aS'on {time} , just days before the scheduled ipo , the estimated price per share dropped to between {money} and {money} , for a maximum offering of {money} .'
+p3631
+aS"{org_d} 's {org_1} -lrb- {org_2} -rrb- and {org_3} -lrb- {org_4} -rrb- products are developed using gallium {org_5} -lrb- gaas -rrb- and silicon-based semiconductor processes ."
+p3632
+aS"an ipo gives {org_1} the freedom to hit the opportunities that exist for them , independently from {org_2} 's other businesses ."
+p3633
+aS'ceo jonathan cohen told me {org_d} seeks to grow its lung cancer detection test in the asian market .'
+p3634
+aS"investors in that round had expected {org_1} 's shares to price at over {money} , so {org_d} must sell several {number} additional shares to make up that gap , the news agency reports ."
+p3635
+aS'{org_d} then changed its name to {org_1} in {time} filing said .'
+p3636
+aS'{org_1} has granted the underwriters an option , for a period of 30 days , to purchase up to {number} additional {org_2} at the public offering price to cover over-allotments .'
+p3637
+aS'{org_1} , a fairfax station , va. , {org_2} firm serving the alternative health care sector , is offering what it calls the first initial public offering marketed over the {org_2} .'
+p3638
+aS'a yieldco is a dividend growth-oriented public company created by a parent company that bundles renewable and/or conventional long-term contracted operating assets in order to generate predictable cash flows .'
+p3639
+aS'that has {time} been updated to more than {money} , according to a {time} filing with the {stock_institution} .'
+p3640
+aS'those plans -- which equate to {money} proceeds at the midpoint of its range -- update earlier plans filed {time} which set a maximum offering of {money} .'
+p3641
+aS'{org_1} resulted from the merger between {org_2} and t {org_3} in {time} .'
+p3642
+aS"{org_1} was valued by private investors at about {money} during its last round of financing , which guaranteed at least a {number} percent return on their investment if {org_d} 's ipo share price fell below {money} ."
+p3643
+aS"{time} 's cancellation of {org_1} 's initial public offering may jeopardize the german biotechnology company 's cooperation agreement with {org_2} partner {org_3} ."
+p3644
+aS'an adviser to jack dorsey responds .'
+p3645
+aS'pleuromutilins are semi-synthetic compounds derived from a naturally occurring antibiotic , originally identified from a fungus called pleurotus mutilis .'
+p3646
+aS'when the master limited partnership first filed for the ipo in {time} , the proposed maximum aggregate offering price was listed as {money} .'
+p3647
+aS'life sciences insiders are generally predicting at least a moderate boost in biotech/medical device related ipos in {time} .'
+p3648
+aS'{org_1} completed a {money} private placement in {time} .'
+p3649
+aS'`` it would have been a big success if it could have pulled this off , given the negative market dropoff .'
+p3650
+aS'`` due to heightened volatility in the market , cpis ipo did not price as close to the offer as originally planned on {time} .'
+p3651
+aS"there 's a lot of prep work that needs to be done . ''"
+p3652
+aS"{org_1} would also have had right of first refusal for {time} sales of {org_2} shares from {org_3} 's holdings ."
+p3653
+aS'when calithera in {time} publicly disclosed its initial public offering , it targeted {money} .'
+p3654
+aS"{org_d} shares are trading on {stock_institution} under the symbol `` {ticker} . ''"
+p3655
+aS'{org_d} planned to sell {number} shares of its common stock in the ipo .'
+p3656
+aS'after an initial stock rise , it since settled back down to {money} as of the close of markets {time} .'
+p3657
+aS'south san francisco heart drug developer {org_1} is the second bay area company {time} to price its ipo well below targets , raising {money} in an offering that priced on {time} .'
+p3658
+aS'{org_d} led by ceo greg clark has been around since the dot-com boom and was taken private by thoma bravo in a {money} deal in {time} .'
+p3659
+aS"it 's in the area of stem cells , which is very exciting , and it has some of the top scientists in the industry working on the research ."
+p3660
+aS'{org_d} points to greater speed and scale of endpoint security as its advantage over incumbent providers .'
+p3661
+aS'other investment banks on the deal include {org_1} , and {org_2} .'
+p3662
+aS'{org_d} plans to use proceeds from this offering to fund its clinical trials and further its research as well as for working capital and general corporate purposes .'
+p3663
+aS"however , an analyst tells the {org_1} that folks should n't read too much into this trend ."
+p3664
+aS'company spokespersons said it has been successful in preliminary pre-clinical studies by amplifying some of the most sought after cell types in the human body , stem cell populations .'
+p3665
+aS'jack dorsey , our co-founder , president , and chief executive officer , also serves as chief executive officer of {org_1} .'
+p3666
+aS'{org_1} raised more than {money} in its public-market debut {time} -- the first life sciences ipo in {time} .'
+p3667
+aS'founders cannon-brookes and farquhar each hold about {number} percent of its shares .'
+p3668
+aS'{number} .'
+p3669
+aS"prior to the ipo , {org_d} 's biggest shareholder was {org_1} -lrb- {number} percent -rrb- , and was also backed by {org_2} , {org_3} and {org_4} ."
+p3670
+aS'when completed , the deal will let {org_1} add to its southeastern kansas presence and take on a loan origination office in lawrence .'
+p3671
+aS"there are many factors , more reasons to say no than yes on a transaction . ''"
+p3672
+aS'.'
+aS'shares of san mateo action camera maker {org_1} -lrb- {stock_institution} : {ticker} -rrb- doubled when it went public in {time} but hit an all-time low on {time} after missing earnings projections .'
+p3673
+aS'the {org_1} has set its terms for its initial public offering , for which it intends to raise {number} times as much as it initially announced .'
+p3674
+aS"wood said he does n't see the ipo window as having closed , but said biotech specialists in the new market conditions `` are probably able to dictate what they 're willing to pay . ''"
+p3675
+aS'{org_d} sold {number} american depositary shares -lrb- {org_1} -rrb- , representing {number} of its common shares , at a public offering price of {money} per ads before underwriting discounts .'
+p3676
+aS"{org_d} plans to list on the {stock_institution} under the stock ticker `` sq. ''"
+p3677
+aS'{org_1} , a wholly owned subsidiary of {org_2} , has filed a registration statement for an initial public offering that could raise up to {money} .'
+p3678
+aS'{org_1} {time} became the third {org_2} defense services firm to hold an initial public offering since {time} , following {org_3} , and {org_4} , both of fairfax .'
+p3679
+aS'in {time} , {org_d} generated revenues of {money} and a net loss of {money} .'
+p3680
 aa(lp3681
-I1
-aa(lp3682
-I1
-aa(lp3683
-I1
-aa(lp3684
-I1
-aa(lp3685
-I3
-aa(lp3686
-I1
-aa(lp3687
-I1
-aa(lp3688
-I1
-aa(lp3689
-I1
-aa(lp3690
-I3
-aa(lp3691
-I1
-aa(lp3692
-I1
-aa(lp3693
-I1
-aa(lp3694
-I1
-aa(lp3695
-I1
-aa(lp3696
-I1
-aa(lp3697
-I1
-aa(lp3698
-I1
-aa(lp3699
-I3
-aa(lp3700
-I1
-aa(lp3701
-I3
-aa(lp3702
-I1
-aa(lp3703
-I1
-aa(lp3704
-I2
-aa(lp3705
-I2
-aa(lp3706
-I1
-aa(lp3707
-I2
-aa(lp3708
-I1
-aa(lp3709
-I3
-aa(lp3710
-I2
-aa(lp3711
-I1
-aa(lp3712
-I1
-aa(lp3713
-I1
-aa(lp3714
-I1
-aa(lp3715
-I1
-aa(lp3716
-I1
-aa(lp3717
-I1
-aa(lp3718
-I1
-aa(lp3719
-I1
-aa(lp3720
-I2
-aa(lp3721
-I1
-aa(lp3722
-I2
-aa(lp3723
-I1
-aa(lp3724
-I1
-aa(lp3725
-I2
-aa(lp3726
-I2
-aa(lp3727
-I1
-aa(lp3728
-I1
-aa(lp3729
-I1
-aa(lp3730
-I1
-aa(lp3731
-I1
-aa(lp3732
-I3
-aa(lp3733
-I2
-aa(lp3734
-I1
-aa(lp3735
-I2
-aa(lp3736
-I2
-aa(lp3737
-I1
-aa(lp3738
-I2
-aa(lp3739
-I2
-aa(lp3740
-I1
-aa(lp3741
-I1
-aa(lp3742
-I1
-aa(lp3743
-I1
-aa(lp3744
-I3
-aa(lp3745
-I2
-aa(lp3746
-I1
-aa(lp3747
-I1
-aa(lp3748
-I2
-aa(lp3749
-I2
-aa(lp3750
-I1
-aa(lp3751
-I1
-aa(lp3752
-I1
-aa(lp3753
-I1
-aa(lp3754
-I1
-aa(lp3755
-I3
-aa(lp3756
-I1
-aa(lp3757
-I2
-aa(lp3758
-I1
-aa(lp3759
-I1
-aa(lp3760
-I1
-aa(lp3761
-I1
-aa(lp3762
-I1
-aa(lp3763
-I1
-aa(lp3764
-I1
-aa(lp3765
-I1
-aa(lp3766
-I1
-aa(lp3767
-I2
-aa(lp3768
-I1
-aa(lp3769
-I1
-aa(lp3770
-I1
-aa(lp3771
-I3
-aa(lp3772
-I1
-aa(lp3773
-I2
-aa(lp3774
-I1
-aa(lp3775
-I2
-aa(lp3776
-I2
-aa(lp3777
-I1
-aa(lp3778
-I3
-aa(lp3779
-I1
-aa(lp3780
-I1
-aa(lp3781
-I1
-aa(lp3782
-I2
-aa(lp3783
-I1
-aa(lp3784
-I1
-aa(lp3785
-I1
-aa(lp3786
-I3
-aaa.
+S'{org_d} , founded by mike cannon-brookes and scott farquhar , has never taken a venture investment and is profitable , {number} facts that make it something of an outlier among recent {org_1} tech {org_2} .'
+p3682
+aS'according to federal filings , the {money} in stock was issued to existing shareholders in exchange for consents made under an election and amendment agreement .'
+p3683
+aS'{org_1} covers health care , biotech/pharmaceuticals and sports business .'
+p3684
+aS'for {time} , {org_d} recorded revenues of {money} and a net loss of {money} .'
+p3685
+aS'among them is {org_1} , a westborough-based startup that makes a novel it appliance system aimed at data centers .'
+p3686
+aS'beta-thalassemia major results in defective red blood cells that requires patients to get frequent blood transfusions , and even then they often die of iron overload .'
+p3687
+aS"{org_1} plans to apply to list its common units on the {stock_institution} under the ticker symbol `` {ticker} . ''"
+p3688
+aS'another {money} to {money} could be used to fund infrastructure expenditures , including a new order-management system , asset-management system , assortment planning system and e-commerce platform .'
+p3689
+aS"{org_1} , which plans to trade on the {stock_institution} under the ticker symbol `` {ticker} , '' is led by ceo sam yagan , who will be assigned another leadership post after chairman gregory blatt takes the top position by {time} ."
+p3690
+aS'blocking glutaminase could interfere with tumor metabolism , cell growth and cell survival in solid tumors as well as blood cancers .'
+p3691
+aS"what 's more , calithera 's chief financial officer is william waddill , who helped craft {number} of {time} 's most successful biotech ipos , a {money} offering by redwood city 's {org_1} -lrb- {stock_institution} : {ticker} -rrb- ."
+p3692
+aS"get the free daily {org_1} newsletter `` with global energy demand , rising electricity prices , and the growing requirement for efficiency and sustainability , building owners and managers are increasing their focus on controllable operating costs , such as energy , '' nark said in a press release ."
+p3693
+aS'{org_d} plans to be traded on the {stock_institution} .'
+p3694
+aS"{org_1} 's stock would be traded on the {stock_institution} under the ticker symbol {ticker} ."
+p3695
+aS"the proceeds excluded the underwriters ' overallotments , {org_d} said in a statement ."
+p3696
+aS"{org_1} , which has {money} in assets under management , said seattle 's {org_2} , an affiliate of {org_1} , will manage the fund 's equities ."
+p3697
+aS'{org_1} of milwaukee and baltimore-based {org_2} are co-managing the offering .'
+p3698
+aS'demand is growing for funds that invest in senior secured floating-rate bank loans issued to companies , {org_1} said .'
+p3699
+aS'{org_1} started the first phase of the three-stage {org_2} human trial process {time} in solid tumors and blood cancers and hopes to begin a phase {number} study in {time} or {time} .'
+p3700
+aS'about a year and a half ago , {org_d} decided to target the asian market , starting with china , cohen said .'
+p3701
+aS'{org_1} {time} agreed to acquire venture-backed san jose cloud security startup elastica for {money} .'
+p3702
+aS"{org_1} 's decision to quietly end its bid to go public , at least for {time} , caps an eventful six months for {org_d} ."
+p3703
+aS'{org_1} , {org_2} , and {org_3} acted as managing underwriters for the offering .'
+p3704
+aS'{org_1} said {time} it raised {money} in an initial public offering of a new closed-end fund , {org_2} vance tax-managed {org_3} .'
+p3705
+aS"{org_1} 's valuation discount is among the steepest since {time} , {org_2} reports , but it is below the discounts of big-data 's {org_3} at {number} percent and storage firm {org_4} at {number} percent ."
+p3706
+aS'as of {time} , {org_1} operated {number} retail stores and {number} outlet stores .'
+p3707
+aS'subscribe to our email newsletters .'
+p3708
+aS'{org_1} in waltham plans to sell more than {number} shares and price them between {money} to {money} each during its upcoming initial public offering .'
+p3709
+aS'{org_1} is a developer of routers and switches that enable service providers throughout the metropolitan area network to turn bandwidth into differentiated services .'
+p3710
+aS'{org_1} , {org_d} spun out of the {org_2} of philadelphia {time} became the first local life sciences company to go public {time} .'
+p3711
+aS"hsieh said he plans to continue to build {org_1} 's franchise , even though the timing , he felt , `` was n't right '' for an ipo ."
+p3712
+aS'this is a division that is showing growth : in {time} revenue was {money} and in {time} , the total was {money} .'
+p3713
+aS'mark hollmer can be reached at mhollmer@bizjournals.com .'
+p3714
+aS'michael decesare , who joined the {org_1} startup {time} as president of {org_2} , told {org_3} that he is wary of going public while markets are volatile but he is watching for the right moment .'
+p3715
+aS'get the free daily {org_1} newsletter so why the change of heart ?'
+p3716
+aS'but {org_1} is reporting that {org_d} will offer {number} shares during its offering .'
+p3717
+aS'we carry the largest product suite of any nonbank lender and continue to lead the charge in technology innovation and creativity .'
+p3718
+aS'{org_1} has raised more than {money} in venture capital in its two years of operation .'
+p3719
+aS"`` we 're excited about the possibility of making ' 15-second endpoint visibility and control ' the expected standard . ''"
+p3720
+aS'for the three-month period that ended {time} , {org_1} posted {money} in revenues for a net loss of {money} , {number} percent higher than its net loss for the same period {time} .'
+p3721
+aS'{org_1} , a cambridge company developing a pill that would work with those offered by {org_2} -lrb- {stock_institution} : {ticker} -rrb- , filed forms {time} with the {stock_institution} saying that it plans to sell {number} shares of stock priced at {money} to {money} each .'
+p3722
+aS'{org_1} could not be reached for comment {time} {time} .'
+p3723
+aS'the deal was aided by {org_1} and {org_2} .'
+p3724
+aS'{org_d} sold {number} shares at {money} per share , a price slightly under the {money} to {money} per-share range it had planned for .'
+p3725
+aS"been made to list the stock on {stock_institution} under the symbol `` {ticker} '' ."
+p3726
+aS'more than half of the {org_1} tech companies that went public since {time} are {time} trading below their ipo price , like {org_2} is .'
+p3727
+aS"{org_1} spun off from diller 's {org_2} -lrb- {stock_institution} : {ticker} -rrb- in a {time} ipo , opening at about {money} a share ."
+p3728
+aS'the website , {org_1} , reports that {org_d} could start trading {time} .'
+p3729
+aS'while the {stock_institution} biotechnology index is still down about {number} percent for {time} , despite a slight upturn over the last couple weeks , the {number} local biotechs that have held ipos {time} have seen very different outcomes .'
+p3730
+aS'its stock -lrb- {stock_institution} : {ticker} -rrb- traded as low as {money} on {time} closing at {money} .'
+p3731
+aS'founded in {time} , {org_1} designs and develops high performance integrated circuits , modules and subsystems for radio frequency , microwave and millimeterwave applications covering the frequency range of dc to {number} ghz .'
+p3732
+aS'{org_1} and {org_2} , both of new york city , are joint book-running managers of the offering .'
+p3733
+aS'{org_1} -lrb- {stock_institution} : {ticker} -rrb- , a biotech with corporate offices in alewife but based in singapore , managed to raise {money} on {time} that {org_2} -lrb- nasdaq : {ticker} -rrb- was raising {money} .'
+p3734
+aS'{org_1} , which is based in dublin , ireland , and has its u. s. headquarters in trevose , pa. , has filed plans to go public with {stock_institution} .'
+p3735
+aS"the shares were listed on the {stock_institution} under the ticker symbol `` {ticker} . ''"
+p3736
+aS'chairman and chief executive yuchun lee , {number} , co-founded {org_1} in {time} , and was paid approximately {money} {time} .'
+p3737
+aS'while the {stock_institution} biotechnology index is down more than {number} percent since it reached its high on {time} , {org_1} stock has risen {number} percent .'
+p3738
+aS'{org_1} is working on a new class of antibiotics -- called pleuromutilins -- to treat bacterial infections .'
+p3739
+aS'it closed at {money} .'
+p3740
+aS"`` the time is ripe to take action , '' wrote orion hindawi , {org_1} 's new ceo , in a blog post ."
+p3741
+aS'based in new york for the {org_1} , he {time} was a reporter at {org_2} and {org_3} .'
+p3742
+aS"in a report posted before the pricing , analytics firm {org_1} said , `` it 's refreshing to see a tech company wait until it 's more mature to access the ipo market ."
+p3743
+aS'{org_1} went public {time} in a {money} initial public stock offering .'
+p3744
+aS'{org_1} , {org_2} and {org_3} were set to be the joint bookrunners on the deal .'
+p3745
+aS'{org_1} .'
+p3746
+aS"`` from the first day that david and i founded this company , we have shared decision-making equally , '' the younger hindawi wrote in a blog post ."
+p3747
+aS'{org_d} filed its withdrawal request with the {stock_institution} on {time} .'
+p3748
+aS'{number} reason is that its earlier , larger foray was withdrawn .'
+p3749
+aS'{number} .'
+p3750
+aS'related {org_1} moves firm to pre-ipoas {org_2} stock hits new low , it acquires dallas startup for {money} sale of {org_3} gets a {money} haircut home of {time} sponsor listing {org_4} living at its finestsee all {org_5} of {time} industriestechnologytopicsventure {org_6} .'
+p3751
+aS'.'
+aS'on {time} , {org_d} and others began production at their big {org_1} oil development , which is anticipated to reach a maximum {number} production rate of approximately {number} barrels of oil equivalent per day over the next few weeks .'
+p3752
+aS'investors have punished biotech stocks so far {time} , driving the {stock_institution} biotechnology index down {number} percent since {time} and down {number} percent from its high point {time} .'
+p3753
+aS'{org_1} company plans to list its shares on the {stock_institution} under the symbol {ticker} , the prospectus shows .'
+p3754
+aS'{org_1} {time} has {number} drug candidates in human clinical trials as well as a pipeline of internally developed discovery programs .'
+p3755
+aS'he also led the {org_1} at the time of its acquisition by {org_2} .'
+p3756
+aS'no date has been set for the offering .'
+p3757
+aS'{org_1} , a bermuda-based company that maintains its operations in washington , {org_2} , {time} announced plans for an initial public offering by {time} to raise {money} .'
+p3758
+aS"`` with {money} in free cash flow , what 's not to like , '' rogers said ."
+p3759
+aS'to date , endostim has raised around {money} .'
+p3760
+aS'{org_1} founded {org_d} in {time} to consolidate community banks .'
+p3761
+aS"{org_1} 's computer blades enable companies to create utility computing systems , in which software applications are allocated only when needed , rather than riding on a computer 's hard drive ."
+p3762
+aS'{org_1} went public {time} , raising {money} through its initial public stock offering .'
+p3763
+aS"`` it could be that after raising this amount , {org_1} could later look into a secondary placement . ''"
+p3764
+aS'{time} , {org_1} set a price range of {money} to {money} a share , which itself was below the {money} a share that investors had paid in its most recent private financing in {time} .'
+p3765
+aS'{number} mlps -lsb- master limited partnerships -rsb- and energy stocks have all suffered .'
+p3766
+aS'according to the registration , dorsey owns more than {number} percent of {org_d} -lrb- or just more than {number} shares -rrb- while mckelvey owns {number} percent of {org_d} -lrb- just more than {number} shares -rrb- .'
+p3767
+aS'.'
+aS'atlassian is ending a disappointing year of tech ipos on an up note , with its shares soaring {number} percent on its {time} of trading {time} .'
+p3768
+aS'of the shares offered , {number} are being sold by {org_1} , and {number} are being sold by unnamed selling stockholders .'
+p3769
+aS'among local defense services firms , {org_1} , and {org_2} , both of fairfax , va. , already have held public offerings .'
+p3770
+aS'{org_1} company quietly filed its plans to go pubic with {time} {time} , taking advantage of the {time} which allows companies to go public with fewer regulatory filings required .'
+p3771
+aS'{org_d} primarily competes against {number} publicly-traded online discount retailers : {org_1} -lrb- which has a market cap of {money} and posted a net loss of {money} on {money} in revenue for {time} -rrb- and new york-based {org_2} , -lrb- which has a market cap of {money} and had a net loss of {money} on {money} in revenues for {time} -rrb- .'
+p3772
+aS'{org_1} also lists {number} companies in the {org_2} that have valuations of at least {money} and have the most momentum according to the mosaic algorithm .'
+p3773
+aS'{org_d} , which employs {number} globally and about {number} in the {org_1} , would be the second cybersecurity company with massachusetts connections to go public since boston-based {org_2} .'
+p3774
+aS"`` the overall stock market is very negative , '' said kathleen smith , a principal at {stock_institution} , a manager of ipo-focused exchange traded funds ."
+p3775
+aS'other big investors who bought into {org_d} at that time include {org_1} and {org_2} .'
+p3776
+aS'{org_1} of milwaukee , {org_2} and {org_3} are acting as joint book-running managers of the proposed offering .'
+p3777
+aS"{org_1} -lrb- {stock_institution} : {ticker} -rrb- is the nation 's largest seller of groceries -- a business that 's drawn {org_2} -lrb- {stock_institution} : {ticker} -rrb- and amazon -lrb- {stock_institution} : {ticker} -rrb- to compete against {org_3} , -lrb- {stock_institution} : {ticker} -rrb- {org_4} and other traditional grocers ."
+p3778
+aS'in {stock_institution} filings , {org_1} said it intends to use {money} of proceeds from the stock sale to redeem preferred stock issued to the {org_2} in {time} .'
+p3779
+aS'initially a provider of networking services , {org_1} announced its corporate transformation to a holding company in {time} .'
+p3780
+aS'another reason is that its cutting-edge science could result in riches - if it works .'
+p3781
+aS'information on the ipo is available at www.bioquestipo.com .'
+p3782
+aS'the ipo will be handled by underwriters {org_1} , {org_2} and thomas weisel partners .'
+p3783
+aS"{org_1} 's platform {time} manages more than {number} square feet in more than {number} buildings ."
+p3784
+aS'many of the likely ipo candidates for {time} are in the sectors of analytics , data centers , security and application integration , according to the report .'
+p3785
+aS"its shares are {time} trading just {number} percent below where they were at the close of {time} after bluebird 's ipo {time} ."
+p3786
+aS'`` nonetheless , she and decesare said they could have raised more and at a higher valuation .'
+p3787
+aa(lp3788
+S'in a recent interview with our scott harrison , tucker said {org_1} is aiming for an ipo {time} or in {time} .'
+p3789
+aS'the {org_1} has become a cybersecurity hub , with several high-profile companies in that sector raising new funding {time} .'
+p3790
+aS'jack dorsey is ceo of {org_1} as well as of social media company {org_2} .'
+p3791
+aS'cromwell schubarth is techflash editor at the {org_1} .'
+p3792
+aS'the others were los altos-based {org_1} -lrb- {stock_institution} : {ticker} -rrb- , mountain view-based {org_2} -lrb- {stock_institution} : {ticker} -rrb- , san francisco-based {org_3} -lrb- {stock_institution} : {ticker} -rrb- and san francisco-based square -lrb- {stock_institution} : {ticker} -rrb- .'
+p3793
+aS'like natick-based {org_1} , conor makes drug-coated coronary stents used to treat patients with heart disease .'
+p3794
+aS'{org_1} has grown blood-making stem cell populations in the laboratory , company officials said .'
+p3795
+aS'it said adjusted earnings will be between {number} and {money} a share , compared with the average analyst estimate of {money} .'
+p3796
+aS'it also inked a {money} from the {org_1} .'
+p3797
+aS'{org_1} plans to use any other proceeds from the stock sale for general purposes , including potential acquisitions .'
+p3798
+aS'and at least {number} local analyst said the news reflects higher standards for life science {org_1} than in {time} .'
+p3799
+aS'this is part of a pivot for {org_1} , which used to focus on marketing its early detection testing in the u. s. and still performs some testing here .'
+p3800
+aS'they were taking a pause .'
+p3801
+aS"`` we know it will be well into {time} we would refile , '' maricich said ."
+p3802
+aS"new england 's first scheduled ipo for {time} was marked down on {time} , delayed later in {time} and finally withdrawn completely ."
+p3803
+aS'net revenue , income from operations and net income rose to {money} , {money} and {money} , respectively , for the nine-month period ended {time} , from {money} , {money} and {money} , respectively , in the pro forma nine-month period ended {time} .'
+p3804
+aS'{org_1} itself loses money .'
+p3805
+aS'as of {time} , those shares were up {number} percent to {money} .'
+p3806
+aS"{org_1} 's total funding to date is about {money} , and investors include {org_2} , {org_3} , north bridge venture partners , andreessen horowitz and 83north ."
+p3807
+aS'{org_1} clinical research company acquires fla. firm .'
+p3808
+aS"its lead product candidate , cor-003 , is a cortisol inhibitor that is {time} in late-stage testing as a potential treatment of cushing 's syndrome ."
+p3809
+aS'net income for {org_d} was {money} for the {time} fiscal year , up from a net loss of {money} in {time} .'
+p3810
+aS'it expected to raise {money} total , some of which it had planned to use to pay off {money} in long-term debt .'
+p3811
+aS"{org_d} , in a statement , said it 's laser-focused on growing and scaling the company while continuing to strengthen the leadership team so that when it comes time to evaluate a public offering , {org_1} will be ready ."
+p3812
+aS"it has also offered to sell {org_1} {number} of those shares for a total of {money} , which would increase fairholme 's stake in {org_2} from {number} to {number} percent , according to {org_3} ."
+p3813
+aS"`` the agreement with {org_1} does primarily lapse and we 'll have to renegotiate , but we 're still in talks with {org_1} , ' '' {org_3} spokeswoman manuela schwach told {org_4} ."
+p3814
+aS"it 's {money} previous valuation came when it allowed some of its employees to sell shares on the secondary market ."
+p3815
+aS"`` until then our primary focus remains , as it always will be , on making our customers successful . ''"
+p3816
+aS'that information is expected in {time} filings .'
+p3817
+aS'jensen covers logistics , trade manufacturing and defense .'
+p3818
+aS'colleen covers the innovation economy , focusing on technology , start ups , finance and health care .'
+p3819
+aS'so why the change of heart ?'
+p3820
+aS'on board , {org_1} , .'
+p3821
+aS'palo alto-based {org_1} became the biggest shareholder with a {number} percent stake in that sale .'
+p3822
+aS'{number} square feet of development .'
+p3823
+aS"`` the challenge here in the u. s. is that payers do n't pay enough for the test to make the additional investment worth it while the far east companies do , '' he told me ."
+p3824
+aS'atlassian founders mike cannon-brookes and scott farquhar founded {org_d} partly on {money} in credit card debt .'
+p3825
+aS'{org_1} was founded in sydney , australia , and is legally headquartered in london but many of its top officers are based in san francisco , making it a true international hybrid .'
+p3826
+aS"chief executive colin angle {time} had worked at the {org_1} 's jet propulsion laboratory , where he helped design the mars rovers ."
+p3827
+aS'the organization announced in {time} its intent to file an ipo .'
+p3828
+aS'its lead new drug candidate , lefamulin , is in late stage testing as a potential treatment for community-acquired bacterial pneumonia .'
+p3829
+aS'{org_1} plans to use {money} from the ipo for new facilities , equipment , clinical trials , research , and general corporate purposes .'
+p3830
+aS'the managing underwriters of the offering are {org_1} , acting as the sole book-running manager , {org_2} and {org_3} .'
+p3831
+aS'{org_1} covers biotech and sports business .'
+p3832
+aS'{org_d} is backed by a private equity firm , {org_1} , which was likely pushing going public to get a return on its investment .'
+p3833
+aS"subscribe to {org_1} 's free {time} email newsletter ."
+p3834
+aS'{org_d} then delayed its offering and finally withdrew its ipo on {time} .'
+p3835
+aS'in total , hatteras owns {number} percent of clearside .'
+p3836
+aS'jack dorsey gives half his {org_1} equity to his foundation .'
+p3837
+aS"{org_1} reported {org_2} ' ipo intentions in {time} ."
+p3838
+aS"our exciting journey continues ... '' ."
+p3839
+aS'dutkowsky {time} led {org_1} , a software company in denver that was acquired by california-based {org_2} .'
+p3840
+aS"theresia gouw , a board member whose {org_1} is a {org_2} investor , told {org_3} raising this round was n't easy because investors are pulling back on late-stage funding ."
+p3841
+aS'but a strong debut on wall street would {time} on an up note for the tech world , which has seen a string of companies pricing below their last private valuation levels and shown generally weak post-ipo returns in {time} .'
+p3842
+aS'stocks of cyber security companies have been on a tear , as well .'
+p3843
+aS'dan norton covers technology and education for the {org_1} .'
+p3844
+aS'{org_1} is also facing additional competitive pressure , with illinois-based drug giant {org_2} {time} launching patient trials of its zomaxx stents .'
+p3845
+aS'{org_d} was founded {time} to enable the rapid adoption of renewable energy worldwide .'
+p3846
+aS"a company statement to {time} said that , `` even if we are successful in developing and gaining regulatory approval -lrb- for our lead product -rrb- , we do not expect to obtain approval before {time} . ''"
+p3847
+aS'{org_1} is {time} conducting a phase i clinical trial of {org_2} in the united kingdom .'
+p3848
+aS'the {org_1} , scooba and packbot are going to find their way onto the {stock_institution} .'
+p3849
+aS'allegiance does not have branches in sugar land , the woodlands or on the east side of houston , retzloff said .'
+p3850
+aS'{org_1} had {money} in liquidity on {time} , {org_d} said in order to grow , it will focus on product development to create new features ; become more mobile ; continue the optimization of pricing and bundle packages ; maintain portfolio growth and make operations more efficient by consolidating functions across brands. , {org_d} said its risk factors include financial risks in connection with its acquisitions , the operational challenges associated with working across international markets and the security of its confidential user information , which could be impacted by cyber attacks .'
+p3851
+aS'{org_1} had {money} in cash and cash equivalents as of {time} , which is {money} less than it had on hand {time} .'
+p3852
+aS"cushing 's syndrome is a rare , but serious , metabolic disorder caused by the overproduction of corticosteroid hormones ."
+p3853
+aS'that would raise about {money} , some {money} less than earlier expected , {org_1} reports .'
+p3854
+aS"secureworks ' former ceo mike cote is considered a trusted confidant of {org_1} founder and ceo michael del l. for {org_1} , a {org_3} spinoff would be a play on a frothy stock market and white-hot demand for cybersecurity software and services , following a spate of data breaches at fortune {number} corporations , such as {org_4} -lrb- {stock_institution} : {ticker} -rrb- , target -lrb- {stock_institution} : {ticker} -rrb- , {org_5} -lrb- {stock_institution} : {ticker} -rrb- and {org_6} -lrb- {stock_institution} : {ticker} -rrb- ."
+p3855
+aS'founded in {time} , coley has raised around {money} in venture capital .'
+p3856
+aS'beaudoin was most {time} the cfo at burlington-based voice technology company {org_1} -lrb- {stock_institution} : {ticker} -rrb- .'
+p3857
+aS'wave is focused on drugs knowns as stereopure nucleic acids , saying its approach can target genetic mutations more precisely than {time} drugs based on so-called antisense technology .'
+p3858
+aS"there are many diseases , including diabetes , stroke and als , that could be addressed by therapies that {org_1} is trying to develop . ''"
+p3859
+aS'.'
+aS'{org_1} -lrb- anti-cd4 humanized monoclonal antibody -rrb- is being developed in collaboration with {org_2} .'
+p3860
+aS'a satellite services company that carries international telephone calls , {org_1} was an intergovernmental nonprofit agency from its founding in {time} until {time} .'
+p3861
+aS'when they need to sell they likely divested their yieldco holdings first as they are more of a recent niche asset class .'
+p3862
+aS'residents of colorado , connecticut , delaware , illinois , nevada , new hampshire , new jersey , new york , rhode island , virginia and wisconsin are eligible to purchase shares .'
+p3863
+aS'it has also never used a direct sales force to sell its software , which is popular with developers who use it for project management , collaboration and code quality .'
+p3864
+aS"{org_d} 's software helps pharmaceutical , biotechnology and medical device companies manage their clinical trials better ."
+p3865
+aS"depending on promune 's ability to hit certain regulatory and sales milestones , coley also stands to receive up to {money} in additional promune payments from {org_1} ."
+p3866
+aS'{org_1} reported that investments in u. s. {org_2} security companies by private equity firms has increased more than sixfold in the past three years to {money} for {number} deals , from {money} for {number} deals in {time} period .'
+p3867
+aS'{number} .'
+p3868
+aS'in {time} , {org_1} announced it had closed an {money} venture funding round , bringing its total private financing to about {money} raised over two years .'
+p3869
+aS'{org_1} and {org_2} are the underwriters .'
+p3870
+aS'{org_1} is also applying its technology to creams for eczema and other skin conditions .'
+p3871
+aS'{org_1} sold {org_2} to {org_3} in {time} for {money} .'
+p3872
+aS'{org_1} stock dropped by nearly {number} percent on {time} after it forecast profit and revenue in its {time} will be below wall street expectations .'
+p3873
+aS'{org_1} , an arlington , va.-based defense information technology contractor , has notified the {stock_institution} that it plans to price its initial public offering at {money} to {money} a share and to trade on the {stock_institution} .'
+p3874
+aS"it plans to list on the {stock_institution} exchange under the ticker , `` sndx . ''"
+p3875
+aS'according to {org_d} , the number of shares to be offered and the price range for the offering have not yet been determined .'
+p3876
+aS'{org_1} , a mclean , va.-based government services contractor that posted {money} in revenue in {time} registered with the {stock_institution} for an initial public offering .'
+p3877
+aS'a spokeswoman for {org_d} , {org_1} , further clarified that the filing was for a concurrent private placement that allowed some of its original vc investors to buy additional shares at the ipo price .'
+p3878
+aS'{org_1} is aiming to become {org_d} in the state to go public {time} with a {money} fundraise at the midpoint of its range .'
+p3879
+aS'in addition , {org_1} has granted the underwriters a 30-day option to purchase up to an additional {number} shares if the underwriters sell more than {number} shares in the offering .'
+p3880
+aS'the ipo price was {money} .'
+p3881
+aS'hogg and texas-based {org_1} i represent the largest shareholder in endostim , according to the ipo filing , both owning {number} percent of {org_d} .'
+p3882
+aS'{org_1} has filed for an ipo worth up to {money} with the {stock_institution} , the first such filing for a new england online retailer since the dot-com crash of {time} .'
+p3883
+aS'its {money} per share price was below the {money} per share {org_1} listed as its expect range for the ipo in documents {org_d} filed with the {stock_institution} in advance of the stock sale .'
+p3884
+aS'the cambridge stem-cell therapy company plans to launch its ipo during {time} , according to {org_1} .'
+p3885
+aS'{org_1} officially launched its initial public offering on {time} .'
+p3886
+aS'{org_1} roller manufacturing company {org_2} announced {time} that it has priced its initial public offering of nearly {number} shares at {money} per share to raise about {money} .'
+p3887
+aS'{org_1} ended up pricing its ipo about {number} percent lower than the {money} at the high-end of the range , but still within range .'
+p3888
+aS"{org_d} 's shares will trade on the {stock_institution} under the ticker egen ."
+p3889
+aS'cancer drug developer {org_1} , {number} of the more promising bay area biotech companies in the ipo queue , upsized its offering target by nearly {number} percent to {money} , {org_d} said {time} .'
+p3890
+aS"top {number} takeaways from {org_1} 's ipo filing ."
+p3891
+aS'{org_d} is planning to sell {number} shares priced between {money} and {money} , which would generate up to {money} , according to a document filed with the {stock_institution} {time} .'
+p3892
+aS'{org_1} of glastonbury , conn. , a provider of software and services for financial institutions , announced the pricing of its initial public offering of {number} shares of common stock at a price of {money} per share .'
+p3893
+aS"hsieh , who founded {org_1} in {time} , said on {org_d} 's blog that poor showings by other companies , such as {org_2} -lrb- {stock_institution} : {ticker} -rrb- and {org_3} -lrb- {stock_institution} : {ticker} -rrb- , that have {time} launched ipos were factors in {org_d} 's decision to drop its offering ."
+p3894
+aS'{org_1} had planned to sell about {number} shares between {money} and {money} per share after the market closed {time} .'
+p3895
+aS'neither has yet had an ipo .'
+p3896
+aS'shares offered : {number} .'
+p3897
+aS"the offering was well below {org_d} 's initial goal of raising more than {money} through its ipo , according to documents filed {time} with the {stock_institution} ."
+p3898
+aS'{org_1} plans to ipo the {org_2} business unit and that spinoff would also include other information security businesses {org_1} has acquired over the years , sources told {org_4} earlier .'
+p3899
+aS"{org_1} 's shares are quoted on the {stock_institution} under the symbol `` {ticker} '' {time} ."
+p3900
+aS'as of mid-morning {time} , the stock was trading at {money} .'
+p3901
+aS"the offering was slightly below {org_d} 's earlier projected offering price of {money} per share ."
+p3902
+aS"while it 's no {org_1} -- the chinese online retailer that raised a record {money} in its ipo {time} -- calithera 's ipo boost is indicative of wall street 's appetite for solid life sciences offerings overseen by proven executives , as opposed to companies desperately seeking capital ."
+p3903
+aS"{org_1} 's shares have traded more or less flat since its {time} ipo at a price of {money} each , while {org_2} 's shares have more than doubled since its {time} ipo to {money} {time} as of {time} cambridge-based {org_3} was {org_4} 's biggest investor before {time} 's ipo , holding {number} percent of the shares in {org_d} ."
+p3904
+aS'{org_1} payments company {org_2} lowered its ipo target by {number} percent to {money} a share , although its stock jumped {number} percent above the ipo prices when it debuted {time} .'
+p3905
+aS'and it saw even bigger gains {time} , trading up {number} percent to {money} as of {time} together , the {number} ipos could give renewed confidence to biotech investors , who have seen the value of the biotech stocks in general {time} by about a third since {time} .'
+p3906
+aS'{org_d} , which is based in dublin and has its u. s. headquarters in trevose , pa. , sold {number} shares of stock at {money} per share .'
+p3907
+aS'{org_1} , the largest u. s. provider of tax-efficient mutual funds , said it raised {money} in the initial public offering of a new floating-rate income closed-end fund , {org_2} reported .'
+p3908
+aS"following its ipo {time} , which offered {number} shares at the higher-than-expected price of {money} a share , {org_d} began trading under the {stock_institution} ticker `` kyak '' on {time} ."
+p3909
+aa.
