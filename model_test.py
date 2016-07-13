@@ -1,4 +1,5 @@
 from basic_rnn import BasicRNN
+from gru_rnn import GruRNN
 import cPickle
 import theano as theano
 import numpy as np
@@ -22,15 +23,16 @@ test_X, test_y = data[4], data[5]
 test_X = [np.matrix(W2V[sen_idx]) for sen_idx in test_X]
 
 # Load model and use model to predict label for test data
-rnn = BasicRNN(in_dim=in_dim, out_dim=out_dim, hidden_dim=hidden_dim, bptt_truncate=4)
-rnn.load_model_parameters('./data/rnn-w2v-128-300-2016-06-24-13-05-39.pkl')
-rnn.build_model()
-predict_y = rnn.get_prediction(test_X)
+# rnn = BasicRNN(in_dim=in_dim, out_dim=out_dim, hidden_dim=hidden_dim, bptt_truncate=4)
+rnn = GruRNN(in_dim=in_dim, hidden_dim=hidden_dim, out_dim=out_dim)
+rnn.load_model_parameters('./data/rnn-w2v-128-300-2016-07-12-23-39-09.pkl')
+rnn.build_minibatch(batch_size=50)
+predict_y = rnn.get_prediction(test_X, minibatch=True)
 
 # Generate Evaluation Matrix
 test_y_ = [y for l in test_y for y in l]
-predict_y_ = [y for x in predict_y for y in x.tolist()]
-eval_matrix = confusion_matrix(test_y, predict_y)
+predict_y_ = [y for x in predict_y for y in x.tolist()][:len(test_y)]
+eval_matrix = confusion_matrix(test_y_, predict_y_)
 
 # Pretty print the evaluation matrix
 labels = ['N/A', 'Upcoming', 'Priced']

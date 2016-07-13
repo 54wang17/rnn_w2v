@@ -23,7 +23,7 @@ def load_model_parameters_theano(path, model):
 def idx2onehot(idx, classifier_num):
     one_hot_matrix = np.zeros(classifier_num)
     one_hot_matrix[idx-1] = 1.0
-    one_hot_matrix = np.reshape(one_hot_matrix, (1, classifier_num))
+    # one_hot_matrix = np.reshape(one_hot_matrix, (1, classifier_num))
     return one_hot_matrix
 
 
@@ -69,8 +69,8 @@ def gradient_check_theano(model, x, y, h=0.001, error_threshold=0.01):
                 print "Gradient Check ERROR: parameter=%s" % (pname)
                 print "+h Loss: %f" % gradplus
                 print "-h Loss: %f" % gradminus
-                print "Estimated_gradient: %f" % estimated_gradient
-                print "Backpropagation gradient: %f" % backprop_gradient
+                print "Estimated_gradient: ",  estimated_gradient
+                print "Backpropagation gradient:", backprop_gradient
                 print "Relative Error: %f" % relative_error
                 return
             print "Gradient check for parameter %s passed." % (pname)

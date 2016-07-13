@@ -7,3 +7,4 @@ theanoRnn/
 *.pyc
 data/*.bin
 test_files/
+*.numbers

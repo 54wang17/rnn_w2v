@@ -96,13 +96,13 @@ class BasicRNN(object):
                 num_examples_seen += 1
             # Optionally evaluate the loss
             if epoch % evaluate_loss_after == 0:
+                time = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
                 if isValidation:
                     loss = self.calculate_loss(X_valid, y_valid)
-                else:
-                    loss = self.calculate_loss(X_train, y_train)
+                    print "%s: Validation Loss after num_examples_seen=%d epoch=%d: %f" % (time, num_examples_seen, epoch, loss)
                 losses.append((num_examples_seen, loss))
-                time = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
-                print "%s: Loss after num_examples_seen=%d epoch=%d: %f" % (time, num_examples_seen, epoch, loss)
+                loss = self.calculate_loss(X_train, y_train)
+                print "%s: Training Loss after num_examples_seen=%d epoch=%d: %f" % (time, num_examples_seen, epoch, loss)
                 # Adjust the learning rate if loss increases
                 if len(losses) > 1 and losses[-1][1] > losses[-2][1]:
                     learning_rate *= 0.5

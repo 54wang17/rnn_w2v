@@ -32,13 +32,17 @@ File:
         - change parameters update approach to momentum 
         - add L1 and L2 regulation to cost function
         - add bias on layer function
-- rnn_embd.py
+- basicRNN_w2v.py
     - an example of training basic rnn model and save training model under ./data directory
 - model_test.py 
     - an example of loading pretrained rnn model and test model with test data from ./data directory
     - generate evaluation matrix for performance evaluation
-- gru_rnn.py and other *.py files
-    - still under development 
+- gru_rnn.py
+    - GRU model
+    - support mini batch training. 
+        - things to notice, when loading data with mini batch, take care of last batch size, it may smaller than the assigned batch size.
+- gruRNN_w2v.py
+    - an example of training gru rnn model with/without minibatch 
 
 
 

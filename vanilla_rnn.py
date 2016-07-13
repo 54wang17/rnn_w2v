@@ -44,7 +44,6 @@ class VanillaRNN(BasicRNN):
         self.L2_sqr += T.sum(self.W ** 2)
         self.L2_sqr += T.sum(self.U ** 2)
 
-
     def build_model(self):
         ######################
         # BUILD ACTUAL MODEL #

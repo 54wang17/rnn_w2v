@@ -1,9 +1,9 @@
-from basic_rnn import BasicRNN
+from gru_rnn import GruRNN
 import os
 import cPickle
 import numpy as np
 import theano
-from utils import idx2onehot, gradient_check_theano
+from utils import idx2onehot
 from datetime import datetime
 
 _WORD_EMBEDDING_SIZE = int(os.environ.get('Word_2_Vec_DIM', '300'))
@@ -30,14 +30,10 @@ valid_y = [idx2onehot(label, out_dim) for l in valid_Y for label in l]
 
 
 # Initialize and build model
-model = BasicRNN(in_dim=in_dim, out_dim=out_dim, hidden_dim=hidden_dim, bptt_truncate=4)
-model.build_model()
+model = GruRNN(in_dim=in_dim, out_dim=out_dim, hidden_dim=hidden_dim)
 
-# Test SDG
-t1 = datetime.now()
-model.f_update(train_x[10], train_y[10], _LEARNING_RATE)
-t2 = datetime.now()
-print "SGD Step time: %i milliseconds" % ((t2 - t1).microseconds / 1000)
+# Begin training model with mini batch
+model.train_with_mini_batch(train_x, train_y, valid_x, valid_y, learning_rate=_LEARNING_RATE, nepoch=_NEPOCH)
 
-# Begin training model
-model.train_with_sgd(train_x, train_y, valid_x, valid_y, learning_rate=_LEARNING_RATE, nepoch=_NEPOCH)
+# If do not want mini batch, use train with sdg instead
+model.train_with_sdg(train_x, train_y, valid_x, valid_y, learning_rate=_LEARNING_RATE, nepoch=_NEPOCH)
